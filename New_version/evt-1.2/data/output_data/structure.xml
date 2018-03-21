@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <msDesc active="1"/>
+   <headerInfo active="1"/>
+   <liste>
+      <listPerson active="1" lang="def">LIST_PERSON</listPerson>
+      <listPlace active="1" lang="def">LIST_PLACE</listPlace>
+      <listOrg active="1" lang="def">LIST_ORG</listOrg>
+   </liste>
+   <editions>
+      <edition>Diplomatic</edition>
+   </editions>
+   <textpage>
+      <text n="p25_1" label="Sermo 1 (3r–5v)">
+         <pb n="3r">P25_fol_3r</pb>
+         <pb n="3v">P25_fol_3v</pb>
+         <pb n="4r">P25_fol_4r</pb>
+         <pb n="4v">P25_fol_4v</pb>
+         <pb n="5r">P25_fol_5r</pb>
+         <pb n="5v">P25_fol_5v</pb>
+      </text>
+      <text n="p25_2" label="Sermo 2 (5v–7v)">
+         <pb n="5v">P25_fol_5v</pb>
+         <pb n="6r">P25_fol_6r</pb>
+         <pb n="6v">P25_fol_6v</pb>
+         <pb n="7r">P25_fol_7r</pb>
+         <pb n="7v">P25_fol_7v</pb>
+      </text>
+      <text n="p25_3" label="Sermon 3 (7v–9r)">
+         <pb n="7v">P25_fol_7v</pb>
+         <pb n="8r">P25_fol_8r</pb>
+         <pb n="8v">P25_fol_8v</pb>
+         <pb n="9r">P25_fol_9r</pb>
+      </text>
+      <text n="p25_4" label="Sermo 4 (9r–10v)">
+         <pb n="9r">P25_fol_9r</pb>
+         <pb n="9v">P25_fol_9v</pb>
+         <pb n="10r">P25_fol_10r</pb>
+         <pb n="10v">P25_fol_10v</pb>
+      </text>
+      <text n="p25_5" label="Sermon 5 (10v–11v)">
+         <pb n="10v">P25_fol_10v</pb>
+         <pb n="11r">P25_fol_11r</pb>
+         <pb n="11v">P25_fol_11v</pb>
+      </text>
+      <text n="p25_6" label="Sermo 6 (11v–13v)">
+         <pb n="11v">P25_fol_11v</pb>
+         <pb n="12r">P25_fol_12r</pb>
+         <pb n="12v">P25_fol_12v</pb>
+         <pb n="13r">P25_fol_13r</pb>
+         <pb n="13v">P25_fol_13v</pb>
+      </text>
+      <text n="p25_7" label="Sermo 7 (13v–15r)">
+         <pb n="13v">P25_fol_13v</pb>
+         <pb n="14r">P25_fol_14r</pb>
+         <pb n="14v">P25_fol_14v</pb>
+         <pb n="15r">P25_fol_15r</pb>
+      </text>
+      <text n="p25_8" label="Sermo 8 (15r–16v)">
+         <pb n="15r">P25_fol_15r</pb>
+         <pb n="15v">P25_fol_15v</pb>
+         <pb n="16r">P25_fol_16r</pb>
+         <pb n="16v">P25_fol_16v</pb>
+      </text>
+      <text n="p25_9" label="Sermo 9 (16v–18r)">
+         <pb n="16v">P25_fol_16v</pb>
+         <pb n="17r">P25_fol_17r</pb>
+         <pb n="17v">P25_fol_17v</pb>
+         <pb n="18r">P25_fol_18r</pb>
+      </text>
+      <text n="p25_10" label="Sermo 10 (18r–19v)">
+         <pb n="18r">P25_fol_18r</pb>
+         <pb n="18v">P25_fol_18v</pb>
+         <pb n="19r">P25_fol_19r</pb>
+         <pb n="19v">P25_fol_19v</pb>
+      </text>
+      <text n="p25_11" label="Sermo 11 (19v–21r)">
+         <pb n="19v">P25_fol_19v</pb>
+         <pb n="20r">P25_fol_20r</pb>
+         <pb n="20v">P25_fol_20v</pb>
+         <pb n="21r">P25_fol_21r</pb>
+      </text>
+      <text n="p25_12" label="Sermo 12 (21r–23r)">
+         <pb n="21r">P25_fol_21r</pb>
+         <pb n="21v">P25_fol_21v</pb>
+         <pb n="22r">P25_fol_22r</pb>
+         <pb n="22v">P25_fol_22v</pb>
+         <pb n="23r">P25_fol_23r</pb>
+      </text>
+      <text n="p25_13" label="Sermo 13 (23r–24v)">
+         <pb n="23r">P25_fol_23r</pb>
+         <pb n="23v">P25_fol_23v</pb>
+         <pb n="24r">P25_fol_24r</pb>
+         <pb n="24v">P25_fol_24v</pb>
+      </text>
+      <text n="p25_14" label="Sermo 14 (24v–27r)">
+         <pb n="24v">P25_fol_24v</pb>
+         <pb n="25r">P25_fol_25r</pb>
+         <pb n="25v">P25_fol_25v</pb>
+         <pb n="26r">P25_fol_26r</pb>
+         <pb n="26v">P25_fol_26v</pb>
+         <pb n="27r">P25_fol_27r</pb>
+      </text>
+      <text n="p25_15" label="Sermo 15 (27r–28v)">
+         <pb n="27r">P25_fol_27r</pb>
+         <pb n="27v">P25_fol_27v</pb>
+         <pb n="28r">P25_fol_28r</pb>
+         <pb n="28v">P25_fol_28v</pb>
+      </text>
+      <text n="p25_16" label="Sermo 16 (28v–31v)">
+         <pb n="28v">P25_fol_28v</pb>
+         <pb n="29r">P25_fol_29r</pb>
+         <pb n="29v">P25_fol_29v</pb>
+         <pb n="30r">P25_fol_30r</pb>
+         <pb n="30v">P25_fol_30v</pb>
+         <pb n="31r">P25_fol_31r</pb>
+         <pb n="31v">P25_fol_31v</pb>
+      </text>
+      <text n="p25_17" label="Sermo 17 (31v–33v)">
+         <pb n="31v">P25_fol_31v</pb>
+         <pb n="32r">P25_fol_32r</pb>
+         <pb n="32v">P25_fol_32v</pb>
+         <pb n="33r">P25_fol_33r</pb>
+         <pb n="33v">P25_fol_33v</pb>
+      </text>
+      <text n="p25_18" label="Sermo 18 (33v–36r)">
+         <pb n="33v">P25_fol_33v</pb>
+         <pb n="34r">P25_fol_34r</pb>
+         <pb n="34v">P25_fol_34v</pb>
+         <pb n="35r">P25_fol_35r</pb>
+         <pb n="35v">P25_fol_35v</pb>
+         <pb n="36r">P25_fol_36r</pb>
+      </text>
+      <text n="p25_19" label="Sermo 19 (36r–38r)">
+         <pb n="36r">P25_fol_36r</pb>
+         <pb n="36v">P25_fol_36v</pb>
+         <pb n="37r">P25_fol_37r</pb>
+         <pb n="37v">P25_fol_37v</pb>
+         <pb n="38r">P25_fol_38r</pb>
+      </text>
+      <text n="p25_20" label="Sermo 20 (38r–40r)">
+         <pb n="38r">P25_fol_38r</pb>
+         <pb n="38v">P25_fol_38v</pb>
+         <pb n="39r">P25_fol_39r</pb>
+         <pb n="39v">P25_fol_39v</pb>
+         <pb n="40r">P25_fol_40r</pb>
+      </text>
+      <text n="p25_21" label="Sermo 21 (40r–42v)">
+         <pb n="40r">P25_fol_40r</pb>
+         <pb n="40v">P25_fol_40v</pb>
+         <pb n="41r">P25_fol_41r</pb>
+         <pb n="41v">P25_fol_41v</pb>
+         <pb n="42r">P25_fol_42r</pb>
+         <pb n="42v">P25_fol_42v</pb>
+      </text>
+      <text n="p25_22" label="Sermo 22 (42v–46r)">
+         <pb n="42v">P25_fol_42v</pb>
+         <pb n="43r">P25_fol_43r</pb>
+         <pb n="43v">P25_fol_43v</pb>
+         <pb n="44r">P25_fol_44r</pb>
+         <pb n="44v">P25_fol_44v</pb>
+         <pb n="45r">P25_fol_45r</pb>
+         <pb n="45v">P25_fol_45v</pb>
+         <pb n="46r">P25_fol_46r</pb>
+      </text>
+      <text n="p25_23" label="Sermo 23 (46r–48r)">
+         <pb n="46r">P25_fol_46r</pb>
+         <pb n="46v">P25_fol_46v</pb>
+         <pb n="47r">P25_fol_47r</pb>
+         <pb n="47v">P25_fol_47v</pb>
+         <pb n="48r">P25_fol_48r</pb>
+      </text>
+      <text n="p25_24" label="Sermo 24 (48r–50v)">
+         <pb n="48r">P25_fol_48r</pb>
+         <pb n="48v">P25_fol_48v</pb>
+         <pb n="49r">P25_fol_49r</pb>
+         <pb n="49v">P25_fol_49v</pb>
+         <pb n="50r">P25_fol_50r</pb>
+         <pb n="50v">P25_fol_50v</pb>
+      </text>
+      <text n="p25_25" label="Sermo 25 (50v–52v)">
+         <pb n="50v">P25_fol_50v</pb>
+         <pb n="51r">P25_fol_51r</pb>
+         <pb n="51v">P25_fol_51v</pb>
+         <pb n="52r">P25_fol_52r</pb>
+         <pb n="52v">P25_fol_52v</pb>
+      </text>
+      <text n="p25_26" label="Sermo 26 (52v–56r)">
+         <pb n="52v">P25_fol_52v</pb>
+         <pb n="53r">P25_fol_53r</pb>
+         <pb n="53v">P25_fol_53v</pb>
+         <pb n="54r">P25_fol_54r</pb>
+         <pb n="54v">P25_fol_54v</pb>
+         <pb n="55r">P25_fol_55r</pb>
+         <pb n="55v">P25_fol_55v</pb>
+         <pb n="56r">P25_fol_56r</pb>
+      </text>
+      <text n="p25_27" label="Sermo 27 (56r–58r)">
+         <pb n="56r">P25_fol_56r</pb>
+         <pb n="56v">P25_fol_56v</pb>
+         <pb n="57r">P25_fol_57r</pb>
+         <pb n="57v">P25_fol_57v</pb>
+         <pb n="58r">P25_fol_58r</pb>
+      </text>
+      <text n="p25_28" label="Sermo 28 (58r–63r)">
+         <pb n="58r">P25_fol_58r</pb>
+         <pb n="58v">P25_fol_58v</pb>
+         <pb n="59r">P25_fol_59r</pb>
+         <pb n="59v">P25_fol_59v</pb>
+         <pb n="60r">P25_fol_60r</pb>
+         <pb n="60v">P25_fol_60v</pb>
+         <pb n="61r">P25_fol_61r</pb>
+         <pb n="61v">P25_fol_61v</pb>
+         <pb n="62r">P25_fol_62r</pb>
+         <pb n="62v">P25_fol_62v</pb>
+         <pb n="63r">P25_fol_63r</pb>
+      </text>
+      <text n="p25_29" label="Sermo 29 (63r–65v)">
+         <pb n="63r">P25_fol_63r</pb>
+         <pb n="63v">P25_fol_63v</pb>
+         <pb n="64r">P25_fol_64r</pb>
+         <pb n="64v">P25_fol_64v</pb>
+         <pb n="65r">P25_fol_65r</pb>
+         <pb n="65v">P25_fol_65v</pb>
+      </text>
+      <text n="p25_30" label="Sermo 30 (65v–73r)">
+         <pb n="65v">P25_fol_65v</pb>
+         <pb n="66r">P25_fol_66r</pb>
+         <pb n="66v">P25_fol_66v</pb>
+         <pb n="67r">P25_fol_67r</pb>
+         <pb n="67v">P25_fol_67v</pb>
+         <pb n="68r">P25_fol_68r</pb>
+         <pb n="68v">P25_fol_68v</pb>
+         <pb n="69r">P25_fol_69r</pb>
+         <pb n="69v">P25_fol_69v</pb>
+         <pb n="70r">P25_fol_70r</pb>
+         <pb n="70v">P25_fol_70v</pb>
+         <pb n="71r">P25_fol_71r</pb>
+         <pb n="71v">P25_fol_71v</pb>
+         <pb n="72r">P25_fol_72r</pb>
+         <pb n="72v">P25_fol_72v</pb>
+         <pb n="73r">P25_fol_73r</pb>
+      </text>
+      <text n="p25_31" label="Sermo 31 (73r–75r)">
+         <pb n="73r">P25_fol_73r</pb>
+         <pb n="73v">P25_fol_73v</pb>
+         <pb n="74r">P25_fol_74r</pb>
+         <pb n="74v">P25_fol_74v</pb>
+         <pb n="75r">P25_fol_75r</pb>
+      </text>
+   </textpage>
+   <pages>
+      <pair>
+         <pb n="3r">P25_fol_3r</pb>
+      </pair>
+      <pair>
+         <pb n="3v">P25_fol_3v</pb>
+         <pb n="4r">P25_fol_4r</pb>
+      </pair>
+      <pair>
+         <pb n="4v">P25_fol_4v</pb>
+         <pb n="5r">P25_fol_5r</pb>
+      </pair>
+      <pair>
+         <pb n="5v">P25_fol_5v</pb>
+         <pb n="6r">P25_fol_6r</pb>
+      </pair>
+      <pair>
+         <pb n="6v">P25_fol_6v</pb>
+         <pb n="7r">P25_fol_7r</pb>
+      </pair>
+      <pair>
+         <pb n="7v">P25_fol_7v</pb>
+         <pb n="8r">P25_fol_8r</pb>
+      </pair>
+      <pair>
+         <pb n="8v">P25_fol_8v</pb>
+         <pb n="9r">P25_fol_9r</pb>
+      </pair>
+      <pair>
+         <pb n="9v">P25_fol_9v</pb>
+         <pb n="10r">P25_fol_10r</pb>
+      </pair>
+      <pair>
+         <pb n="10v">P25_fol_10v</pb>
+         <pb n="11r">P25_fol_11r</pb>
+      </pair>
+      <pair>
+         <pb n="11v">P25_fol_11v</pb>
+         <pb n="12r">P25_fol_12r</pb>
+      </pair>
+      <pair>
+         <pb n="12v">P25_fol_12v</pb>
+         <pb n="13r">P25_fol_13r</pb>
+      </pair>
+      <pair>
+         <pb n="13v">P25_fol_13v</pb>
+         <pb n="14r">P25_fol_14r</pb>
+      </pair>
+      <pair>
+         <pb n="14v">P25_fol_14v</pb>
+         <pb n="15r">P25_fol_15r</pb>
+      </pair>
+      <pair>
+         <pb n="15v">P25_fol_15v</pb>
+         <pb n="16r">P25_fol_16r</pb>
+      </pair>
+      <pair>
+         <pb n="16v">P25_fol_16v</pb>
+         <pb n="17r">P25_fol_17r</pb>
+      </pair>
+      <pair>
+         <pb n="17v">P25_fol_17v</pb>
+         <pb n="18r">P25_fol_18r</pb>
+      </pair>
+      <pair>
+         <pb n="18v">P25_fol_18v</pb>
+         <pb n="19r">P25_fol_19r</pb>
+      </pair>
+      <pair>
+         <pb n="19v">P25_fol_19v</pb>
+         <pb n="20r">P25_fol_20r</pb>
+      </pair>
+      <pair>
+         <pb n="20v">P25_fol_20v</pb>
+         <pb n="21r">P25_fol_21r</pb>
+      </pair>
+      <pair>
+         <pb n="21v">P25_fol_21v</pb>
+         <pb n="22r">P25_fol_22r</pb>
+      </pair>
+      <pair>
+         <pb n="22v">P25_fol_22v</pb>
+         <pb n="23r">P25_fol_23r</pb>
+      </pair>
+      <pair>
+         <pb n="23v">P25_fol_23v</pb>
+         <pb n="24r">P25_fol_24r</pb>
+      </pair>
+      <pair>
+         <pb n="24v">P25_fol_24v</pb>
+         <pb n="25r">P25_fol_25r</pb>
+      </pair>
+      <pair>
+         <pb n="25v">P25_fol_25v</pb>
+         <pb n="26r">P25_fol_26r</pb>
+      </pair>
+      <pair>
+         <pb n="26v">P25_fol_26v</pb>
+         <pb n="27r">P25_fol_27r</pb>
+      </pair>
+      <pair>
+         <pb n="27v">P25_fol_27v</pb>
+         <pb n="28r">P25_fol_28r</pb>
+      </pair>
+      <pair>
+         <pb n="28v">P25_fol_28v</pb>
+         <pb n="29r">P25_fol_29r</pb>
+      </pair>
+      <pair>
+         <pb n="29v">P25_fol_29v</pb>
+         <pb n="30r">P25_fol_30r</pb>
+      </pair>
+      <pair>
+         <pb n="30v">P25_fol_30v</pb>
+         <pb n="31r">P25_fol_31r</pb>
+      </pair>
+      <pair>
+         <pb n="31v">P25_fol_31v</pb>
+         <pb n="32r">P25_fol_32r</pb>
+      </pair>
+      <pair>
+         <pb n="32v">P25_fol_32v</pb>
+         <pb n="33r">P25_fol_33r</pb>
+      </pair>
+      <pair>
+         <pb n="33v">P25_fol_33v</pb>
+         <pb n="34r">P25_fol_34r</pb>
+      </pair>
+      <pair>
+         <pb n="34v">P25_fol_34v</pb>
+         <pb n="35r">P25_fol_35r</pb>
+      </pair>
+      <pair>
+         <pb n="35v">P25_fol_35v</pb>
+         <pb n="36r">P25_fol_36r</pb>
+      </pair>
+      <pair>
+         <pb n="36v">P25_fol_36v</pb>
+         <pb n="37r">P25_fol_37r</pb>
+      </pair>
+      <pair>
+         <pb n="37v">P25_fol_37v</pb>
+         <pb n="38r">P25_fol_38r</pb>
+      </pair>
+      <pair>
+         <pb n="38v">P25_fol_38v</pb>
+         <pb n="39r">P25_fol_39r</pb>
+      </pair>
+      <pair>
+         <pb n="39v">P25_fol_39v</pb>
+         <pb n="40r">P25_fol_40r</pb>
+      </pair>
+      <pair>
+         <pb n="40v">P25_fol_40v</pb>
+         <pb n="41r">P25_fol_41r</pb>
+      </pair>
+      <pair>
+         <pb n="41v">P25_fol_41v</pb>
+         <pb n="42r">P25_fol_42r</pb>
+      </pair>
+      <pair>
+         <pb n="42v">P25_fol_42v</pb>
+         <pb n="43r">P25_fol_43r</pb>
+      </pair>
+      <pair>
+         <pb n="43v">P25_fol_43v</pb>
+         <pb n="44r">P25_fol_44r</pb>
+      </pair>
+      <pair>
+         <pb n="44v">P25_fol_44v</pb>
+         <pb n="45r">P25_fol_45r</pb>
+      </pair>
+      <pair>
+         <pb n="45v">P25_fol_45v</pb>
+         <pb n="46r">P25_fol_46r</pb>
+      </pair>
+      <pair>
+         <pb n="46v">P25_fol_46v</pb>
+         <pb n="47r">P25_fol_47r</pb>
+      </pair>
+      <pair>
+         <pb n="47v">P25_fol_47v</pb>
+         <pb n="48r">P25_fol_48r</pb>
+      </pair>
+      <pair>
+         <pb n="48v">P25_fol_48v</pb>
+         <pb n="49r">P25_fol_49r</pb>
+      </pair>
+      <pair>
+         <pb n="49v">P25_fol_49v</pb>
+         <pb n="50r">P25_fol_50r</pb>
+      </pair>
+      <pair>
+         <pb n="50v">P25_fol_50v</pb>
+         <pb n="51r">P25_fol_51r</pb>
+      </pair>
+      <pair>
+         <pb n="51v">P25_fol_51v</pb>
+         <pb n="52r">P25_fol_52r</pb>
+      </pair>
+      <pair>
+         <pb n="52v">P25_fol_52v</pb>
+         <pb n="53r">P25_fol_53r</pb>
+      </pair>
+      <pair>
+         <pb n="53v">P25_fol_53v</pb>
+         <pb n="54r">P25_fol_54r</pb>
+      </pair>
+      <pair>
+         <pb n="54v">P25_fol_54v</pb>
+         <pb n="55r">P25_fol_55r</pb>
+      </pair>
+      <pair>
+         <pb n="55v">P25_fol_55v</pb>
+         <pb n="56r">P25_fol_56r</pb>
+      </pair>
+      <pair>
+         <pb n="56v">P25_fol_56v</pb>
+         <pb n="57r">P25_fol_57r</pb>
+      </pair>
+      <pair>
+         <pb n="57v">P25_fol_57v</pb>
+         <pb n="58r">P25_fol_58r</pb>
+      </pair>
+      <pair>
+         <pb n="58v">P25_fol_58v</pb>
+         <pb n="59r">P25_fol_59r</pb>
+      </pair>
+      <pair>
+         <pb n="59v">P25_fol_59v</pb>
+         <pb n="60r">P25_fol_60r</pb>
+      </pair>
+      <pair>
+         <pb n="60v">P25_fol_60v</pb>
+         <pb n="61r">P25_fol_61r</pb>
+      </pair>
+      <pair>
+         <pb n="61v">P25_fol_61v</pb>
+         <pb n="62r">P25_fol_62r</pb>
+      </pair>
+      <pair>
+         <pb n="62v">P25_fol_62v</pb>
+         <pb n="63r">P25_fol_63r</pb>
+      </pair>
+      <pair>
+         <pb n="63v">P25_fol_63v</pb>
+         <pb n="64r">P25_fol_64r</pb>
+      </pair>
+      <pair>
+         <pb n="64v">P25_fol_64v</pb>
+         <pb n="65r">P25_fol_65r</pb>
+      </pair>
+      <pair>
+         <pb n="65v">P25_fol_65v</pb>
+         <pb n="66r">P25_fol_66r</pb>
+      </pair>
+      <pair>
+         <pb n="66v">P25_fol_66v</pb>
+         <pb n="67r">P25_fol_67r</pb>
+      </pair>
+      <pair>
+         <pb n="67v">P25_fol_67v</pb>
+         <pb n="68r">P25_fol_68r</pb>
+      </pair>
+      <pair>
+         <pb n="68v">P25_fol_68v</pb>
+         <pb n="69r">P25_fol_69r</pb>
+      </pair>
+      <pair>
+         <pb n="69v">P25_fol_69v</pb>
+         <pb n="70r">P25_fol_70r</pb>
+      </pair>
+      <pair>
+         <pb n="70v">P25_fol_70v</pb>
+         <pb n="71r">P25_fol_71r</pb>
+      </pair>
+      <pair>
+         <pb n="71v">P25_fol_71v</pb>
+         <pb n="72r">P25_fol_72r</pb>
+      </pair>
+      <pair>
+         <pb n="72v">P25_fol_72v</pb>
+         <pb n="73r">P25_fol_73r</pb>
+      </pair>
+      <pair>
+         <pb n="73v">P25_fol_73v</pb>
+         <pb n="74r">P25_fol_74r</pb>
+      </pair>
+      <pair>
+         <pb n="74v">P25_fol_74v</pb>
+         <pb n="75r">P25_fol_75r</pb>
+      </pair>
+   </pages>
+</xml>
