@@ -1,0 +1,1030 @@
+<?xml version='1.0' encoding='UTF-8'?>
+  <facsimile>
+
+    <surface>
+        <graphic url="P25_fol_3r.jpg" n="3r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_3v.jpg" n="3v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_4r.jpg" n="4r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_4v.jpg" n="4v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_5r.jpg" n="5r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_5v.jpg" n="5v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_6r.jpg" n="6r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_6v.jpg" n="6v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_7r.jpg" n="7r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_7v.jpg" n="7v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_8r.jpg" n="8r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_8v.jpg" n="8v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_9r.jpg" n="9r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_9v.jpg" n="9v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_10r.jpg" n="10r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_10v.jpg" n="10v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_11r.jpg" n="11r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_11v.jpg" n="11v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_12r.jpg" n="12r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_12v.jpg" n="12v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_13r.jpg" n="13r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_13v.jpg" n="13v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_14r.jpg" n="14r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_14v.jpg" n="14v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_15r.jpg" n="15r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_15v.jpg" n="15v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_16r.jpg" n="16r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_16v.jpg" n="16v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_17r.jpg" n="17r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_17v.jpg" n="17v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_18r.jpg" n="18r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_18v.jpg" n="18v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_19r.jpg" n="19r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_19v.jpg" n="19v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_20r.jpg" n="20r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_20v.jpg" n="20v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_21r.jpg" n="21r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_21v.jpg" n="21v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_22r.jpg" n="22r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_22v.jpg" n="22v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_23r.jpg" n="23r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_23v.jpg" n="23v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_24r.jpg" n="24r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_24v.jpg" n="24v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_25r.jpg" n="25r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_25v.jpg" n="25v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_26r.jpg" n="26r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_26v.jpg" n="26v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_27r.jpg" n="27r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_27v.jpg" n="27v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_28r.jpg" n="28r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_28v.jpg" n="28v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_29r.jpg" n="29r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_30r.jpg" n="30r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_30v.jpg" n="30v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_31r.jpg" n="31r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_31v.jpg" n="31v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_32r.jpg" n="32r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_32v.jpg" n="32v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_33r.jpg" n="33r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_33v.jpg" n="33v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_34r.jpg" n="34r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_34v.jpg" n="34v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_35r.jpg" n="35r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_35v.jpg" n="35v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_36r.jpg" n="36r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_36v.jpg" n="36v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_37r.jpg" n="37r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_37v.jpg" n="37v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_38r.jpg" n="38r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_38v.jpg" n="38v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_39r.jpg" n="39r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_39v.jpg" n="39v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_40r.jpg" n="40r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_40v.jpg" n="40v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_41r.jpg" n="41r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_41v.jpg" n="41v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_42r.jpg" n="42r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_42v.jpg" n="42v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_43r.jpg" n="43r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_43v.jpg" n="43v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_44r.jpg" n="44r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_44v.jpg" n="44v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_45r.jpg" n="45r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_45v.jpg" n="45v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_46r.jpg" n="46r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_46v.jpg" n="46v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_47r.jpg" n="47r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_47v.jpg" n="47v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_48r.jpg" n="48r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_48v.jpg" n="48v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_49r.jpg" n="49r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_49v.jpg" n="49v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_50r.jpg" n="50r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_50v.jpg" n="50v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_51r.jpg" n="51r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_51v.jpg" n="51v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_52r.jpg" n="52r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_52v.jpg" n="52v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_53r.jpg" n="53r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_53v.jpg" n="53v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_54r.jpg" n="54r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_54v.jpg" n="54v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_55r.jpg" n="55r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_55v.jpg" n="55v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_56r.jpg" n="56r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_56v.jpg" n="56v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_57r.jpg" n="57r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_57v.jpg" n="57v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_58r.jpg" n="58r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_58v.jpg" n="58v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_59r.jpg" n="59r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_59v.jpg" n="59v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_60r.jpg" n="60r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_60v.jpg" n="60v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_61r.jpg" n="61r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_61v.jpg" n="61v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_62r.jpg" n="62r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_62v.jpg" n="62v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_63r.jpg" n="63r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_63v.jpg" n="63v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_64r.jpg" n="64r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_64v.jpg" n="64v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_65r.jpg" n="65r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_65v.jpg" n="65v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_66r.jpg" n="66r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_66v.jpg" n="66v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_67r.jpg" n="67r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_67v.jpg" n="67v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_68r.jpg" n="68r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_68v.jpg" n="68v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_69r.jpg" n="69r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_69v.jpg" n="69v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_70r.jpg" n="70r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_70v.jpg" n="70v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_71r.jpg" n="71r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_71v.jpg" n="71v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_72r.jpg" n="72r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_72v.jpg" n="72v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_73r.jpg" n="73r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_73v.jpg" n="73v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_74r.jpg" n="74r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_74v.jpg" n="74v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_75r.jpg" n="75r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_75v.jpg" n="75v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_76r.jpg" n="76r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_76v.jpg" n="76v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_77r.jpg" n="77r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_77v.jpg" n="77v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_78r.jpg" n="78r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_78v.jpg" n="78v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_79r.jpg" n="79r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_79v.jpg" n="79v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_80r.jpg" n="80r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_80v.jpg" n="80v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_81r.jpg" n="81r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_81v.jpg" n="81v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_82r.jpg" n="82r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_82v.jpg" n="82v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_83r.jpg" n="83r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_83v.jpg" n="83v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_84r.jpg" n="84r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_84v.jpg" n="84v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_85r.jpg" n="85r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_85v.jpg" n="85v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_86r.jpg" n="86r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_86v.jpg" n="86v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_87r.jpg" n="87r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_87v.jpg" n="87v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_88r.jpg" n="88r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_88v.jpg" n="88v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_89r.jpg" n="89r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_89v.jpg" n="89v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_90r.jpg" n="90r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_90v.jpg" n="90v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_91r.jpg" n="91r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_91v.jpg" n="91v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_92r.jpg" n="92r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_92v.jpg" n="92v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_93r.jpg" n="93r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_93v.jpg" n="93v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_94r.jpg" n="94r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_94v.jpg" n="94v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_95r.jpg" n="95r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_95v.jpg" n="95v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_96r.jpg" n="96r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_96v.jpg" n="96v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_97r.jpg" n="97r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_97v.jpg" n="97v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_98r.jpg" n="98r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_98v.jpg" n="98v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_99r.jpg" n="99r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_99v.jpg" n="99v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_100r.jpg" n="100r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_100v.jpg" n="100v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_101r.jpg" n="101r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_101v.jpg" n="101v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_102r.jpg" n="102r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_102v.jpg" n="102v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_103r.jpg" n="103r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_103v.jpg" n="103v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_104r.jpg" n="104r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_104v.jpg" n="104v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_105r.jpg" n="105r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_105v.jpg" n="105v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_106r.jpg" n="106r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_106v.jpg" n="106v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_107r.jpg" n="107r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_107v.jpg" n="107v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_108r.jpg" n="108r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_108v.jpg" n="108v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_109r.jpg" n="109r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_109v.jpg" n="109v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_110r.jpg" n="110r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_110v.jpg" n="110v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_111r.jpg" n="111r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_111v.jpg" n="111v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_112r.jpg" n="112r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_112v.jpg" n="112v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_113r.jpg" n="113r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_113v.jpg" n="113v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_114r.jpg" n="114r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_114v.jpg" n="114v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_115r.jpg" n="115r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_115v.jpg" n="115v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_116r.jpg" n="116r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_116v.jpg" n="116v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_117r.jpg" n="117r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_117v.jpg" n="117v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_118r.jpg" n="118r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_118v.jpg" n="118v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_119r.jpg" n="119r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_119v.jpg" n="119v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_120r.jpg" n="120r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_120v.jpg" n="120v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_121r.jpg" n="121r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_121v.jpg" n="121v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_122v.jpg" n="122v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_123r.jpg" n="123r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_123v.jpg" n="123v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_124r.jpg" n="124r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_125r.jpg" n="125r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_125v.jpg" n="125v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_126r.jpg" n="126r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_126v.jpg" n="126v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_127v.jpg" n="127v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_129r.jpg" n="129r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_129v.jpg" n="129v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_130r.jpg" n="130r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_130v.jpg" n="130v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_131r.jpg" n="131r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_131v.jpg" n="131v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_132r.jpg" n="132r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_132v.jpg" n="132v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_133r.jpg" n="133r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_133v.jpg" n="133v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_134r.jpg" n="134r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_134v.jpg" n="134v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_135r.jpg" n="135r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_135v.jpg" n="135v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_136r.jpg" n="136r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_136v.jpg" n="136v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_137r.jpg" n="137r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_137v.jpg" n="137v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_138r.jpg" n="138r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_138v.jpg" n="138v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_139r.jpg" n="139r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_139v.jpg" n="139v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_140r.jpg" n="140r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_140v.jpg" n="140v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_141r.jpg" n="141r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_141v.jpg" n="141v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_142r.jpg" n="142r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_142v.jpg" n="142v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_143r.jpg" n="143r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_143v.jpg" n="143v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_144r.jpg" n="144r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_144v.jpg" n="144v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_145r.jpg" n="145r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_145v.jpg" n="145v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_146r.jpg" n="146r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_146v.jpg" n="146v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_147r.jpg" n="147r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_147v.jpg" n="147v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_148r.jpg" n="148r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_148v.jpg" n="148v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_149r.jpg" n="149r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_149v.jpg" n="149v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_150r.jpg" n="150r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_150v.jpg" n="150v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_151r.jpg" n="151r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_151v.jpg" n="151v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_152r.jpg" n="152r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_152v.jpg" n="152v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_153r.jpg" n="153r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_153v.jpg" n="153v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_154r.jpg" n="154r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_154v.jpg" n="154v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_155r.jpg" n="155r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_155v.jpg" n="155v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_156r.jpg" n="156r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_156v.jpg" n="156v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_157r.jpg" n="157r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_157v.jpg" n="157v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_158r.jpg" n="158r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_158v.jpg" n="158v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_159r.jpg" n="159r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_159v.jpg" n="159v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_160r.jpg" n="160r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_160v.jpg" n="160v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_161r.jpg" n="161r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_161v.jpg" n="161v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_162r.jpg" n="162r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_162v.jpg" n="162v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_163r.jpg" n="163r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_163v.jpg" n="163v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_164r.jpg" n="164r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_164v.jpg" n="164v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_165r.jpg" n="165r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_165v.jpg" n="165v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_166r.jpg" n="166r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_166v.jpg" n="166v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_167r.jpg" n="167r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_167v.jpg" n="167v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_171v.jpg" n="171v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_172r.jpg" n="172r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_172v.jpg" n="172v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_173r.jpg" n="173r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_173v.jpg" n="173v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_174r.jpg" n="174r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_174v.jpg" n="174v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_175r.jpg" n="175r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_175v.jpg" n="175v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_176r.jpg" n="176r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_176v.jpg" n="176v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_177r.jpg" n="177r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_177v.jpg" n="177v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_178r.jpg" n="178r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_178v.jpg" n="178v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_179r.jpg" n="179r"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_179v.jpg" n="179v"/>
+    </surface>
+    <surface>
+        <graphic url="P25_fol_180r.jpg" n="180r"/>
+    </surface>
+  </facsimile>
