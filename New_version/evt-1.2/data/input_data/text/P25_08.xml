@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 8 (15r–16v)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2015-09-26T03:18:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-23T21:30:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 8 (15r–16v)" xml:id="p25_8">
+        <body><div><p>
+            .viii. OMELIA IN NATALE 
+            <lb n="10"/>Oportet nos disputare fratres karissimi de sancto SANCTI STEPHANI.
+            <lb/>stephano primo apostolorum diacono . septem enim ab ipsis 
+            <lb/>ad diaconatus officium electi sunt . qui ministrarent eis . Iste 
+            <lb/>igitur stephanus unus ex ipsis erat . et non solum inter eos pri
+            <lb/>matum tenuit . sed etiam apostolos ipsos beata ac triumphali morte 
+            <lb/>precessit . et qui erat posterior et inferior ordine . Primus 
+            <lb/>factus est passione . et qui discipulus erat gradu . magister 
+            <lb/>coepit esse martirio . Et ideo siquid distare inter martyres 
+            <lb/>potest . Multa enim signa et prodigia faciebat ipse in populo ; 
+            <lb/>Et nemo poterat resistere sapientię et spiritui . qui de ipso 
+            <lb/>loquebatur . plenus enim erat diuina gratia et ueritate . Bene 
+            <lb/>igitur coniuncta sunt solemnia . domini et serui . Hesterna enim 
+            <lb/>die cęlebrauimus temporalem regis nostri solemnitatem . Hodie 
+            <lb/>caelebramus sancti stephani passionem . Heri rex martyrum natus 
+            <lb/>est . hodie primi ærius eorum migrauit a seculo . Oportebat 
+            <lb/>enim ut primo inmortalis . pro mortalibus . susciperet carnem . 
+            <lb/>et sic mortalis inmortali commendaret mortem . Et ideo 
+            <lb/>natus est dominus in mundo . ut moreretur pro seruo . Ne seruus 
+            <lb/>postea timeret mori pro domino . Natus est ergo christus in terris . 
+            <pb n="15v" xml:id="P25_fol_15v"/><lb n="1"/>ut stephanus nasceretur in cælis . Degressus est dominus in mun
+            <lb/>dum . ut stephanus ingrederetur in cęlum . Altus ad humi
+            <lb/>lia descendit . ut humilis ad alta ascenderet . filius dei 
+            <lb/>factus est filius hominis . ut filios hominum faceret fi
+            <lb/>lios dei . Fecit christus miracula . fecit et stephanus . sed christus 
+            <lb/>fecit sine stephano ; stephanus autem non potuit quid sine 
+            <lb/>christo . Lapidauerunt autem iudei stephanum . inuocantem 
+            <lb/>deum et dicentem . Adhesit anima mea post te . quia caro
+            <lb/>mea lapidatur pro te . Et cum hæc dixisset genua flexit 
+            <lb/>dicens . Domine iesu . ne statuas illis hoc in peccatum . Dominum 
+            <lb/>quidem iesum in hoc assecutus est . qui pro suis crucifixoribus 
+            <lb/>prius orauerat dicens . Pater agnosce illis . quia nesciunt 
+            <lb/>quid faciunt . Orauit quidem christus pro iudęis in ligno affi
+            <lb/>xus . et stephanus spiritum suum domino commendans ; orauit 
+            <lb/>pro illorum delictis . et rogauit dominum genibus fixis . amicus 
+            <lb/>pro inimicis dicens . Certe ergo seruus tuus patior . 
+            <lb/>ego lapidor . in me seuiunt . In me fremunt . sed ne repu
+            <lb/>tes illis in peccatum . quia tu prius dimisisti iudęis . exemplum 
+            <lb/>patientiæ relinquens nobis . ecce multum interest inter me 
+            <lb/>et te . Tu dominus . ego seruus . Tu uerbum . ego auditor uerbi . 
+            <lb/>Tu magister . ego discipulus . Tu creator . ego creatus . Tu deus . 
+            <lb/>ego homo . Multum interest inter peccatum . istorum 
+            <lb/>qui lapidant me ; et illorum qui crucifixerunt te . Et ideo 
+            <lb/>pro tua clementia . dimitte eis peccata et facinora sua . Con
+            <lb/>siderate ergo fratres ammirabilem sancti stephani caritatem . 
+            <lb/>quia dum lapidaretur qu<add resp="scribe" place="sup">a</add>ndo alius obliuisci poterat etiam
+            <lb/>carissimos suos . Ille domino commendabat inimicos . Imi
+            <lb/>temur ergo fratres in aliquo tanti magistri fidem . et tam 
+            <pb n="16r" xml:id="P25_fol_16r"/><lb n="1"/>preclari martyris caritatem . Diligamus hoc animo fratres nostros 
+            <lb/>in aecclesia . quo ille tunc . dilexit inimicos . sed quod peius est 
+            <lb/>non solum inimicos aliquoties non diligamus . sed nec amicis quidem 
+            <lb/>fidem integram custodimus . Sed dicit aliquis . Non possum 
+            <lb/>diligere inimicum meum . quem cotidie uelut hostem patior 
+            <lb/>crudelissimum . Ó Homo qui hoc dicis . attendis quid tibi 
+            <lb/>fecerit homo . et non consideras quid tu feceris deo . Cum 
+            <lb/>enim tu multo grauiora peccata comiseris in deo . quare 
+            <lb/>non dimittis homini parua ut tibi dignetur deus dimit
+            <lb/>tere tota ? Recole ergo quid tibi in aeuangelio ueritas 
+            <lb/>dicit . Si enim inquit dimiseritis hominibus peccata eorum .
+            <lb/>dimittet uobis pater uester caelestis peccata uestra . Si autem non 
+            <lb/>remiseritis . nec pater uester dimittet peccata uestra . Videte ergo 
+            <lb/>fratres quod cum dei gratia in nostra potestate positum est . qualiter 
+            <lb/>a iudice deo iudicemur . Ait enim . Si dimiseritis . dimittetur 
+            <lb/>uobis . Nemo se igitur seducat . quia quicumque in hoc mundo 
+            <lb/>etiam unum hominem odio habuerit . quicquid in bonis operibus 
+            <lb/>obtulerit . totum perdere non dubitet . quia scriptum est ; Qui fra
+            <lb/>trem suum . odit homicida est . Fratrem hoc loco . omnem homi
+            <lb/>nem christianum oportet intelligi . Omnes enim in christo fratres sumus . 
+            <lb/>Nemo ergo sine caritate de uirginitate . nemo de elymo
+            <lb/>sinis . nemo de i`e´uuniis . nemo de orationibus confidat .
+            <lb/>quia quandiu inimicitiam in corde tenuerit ; neque istis 
+            <lb/>neque aliis quibus libet operibus bonis placere sibi deum pote
+            <lb/>rit . Sed si uult propitium sibi deum habere . non dedignetur 
+            <lb/>consilium bonum audire . audiat non me . sed dominum iesum . 
+            <lb/>Si offeres inquit munus tuum ad altare . et ibi recordatur 
+            <lb/>fueris quia frater tuus habet aliquid aduersum te ; relinque 
+            <pb n="16v" xml:id="P25_fol_16v"/><lb n="1"/>ibi munus tuum ante altare . et uade prius reconciliari fratri tuo . et 
+            <lb/>tunc uenies offeres munus tuum . Sed dicit aliquis ad hęc . Gran
+            <lb/>dis labor est inimicos diligere et pro nocentibus exorare . nec 
+            <lb/>nos negamus fratres quod non paruus labor est in hoc seculo . sed 
+            <lb/>grande premium erit in futuro . Per amorem enim hominis inimici . 
+            <lb/>efficieris amicus dei . et non solum amicus sed etiam filius . sicut 
+            <lb/>ipse dicit . Diligite inimicos uestros . et benefacite his qui uos 
+            <lb/>oderunt . Ac si dixisset . et uos diliget deus . Unde rogo uos 
+            <lb/>fratres . ut quantum possimus cum dei adiutorio ad patientiam et ami
+            <lb/>citiam inimicorum . cor nostrum pręparemus . et in omnibus malis ho
+            <lb/>minibus . medicorum mores agere studeamus . et non ipsos homines . 
+            <lb/>sed ipsorum malitiam odio habeamus . pro bonis oremus . ut semper 
+            <lb/>ad meliora conscendant pro malis . ut cito ad emendationem 
+            <lb/>uitę et pęnitentię medicamenta confugiant . Quam rem orantibus
+            <lb/>nobis et sancto stephano . prestare dignetur saluator mundi cunc
+            <lb/>tis gentibus . qui cum patre et spiritu sancto uiuit et regnat . in secula 
+            <lb/>seculorum . amen.
+        </p></div></body>
+    </text>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 25 (50v–52v)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2008-02-22T22:04:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T02:53:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 25 (50v–52v)" xml:id="p25_25">
+        <body><div>
+            <p>
+                <lb n="15"/>.xxv. OMELIA . IN DOMINICA .v<hi rend="sup">a</hi>. IN QUADRAGESIMA .
+            <lb/>SPiritus sanctus per isaiam prophetam hortatur nos et am
+            <lb/>monet dicens . Querite dominum dum inueniri potest . 
+            <lb/>Inuocate eum dum prope est . Derelinquat impius 
+            <lb/>uiam suam et uir iniquus cogitationes suas . et reuer
+            <lb/>tatur ad dominum et miserebitur eius . et ad deum nostrum 
+            <lb/>quoniam multus est ad ignoscendum . Nemo autem dubi
+            <lb/>tet quod in hac uita inueniri potest . Isidoro 
+            <lb/>dicente . IN qua etiam et prope est omnibus inuocan
+            <lb/>tibus se in ueritate . <label type="lection_no">.i.</label> Nam tunc iam longe erit 
+            <lb/>quando dixerit . Discedite a me quia non noui 
+            <lb/>uos . modo enim non uidetur et prope est . tunc 
+            <lb/>uidebitur et prope non erit . quia et uideri po
+            <lb/>terit . et non poterit inueniri . Reficiamus ergo 
+                <pb n="51r" xml:id="P25_fol_51r"/><lb n="1"/>primum animam nostram quasi dominam diuinis eloquiis . 
+            <lb/>quia de caelestibus uenit . et postea carnem quasi an
+            <lb/>cillam de fructibus terrę . quia de terra orta est . 
+            <lb/>sicut enim non potest caro uiuere sine cibo . Ita 
+            <lb/>non potest anima uiuere sine pręceptis dei . et 
+            <lb/>sancto sacrificio corporis christi . Propter quod refi
+            <lb/>cienda est . prius anima nostra bonis operibus . Opti
+            <lb/>ma enim eius refectio est castitas . caritas . humi
+            <lb/>litas . pietas . largitas . sanctitas . sobrietas . simplicitas . 
+            <lb/>aequitas . bonitas . longanimitas . taciturnitas . 
+            <lb/>misericordia . iustitia . patientia . in deo oboedi
+            <lb/>entia . Haec sunt nostra alimenta spiritalia ac salu
+            <lb/>bria . quibus reficitur anima nostra . Festinemus 
+            <lb/>ergo fratres karissimi dum lucem habemus . ne tenebrę .
+            <lb/>nos compręhendant . Sicut salomon ait . Curri
+            <lb/>te dum lucem habetis . Id est curramus per bona opera
+            <lb/>ad futuram caelestem gloriam . quia dum sumus in hoc mun
+            <lb/>do peregrinamur a domino . Conuertamur ergo 
+            <lb/>ad bona opera dum in nostra potestate sunt remedia . 
+            <lb/>Primum habeamus pacem inter nos . sicut agustinus 
+            <lb/>ait . Pacem et ipsi inter uos habete . et eos qui 
+            <lb/>discordes sunt ad concordiam reuocate . Salua
+            <lb/>tore nostro dicente . pacem relinquo uobis . pacem 
+            <lb/>meam do uobis . in pace uos dimisi . in pace uos 
+            <lb/>inueniam . Et iterum . Beati pacifici . quoniam filii dei 
+            <lb/>uocabuntur . fugiamus ergo mendacium . quia
+            <lb/>radix conturbationis est ; Lingua enim fallax
+            <lb/>non amat ueritatem . Dupliciter ergo reus est
+                <pb n="51v" xml:id="P25_fol_51v"/><lb n="1"/>qui et dei nomen in uanum assumit . et proximum 
+            <lb/>dolo capit . Ideo caueant principes . ne libenter 
+            <lb/>uerba mendacii suscipiant . quia mendacium regis 
+            <lb/>multi affirmant . salomone dicente . Pauperis 
+            <lb/>autem pauci sunt adiutores . Isidorus ergo dicit . 
+            <lb/>quattuor causis peruertitur humanum iudicium . 
+            <lb/>Timore principis . cupiditate pecunię . Odio ini
+            <lb/>mici . Amore fratris et propinqui . In libris ergo cle
+            <lb/>mentis scriptum est . quod neque amicitia neque 
+            <lb/>propinquitas nec regni sublimitas . ulli debet 
+            <lb/>esse homini pretiosior ueritate . principibus ergo 
+            <lb/>dicitur . Uerum iudicare inter omnes iudicium . 
+            <lb/>Sicut scriptum est O principes uindicate super 
+            <lb/>latrones et fures . super adulteros et sceleratores . 
+            <lb/>super rapaces et superbos et omnes malefactores quia 
+            <lb/>non solum nocent suis animali sed animali principum . 
+            <lb/>qui noluerint eos corripere . sicut scriptum est . 
+            <lb/>Ideo enim redundat omne peccatum . qui non 
+            <lb/>uult peccantes prohibere cum possit . Cogno
+            <lb/>scant ergo principes . quia cum uindicant super eos 
+            <lb/>secundum dei uoluntatem non sacrilegas faciunt 
+            <lb/>manus suas . sed deo consecratas . Nullus ergo 
+            <lb/>ex uobis fratres karissimi dicere poterit ante tribunal 
+            <lb/>christi se non fuisse ammonitum . Nec ad ea quę 
+            <lb/>bona sunt prouocatum . Nec ab illis quę mala 
+            <lb/>sunt prohibitum . Conuertemini ergo . et uide
+            <lb/>bitis quę sit differentia inter iustum et im
+            <lb/>pium . Inter seruientem deo et non <subst><del>seruiemem</del><add resp="scribe" place="sup">seruientem</add></subst>.
+                <pb n="52r" xml:id="P25_fol_52r"/><lb n="1"/>inter adorantem eum et idolum colentem . <label type="lection_no">.ix.</label> Sciant 
+            <lb/>ergo quicumque adórant kalendas ianuarias . et qui 
+            <lb/>credunt auibus caeli et reddunt uota sua fontibus 
+            <lb/>in desertis locis . seu cuilibet augur<add resp="scribe" place="sup">r</add>io secundum genti
+            <lb/>lium mores . quia perdunt statim . baptismi sacra
+            <lb/>mentum . et continuo sacrilegi et pagani efficiuntur . 
+            <lb/>et nisi confessionem bonam et poenitentiam ueram 
+            <lb/>delictorum suorum ante obitum suum egerint . cum diabo
+            <lb/>lo principe eorum . in infernum sine fine habitabunt . 
+            <lb/>Igitur per ordinem omnia mala per contraria sananda 
+            <lb/>sunt . Id est humilitas contra superbiam . ueritas 
+            <lb/>contra mendacium . benignitas contra inuidiam . 
+            <lb/>Abstinentia contra gulam . Castitas contra for
+            <lb/>nicationem . Largitas contra cupiditatem et auari
+            <lb/>tiam . Lętitia spiritalis contra tristitiam seculi . Stabi
+            <lb/>litas contra accediam mentis ueniat . Qui fuit ergo 
+            <lb/>superbus . sit humilis . Qui fuit adulter . sit castus . 
+            <lb/>Qui fuit inuidus . sit benignus . Qui fuit maledictus .
+            <lb/>sit benedictus . Ubi fuerunt latrocinia . ueniat 
+            <lb/>iustitia . Vbi auaritia . uen<add resp="scribe" place="sup">i</add>at largitas . Vbi gloria
+            <lb/>mundi . ueniat temperantia dei . Vbi menda
+            <lb/>cium . ueniat ueritas . Ubi tristitia seculi . lętitia
+            <lb/>ueniat cælestis regni . Ubi disperatio fuit de pec
+            <lb/>catis . uenia spes future beatitudinis . <note type="parchment">There is a hole in the parchment here.</note>
+            <lb/>Ubi fuit ira et indignatio . ueniat spiri <note type="parchment">There is a hole in the parchment here.</note>
+            <lb/>talis laetitia . Et quicumque baptismum recepit . 
+            <lb/>Legat paucos uersiculos quos precepit dominus . Id est 
+            <lb/>symbolum et orationem dominicam . et memoriter 
+                <pb n="52v" xml:id="P25_fol_52v"/><lb n="1"/>cotidie decantet . qui non plus ualet saltim duabus 
+            <lb/>uicibus mane uidelicet et uespere . Quia in his duabus 
+            <lb/>sententiis . Omnem fidei christianę fundamentum consistit . 
+            <lb/>et nisi quis has duas sententias in oratione frequen
+            <lb/>tauerit et toto corde crediderit . catholicus esse 
+            <lb/>non poterit . Constitutum namque est . ut nullus 
+            <lb/>crismetur neque baptizetur . neque a lauacro fon
+            <lb/>tis alium suscipiat . Neque coram episcopo ad confir
+            <lb/>mandum quemlibet teneat . Nisi symbolum et oratio
+            <lb/>nem dominicam memoriter tenuerit . Exceptis 
+            <lb/>his quos ad loquendum aetas minime perduxit . 
+            <lb/>Quicumquę autem omnia haec cum fide recta et consci
+            <lb/>entia bona impleuerit . securus ueniet ad diem 
+            <lb/>iudicii audiens uocem domini cunctis amabilem . Tunc 
+            <lb/>enim dicet omnibus sanctis . Uenite benedictii patris mei . 
+            <lb/>possidete regnum quod uobis preparatum est ab origi
+            <lb/>ne mundi . et ibi manete sine fine in uitam ęternam . 
+            <lb/>Vbi est serenitas sine nube . Gaudium sine tristitia . 
+            <lb/>Lux sine tenebris . Vita sine morte . Iuuentus sine 
+            <lb/>senectute . Decor sine demutatione . Splendor 
+            <lb/>mirabilis . Lucidior splendore solis . Aeternitas semper 
+            <lb/>manens et regnum sine fine . in quo sunt agmina 
+            <lb/>anGelorum . et congregatio iustorum ibi semper manentium .
+                <lb/><note type="parchment">There is a hole in the parchment here.</note>Cum quibus haec omnia uidere et possidere 
+                <lb/><note type="parchment">There is a hole in the parchment here.</note>mereamur . Largiente domino nostro iesu
+                <lb/><note type="parchment">There is a hole in the parchment here.</note>christo . cui est honor et imperium et po
+            <lb/>testas una cum patre et spiritu sancto . per infinita secula seculorum : amen 
+        </p></div></body>
+    </text>
+</TEI>

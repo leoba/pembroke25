@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 17 (31v–33v) </title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2006-08-26T11:42:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T00:02:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 17 (31v–33v)" xml:id="p25_17">
+        <body><div>
+            <p>
+                <lb n="3"/>.xvii. OMELIA IN SEXAGESIMA .
+            <lb/>PRimum in prędicatione christianus debet populus 
+            <lb/>silentium tenere . deinde . qui habet aures audi
+            <lb/>endi audiat . Id est qui intellectum mentis continet . humi
+            <lb/>liter audiat sermones quos annuntiat sacerdos . Sacer
+            <lb/>dos est enim in pace populum ammonere . quod 
+            <lb/>debeat agere ; populi est cum humilitate et silentio 
+            <lb/>audire quę monet sacerdos . <label type="lection_no">.ii.</label> Quicquid non licet . 
+            <lb/>pastoris est prohibere ne fiat . plebis est humiliter au
+            <lb/>dire ; memoriter retinere . uoluntarie perficere . Eam 
+            <lb/>quippe quam non inuenit humilem ueritas fugit men
+            <lb/>tem . Unde dominus per prophetam dicit . Ad quem autem re
+            <lb/>spiciam nisi ad humilem et quietum et trementem uerba 
+            <lb/>mea? Quicumque humilis et quietus non erit . non po
+            <lb/>test in eo habitare gratia spiritus sancti . Vnusquisque ergo debet 
+            <lb/>se humiliare . ut gratiam dei ualeat accipere et in ipso semper 
+            <lb/>maneat ; sicut beatus petrus apostolus dicit ; karissimi . Humiliami
+            <lb/>ni sub potenti manu dei . ut uos exaltet in tempore ui
+            <lb/>sitationis . Omnem sollicitudinem uestram proicientes in eum . 
+            <lb/>quoniam ipsi cura est de uobis . <label type="lection_no">.iii.</label> Et ideo oportet nos refer
+            <lb/>re uobis euangelicam christi praedicationem . et uos decet 
+            <lb/>humiliter audire quam per parabolam . id est per simili
+            <lb/>tudinem turbis ad se audiendum conuenientibus pro
+            <lb/>tulit dicens . Exiit qui seminat seminire semen suum . 
+            <lb/>et dum seminat . aliud cecidit secus uiam et conculcatum 
+            <lb/>est . et uolucres cęli comederunt illud . et aliud cecidit
+                <pb n="32r" xml:id="P25_fol_32r"/><lb n="1"/>supra petram . et natum aruit . quia non habebat humorem . 
+            <lb/>Et aliud cecidit inter spinas . et simul exorte spinę suffo
+            <lb/>cauerunt illud . Et aliud cecidit in terram bonam . et or
+            <lb/>tum fecit fructum centuplum . Haec dicens clamabat .
+            <lb/>qui habet aures audiendi audiat . <label type="lection_no">.iiii.</label> Interrogabat autem 
+            <lb/>eum discipuli eius quæ esset . haec parabola . quibus ipse 
+            <lb/>dixit . Uobis datum est nosse mysterium regni dei . 
+            <lb/>caeteris autem in parabolis . ut uidentes non uideant . et 
+            <lb/>audientes non intelligant . Est autem haec parabola . 
+            <lb/>Semen est uerbum dei . qui autem secus uiam hi sunt 
+            <lb/>qui audiunt . Deinde uenit diabolus et tollit uerbum 
+            <lb/>de corde eorum ne credentes salui fiant . Nam qui supra 
+            <lb/>petram . qui cum audierint cum gaudio suscipiunt uerbum . 
+            <lb/>et hi radices non habent quia ad tempus credunt . et in 
+            <lb/>tempore temptationis recedunt . <label type="lection_no">.v.</label> Quod autem in
+            <lb/>ter spinas cecidit . hi sunt qui audierunt . et a solicitu
+            <lb/>dinibus et diuitiis et uoluptatibus uitę euntes suffo
+            <lb/>cantur et non adferunt fructum . Quod autem cecidit 
+            <lb/>in terram bonam hi sunt . qui in corde bono et optimo au
+            <lb/>dientes uerbum retinent . et fructum afferunt in pa
+            <lb/>tientia . Gregorius dicit . Haec lectio sancti euangelii quam 
+            <lb/>modo audistis fratres karissimi expositione non indiget sed 
+            <lb/>ammonitione . quia per semetipsam ueritas illam expo
+            <lb/>suit . Sed est tamen quod solicite in hoc euangelio 
+            <lb/>considerare debetis . <label type="lection_no">.vi.</label> Quia si nos uobis semen . uerbum . 
+            <lb/>agrum . mundum . uolucres demonia . spinas . diuitias . 
+            <lb/>Significare diceremus . ad credendum nobis mensuram 
+            <lb/>dubitaret . Et ideo isdem dominus per semetipsum dignatus est 
+                <pb n="32v" xml:id="P25_fol_32v"/><lb n="1"/>exponere quod dicebat . ut sciatis rerum significationes cer
+            <lb/>tius etiam in his quęrere . quę per semetipsum noluit expla
+            <lb/>nare . Exponendo ergo quod dixit . figurate se loqui sepius 
+            <lb/>ostendit . quatenus uos crederetis . cum uobis nostra fragilitas 
+            <lb/>uerborum illius mysteria explanare uoluisset . Quis 
+            <lb/>enim nobis umque crederet si spinas diuitias interpretari uo
+            <lb/>luissemus . si ipse prius non exposuisset . Maxime cum illę
+            <lb/>exasperant . iste dilectant . et tamen spinę sunt . quia 
+            <lb/>cum usque ad peccatum pertrahunt . sicut gladius corpus 
+            <lb/>uulnere . Ita animas maculis cruentant . <label type="lection_no">.vii.</label> Quas bene 
+            <lb/>alio in loco dominus fallaces diuitias appellat . Fallaces enim sunt . 
+            <lb/>quia nobiscum diu permanere non possunt . Hę sunt autem 
+            <lb/>uerę diuitię quę nos semper diuites uirtutibus faciunt . Si ergo 
+            <lb/>fratres karissimi diuites esse cupitis . ueras diuitias amate . Si culmen 
+            <lb/>ueri honoris queritis ad caeleste regnum tendite . Et si gloriam 
+            <lb/>dignitatum diligitis . in illa superna angelorum societate asscri
+            <lb/>bi festinate . Uerba dei quę a domino auribus percepistis . mentibus 
+            <lb/>retinete . aeternę mortis periculum iugiter formidate . Quia 
+            <lb/>omne quod in hac uita agitis cito transit . et ad extremum iudi
+            <lb/>cium sine ullius spatii interpositione cotidie uolentes 
+            <lb/>nolentes que pro peccatis . <label type="lection_no">.viii.</label> Cur ergo fratres karissimi multum amatur 
+            <lb/>quod relinquitur . et cur illud multum negligitur . ad quod cer
+            <lb/>tissime peruenitur . Mementote quod dicitur . qui habet aures 
+            <lb/>audiendi audiat . Hoc quidem significat . ut sermo dei 
+            <lb/>in secretis cordis semper maneat . Curate ergo né semen iuxta 
+            <lb/>uiam cadat . Id est né malignus spiritus ueniat et a memoria 
+            <lb/>mentis uerbum tollat . Curate né petrosa terra semen 
+            <lb/>acepiat . et fructum boni operis sine perseuerentie radicibus 
+                <pb n="33r" xml:id="P25_fol_33r"/><lb n="1"/>perducat . Multis enim libet quod audiunt . et boni operis initia 
+            <lb/>proponunt . Sed mox ut fatigari aduersitatibus huius mun
+            <lb/>di coeperint inchoata derelinquunt opera . Petrosa autem 
+            <lb/>terra ideo humorem non habuit . quia hoc quod germinaue
+            <lb/>rat ad fructum perseuerantię et maturitatis non perduxit . 
+                <lb/><label type="lection_no">.viii.</label> Multi namque cum uerbum contra auaritiam audiunt . ean
+            <lb/>dem auaritiam magnopere detestantur . et rerum omnium 
+            <lb/>contemptum laudant . Sed tamen ut animus uiderit 
+            <lb/>quod concupiscat mox obliuiscitur quod laudabat . Sunt 
+            <lb/>multi qui quando contra luxuriam uerbum audiunt .
+            <lb/>pollutiones carnis non solum iterare non appetunt . sed 
+            <lb/>etiam perpetratas erubescunt . sed mox ut carnis species 
+            <lb/>eorum oculis appareat . sic mens iterum ad desiderium 
+            <lb/>rapitur . ác si adhuc ab ea nihil esset contra haec desi
+            <lb/>deria exsecratum . Sępe etiam contra culpas conpungi
+            <lb/>mur . et tamen post fletum cito ad culpas iterum redimus . 
+            <lb/>Sicut balaam uatis gentium israhelitici populi tabernacula 
+            <lb/>contemplatus fleuit . eisque se similem fieri in morte de 
+            <lb/>poposcit dicens . Moriatur anima mea morte iustorum . 
+            <lb/>et fiant nouissima mea . horum similia . Sed mox ut 
+            <lb/>hora conpunctionis transiit . in auaritię nequitia ex
+            <lb/>arsit . Nam propter promissa munera . ad eius populi mor
+            <lb/>tem consilium cito cecidit . Cuius morti se fieri similem 
+            <lb/>antea optauerat . et oblitus est quod desiderauerat . 
+            <lb/>cum extinguere mun<add resp="scribe" place="sup">e</add>rum noluit desiderium . quod in
+            <lb/>corde suo ardebat per auaritiam . Notandum est autem 
+            <lb/>quod nouissime dicitur . Semen cecidit in terram bonam . et ob
+            <lb/>tulit fructum in patientia . Hi sunt quidem qui in corde 
+                <pb n="33v" xml:id="P25_fol_33v"/><lb n="1"/>bono et optimo uerbum retinent . et fructum afferunt 
+            <lb/>per patientiam . Quia scilicet nichil sunt bona quę agimus . 
+            <lb/>si non aequanimiter etiam proximorum mala toleramus . 
+            <lb/>Quanto enim quisque plus profecerit . tanto in hoc mun
+            <lb/>do inuenit quod durius sufferat . Quia cum a presenti seculo 
+            <lb/>mentis nostrę delectatio deficit . eiusdem seculi aduersitas 
+            <lb/>nobis crescit . Hinc est enim quod plerosque cernimus 
+            <lb/>bona opera agere . et tamen subgraui tribulationum 
+            <lb/>fasce laborare . Terrena namque desideria fugiunt 
+            <lb/>et tamen flagellis durioribus fatigantur . sed iuxta 
+            <lb/>uocem domini fructum per patientiam reddunt . Quia cum 
+            <lb/>humiliter flagella ad aeternam requiem sublimiter 
+            <lb/>suscipiuntur . Quisquis ergo appetit plenae uitia
+            <lb/>uincere . studeat humiliter purgationis suę flagel
+                <lb/>-la tolerare . Ut tanto post ad iudicem deum mundior 
+            <lb/>ueniat . quanto nunc eius rubiginem ignis tribulati
+            <lb/>onis purgat . Instigate ergo uos fratres karissimi ad studium 
+            <lb/>boni operis . et multa bona opera agite . Vt cum iustis 
+            <lb/>et misericordibus consortes esse in regno dei ualeatis . 
+            <lb/>prestante domino nostro iesu christo . qui cum patre et spiritu sancto 
+            <lb/>uiuit et regnat in secula seculorum . amen .
+        </p></div></body>
+    </text>
+</TEI>

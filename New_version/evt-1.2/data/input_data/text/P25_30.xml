@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 30 (65v–73r)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2014-07-27T20:45:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-25T01:21:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 30 (65v–73r)" xml:id="p25_30">
+        <body><div><p>
+            <lb n="3"/><label type="lection_no"><choice><sic>.xxviiii.</sic><corr resp="editor">.xxx.</corr></choice></label> OMELIA IN PARASCEUEN DE PASSIONE DOMINI . 
+            <lb/>HOC PRIMVM omnium inquirendum est humano generi . qualiter 
+            <lb/>mundus a principio creatus et formatus est ab omni poten
+            <lb/>ti omnium conditore deo . et quomodo in peccato postea lap
+            <lb/>sus est . Et iterum per dei misericordiam redemptus et restaura
+            <lb/>tus est . Duas igitur res ante omnem diem et ante omne 
+            <lb/>tempus condidit deus . Angelicam uidelicet creaturam et in
+            <lb/>formem materiam . quę quidem ex nichilo facta processit . 
+            <lb/>qui autem uiuit in aeternum . secundum materiae substantiam 
+            <lb/>creauit omnia semel . nihil non simul factum in omnibus crea
+            <lb/>turis reliquit . non omnia uero ex nihilo condidit deus . 
+            <lb/>sed quedam fecit ex nihilo . quedam ex aliquo . <label type="lection_no">.ii.</label> Ex nihilo . 
+            <lb/><subst><del>angelus</del><add resp="scribe" place="sup">angelos</add></subst> et informem materiam et animas . ex aliquo . homi
+            <lb/>nem et cęteras mundi creaturas . Sex igitur diebus rerum 
+            <lb/>creaturas condidit deus . Primo die condidit lucem dicens . 
+            <lb/>Fiat lux et facta est lux . Secundo firmamento cęli . quod 
+            <lb/>diuidit inter aquas superiores et inferiores . Tertio . 
+            <lb/>speciem maris et terrę dicens . Congregentur . aquę quę 
+            <lb/>sub cęlo sunt in locum unum . et appareant arida . Et uo
+            <lb/>cauit deus aridam . terram . congregationesque aquarum appel
+            <lb/>auit maria . <choice><sic><label type="lection_no">.ii.</label></sic><corr resp="editor"><label type="lection_no">.iii.</label></corr></choice><note place="end" n="i"> .ii.] the first minim now
+                 obscured by a repair</note> Quarto . sidera id est duo magna lumi
+            <lb/>naria . luminare <subst><del>maris</del><add resp="later">solis</add></subst> ut preesset diei . et luminare 
+            <lb/>minus ut preesset nocti . et stellas et posuit eas in firma
+            <lb/>mento caeli ut lucerent super terram . et diuiderent lucem 
+            <lb/>ác tenebras . Quinto pisces maris et uolucres caeli .
+            <lb/>benedixitque eis dicens . Crescite et multiplicamini et re
+            <pb n="66r" xml:id="P25_fol_66r"/><lb n="1"/>-plete aquas maris . auesque multiplicentur super terram . 
+            <lb/>Sexto bestias iumenta . et omne quod repit super terram 
+            <lb/>in genere suo . Nouissime hominem primum adam dicens . 
+            <lb/>faciamus hominem ad imaginem et similitudinem nostram .
+            <lb/>Id est in aeternitate et moribus . et presit his omnibus . Ác si 
+            <lb/>dixisset . Ideo dominetur his omnibus creaturis uisibi
+            <lb/>libus . Id est piscibus maris et uolatilibus cęli et uniuersis
+            <lb/>animantibus quę mouentur super terram . quia non ipse propter
+            <lb/>illa . sed ipsa propter hominem facta sunt . <label type="lection_no">.iiii.</label> Igitur perfecti sunt 
+            <lb/>cęli et terra . et omnis ornatus eorum . Plantauit quoque dominus
+            <lb/>deus locum <subst><del>apulentissimum</del><add resp="later">opulentissimum</add></subst> suauissimum que in oriente .
+            <lb/>Qui ebraicae eden . grece pararadysus dicitur et latine ortus
+            <lb/>deliciarum interpraetatur . In cuius medio fons magnus exo
+            <lb/>ritur . De quo flumina quattuor mundi principalia
+            <lb/>emanant . Id est geon . fison . tigris . eufrates . Tulit
+            <lb/>ergo dominus deus hominem et posuit eum in paradysum . ut
+            <lb/>operaretur et custodiret illum . Operabatur quidem in pa
+            <lb/>radyso . non pro necessitate sed pro diliciosa uoluntate .
+            <lb/>Et custodiebat sibi ipsi paradysum . Né eum peccando
+            <lb/>ammitteret . Dixit quoque dominus deus . Non est bonum esse
+            <lb/>hominem solum . faciamus ei adiutorium simile sui . <label type="lection_no">.v.</label> Inmi
+            <lb/>sit ergo dominus soporem in adam . cumque obdormisset tulit
+            <lb/>unam de costis eius et repleuit carnem pro ea . et edificauit
+            <lb/>costam quam tulerat de adam in mulierem . et adduxit
+            <lb/>eam ad adam ut uideret quid uocaret eam . Prophetauitque
+            <lb/>adam dicens . Hoc nunc os ex ossibus meis . et caro de
+            <lb/>carne mea . Hęc uocabitur uirago . quia de uiro assump
+            <lb/>ta est . quamobrem relinquet homo patrem suum et matrem .
+            <pb n="66v" xml:id="P25_fol_66v"/><lb n="1"/>et adhe<add resp="scribe" place="sup">re</add>bit uxori suæ . et erunt duo in carne una .
+                praecepit
+            <lb/>quoque dominus addicens . Ex omni ligno paradysi come
+            <lb/>de . de ligno autem scientię boni et mali né comedas . In 
+            <lb/>quocumque enim die comederis ex eo <choice><sic><hi rend="strikethrough">more</hi></sic><corr resp="editor">morte</corr></choice>
+                morieris . <label type="lection_no">.vi.</label> Ser
+            <lb/>pens autem qui erat callidior cunctis animantibus terrę 
+            <lb/>quę fecerat deus . Dixit ad mulierem . Cur precepit uobis deus né 
+            <lb/>comederetis de omni ligno paradisi . Respondit mulier .
+            <lb/>De fructu lignorum quę sunt in paradyso uescimur . De fruc
+            <lb/>tu uero ligni quod est in medio paradysi precepit nobis . né 
+            <lb/>comederemus et né tangeremus illud ne forte moriamur . 
+            <lb/>Dixit autem serpens . nequaquam morte moriemini . sed scit 
+            <lb/>deus quod in quocumque die comedetis ex eo . Aperientur oculi 
+            <lb/>uestri et eritis sicut dii . scientes bonum et malum . <label type="lection_no">.vi.</label> Credidit 
+            <lb/>igitur mulier suggestioni serpentis . et quia bonum erat 
+            <lb/>lignum ad uescendum et pulchrum oculis . tulit de fructu 
+            <lb/>illius sinistra manu . et idcirco breuior est humano ge
+            <lb/>neri quam dextera . quia illa extensa est ad malum . et co
+            <lb/>medit deditque uiro suo . et statim aperti sunt oculi eorum .
+            <lb/>Hieronimus dicit . Numquid antea caeci erant? aut a deo sine 
+            <lb/>oculis creati sunt? non utique . sed ad bonum non ad malum 
+            <lb/>apertos oculos habebant . Sed tunc aperti sunt ut uiderent
+            <lb/>quia nudi essent . intelligentes bonum et malum post man
+            <lb/>dati transgressionem . <label type="lection_no">.vii.</label> Dum deambularet ergo dominus in pa
+            <lb/>radyso ad horam post merediem . Abscondit se adam .
+            <lb/>et uxor eius a facie domini dei in medio paradysi . Vocauitque
+            <lb/>eum dominus dicens . Adam ubi es? qui ait . Audiui domine
+            <lb/>uocem tuam in paradyso et timui . eo quod nudus essem et abscon
+            <lb/>di me . Et dixit . quis indicauit tibi quod nudus esses? nisi ex
+            <pb n="67r" xml:id="P25_fol_67r"/><lb n="1"/>ligno uetito comedisti . Dixitque adam . Haec mulier tra
+            <lb/>didit michi et comedi . Dixitque deus . Pro eo quod oboedisti 
+            <lb/>uoci uxoris tuae plusquam me maledicta terra in opere tuo . 
+            <lb/>Cum operatus fueris eam . spinas et tribulos germinabit tibi . et in 
+            <lb/>sudore uultus tui uesceris pane tuo . donec reuertaris in ter
+            <lb/>ram . Terra enim es . et in terram ibis . Dixit quoque deus . Ecce adam 
+            <lb/>quasi unus ex nobis factus est sciens bonum et malum . Videte 
+            <lb/>ne forte sumat de ligno uitae et uiuat in aeternum . 
+            <lb/>Eiecit ergo dominus deus adam de paradyso ut operaretur terram 
+            <lb/>de qua factus est . et collocauit eum ante paradysum uo
+            <lb/>luptatis . quandiu enim abstinuit . mansit in paradyso . 
+            <lb/>ut autem manducauit . statim expulsus est . Et factum 
+            <lb/>est omne tempus quo uixit adam in labore et erumna 
+            <lb/>super terram . anni .dcccc.xxx. et <subst><del>mortuo</del><add resp="scribe" place="sup">mortuus</add></subst> est et descen
+            <lb/>dit in infernum . et omne humanum genus post illum 
+            <lb/>usque ad aduentum domini . Hieronimus ait . Quomodo autem 
+            <lb/>non est mortuus adam dum comedit ex ligno de quo 
+            <lb/>dixerat ei dominus . In quocumque enim die comederis ex eo . 
+            <lb/>morte morieris . quattuor enim sunt genera mortis .
+            <lb/>Prima enim mors est cum deus propter peccatum relinquit ani
+            <lb/>mam . Secunda . cum anima relinquit corpus . Tertia .
+            <lb/>dum anima post mortem corporis in inferno dampna
+            <lb/>tur. Quarta . cum post resurrectionem caro simul et 
+            <lb/>anima in poenis cremabuntur <subst><del>aeternis</del><add resp="scribe" place="sup">eternis</add></subst> . Mortuus est
+            <lb/>tunc adam secundum hanc primam mortem quam diximus
+            <lb/>recedendo a deo . Sic enim a deo creati sunt . ut possent
+            <lb/>semper inmortales uiuere . si tamen preceptum dei seruas
+            <lb/>sent . et si uoluissent eius uerba contemnere . Possent
+            <pb n="67v" xml:id="P25_fol_67v"/><lb n="1"/>utique mori . in arbore uero illa qualiscumque fuerit . prę
+            <lb/>ceptum dei intelligendum est . In obseruatione enim 
+            <lb/>precepti . scientia erat boni . in transgressione uero pre
+            <lb/>cepti . scientia erat mali . serpens autem tunc sicut nec 
+            <lb/>modo loqui non poterat . sed per eum diabolus locutus 
+            <lb/>est nesciente ipso serpente quid loqueretur . sicut 
+            <lb/>et nunc diabolus per demoniacos loquitur . cum ipsi 
+            <lb/>nesciunt quid loquantur . Illud quoque scire et intelligere 
+            <lb/>debemus . quod ante aduentum domini saluatoris diabolus 
+            <lb/>regnabat in mundo . et omnes populi peccatores et iusti 
+            <lb/>exeuntes a corpore . in infernum descendebant propter 
+            <lb/>originalia adae peccata quę prediximus de illo pro eo 
+            <lb/>quod in paradyso transgressus est mandatum dei . Sed
+            <lb/>quando uidit deus quod totus mundus periret per inuidiam 
+            <lb/>diaboli . per eius enim inuidiam mors subintrauit in orbem 
+            <lb/>terrarum . misertus est generi humano . misit filium 
+            <lb/>suum natum ex muliere factum sub lege erant redimeret . 
+            <lb/>Descendere dignatus est unicus dei filius de sede patris . 
+            <lb/>Hoc est uerbum dei in utero sanctę marię uirginis . in tanta 
+            <lb/>humilitate uenire dignatus est in mundo oboediens 
+            <lb/>imperio dei patris . ut per humilitatem uinceret diabolum 
+            <lb/>inuentorem mortis atque auctorem . et liberaret genus
+            <lb/>humanum per passionem et crucem . et ligaret diabolum cum
+            <lb/>angelis suis <add resp="scribe" place="sup">in</add> infernum deorsum . In caelo aequalis et coe
+            <lb/>uus deo patri absque initio et sine fine fulgebat . et tamen 
+            <lb/>in terra <choice><sic>nasc</sic><corr resp="editor">nasci</corr></choice> pannis inuolui dignatus est et in presepio
+            <lb/>animalium non in terrenorum regum palatio iacuit .
+            <lb/>Ille in aegypto fugatus est herode illum quęrente in
+            <pb n="68r" xml:id="P25_fol_68r"/><lb n="1"/>terficere . angelo annuntiante ioseph et dicente . surge 
+            <lb/>et accipe puerum et matrem eius et fuge in aegyptum . et 
+            <lb/>esto ibi usque dum dicam tibi . Ille in corpore circumcisus 
+            <lb/>est secundum legis consuetudinem . Ipso dicente . non ueni 
+            <lb/>soluere legem sed adimplere . Ille a iohanne bapti
+            <lb/>sta in iordane baptizari dignatus est . Ille quadra
+            <lb/>ginta diebus et quadraginta noctibus ieiunauit . Ab 
+            <lb/>ipsum ductus in deserto id est uoluntate . ut qui per
+            <lb/>gulae concupiscentiam ceciderant de paradyso . 
+            <lb/>per abstinentiam ad suam redirent patriam . Post hęc 
+            <lb/>autem multa signa et mirabilia fecit in mundo .
+            <lb/>caecos inluminauit . claudos ambulare fecit . 
+            <lb/>leprosos mundauit . surdis auditum reddidit . mor
+            <lb/>tuos suscitauit . et alia multa innumerabilia 
+            <lb/>quę enarrare perlongum est . At ubi uenit pleni
+            <lb/>tudo temporis ascendit in montem oliueti . Vbi
+            <lb/>habitare et frequenter predicare consueuerat .
+            <lb/>et accesserunt ad eum discipuli eius . Id est petrus 
+            <lb/>et iohannes . et andreas . et interrogabant eum 
+            <lb/>separatim dicentes . Dic nobis domine quando hęc 
+            <lb/>erunt que uentura prędixisti signa et prodigia . 
+            <lb/>et quod signum aduentus tui et consummationis 
+            <lb/>seculi . Ipse autem respondens . et ammonitione 
+            <lb/>paterna illos ammonens dicebat . Videte 
+            <lb/>ne quis uos seducat . Multi enim uenient pseudo
+            <lb/>christi et pseudoprophete in nomine meo dicen
+            <lb/>tes ego sum christus . et multos seducent . dabunt 
+            <lb/>enim signa magna et prodigia . Ita . ut in errorem 
+            <pb n="68v" xml:id="P25_fol_68v"/><lb n="1"/>inducantur si fieri potest etiam electi . ecce predixi uobis . 
+            <lb/>Audituri enim estis prelia . et opiniones preliorum . cauete 
+            <lb/>né turbemini . Oportet enim haec fieri . sed nondum 
+            <lb/>statim finis . Vigilate ergo quia nescitis qua hora 
+            <lb/>uel qua die dominus uester uenturus sit . Beatus enim ille ser
+            <lb/>-uus quem cum uenerit dominus eius . inuenerit uigilantem . 
+            <lb/>Amen dico uobis super omnia bona sua constituet eum . 
+            <lb/>Haec autem et his similia de nouissimis temporibus et seculi 
+            <lb/>consummatione . predixit eis . et factum est cum consummas
+            <lb/>set sermones hós omnes . dixit discipulis suis . . . ~ .
+            <lb/>Scitis quia post biduum pascha fiet et filius hominis 
+            <lb/>tradetur ut crucifigatur . Hieronimus ait . Erube
+            <lb/>scant qui putant saluatorem timuisse mortem . 
+            <lb/>et passionis pauore dixisse . Pater mi . si fieri po
+            <lb/>test transeat a me calix iste . Qui enim post biduum 
+            <lb/>pascha facturus et tradendum sé ut crucifigeretur 
+            <lb/>nouerat . potuerat si id uoluntatis esset . declinare 
+            <lb/>insidias hominum et in alia terra fúgere . Porro qui ait 
+            <lb/>post biduum pascha fiet . id quod sacratum est significat .
+            <lb/>quia post duos dies clarissimi luminis ueteris ác 
+            <lb/>noui testamenti . uerum pro mundo pascha caelebratur . 
+            <lb/>Pascha enim quod ebraice dicitur phase . non a passione 
+            <lb/>ut plerique arbitrantur . sed a transitu nominatur . 
+            <lb/>eo quod exterminator uidens sanguinem in foribus 
+            <lb/>israhelitarum pertransierit . nec percusserit eos . transitus 
+            <lb/>autem noster bene caelebratur . si terrena id est peccata . 
+            <lb/>et aegyptum id est tenebras dimittentes . ad caelestia 
+            <lb/>bona festinemus . Tunc congregati sunt principes sacer
+            <pb n="69r" xml:id="P25_fol_69r"/><lb n="1"/>-dotum et seniores populi in domum c<add resp="scribe" place="sup">h</add>aiphae principis
+            <lb/>sacerdotum . ut consilium darent quomodo iesum dolo te
+            <lb/>nerent et occiderent . Hieronimus dicit . Qui debue
+            <lb/>rant pascha uicino parare uictimas . leuigare tem
+            <lb/>pli parietes . pauimenta uerrere . altaria lauare . 
+            <lb/>uasa mundare . et secundum ritum legis purificari . 
+            <lb/>ut ésui agni digni fierent . congregantur in eun
+            <lb/>tes consilium quomodo óccidant dominum . Dicebant 
+            <lb/>autem non in die festo . ne forte tumultus fieret in 
+            <lb/>populo . Non pro honore diei solemnis nec malitiae 
+            <lb/>timore haec dicebant . sed cauentes né auxilio po
+            <lb/>-puli de suis manibus tolleretur . Prima autem die 
+            <lb/>azimorum in qua necesse erat occidere pascha . et ag
+            <lb/>num secundum consuetudinem legis mand<note type="parchment">There is a hole in the parchment here.</note>ucare . 
+            <lb/>accesserunt discipuli ad iesum . Id est petrus et io
+            <lb/>hannes dicentes . Magister ubi uis paremus tibi 
+            <lb/>comedere pascha? At iesus dixit . Ite in ciuitatem 
+            <lb/>et occurret uobis homo anforam aquę portans . 
+            <lb/>sequimini eum in domum in qua intrat et dicite patri
+            <lb/>familias domus . Magister dicit . ubi est diuersurium 
+            <lb/>ubi pascha cum discipulis meis manducem? Et ipse 
+            <lb/>ostendet uobis caenaculum magnum stratum . et ubi
+            <lb/>parate . et ita inuenerunt sicut predixit illis et pa
+            <lb/>rauerunt pascha . Hieronimus dicit . Ipse autem 
+            <lb/>quasi deus sciebat sicut certe erat quomodo<note type="parchment">There is a hole in the parchment here.</note> inueni
+            <lb/>rent . et hoc quidem cænaculum supra positum . eleua
+            <lb/>tionem de hac uita mortali ad inmortalem signi
+            <lb/>ficat uitam . Et cum facta esset . hora discubuit cum 
+            <pb n="69v" xml:id="P25_fol_69v"/><lb n="1"/>duodecim discipulis suis . et edentibus illis dixit . Amen 
+            <lb/>dico uobis . quia unus uestrum me traditurus est . Et 
+            <lb/>contristati ualde coeperunt singuli dicere . 
+            <lb/>Numquid ego sum domine? Hieronimus dicit . Cer
+            <lb/>te nouerant undecim apostoli quod nichil tale 
+            <lb/>contra dominum cogitassent . sed tamen plus crede
+            <lb/>bant magistro quam sibi . quia quicquid ille 
+            <lb/>diceret mutari non poterat . Et ipse respondens 
+            <lb/>ait . qui intingit mecum manum in parapside . hic 
+            <lb/>me tradet . Filius quidem hominis uadit sicut 
+            <lb/>scriptum est de illo . Vae autem homini illi per quem 
+            <lb/>filius hominis tradetur . Bonum erat ei si natus 
+            <lb/>non fuisset homo ille . Non tamen <subst><del>potandum</del><add resp="scribe" place="sup">putandum</add></subst> 
+            <lb/>est an<note type="parchment">There is a hole in the parchment here.</note>te fuisse quam nasceretur . quia nulli 
+            <lb/>potest bene uel male esse . ni ei qui fuerit . sed
+            <lb/>multo melius est non subsistere . quam male sub
+            <lb/>sistere et in finem perire . Caenantibus autem illis 
+            <lb/>accepit iesus panem et benedixit ac fregit . dedit
+            <lb/>que discipulis suis et ait . Accipite et comedite 
+            <lb/>hoc est corpus meum . et similiter accipiens calicem 
+            <lb/>gratias egit . et dedit illis dicens . Hic est enim calix 
+            <lb/>sanguis meus in nouo testamento . qui pro multis
+            <lb/>effundetur in remissionem peccatorum . Scien
+            <lb/>dum quod non pro omibus dixit . quia iustos tantum 
+            <lb/>detul<note type="parchment">There is a hole in the parchment here.</note>it . et illos sacrilegos in infernum re
+            <lb/>liquit . In luca autem duos calices legimus 
+            <lb/>fuisse benedictos . unum uini . et alterum aquæ . 
+            <lb/>Illud quidem significat . quo absque his coniunctis 
+            <pb n="70r" xml:id="P25_fol_70r"/><lb n="1"/>nemo myssam caelebrare debet . quia nisi aqua com
+            <lb/>mixta uino fuerit . populus in ea partem non habet . 
+            <lb/>per aquam enim populus designatur . Per commixtionem 
+            <lb/>igitur aquae et uini . copulatio populi significatur 
+            <lb/>ad deum . Hic autem uetus completur testamentum agnum 
+            <lb/>edendo . et nouum inchoatur myssam caelebrando . 
+            <lb/>quae in ueteri lege per melchisedech sacerdotem 
+            <lb/>prefigurata est . quando panem et uinum ad abraham 
+            <lb/>exhibuit benedictum . Ne me ergo dubitare debet 
+            <lb/>oblationem benedictam esse corpus domini . et uinum 
+            <lb/>consecratum christi esse sanguinem . Et idcirco prę
+            <lb/>parent se unusquisque et emundare studeant 
+            <lb/>conscientiam suam . Vt uasa sint digna et munda 
+            <lb/>ad accipiendum corpus christi et sanguinem ad emun
+            <lb/>dationem uitae . His autem expletis . et ymno dicto 
+            <lb/>exierunt in montem oliueti . qui interpretatur mons 
+            <lb/>trium luminum . Ubi est refectio post laborem 
+            <lb/>dolorisque solacium . et notitia ueri luminis quod est 
+            <lb/>christus . Tunc dicit illis iesus . Omnes uos scandalum patie
+            <lb/>mini in me in ista nocte . Ideo predixit eis quod scan
+            <lb/>dalum passuri essent in illo . ut cum passi fuissent non 
+            <lb/>disperarent salutem . sed agerent poenitentiam ut 
+            <lb/>liberarentur . Scriptum est enim percutiam pasto
+            <lb/>rem qui est christus et dispergentur oues id est apostoli . 
+            <lb/>Respondens autem petrus ait illi . Et si omnes scandali
+            <lb/>zati fuerint in te ego numquam scandalizabor . 
+            <lb/>Petrus quidem de ardore et magnitudine fidei quam 
+            <lb/>habebat in illo promittebat . et saluator quasi deus
+            <pb n="70v" xml:id="P25_fol_70v"/><lb n="1"/>futura intelligens dicebat . Amen dico tibi petre quia in 
+            <lb/>hac nocte antequam gallus cantet ter me negabis . . ~
+            <lb/>Tunc uenit iesus cum illis in uillam quę dicitur gezemani . et dixit 
+            <lb/>eis . sedete hic donec uadam illuc et orem . Gezema
+            <lb/>ni uero interpretatur uallis pinguissima . In qua iesus 
+            <lb/>consueuerat frequenter habitare . Ibique iussit disci
+            <lb/>pulos sedere paulis per illum expectantes redeuntem .
+            <lb/>postquam pro cunctis solus ter orasset exemplum nobis 
+            <lb/>demonstrans . ut nos pro peccatis nostris tribus uicibus OReMUS .
+            <lb/>Preteritis presentibus et futuris . Et uenit ad illos et in
+            <lb/>uenit eos dormientes pre tristitia . quę eis erat futura 
+            <lb/>et dixit illis . Dormite iam et requiescite . O quam 
+            <lb/>magna benignitas magistri et caritas erga discipulos .
+            <lb/>ut enim illi requiescerent . Ille uigilabat et pro eis ora
+            <lb/>bat ut illorum fides non deficeret . et quasi interuallo 
+            <lb/>facto dixit eis . Surgite eamus . ne nos quasi timi
+            <lb/>dos inueniant iudęi . ecce enim appropinquauit qui me 
+            <lb/>tradet . Adhuc eo loquente ecce iudas unus de duo
+            <lb/>decim uenit . Vnus quidem numero non unus me
+            <lb/>rito quod pro uenditione domini sui perdiderat . Et cum eo 
+            <lb/>turba multa cum gladiis et fustibus . qui <subst><del>misi</del><add resp="later">missi</add></subst> fuerant 
+            <lb/>a principibus et senioribus populi . et appropinquauit 
+            <lb/>iesu ut oscularetur eum et ait illi . Aue rabbi . et os
+            <lb/>culatus est eum . Dixitque illi iesus . Amice . ad quod ue
+            <lb/>nisti? Osculo filium hominis tradis? Tunc acces
+            <lb/>serunt et manus iniecerunt in iesum . et tenuerunt 
+            <lb/>eum . Et ecce petrus extendens manum exemit 
+            <lb/>gladium . et percussit seruum principis sacerdotum et ampu
+            <pb n="71r" xml:id="P25_fol_71r"/><lb n="1"/>-tauit auriculam eius dextram . Respondens autem iesus 
+            <lb/>ait . sinite usque adhuc . et cum tetigisset auriculam eius sana
+            <lb/>uit eum . Abscisio autem auriculae significat ablatio
+            <lb/>nem meriti sacerdotii a iudeis . et quod iterum restaura
+            <lb/>ta est hoc quidem demonstrat . quod post conuersionem 
+            <lb/>gentium omnis israel saluus erit . Tunc ait iesus petro . 
+            <lb/>conuerte gladium tuum in locum suum . Omnes enim qui accepe
+            <lb/>rint gladium gladio perhibunt . An putas quia non 
+            <lb/>possum rogare patrem meum . et exhibebit mihi modo 
+            <lb/>plusquam duodecim legiones anglorum? Quomodo ergo 
+            <lb/>implebuntur scripturę quia sic oportet fieri? Nume
+            <lb/>rum hic finitum posuit . pro infinito . Non indigeo duo
+            <lb/>decim apostolorum auxilio . qui possum habere .lxx<hi rend="sup">ta</hi>.ii<hi rend="sup">o</hi>.
+            <lb/>milia anglorum . si certare uoluissem. Vna quidem legio 
+            <lb/>apud ueteres . sex milibus completur hominum . Iste quoque 
+            <lb/>gladius secundum matheum quem qui acceperit peribit . 
+            <lb/>uindictam significat . Ác sí dixisset . Dominus qui iniuriarum 
+            <lb/>suarum mala uindicauerint in hac uita . in suis peri
+            <lb/>turi sunt peccatis . quæ si patienter pertulissent . pro mar
+            <lb/>tyrio illis computarentur . Ipsa ueritate dicente . si 
+            <lb/>remiseritis hominibus peccata eorum . dimittet uobis 
+            <lb/>pater uester caelestis peccata uestra . Et iterum . Si non 
+            <lb/>remiseritis peccantibus in uos . nec dimittetur uobis . 
+            <lb/>quapropter et hunc conuerti in uaginam precepit gla
+            <lb/>dium . vt unusquisque de corde suo remittat fratribus 
+            <lb/>suis in se peccantibus . Hęc est nostrorum indulgentia 
+            <lb/>delictorum . ut si in nos indulgeamus peccantibus . dimit
+            <lb/>tatur nobis ipsa attestante ueritate . Dimittite 
+            <pb n="71v" xml:id="P25_fol_71v"/><lb n="1"/>et dimittetur uobis . Deinde post haec et multa his 
+            <lb/>similia quę enarrare perlongum est . uenit ad passio
+            <lb/>nem quam pro salute humani generis uoluntarie 
+            <lb/>pertulit . Obpropria enim pro nobis et falsa sustinuit 
+            <lb/>testimonia . dicentibus falsis testibus . Hic dixit pos
+            <lb/>sum destruere templum hoc . et post triduum
+            <lb/>reaedificare illud . Quomodo falsi testes sunt?
+            <lb/>dum eadem dicta sanctificati sunt que uere iesus 
+            <lb/>dixerat . Idcirco autem falsi testes sunt . quia de 
+            <lb/>templo salomonis quod .xl. et sex annis aedifica
+            <lb/>tum est illum dixisse putabant . Ille autem de templo 
+            <lb/>corporis sui dixerat . Falsus igitur testis est qui 
+            <lb/>non eodem sensu dicta intelligit quo dicuntur . 
+            <lb/>ille irrissiones pro nobis . Ille sputa . Ille flagella susti
+            <lb/>nuit . dicentibus iudaeis . Reus est mortis . et expuen
+            <lb/>tes in faciem eius colaphis eum cedebant . palmasque 
+            <lb/>in faciem eius dantes irridebant eum dicentes . Prophe
+            <lb/>tiza nobis christe . quis est qui te percussit? Ille quoque 
+            <lb/>spineam coronam pro nobis super caput portauit . et ad 
+            <lb/>extremum in cruce pro nobis inter duos latrones sus
+            <lb/>pensus est . Et pretereuntes blasphemabant eum 
+            <lb/>mouentes capita sua et dicentes . Alios saluos 
+            <lb/>fecit . seipsum non potest saluum facere? Hiero
+            <lb/>nimus dicit . Velint nolint confitentur scribę
+            <lb/>et farisaei . quod alios saluos fecerit . Ó iudaei . uestra
+            <lb/>uos condemnat sententia . qui enim alios saluos
+            <lb/>fecit . Vtique si uellet et seipsum saluare poterat .
+            <lb/>Et iterum dicebant . Si rex israel est descendat nunc
+            <pb n="72r" xml:id="P25_fol_72r"/><lb n="1"/>de cruce et credimus ei . Ó iudaei . fraudulenta est uestra 
+            <lb/>promissio . quid enim plus est de cruce adhuc uiuen
+            <lb/>tem descendere . án de sepulchro mortuum surgere . 
+            <lb/>surrexit enim et non credidistis . quanto magis si de 
+            <lb/>cruce descenderet dum adhuc uiueret . non credere
+            <lb/>tis ei . Unus autem ex his qui pendebant latronibus 
+            <lb/>blasphemabat eum dicens . si tu es christus saluum fac te
+            <lb/>met et nos . Respondens autem alter increpauit eum 
+            <lb/>illum dicens . neque tu times deum . dum in eadem dam
+            <lb/>nationes . et nos quidem iuste . nam digna factis re
+            <lb/>cipimus . hic uero nichil mali gessit . et conuersus 
+            <lb/>dixit ad iesum . Domine memento mei . cum ueneris in reg
+            <lb/>num tuum . Et dixit illi iesus . Amen dico tibi . ho
+            <lb/>die mecum eris in paradiso . Ammirandum est 
+            <lb/>fratres karissimi quam magna donatio dei . plus enim tribuit 
+            <lb/>quam rogatur . Non enim postulauerat latro nisi tan
+            <lb/>tum memorari saluator autem non solum memo
+            <lb/>rari . sed etiam eum esse secum in regnum suum promisit . 
+            <lb/>Iesus autem circa horam nonam clamauit uoce 
+            <lb/>magna dicens . Pater . In manus tuas commendo 
+            <lb/>animam meam . et hęc dicens . Inclinato capite emi
+            <lb/>sit spiritum . Hic quidem diuine potestatis ostendit 
+            <lb/>indicium dicendo emittere spiritum . sicut ipse alibi 
+            <lb/>ait . nemo potest tollere a me animam meam . 
+            <lb/>sed ego pono eam a me ipso . ut iterum accipiam eam . 
+            <lb/>Hi<add resp="scribe" place="sup">n</add>c agustinus ait . Incipiamus ergo fratres karissimi
+            <lb/>hodie . de crucis tropheo predicare . et honoremus 
+            <lb/>hunc diem . quia caelebrando solemnitatem 
+            <pb n="72v" xml:id="P25_fol_72v"/><lb n="1"/>huius diei magnis coronabimur uirtutibus . In quo per lignum 
+            <lb/>crucis totus saluatus est mundus . Hodie enim diabolus 
+            <lb/>uictus est . et homo a poenis absolutus est . et deus glori
+            <lb/>ficatus est . Hodie quidem apud iudaeos sol ab hora 
+            <lb/>sexta usque ad horam nonam obscuratus est . Non enim ferre 
+            <lb/>poterat creatura . Iniurias creatoris sui . Et ideo retraxit 
+            <lb/>sol radios suos . ne uideret impiorum facinora . Hodie 
+            <lb/>quidem peccauit adam in paradyso . et hodie eiectus 
+            <lb/>est de illo . Hodie uero christus in sexta mundi aetate 
+            <lb/>eleuatus est in cruce . et humanum genus saluatum est 
+            <lb/>per crucem . Hodie siquidem exiuit fur a paradyso terre
+            <lb/>no . et hodie introiuit latro in caelesti regno . Con
+            <lb/>siderate ergo fratres karissimi uerum dei iudicium . quia propter 
+            <lb/>unum peccatum damnatus est adam . et propter unam fidei 
+            <lb/>uocem saluatus est latro . vnum peccatum deiecit illum . 
+            <lb/>et una iustitia introduxit iustum . Videte fratres quam 
+            <lb/>ammirabile est misterium dei et inscrutabile iudicium 
+            <lb/>eius . quia nemo ab initio mundi ante latronem repro
+            <lb/>missionem paradysi accepit . queso ergo uos karissimi . 
+            <lb/>perscrutamini diligenter uetus et nouum testamen
+            <lb/>tum . quia ibi intelligetis quod non abraham . 
+            <lb/>non isaac . non iacob . non moysen . nec prophetas . nec 
+            <lb/>apostolos meruisse repromissionem paradysi . sed ante 
+            <lb/>omnes reperietis latronem accepisse . neccessarium 
+            <lb/>est ergo querere . Cur huic ante tales uiros fide 
+            <lb/>dignissimos et in bonis operibus potentissimos . repro
+            <lb/>misit deus paradysum . Haec est enim causa . quia isti 
+            <lb/>per signa et mirabilia quę sibi per dei misteria sunt reuelata .
+            <pb n="73r" xml:id="P25_fol_73r"/><lb n="1"/>deo crediderunt et eum adorauerunt . Iste autem non uidit 
+            <lb/>saluatorem super thronum regalem . non adorari in templum . 
+            <lb/>non loquentem de caelis . sed in poena sibi coniunctum 
+            <lb/>quasi latronem . et tamen rogauit eum quasi regem in 
+            <lb/>caelis sedentem . et per fidem . omnium uocauit dominum dicens . 
+            <lb/>Domine . memento mei dum ueneris in regnum tuum . et ideo 
+            <lb/>credendo uerum regem eum esse . meruit ante tales uiros 
+            <lb/>audire uocem eius sibi loquentem . Amen dico tibi hodie 
+            <lb/>mecum possidebis regnum . Nemo ergo dubitet fratres 
+            <lb/>karissimi a deo multa petere . quia plus solet tribuere 
+            <lb/>quam rogatur . sicut apostolos ait . quia nec oculos uidit . 
+            <lb/>nec auris audiuit . nec in cor hominis ascendit . quanta 
+            <lb/>et qualia sunt quę preparauit deus . eum uere adorantibus 
+            <lb/>et diligentibus se in uera caritate . Haec nobis in cęlesti
+            <lb/>bus prestare dignetur saluator mundi . qui cum patre
+            <lb/>et spiritu sancto uiuit et regnat per infinita secula seculorum amen .
+        </p></div></body>
+    </text>
+</TEI>

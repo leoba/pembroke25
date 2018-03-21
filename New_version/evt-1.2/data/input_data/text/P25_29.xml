@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 29 (63r–65v)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2014-07-27T20:36:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-25T00:58:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 29 (63r–65v)" xml:id="p25_29">
+        <body><div><p>
+            <lb n="28"/><label type="lection_no"><choice><sic>.xxviii.</sic><corr resp="editor">.xxviiii.</corr></choice></label> OMELIA IN CAENA DOMINI . 
+            <pb n="63v" xml:id="P25_fol_63v"/><lb n="1"/>OPORTET HOC SCIRE ET INTELLIGERE FRATRES KARISSIMI . 
+            <lb/>quod hęc dies id est quinta feria in qua caena domini 
+            <lb/>ab apostolis pridie quam pateretur . secundum consuetudi
+            <lb/>nem legis preparata est . Ideo in solemnitate cęlebra
+            <lb/>tur et colitur . quia in ea ueteris testamenti completa est 
+            <lb/>consuetudo . agnum legalem edendo . per quem christus uerus 
+            <lb/>dei filius pro nobis immolandus in nouo testamento figu
+            <lb/>rabatur . Et quia in ea siquidem ministerium nouę legis 
+            <lb/>inchoatum est panem et uinum benedicendo . in quibus 
+            <lb/>sanctae misae misterium perficitur in nouo testamento . per 
+            <lb/>quę nos postea in interiorem hominem secundum fidem 
+            <lb/>sanctificamur et uiuificamur a domino . Et quia in ea lauit 
+            <lb/>iesus pedes discipulorum suorum . exemplum humilitatis 
+            <lb/>nobis demonstrans se inclinando ad uestigia hominum . 
+            <lb/>Sicut in euangelio scriptum est . <label type="lection_no"><add resp="scribe" place="sup">.ii.</add></label> Cum surrexisset a
+                caena
+            <lb/>dominus deposuit uestimenta sua . Id est cum descendisset 
+            <lb/>de caelestibus expoliauit se suis uestimentis . formam serui 
+            <lb/>induens . et praecinxit se lint<add resp="scribe" place="sup">h</add>eo . Id est induit se
+                uestimen
+            <lb/>tis nostrae mortalitatis . Per hoc itaque significatur . quod 
+            <lb/>diuinitas nihil passa est sed tantum humanitas . 
+            <lb/>Deinde misit aquam in peluem . et cepit lauare pe
+            <lb/>des discipulorum suorum . Id est effudit sanguinem suum 
+            <lb/>in terram . ut per eum mundaret in se credentium uestigia . 
+            <lb/>quę terrenis peccatis sordida erant . Et extergere 
+            <lb/>lintheo quo erat precinctus . Id est lintheo corporis 
+            <lb/>sui quo erat indutus purgare nostra facinora atque 
+            <lb/>crimina . quia tota illius passio . nostra est purgatio . 
+            <lb/>Per uestigia enim nostra . mala opera designantur . quę 
+            <pb n="64r" xml:id="P25_fol_64r"/><lb n="1"/>per christi sanguinem abluuntur . Cum autem hoc factum est 
+            <lb/>non ita debemus intelligere caenam iam <choice><sic>trasactam</sic><corr resp="editor">transactam</corr></choice> esse 
+            <lb/>uel finitam . sed ad conuiuantium mensam tantum esse 
+            <lb/>perductam . <label type="lection_no">.iii.</label> Adhuc enim cenare restabat . cum resur
+            <lb/>rexit dominus lauare pedes discipulorum suorum . Etenim 
+            <lb/>iudas adhuc inter eos commanebat . nam postea 
+            <lb/>iesus recubuit et panem intinctum traditori suo dedit .
+            <lb/>Uenit ergo ad simonem petrum . non ita tamen intel
+            <lb/>ligendum est fratres . quod post ceteros ad eum uenerit 
+            <lb/>quasi aliquibus iam lauisset pedes . Sed quod ab illo 
+            <lb/>primum ceperit quia ipse erat uenturus primus et prin
+            <lb/>ceps apostolorum . Ideo autem expauit petrus quia tunc 
+            <lb/>primum pedes eius lauare cepit iesus . quod unusquisque 
+            <lb/>ceterorum si ad quem libet eorum primum ueniret expa
+            <lb/>uesceret . Et dixit . Domine tu mihi lauas pedes? Ác sí 
+            <lb/>dixisset . Tu deus . ego homo . Tu dominus . ego seruus . Tu re
+            <lb/>demptor . ego peccator . Et ideo non decet ut mihi lauas 
+            <lb/>pedes . <label type="lection_no">.iiii.</label> Respondit autem iesus et dixit ei quod ego facio 
+            <lb/>tu nescis modo . scies autem postea . Ac si aperte 
+            <lb/>diceret . Huius facti mysterium nondum intelligis . 
+            <lb/>sed postea intellecturus eris . Quia si <note type="parchment">There is a hole in the parchment here.</note>noN
+            <lb/>lauero te . non habebis partem mecum . Et dixit pe
+            <lb/>trus . Domine . non tantum pedes sed et manus et caput . <note type="parchment">There is a hole in the parchment here.</note>
+            <lb/>Quod prius pro timore denegauerat . tunc<note type="parchment">There is a hole in the parchment here.</note>
+            <lb/>ardentius postolabat ut totus laua- <note type="parchment">There is a hole in the parchment here.</note><note type="parchment">There is a hole in the parchment here.</note>
+            <lb/>retur . Et dixit ei iesus . qui lotus est <note type="parchment">There is a hole in the parchment here.</note>non<note type="parchment">There is a hole in the parchment here.</note>
+            <lb/>habet opus nisi tantum lauare pedes . Lauatur
+            <lb/>quidem unusquisque in lauacro sancti baptismatis . 
+            <pb n="64v" xml:id="P25_fol_64v"/><lb n="1"/>Et iterum puluere habitationis terrę polluitur . <label type="lection_no"><add resp="scribe" place="sup">.v.</add></label>
+                Et
+            <lb/>ideo necesse est habet iterum lauari per gratiam diuinę pieta
+            <lb/>tis . Licet prius . eadem gratia esset totus mundatus . Coti
+            <lb/>die igitur pedes lauat nobis iesus . qui apud patrem semper in
+            <lb/>terpellat pro nobis . Postquam autem lauit pedes eorum accepit 
+            <lb/>uestimenta sua . Id est post effusionem sanguinis pro nobis 
+            <lb/>tertia die de sepulchro resurgens in eodem corpore 
+            <lb/>quo moriebatur in cruce immortalis factus . caelestibus 
+            <lb/>indutus est uestimentis . Et cum recubuisset iterum dixit eis . 
+            <lb/>Scitis quid fecerim uobis . uos uocatis me magistrum et dominum . 
+            <lb/>et benedicitis sum etenim . Si igitur ego <subst><del>laua</del><add resp="later">lauaui</add></subst> uestros pe
+            <lb/>des dominus et magister . et uos debetis alter alterius lauare 
+            <lb/>pedes . Ac si aperte diceret . Si ego deus et dominus omnium dimi
+            <lb/>-si uobis peccata uestra . quanto magis et uos debetis alter 
+            <lb/>alteri peccata dimittere . <label type="lection_no">.vi.</label> Hoc itaque modo fratres karissimi . 
+            <lb/>Alter alterius debemus lauare pedes . et licet hoc corpo
+            <lb/>raliter caritatis officio et humilitatis exemplo aliquibus
+            <lb/>utiliter facere placeat . In corde tamen spiritaliter omni
+            <lb/>bus per agendum est fidelibus . ut delicta nostra id est in inui
+            <lb/>cem nobis dimittamus . Gaudeant igitur omnes qui hęc 
+            <lb/>au<note type="parchment">There is a hole in the parchment here.</note>dierint . si taliter impleuerint . Illi autem con
+            <lb/>tristentur trepidi in suis conscientiis . qui nondum
+            <lb/><note type="parchment">There is a hole in the parchment here.</note>agnouerunt nec operibus implere potuerunt
+            <lb/><note type="parchment">There is a hole in the parchment here.</note>dicentes . quid nos ad hęc dicturi sumus
+            <lb/><note type="parchment">There is a hole in the parchment here.</note>fratres? Vel quam excusationem habere
+            <lb/><note type="parchment">There is a hole in the parchment here.</note>poterimus? qui de dignamur impen
+            <lb/>dere peregrinis . quod iesus dignatus est impendere
+            <lb/>seruis sui<add resp="scribe" place="sup">s</add>. <label type="lection_no">.vii.</label> Sunt enim aliqui potentes et nobiles .
+            <pb n="65r" xml:id="P25_fol_65r"/><lb n="1"/>sunt et aliquae matronae . quę dedignantur sé inclinare 
+            <lb/>usque ad uestigia sanctorum in hoc mundo peregrinantium . et ad 
+            <lb/>hospitum pedes . sed nec suorum quidem cuique seruorum ut pro se 
+            <lb/>faciant imperare uolunt . <subst><del>Erubescant</del><add resp="scribe" place="sup">Erubescvnt</add></subst> enim suis manibus 
+            <lb/>in hoc mundo paupertatem sustinentium sanctorum contractare 
+            <lb/>uestigia . sed si se concorrexerint plus erubescent et do
+            <lb/>lebunt . cum ab eorum consortio separati fuerint in futuro .
+            <lb/>Tunc enim sine ullo poenitentię remedio affligentur . 
+            <lb/>Cum illos quos dispexerant propter humilitatem uide
+            <lb/>rint caeleste percipere regnum . Se autem propter super
+            <lb/>biam meruisse supplicium . Timeamus ergo fratres quod 
+            <lb/>petrus timuit quando iesus dixit . si non lauero te non 
+            <lb/>habebis partem mecum . ne forte et nos si sanctorum pedes non dig
+            <lb/>namur abluere . Partem cum illis non mereamur habere .
+            <lb/>Inclinemus nos ergo fratres ad eorum pedes . quia si hoc facimus 
+            <lb/>illorum quidem pedes manibus nostris tangimus . sed animarum 
+            <lb/>nostrarum maculas per fidem et humilitatem abluimus . et non 
+            <lb/>solum minuta . sed etiam capitalia peccata purgamus .
+            <lb/>Ecce ergo fratres iam deo propitio dies remissionis in proximo 
+            <lb/>adsunt . Et ideo quasi perfecti ęcclesię filii cum dei adiutorio
+            <lb/>uestros animos preparate . et quantum potestis laborare 
+            <lb/>contendite . Vt in illa sancta solemnitate paschali con
+            <lb/>uiuia uestra moderentur . Ne per intemperantiam cibi et potus .
+            <lb/>sancta festiuitas conuertatur nobis in luctum . Sicut enim 
+            <lb/>qui neophitis exemplum malę conuersationis ostenderit 
+            <lb/>et pro se et pro illis in die iudicii redditurus est rationem . Ita 
+            <lb/>quicumque illos ad bonum opus et uerbis ammonere 
+            <lb/>et operibus sanctis uoluerit prouocare . duplicia in aeternum premia 
+            <pb n="65v" xml:id="P25_fol_65v"/><lb n="1"/>merebitur a domino iesu remunerante percipere . qui cum patre 
+            <lb/>et spiritu sancto uiuit et regnat . in secula seculorum . ameN .
+        </p></div></body>
+    </text>
+</TEI>

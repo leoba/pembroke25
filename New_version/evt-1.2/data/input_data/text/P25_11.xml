@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 11 (19v–21r) </title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2006-08-21T11:42:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-23T21:41:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 11 (19v–21r)" xml:id="p25_11">
+        <body><div><p>
+            <lb n="5"/>.xi. OMELIA IN NATALE INNOCENTUM .
+            <lb/>GLorificare oportet et honorare hanc solemnita
+            <lb/>tem beatorum ac felicium infantium fratres karissimi . quorum 
+            <lb/>hodie triumphalem passionis gloriam caelebramus . quos 
+            <lb/>herodes sacrilegus postquam fefellerunt eum magi ab o
+            <lb/>riente uenientes adorare dominum . pro christo iussit occide
+            <lb/>re . Meditabatur enim multum cupiens per dolositatem . Inter 
+            <lb/>eos iesum inuenire ad interficiendum . sed quoniam cura illi 
+            <lb/>erat de amministrantibus domini sui ; Apparuit angelus 
+            <lb/>in somnis ioseph dicens . Surge et accipe puerum et ma
+            <lb/>trem eius et fuge in ægyptum . et esto ibi usque dum dicam 
+            <lb/>tibi . Futurum est enim ut herodes quęrat puerum et per
+            <lb/>dendum eum . <label type="lection_no">.ii.</label> Qui consurgens statim accepit puerum 
+            <lb/>et matrem eius . et secessit in aegyptum . et erat ibi usque ad 
+            <lb/>obitum herodis . ut adimpleretur quod dictum est a domino 
+            <lb/>per prophetam dicentem . Ex egypto uocaui filium meum . 
+            <lb/>Hanc quidem fugam longe ante isaias prophetauerat 
+            <lb/>dicens . Ecce dominus ascendet super nubem leuem et ingredi
+            <lb/>etur in aegyptum . et conterentur simulacra ægypti 
+            <lb/>ante conspectum eius . <label type="lection_no">.iii.</label> Hæc nub<add resp="scribe" place="sup">e</add>s leuis corpus sanctæ
+                ma
+            <lb/>rie uirginis est quod quia sine peccato semper fuit leue 
+            <lb/>reputatur . super cuius igitur humerum christus deportatur 
+            <lb/>est in ægyptum . De qua dictum est . Erunt quinque 
+            <lb/>ciuitates in terra aegypti . et una ex illis uocabitur ciuitas 
+            <pb n="20r" xml:id="P25_fol_20r"/><lb n="1"/>solis . Uere ciuitas solis est illa ciuitas . In qua iesus christus in 
+            <lb/>habitauit qui est uerus sol iustitie . <label type="lection_no">.iiii.</label> In illa igitur ciuitate 
+            <lb/>quæ hieropolis uocatur . in nocte aduentus domini in eam . com
+            <lb/>minuta sunt omnia . et ad nihilum redacta sunt idola . Haec 
+            <lb/>autem fuga iesu in ægypto . significat spiritaliter christum ad 
+            <lb/>gentes iturum esse ut crederent in eum . In qua etiam per
+            <lb/>quattuor expectauit annos . iuxta preceptum patris loquen
+            <lb/>tis ad eum . Esto ingentibus donec omnes credant . Tunc 
+            <lb/>autem herodes cruentus cum cognouisset quod inlusus esset . 
+            <lb/>a magis nolentibus iesu iratus est ualde . <label type="lection_no">.v.</label> Et mittens minis
+            <lb/>tros suos occidit omnes pueros . qui erant in bethleem et in om
+            <lb/>nibus finibus eius a bimatu et infra . secundum tempus quod 
+            <lb/>exquisierat a magis . Hii autem pueri a bethleem et de omnibus 
+            <lb/>finibus eius usque ad duo milia congregati . In campis ui
+            <lb/>ginti constituti sunt . et in uno quoque campo . centum post ea 
+            <lb/>interfecti sunt . et non solum duodecim dierum uel unius 
+            <lb/>anni infantes sed a puero duorum annorum usque ad puerum 
+            <lb/>unius noctis occisi sunt . <label type="lection_no">.vi.</label> Quærendum est autem quare sub 
+            <lb/>hac temporis mensura rex crudelis occidit pueros . id est 
+            <lb/>ut christus inter innocentes filios occideretur . Nonne rex 
+            <lb/>iniquus nouerat quod regi et deo nascenti possibile erat . 
+            <lb/>utrum cresceret in breui tempore . et oculis omnium 
+            <lb/>quasi unius anni uel duorum puer appareret . aut crescens 
+            <lb/>in paruitate corporis se caelaret . Ideo autem sub hac con
+            <lb/>ditione temporis omn<subst><del>i</del><add resp="scribe">e</add></subst>s occidit pueros . siue quia magi 
+            <lb/>post annum a natiuitate domini ab oriente aduenerant et per 
+            <lb/>annum alterum quia diu expectauit eos ualde iratus . istos 
+            <lb/>occidit infantulos . <label type="lection_no">.vii.</label> Refulgent igitur isti in regno dei 
+            <pb n="20v" xml:id="P25_fol_20v"/><lb n="1"/>figuram omnium sanctorum tenen<add resp="scribe" place="sup">t</add>es . quia ipsi sunt
+                primitiui mar
+            <lb/>tyrum . quoniam statim post aduentum domini in carne coronam 
+            <lb/>martyrii meruerunt et uictoriae . ante petrum et paulum . 
+            <lb/>et ante omnes martyres . Ideo dominus multum delectatur . comi
+            <lb/>tatu iustorum et innocentia . uirgines enim sunt et sequuntur 
+            <lb/>eum . quocumque ierit . De quorum persona in aeuangelio dicit . 
+            <lb/>Sinite paruulos uenire ad me et nolite prohibere eos . talium 
+            <lb/>est enim regnum caelorum . Et iterum . Nisi conuersi fueritis 
+            <lb/>et efficiamini sicut paruuli . non intrabitis in regnum cęlorum .
+            <lb/>Id est si non tales sitis innocentes sicut infantes . regnum 
+            <lb/>caelorum non possidebitis . <label type="lection_no">.viii.</label> Iuxta igitur paruulorum exemplum .
+            <lb/>prouocat nos ad se christus . Hos enim sibi elegit dominus . quorum in .
+            <lb/>nocentiam puram et mundam esse cognouerit sicut paruulorum . 
+            <lb/>Paruulus enim simplicitate ambulat et innocenter . non de
+            <lb/>lectatur deliciis mundi . nec mulierum <choice><sic>pulchritutudine</sic><corr resp="editor">pulchritudine</corr></choice>
+            <lb/>non est ambitiosus . nulli inuidet . numquam cogitat malum . 
+            <lb/>Horum igitur fratres karissimi qui hodie pro christi nomine sanguinem 
+            <lb/>suum fuderunt . solemnitatem et lętitiam uoluntarię cęlebre
+            <lb/>mus . ut nos mereamur malitia esse paruuli . sensibus autem 
+            <lb/>perfecti . et prudentes sicut serpentes . Uigilantes assidue 
+            <lb/>circa gemmas in capite suo positas . et simplices a malo sicut 
+            <lb/>columbae . Isti sunt enim qui ante tempus martyrii effecti 
+            <lb/>sunt martyres . et ante baptismum baptizati sunt . Si quis autem 
+            <lb/>dicat quomodo baptizati sunt ; respondebimus ei . sicut bap
+            <lb/>tizatus est abraham et isaac et iacob et omnes sancti . qui ante 
+            <lb/>aduentum domini nostri iesu christi plena fide et bonis operibus placu
+            <lb/>erunt deo et sicut baptizatus est ille latro in cruce qui credi
+            <lb/>dit in iesum cui dicitur a domino . Amen dico tibi . Hodie mecum 
+            <pb n="21r" xml:id="P25_fol_21r"/><lb n="1"/>eris in paradiso . quibus certissime omnibus uera fides pro baptismo 
+            <lb/>erat . Isti sunt autem infantes qui lauerunt stolas suas et candidas 
+            <lb/>eas fecerunt in sanguine agni . et sequuntur agnum quocumque 
+            <lb/>ierit . Id est iesum christum filium dei per omnia regna caelorum sequuntur . 
+            <lb/>et canticum nouum canunt . Quod nemo cantare potest de 
+            <lb/>his qui cum mulieribus se miscuerunt . et nullus locus illis prohibetur 
+            <lb/>in regno dei . in quo non possent intrare . Obsecramus ergo 
+            <lb/>fratres karissimi . ut licet mentis coæquari illis non possumus . eorum inter
+            <lb/>cessionibus in numero sanctorum consortes esse mereamur in regnis 
+            <lb/>caelestibus . Largiente domino nostro iesu christo . qui cum patre et spiritu 
+            <lb/>sancto uiuit et regnat . in secula seculorum . amen .
+        </p></div></body>
+    </text>
+</TEI>

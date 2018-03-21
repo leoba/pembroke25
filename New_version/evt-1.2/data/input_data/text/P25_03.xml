@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermon 3 (7v–9r)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2015-09-26T03:12:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-23T18:58:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermon 3 (7v–9r)" xml:id="p25_3">
+        <body><div><p>
+            <lb n="8"/>.iii. IN .ii<hi rend="sup">a</hi>. DOMINICA . ANTE NATALE DOMINI :~
+            <lb/><label type="lection_no">.i.</label> ILLud scire et in corde frequenter meditari . et animo uolun
+            <lb/>tarie recordari debemus fratres karissimi . quod iam prope est dies ad
+            <lb/>uentus domini nostri iesu christi in mundum secundum carnem . quem cum 
+            <lb/>gaudio magno caelebrare debemus . Et ideo rogo et am
+            <lb/>moneo ut in quantum possumus cum dei adiutorio laboremus . 
+            <lb/>et cum pura conscientia et mundo corde castoque corpore ; 
+            <lb/>In illo die ad altare dei studeamus accedere . ut corpus 
+            <lb/>et sanguinem christi non ad iudicium . sed ad remedium animę nostrę 
+            <lb/>mereamur accipere ; quia in illo die nullus christianus . a corpo
+            <lb/>re et sanguine christi . sé elongare debet . <label type="lection_no">.ii.</label> In christi enim corpore 
+            <lb/>uita nostra consistit . sicut ipse dominus dixit . Nisi manducaue
+            <lb/>ritis carnem filii hominis et biberitis eius sanguinem . non ha
+            <lb/>bebitis uitam in uobis . Mundet ergo uitam . qui uult 
+            <lb/>accipere <note>There is an erasure followed by a blank space here.</note> uitam. Ad contemptum 
+            <lb/>accipiet uitam . et plus ex ipsa corrumpetur quam sanetur . 
+            <lb/>magis occidetur . quam uiuificetur . Sicut apostolus dicit . Qui 
+            <lb/>manducat corpus domini et bibit sanguinem eius indigne . 
+            <lb/>iudicium sibi manducat et bibit . Licet ergo nos fratres 
+            <lb/>karissimi . omni tempore bonis operibus ornatos ac splendidos 
+            <lb/>esse conueniat ; Precipue tamen in die natalis domini splen
+            <pb n="8r" xml:id="P25_fol_8r"/><lb n="1"/>descere debemus . et lucere debent hominibus opera nostra bona ; 
+            <lb/><label type="lection_no">.iii.</label> consideremus ergo fratres quando aliquis homo potens nata
+            <lb/>licium suum aut filii sui caelebrare desiderat . quanto 
+            <lb/>studio ante plures dies domum suam mundare et ornare 
+            <lb/>studeat ; Et quicquid sordi<add resp="scribe" place="sup">d</add>um uiderit proici . et quod
+                utile
+            <lb/>et necessarium sit pręcipit <subst><del>et</del><add resp="scribe" place="sup">ex</add></subst>hiberi . Domus etiam si obscu
+            -ra fuerit dealbatur . pauimenta scopis mundantur . et diuer
+            <lb/>sis respersa floribus adornantur . quicquid etiam ad laetitiam 
+            <lb/>animi et ad dilicias corporis pertinet . omni sollicitudine 
+            <lb/>prouidetur. Qua causa haec aguntur fratres . nisi ut dies na
+            <lb/>talicius cum gaudio caelebretur . Ó homo si tanta praeparas 
+            <lb/>in natalicio tuo uel filii tui . quanta et qualia pręparare 
+            <lb/>debes in natalem domini tui? <label type="lection_no">.iiii.</label> Et si talia pręparas mori
+            <lb/>turo . qualia pręparare debes aeterno? Quicquid ergo non uis 
+            <lb/>inuenire in domo tua . quantum potes labora . ut non in
+            <lb/>ueniat deus in anima tua . Considera igitur . si te rex ter
+            <lb/>renus uel quicumque paterfamilias ad natalicium suum uel 
+            <lb/>filii sui inuitaret . qualibus uestimentis studéres ornatus 
+            <lb/>incedere . quam nouis ac spléndidis . ne uetústas eorum uel 
+            <lb/>foeditas oculos inuitantis offenderet ; Quanto magis 
+            <lb/>tali studio in quantum praéuales christo auxiliante con
+            <lb/>tende . ut diuersis uirtutum ornamentis anima tua composita . 
+            <lb/>simplicitatis gemmis et sobrietatis floribus adornata . ad 
+            <lb/>solemnitatem regis aeterni saluatoris mundi cum secura con
+            <lb/>scientia procedas . castitate nítidus . caritate splendidus . 
+            <lb/>elimosinis emundátus . <label type="lection_no">.v.</label> Christus enim dominus sí té ita compositum 
+            <lb/>caelebrare natalicium suum cognouerit . non solum animam 
+            <lb/>tuam per sé uisitabit . sed etiam in ea requiescens in perpetuum 
+            <pb n="8v" xml:id="P25_fol_8v"/><lb n="1"/>in illa dignabitur habitare sicut scriptum est . Inhabitabo 
+            <lb/>in illis . et inter eos ambulabo . Et iterum . Ecce stó ad ianuam 
+            <lb/>pulsans . si quis surrexerit aperire mihi intrabo ad illum .
+            <lb/>et cenabo cum illo et ille mecum . Ó quam felix est illa anima
+            <lb/>quę uitam suam deo auxiliante ita studúerit gubernare . ut christum 
+            <lb/>habitatorem in se mereatur accipere . sicut e contra . quam <choice><sic>mfe
+            <lb n="7"/>lix</sic><corr resp="editor">infelix</corr></choice> est illa anima . quæ se ita malis operibus sordidauit . et super
+            <lb/>bia se destruxit . ut non in ea christus requiescere dignatur . 
+            <lb/>sed diabolus cito dominatur . talis igitur anima si medicamentum 
+            <lb/>poenitentię non cito subuenerit . a luce relinquetur . a te
+            <lb/>nebris occupabitur . <label type="lection_no">.vi.</label> Uacuabitur dulcedine . replebitur 
+            <lb/>amaritudine . a morte inuadetur . et a uita rep<subst><del>i</del><add resp="scribe" place="sup">v</add></subst>diabitur . Non 
+            <lb/>tamen de domini pietate difidat qui talis est nec nimia disperatio 
+            <lb/>eum frangat . sed ad poenitentiam cito recurrat . et dum adhuc 
+            <lb/>noua sunt uulnera peccatorum . sic adhibeat sibi medicamenta 
+            <lb/>salubria . quia medicus noster omnipotens est . et sic consueuit plagas 
+            <lb/>nostras curare . ut nec cicatricum faciat uestigia remanere . 
+            <lb/>Et ideo fratres karissimi sicut omni tempore ab adulteris concubinis ab
+            <lb/>stinere debetis ; Ita a propriis uxoribus multis diebus ante nati
+            <lb/>uitatem domini uos continere debetis . et quotiescumque natalem domini 
+            <lb/>uel reliquias solemnitates caelebrare disponitis . aebrietatem 
+            <lb/>ante omnia fugiatis . Iracundię et malitię . quasi bestiis crudelis
+            <lb/>simis repugnetis . <label type="lection_no">.vii.</label> Odium quasi uenenum mortiferum de 
+            <lb/>corde uestro repellatis . et tanta in uobis sit caritas . ut non solum 
+            <lb/>amicos sed etiam inimicos propter deum diligatis . ut securi pos
+            <lb/>sitis dicere in oratione dominica . Dimitte nobis debita 
+            <lb/>nostra . sicut et nos dimittimus debitoribus nostris . Quia nescio 
+            <lb/>quomodo possit ad altare dei securus acce<add resp="scribe" place="sup">de</add>re . qui etiam
+            <pb n="9r" xml:id="P25_fol_9r"/><lb n="1"/>unum hominem odio habuerit in corde . Unde beatus iohannes
+            <lb/>aeuuangelista terribiliter dicit . Qui fratrem suum odit homici
+            <lb/>da est . Iam ergo uestrum est iudicare . utrum homicida debeat
+            <lb/>accedere ad accipiendum eucharistiam . antequam agat poe
+            <lb/>nitentiam . quia idem iohannes dicit . qui fratrem suum odit in te
+            <lb/>nebris est . et in tenebris ambulat et nescit quo uadit . quia tene
+            <lb/>brę obcaecauerunt oculos eius . Et iterum . Qui fratrem suum 
+            <lb/>non diligit . manet in morte . Et si quis dixerit quod deum 
+            <lb/>diligit et fratrem suum odit hic mendax est . qui enim non diligit 
+            <lb/>fratrem suum quem uidet . deum quem non uidet . quomodo potest 
+            <lb/>diligere? Haec ergo fratres assidue cogitate . ut qui boni 
+            <lb/>sunt cum dei gratia perseuerent in operibus bonis quia non qui coe
+            <lb/>perit . sed qui perseuerauerit usque in finem hic saluus erit . 
+            <lb/>Et qui se ad elemosinam esse tardos . et ad iracundiam promptos .
+            <lb/>et ad exercendam luxuriam precipites esse cognoscunt . deo 
+            <lb/>adiuuante festinent se a malis actibus eruere . ut quę 
+            <lb/>bona sunt mereantur implere . Et cum dies iudicii uenerit 
+            <lb/>non cum impiis et peccatoribus puniantur . sed cum iustis et imma
+            <lb/>culatis et misericordibus . peruenire ad premia in caelestia reg
+            <lb/>na mereantur . Prestante domino nostro iesu christo . cui est honor 
+            <lb/>et imperium et gloria in saecula sęculorum . Amen .
+        </p></div></body>
+    </text>
+</TEI>

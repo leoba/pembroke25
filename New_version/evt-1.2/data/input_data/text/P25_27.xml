@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 27 (56r–58r)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2014-07-27T20:15:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T03:14:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 27 (56r–58r)" xml:id="p25_27">
+        <body><div><p>
+            <lb n="26"/>Factum est autem postquam .xxvii. ITEM ALIA .
+            <lb/>emundasset iesus templum suum ab omnibus scan
+            <pb n="56v" xml:id="P25_fol_56v"/><lb n="1"/>dalis . accesserunt ad eum caeci et claudi et omnes male 
+            <lb/>habentes et sanauit eos . Uidentes autem principes 
+            <lb/>sacerdotum et scribae mirabilia quae fecit . et pue 
+            <lb/>ros clamantes in templo et dicentes . Ósanna filio 
+            <lb/>dauid indignati sunt et dixerunt ei . Audis quid 
+            <lb/>isti dicunt? Principes et scribę et pharisęi et inuidi 
+            <lb/>iudaei . doemones significant . qui semper cupiunt 
+            <lb/>nocere laudantes et magnificantes deum . Pueri 
+            <lb/>autem clamantes in templo . demonstrant sacerdo 
+            <lb/>tes . qui semper laudant uoce magna dominum . Iesus autem 
+            <lb/>dicit illis . Vtique . Non legistis quod scriptum est in lege? 
+            <lb/>quia ex ore infantium et lactantium perfecisti laudem . 
+            <lb/>O quam moderata est respontio . patientiam quę ab 
+            <lb/>omnibus tenenda est contra inuidiam demonstrans . 
+            <lb/>non dixit quod scribę audire ab eo cupiebant . ut di 
+            <lb/>ceret . Benefaciunt pueri . ut mihi testimonium perhi 
+            <lb/>beant . nec rursum dixit quia pueri sunt debetis ętati 
+            <lb/>ignoscere . non duo hęc protulit quę audire cupie 
+            <lb/>bant . sed exemplum de octauo psalmo monstrauit . 
+            <lb/>ut tacente domino testimonium scripturarum . puerorum 
+            <lb/>dicta firmaret . Hieronimus dicit . Plerique arbitrantur 
+            <lb/>maximum signorum esse quod lazarus suscitatus est . quem 
+            <lb/>saluator iam quattuor dies in monumento haben
+            <lb/>tem uerbo tantum suscitauit dicens . Lazare ueni 
+            <lb/>foras . et statim prodiit qui fuerat mortuus ligatis 
+            <lb/>pedibus et manibus . et dixit iesus . Soluite eum et sini 
+            <lb/>te abire . et statim exiit sanus in domum suam .
+            <lb/>Alii putant maximum esse quod qui cæcus natus est .
+            <pb n="57r" xml:id="P25_fol_57r"/><lb n="1"/>ex utero lumen acceperit . faciente domino lutum exsputo 
+            <lb/>in terra . et liniuit lutum super oculos eius dicens . 
+            <lb/>Uade et laua in natario syloe abiit ergo et lauit . 
+            <lb/>et uenit uidens et credidit deo . et iterum alii ęsti 
+            <lb/>mabant . quod ad iordanem uox audita sit patris 
+            <lb/>baptizato domino dicentis . Hic est filius meus dilectus . 
+            <lb/>in quo mihi bene complacui ipsum audite . Et rursum 
+            <lb/>quod assumpto petro et iacobo et iohanne secum 
+            <lb/>in montem excelsum seorsum . gloriam ostenderit 
+            <lb/>triumphantis . et resplenduit facies eius sicut sol . 
+            <lb/>uestimenta autem eius facta sunt alba sicut nix . 
+            <lb/>et ecce apparuit eis moyses et helias cum eo loquen
+            <lb/>tes . Ut autem aposto<add resp="scribe" place="sup">lo</add>rum augeret fidem et firmiter
+            <lb/>crederent in eum . Hoc dedit iesus signum de cælo . 
+            <lb/>Helia inde descendente quo conscenderat . et moy 
+            <lb/>se ab <choice><sic>mferis</sic><corr resp="editor">inferis</corr></choice> resurgente quo exierat . quod per isaiam 
+            <lb/>prophetatum est dicentem pete tibi signum a domino deo 
+            <lb/>tuo in profundum <choice><sic>mferni</sic><corr resp="editor">inferni</corr></choice> . siue in excelsum supra . 
+            <lb/>Michi autem hoc uidetur esse mirabilius inter omnia 
+            <lb/>signa et mirabilia quę fecit quod unus homo et in illo 
+            <lb/>tempore in iudaeis contemptibilis . ut postea ab eis 
+            <lb/>crucifixus est . Potuerit de uno flagello tantam 
+            <lb/>eicere multitudinem . mensasque subuertere . ca 
+            <lb/>thedras confringere . et alia facere quę infinitus 
+            <lb/>non fecisset exercitus . Nimirum . species enim ignea 
+            <lb/>atque caelestis radiabat ex oculis eius . et diuinitatis 
+            <lb/>maiestas fulgebat in facie terribiliter contra iudęos . 
+            <lb/>Colligerunt ergo pontifices et pharisaei concilium
+            <pb n="57v" xml:id="P25_fol_57v"/><lb n="1"/>et dicebant . quid facimus quia hic homo multa sig 
+            <lb/>na facit? si dimittimus eum sic . omnes credent in eum .
+            <lb/>et uenient romani . et tollent nostrum <subst><del>locum</del><add resp="scribe" place="sup">locam</add></subst> et gentem . 
+            <lb/>Unus autem ex ipsis caiphas cum esset pontifex anni 
+            <lb/>illius et dixit eis . Vos nescitis quicquam nec cogita
+            <lb/>tis . quia expedit uobis ut unus moriatur homo 
+            <lb/>pro populo . et non tota gens pereat . Hoc autem a se
+            <lb/>metipso non dixit . sed cum esset . pontifex anni illius 
+            <lb/>prophetauit . quia iesus moriturus erat pro gente . 
+            <lb/>et non tantum pro gente . sed ut filios dei qui erant 
+            <lb/>dispersi congregaret in unum . Ab illo ergo die . cogita
+            <lb/>uerunt ut interficerent eum . Iesus autem relictis 
+            <lb/>illis abiit foras extra ciuitatem usque in betha 
+            <lb/>niam . Hoc autem intelligendum est fratres karissimi et re 
+            <lb/>uelandum . quod tantę in illo die fuerit pauper 
+            <lb/>tatis . ut in urbe maxima nullus eum ciuium susce 
+            <lb/>perit hospitem . Nullamque mansionem inuene 
+            <lb/>rit in ea . et tamen nulli eorum adulationem fece 
+            <lb/>rit . Vt non mala sua illis annuntiaret . et quod 
+            <lb/>eis perficeret ad salutem . Hoc quidem sacerdotibus 
+            <lb/>pręfigurans ác demonstrans . ut licet munera 
+            <lb/>et dona principum ammitterent . non permitescant 
+            <lb/>uera illis annuntiare . nec sileant dicere quæ 
+            <lb/>proficiant eis ante tribunal christi in die iudicii . 
+            <lb/>Ibique mansit . Id est apud lazarum sororesque eius . 
+            <lb/>quem pridie a morte suscitauerat . quia in israel perma 
+            <lb/>nere non potuit . Hoc quidem significans . quod 
+            <lb/>gentiles relictis iudęis ex tunc conuerteret 
+            <pb n="58r" xml:id="P25_fol_58r"/><lb n="1"/>ad fidem . Sicut alibi scriptum est . Quando conuer 
+            <lb/>sa fuerit multitudo gentium . tunc omnis israel saluus 
+            <lb/>erit . Hoc quoque sciendum est fratres karissimi . quod mistice 
+            <lb/>surrexit iesus hodie a bethania . et iterum rediit ad 
+            <lb/>eam . Quia bethania domus oboedientię interpre
+            <lb/>tatur . hoc quidem significat quod semper deside
+            <lb/>rat permanere in corda subiectorum . et requiescere 
+            <lb/>in illis . Et ideo oportet nos bethaniam semper esse 
+            <lb/>deo . Id est domum oboedientiæ . ut semper nobiscum 
+            <lb/>maneat semper in nobis habitet . Sicut apostolos 
+            <lb/>ait . Templum dei uiui estis . et spiritus sanctus habitat 
+            <lb/>in uobis . Haec nobis prestare dignetur sal
+            <lb/>uator mundi . qui cum patre et spiritu sancto uiuit et reg
+            <lb/>nat . in saecula seculorum . amen .
+        </p></div></body>
+    </text>
+</TEI>

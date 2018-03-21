@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 16 (28v–31v)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2006-08-25T11:46:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-23T23:55:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 16 (28v–31v)" xml:id="p25_16">
+        <body><div>
+            <p>
+                <lb n="28"/>.xvi. OMELIA IN SEPTUAGESIMA . 
+                <pb n="29r" xml:id="P25_fol_29r"/><lb n="1"/>INquirendum est fratres karissimi . et subtiliter discutiendo inuesti
+            <lb/>gandum . quid mysterii continetur in officiis . quæ scripta 
+            <lb/>sunt in antiphonario et misali libello . Ardor enim cari
+            <lb/>tas in nobis adest . Licet non plene ualemus ad exponendum 
+            <lb/>huius rei contrite et propter antiqui tamen abclite intellectus 
+            <lb/>ut omnes christianę religionis fideles sciant et intelligant . 
+            <lb/>Quid considerabant in cordibus suis et significabant . pri
+            <lb/>mi dictatores officiorum nostrorum secundum mysticum sensum . Pri
+            <lb/>mum igitur perscrutandum est de septuagesima in qua 
+            <lb/>desinimus cantare alleluia . et dulcissimum ymnum angelorum . 
+            <lb/>Gloria in excelsis deo . utrum antiquitus prefigurata est aput 
+            <lb/>ueteres et si fuit . quam imaginem habet figuraliter in nostra 
+            <lb/>conuersatione . <label type="lection_no">.ii.</label> Septuagesima itaque computatur secundum 
+            <lb/>titulationem sacramentorii et antiphonarii non est ebdo
+            <lb/>madibus ante pascha domini . et sinitur post pa<add resp="scribe" place="sup">s</add>cha domini
+            <lb/>in septima sabbati . Die enim dominica habet initium 
+            <lb/>et lin sabbati finem . Hoc quidem tempus captiuitatis
+            <lb/>populi dei significat . qui peccando et superbiendo alienatus
+            <lb/>recessit a deo . quia populus dei olim pro peccatis suis de hie
+            <lb/>rusalem in babilonia ductus est in captiuitate . Et ibi
+            <lb/>deten<subst><del>d</del><add resp="later" place="sup">t</add></subst>us est captiuus per septuaginta annos . Quo nu
+            <lb/>mero completo humiliando ieiunando orando . per dei
+            <lb/>misericordiam reuersus est in hierusalem . De quo populo dixit 
+            <lb/>hieremias propheta . Considerate et querite in plateis 
+            <lb/>eius . án inueniatis uirum cupient<subst><del>u</del><add resp="scribe" place="sup">e</add></subst>m facere uerum 
+            <lb/>iudicium et quaerentem fidem . et miserebitur ei deus .
+            <lb/>Quod si dixerint est quidem . et hoc falso dixerint .
+            <lb/>Domine oculi tui fidem illorum uident . Et iterum dicit . Indu
+                <pb n="29v" xml:id="P25_fol_29v"/><lb n="1"/>rauerunt facies suas dura ceruice . et noluerunt ad te
+            <lb/>reuesti . <label type="lection_no">.iii.</label> Sed tamen uide domine quia pauperes sunt et 
+            <lb/>stulti ignorantes uiam domini . iudicium dei sui . sed igitur 
+            <lb/>ibo ad optimates eorum et loquar eis . Ipsi enim cognoue
+            <lb/>runt uiam domini . iudicium dei sui . et iterum annuntiat 
+            <lb/>dicens . Ecce domine hi magis confregerunt iugum domini 
+            <lb/>sui . ruperunt uincula simul . Omnis enim frater 
+            <lb/>supplantans supplantat fratrem suum . et omnis amicus 
+            <lb/>fraudulenter ambulat . Et omnis uir fratrem suum deri
+            <lb/>det . et ueritatem non loquitur . Et haec contra . dicet 
+            <lb/>dominus . Eice ergo illos a facie mea et <subst><del>egredietur</del><add resp="scribe" place="sup">egrediantur</add></subst> . <label type="lection_no">.iiii.</label> Quod
+                si 
+            <lb/>dixerint ad te . quo egrediemur? dices ad eos . Haec 
+            <lb/>dicit dominus . qui ad mortem dignatus est eat ad mortem . 
+            <lb/>et qui ad gladium ad gladium . et qui ad famem ad famem . 
+            <lb/>et qui ad captiuitatem ad captiuitatem . Qua autem causa 
+            <lb/>fratres karissimi haec eis aguntur . reuelat isaias propheta 
+            <lb/>dicens . Uae uobis qui consurgitis . mane ad aebrie
+            <lb/>tatem sectandam et ad potandum usque ad uesperum . 
+            <lb/>vt uino aestuetis . Cythara et lira et tymphanum 
+            <lb/>et tibiae et uinum . sunt in conuiuiis uestris et opus domini 
+            <lb/>non respicitis . nec opera manuum eius consideratis . 
+            <lb/>Propter haec quidem captiuus ductus est populus 
+            <lb/>dei in babilonia . et ibi detentus est in captiuitate 
+            <lb/>septuaginta annis . Quomodo autem in captiuitate 
+            <lb/>fuerunt hieremias manifestat dicens . <label type="lection_no">.v.</label> Auferam 
+            <lb/>a uobis uocem gaudii et exultationis . uocem sponsi 
+            <lb/>et uocem sponsæ . Uocem molae et lumen lucernę . 
+            <lb/>et erit terra uestra in solitudine et in stupore . et uos ser
+                <pb n="30r" xml:id="P25_fol_30r"/><lb n="1"/>uietis regi babilonis septuaginta annis . Cumque impleti 
+            <lb/>fuerint septuaginta anni uisitabit dominus super regem babi
+            <lb/>lonis . et uos liberabimini ab eius captiuitate . Uoluit 
+            <lb/>igitur dictator septuagesimę annos septuagessima
+            <lb/>nobis mutare in septuaginta diebus . Ut ieiunemus 
+            <lb/>in eis pro peccatis nostris . quia sciebat in aliquibus cri
+            <lb/>minibus nos communicare id est participari priori po
+            <lb/>pulo . Quod igitur illi inuiti sustinuerunt quia serui 
+            <lb/>erant . nos uoluntarię fratres karissimi pro peccatis nostris susti
+            <lb/>neamus quia liberi sumus . O mittamus cum eis uocem 
+            <lb/>gaudii et lętitię uocem sponsi et sponsæ et reliqua . Sep
+            <lb/>tuagesimus itaque numerus omne tempus seculi prę
+            <lb/>sentis ad memoriam nobis reducit . quo alieni sumus 
+            <lb/>ab hierusalem caelesti . <choice><sic>.v</sic><corr resp="editor">.vi.</corr></choice><note place="end" n="i"> The lection
+                    number in the right-hand margin is trimmed so that only the single digit <hi rend="italic">v</hi> is visible, but this is properly lectio .vi.</note> Et
+                ideo auctor officii nostri
+            <lb/>septuagesimam posuit . in nostris officiis ; Ut in illo tempore 
+            <lb/>a diliciis huius mundi abstinentes . Ostenderemus 
+            <lb/>in nostra conuersatione qualiter per omne tempus seculi presentis 
+            <lb/>uiuere debeamus ; Et quia post baptismum peccatis nostris 
+            <lb/>alienamur a cęlesti . hierusalem . agamus dies .lxx. in uera 
+            <lb/>poenitentia ut captiuus populus peregit annos septua
+            <lb/>ginta in peregrinatione . et luctus poenitentię conuer
+            <lb/>tatur nobis simul in gaudium in resurrectione domini . 
+            <lb/>per quam reuertimur ad hierusalem utique caelestem . Sic 
+            <lb/>tamen fiat ut per sex dies sequentes a die paschę usque 
+            <lb/>ad sabbatum uenturum . Non ligemur ab aliqua cu
+            <lb/>piditate malitię . sed ita perambulemus iter . Ut ul
+            <lb/>tima die ueniente intremus hierusalem cęlestem . 
+            <lb/>Ubi est uisio pacis et claritatis aeterne sine fine manentis . 
+                <pb n="30v" xml:id="P25_fol_30v"/><lb n="1"/>Manifestat iterum idem propheta hieremias uelle dominum nos 
+            <lb/>cessare a uoce gaudii . Quandiu in babilone id est in confu
+            <lb/>sione peccatorum fuerimus dicens . et cessare faciam a uobis 
+            <lb/>uocem gaudii et exultationis . Quapropter alleluia in illo 
+            <lb/>tempore non canitur apud nos . et dulcissimus ymnus ange
+            <lb/>lorum . Gloria in excelsis deo . sed tractus pro alleluia dicitur . qu<hi rend="bold">i</hi>a
+            <lb/>trahendo dictus est . Eo quod suauis est auribus populi . quem
+            <lb/>intimauit apostolus paulus dicens . In longanimitate . in 
+            <lb/>castitate . in suauitate . in spiritu sancto . Igitur alleluia et gloria 
+            <lb/>in excelsis deo . certissime cantica cælestia sunt . Vnde iohan
+            <lb/>nes in apocalipsyn dicit . Post haec audiui quasi uocem 
+            <lb/>magnam turbarum multarum in caelo dicentium alleluia . 
+            <lb/>De gloria in excelsis deo nulli dubium quod angelorum cantus sit . 
+            <lb/>Idcirco autem alleluia non canitur apud nos a presenti die usque 
+            <lb/>in noctem paschę . Propter honorem et latitudinem primae 
+            <lb/>linguę . quia alle . ebraice . patrem . lv . filium . ia . spiritum sanctum .
+            <lb/>significat . Quod latine interpretatur laus dei . <label type="lection_no"><choice><sic>.viii.</sic><corr resp="editor">.vii</corr></choice></label> Et ideo
+                pau
+            <lb/>perem linguam in supra dictis diebus frequæntamus dicen
+            <lb/>tes . Laus tibi domine rex aeternę glorie . quia ad comparationem linguę 
+            <lb/>ebraicę tam grecis quam latinus sermo pauper est . Quapro
+            <lb/>pter iterum desiderantes audire alleluia . debemus commen
+            <lb/>dare dicentes . Reuertere in thesauros tuos te benedicant 
+            <lb/>angeli . sed mane apud nos hodie . et crastina proficisceris . et 
+            <lb/>dum ortus fuerit dies ambulabis uia tua . et iterum deside
+            <lb/>rantes reuerti ad nos dicamus . Multiplicentur a domino 
+            <lb/>anni tui alleluia . per uiam sapientie incedas . et per semitam 
+            <lb/>iustitię reuertaris ad nos . quia tu sola namque tenes princi
+            <lb/>patum in conspectu domini . propterea reuertere in thesauros tuos . 
+                <pb n="31r" xml:id="P25_fol_31r"/><lb n="1"/><choice><sic>.vii</sic><corr resp="editor">.viii.</corr></choice><note place="end" n="iii"> The lection number is cut off
+                    at the right edge of the page, and all that is visible are two minims after the
+                    v and the trace of a third, but this is properly lectio .viii.</note> Angelus
+                autem domini bonus comitetur tecum . et bene disponat iti
+            <lb/>nere tuo . Ut iterum cum gaudio reuertaris ad nos . quia melius es 
+            <lb/>quam diuitię multę . super aurum et argentum gratia melior és . Et ideo 
+            <lb/>consoleris no<add resp="scribe" place="sup">s</add> in hac uita presenti et in regni caelestis
+                mansio
+            <lb/>nibus . sunt quoque quidam qui primam ebdomadam septua
+            <lb/>gesimæ sine aliquo articulo id est sine ullo opere nouellę 
+            <lb/>conuertione ducunt . Excepto mutatione alleluia . et in 
+            <lb/>aliquibus locis dalmaticarum . et intermissione . Gloria in ex
+            <lb/>celsis deo . Si id autem usquequaque ita obseruatur modo sicuti 
+            <lb/>aliquando uidi nescio . Sed tamen nobis sic uidetur uelle
+            <lb/>praeceptorem officii tempus septuagesimę . tempus esse luctus 
+            <lb/>et poenitentię . Et propterea eum dixisse . Circumdederunt 
+            <lb/>me gemitus mortis . dolores inferni circumdederunt me . 
+            <lb/>et in tribulatione mea inuocaui dominum . et exaudiuit de 
+            <lb/>templo sancto suo uocem meam . et iterum . Adiutor in oportu
+            <lb/>nitatibus in tribulatione . sperent in te qui nouerunt te 
+            <lb/>quoniam non derelinquis quęrentes te domine . Quoniam non in finem 
+            <lb/>obliuio erit pauperis . patientia pauperum non peribit in ęter
+            <lb/>num . Agustinus in nono psalmo tractat dicens . Non 
+            <lb/>enim bene conuertitur anima ad deum . Nisi prius ab hóc seculo 
+            <lb/>plenus auertatur . nec ulla re ab hoc seculo oportunius auer
+            <lb/>titur . nisi miscendo labores et dolores perniciosis humanę 
+            <lb/>mentis uoluptatibus . quia ubi est labor et dolor . ibi ieiunium 
+            <lb/>saltim amicitię huius mundi . et ubi ieiunium . ibi compassio 
+            <lb/>captiui populi reputabitur . et si compatimur id est ut ieiunio 
+            <lb/>et fletu et planctu . conregnare et cohabitare cum eis merebi
+            <lb/>mur in regno . Dicente domino . Uenite ad me omnes qui laboratis 
+            <lb/>et honerati estis et ego reficiam uos . et inuenietis requiem animabus uestris ; 
+                <pb n="31v" xml:id="P25_fol_31v"/><lb n="1"/>Haec nobis prestare dignetur idem saluator . cui est honor 
+            <lb/>et imperium et potestas una cum patre et spiritu sancto . per infinita 
+            <lb/>secula seculorum amen .
+        </p></div></body>
+    </text>
+</TEI>

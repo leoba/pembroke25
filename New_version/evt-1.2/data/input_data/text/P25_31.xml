@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 31 (73r–75r)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2014-07-27T20:48:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-25T01:30:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+        <text n="Sermo 31 (73r–75r)" xml:id="p25_31">
+            <body><div><p>
+            <lb n="17"/><label type="lection_no"><choice><sic>.xxx.</sic><corr resp="editor">.xxxi.</corr></choice></label> ITEM ALIA . 
+            <lb/>PARASCEVEN . id . est .vi<hi rend="sup">ta</hi>. dies sabbati que preparatio
+            <lb/>interpretatur . eo quod omnia que in sabbato necessa
+            <lb/>ria sunt in illa preparantur . Ideo in solemnitate ha
+            <lb/>betur et colitur . quia in eo die christus mysterium crucis 
+            <lb/>expleuit . propter quod uenerat in hunc mundum . ut quia 
+            <lb/>ligno uetito percussi fueramus in adam . rursus 
+            <lb/>per ligni misterium sanaremur a christo . Huius enim 
+            <lb/>causa triumphi . humana possibilitas christo per omnem 
+            <lb/>mundum caelebritatem annuam prebet . pro eo quod 
+            <lb/>dignatus est sanguine passionis suę seculum redimere . 
+            <lb/>et peccatum mundi per crucem morte deuicta absoluere . 
+            <pb n="73v" xml:id="P25_fol_73v"/><lb n="1"/>Sciendum est autem quod crucis iniuriam non pertulit diuini
+            <lb/>tatis substantia . sed sola suscepte humanitatis natu
+            <lb/>ra . Tribus igitur causis haec passio fuit . Prima causa 
+            <lb/>est . ut christus pro reatu mundi redemptio daretur . et hostis 
+            <lb/>antiquus uelut hamo crucis caperetur . scilicet . ut 
+            <lb/>quos obsorbuerat euomeret . et predam quam tenebat 
+            <lb/>ammitteret . non potentia uictus sed iustitia . non do
+            <lb/>minatione sed ratione . Secunda . ut secuturis post 
+            <lb/>se hominibus passionis et resurrectionis preberet 
+            <lb/>exemplum . passionis . ad firmandam et sustinendam 
+            <lb/>patientiam . sicut ipse sustinuit . resurrectionis . ad ex
+            <lb/>citandam et credendam spem ad uitam futuram . sicut 
+            <lb/>ille resurrexit . Tertia . ut superba seculi et inflata sapi
+            <lb/>entia . per crucis predicationem humiliata corrueret . 
+            <lb/>et pateret quod infirmum dei fortius sit . tota hominum 
+            <lb/>fortitudine . Inquirendum est autem cur hac die ęcclesie 
+            <lb/>altaria suis indumentis spoliata denudantur . quia 
+            <lb/>in ea christus uestimentis suis exutus esse legitur . et uelum
+            <lb/>templi scisum esse occiso christo per euuangelium predica
+            <lb/>tur . Et in hac die luminaria in aecclesia non accen
+            <lb/>duntur . quia in ipsa redemptore crucifixo sidera ob
+            <lb/>scurata sunt . Et in hac die sanctarum plebium presu
+            <lb/>les id est sacerdotes . diuinam clementiam dei pro salute
+            <lb/>humani generis deprecantur . Primum prostatu to
+            <lb/>tius ęcclesię christi . Deinde ut in fidelibus donetur
+            <lb/>fides . et ab <subst><del>impietates</del><add resp="scribe" place="sup">impietatis</add></subst> liberentur erroribus . ut
+            <lb/>iudaeis ablato cordis uelamine . Lux ueritatis
+            <lb/>appareat . ut heretici . catholicae fidei receptione
+            <pb n="74r" xml:id="P25_fol_74r"/><lb n="1"/>resipiscant . ut scismatici . spiritum rediuiuae caritatis accipi
+            <lb/>ant . ut lapsis . poenitentię remedia conferantur . Vt de
+            <lb/>nique catecuminis ad regenerationis sacramenta perduc
+            <lb/>tis . caelestis misericordię aula referetur . Atque ideo 
+            <lb/>haec omnia aguntur . quia pro horum omnium in hac 
+            <lb/>die sanguis effusus est christi saluatoris mundi . Intel
+            <lb/>ligendum est iterum quod in hac die a pontifice 
+            <lb/>et omni clero et cuncto populo christiano . species sanctę 
+            <lb/>crucis cum timore et tremore et omni honorificentia 
+            <lb/>cunctis iuxta conditionem uel aetatum ordinem ad eam 
+            <lb/>accedentibus salutatur . atque inclinato uultu ado
+            <lb/>ratur et osculatur . Quia plane dignissimum est . ut 
+            <lb/>passio redemptoris et lignum uitę a fidelibus in hora 
+            <lb/>redemptionis suę digna laude ueneretur . et ut omnes 
+            <lb/>audientes exempla teneant . et ita ordinatim ado
+            <lb/>rent dicentes . Ecce lignum crucis in quo salus mun
+            <lb/>di pependit . uenite adoremus . Et iterum . Crucem 
+            <lb/>tuam adoramus domine . et sanctam resurrectionem tuam 
+            <lb/>laudamus et glorificamus . ecce enim propter crucem . 
+            <lb/>uenit gaudium in uniuerso mundo . De cuius 
+            <lb/>honore sedulius dixit . Neue quis ignoret speciem
+            <lb/>crucis esse colendam . Que dominum portauit ouans
+            <lb/>ratione potenti . Quattuor inde plagas quadrati 
+            <lb/>colligit orbis . Splendidus auctoris . de uertice 
+            <lb/>fulget eous . Occiduo sacre lambuntur sidere 
+            <lb/>plantę . Arcton dextra tenet medium leua erigit 
+            <lb/>axem . Cunctaque de membris uiuit natura cre
+            <lb/>antis . Et cruce complexum christus regit undique
+            <pb n="74v" xml:id="P25_fol_74v"/><lb n="1"/>mundum . Hoc quoque intuendum est quod non duo 
+            <lb/>ligna sed tria ibidem crucis habeantur breuia . Hoc 
+            <lb/>est transuersum lignum et in duas aequas diuisum par
+            <lb/>tes . Cuius latitudo est transuersum lignum . quo ex
+            <lb/>tenduntur manus quę hilaritate significat . per ma
+            <lb/>nus enim opus intelligitur . per latitudinem hilaritas 
+            <lb/>operantis . Longitudo a latitudine deorsum usque 
+            <lb/>ad terram . In qua totum corpus extenditur ipsam 
+            <lb/>tolerantiam significat . ut longanimes permaneamus 
+            <lb/>tolerantes . Altitudo a latitudine sursum usque 
+            <lb/>ad caput . expectationem supernae retributionis 
+            <lb/>de sublimi dei iustitia significat . profundum uero 
+            <lb/>quod terræ infixum absconditur . inscrutabilia 
+            <lb/>dei iudicia indicat . De quibus occulta eius uolunta
+            <lb/>te uocatur homo ad participationem magnę gratię 
+            <lb/>dei . E quibus tripertitis lignis quando illa aperitur 
+            <lb/>capsa in qua crux saluatoris habetur recondita . 
+            <lb/>miri saporis flagrantia ác si omnium aromatum 
+            <lb/>mirabili plena suauitate exoritur . satians et lętificans 
+            <lb/>omnes homines intra ecclesiam ibidem orantes . Nam de nobis 
+            <lb/>eorundem trinalium lignorum liquor quidam odorifer 
+            <lb/>quasi in similitudinem olei expressus uenit . cuius uidelicet 
+            <lb/>liquoris si paruula quedam <subst><del>stilula</del><add resp="scribe" place="sup">stillula</add></subst> super egrotantes im
+            <lb/>ponatur . qualicumque languore uel morbo molestati fue
+            <lb/>rint . Plenam recuperant corporum sanitatem . Item in hac 
+            <lb/>die sacramenta poenitus non caelebrantur . sed eucha
+            <lb/>ristia in cena domini consecrata . post peractum officium
+            <lb/>resumitur . quia <add resp="scribe" place="sup">ut</add> innocentius papa testis est . Ex eo
+                biduo
+            <pb n="75r" xml:id="P25_fol_75r"/><lb n="1"/>quo crucifixus et sepultus est saluator . Apostoli et ama
+            <lb/>tores christi in merore constituti . ab omni cybo se abstinue
+            <lb/>runt . In hac iterum die . uespera cum silentio cęlebratur .
+            <lb/>ut dominicę sepulturę quieti ueneratio exhibeatur . in 
+            <lb/>secula seculorum amen .
+        </p></div></body>
+    </text>
+</TEI>

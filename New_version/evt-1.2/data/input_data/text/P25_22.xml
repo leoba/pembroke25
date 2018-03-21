@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 22 (42v–46r)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2008-02-22T22:04:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T02:33:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 22 (42v–46r)" xml:id="p25_22">
+        <body><div>
+            <p>
+                <lb n="28"/>.xxii. OMELIA . IN DOMINICA .ii. IN .xl. 
+                <pb n="43r" xml:id="P25_fol_43r"/><lb n="1"/>PRimum omnium . tria quaedam unicuique homi
+            <lb/>ni pernecessaria sunt . fides . spes . caritas . fides . 
+            <lb/>ut credat in deum patrem omnipotentem . et filium . et spiritum 
+            <lb/>sanctum . tres personas et unam substantiam ; Spes . ut certe 
+            <lb/>speret eterna premia ; Caritas . ut sit plenus in dilec
+            <lb/>tione dei et proximi . quia omnes in baptismo filii dei 
+            <lb/>sanctificamur . ut fratres simus spiritaliter . in caritate 
+            <lb/>perfecta . secundum deum ; Manere ergo debemus in dilectio
+            <lb/>ne dei et proximi ; Vt ipse semper in nobis perseueret ; quia 
+            <lb/>sicut iohannes ait . deus caritas est et qui manet in caritate . 
+            <lb/>in deo manet . et deus in illo . <label type="lection_no">T</label><note place="end" n="i"> Lectio
+                    numbers for this sermon are marked by a T-shaped insertion mark, here indicated
+                    within square brackets.</note> Sex quoque sanctę religioni
+            <lb/>christianę . et precipue in his diebus necessaria sunt . Confes
+            <lb/>sio . poenitentia . uigilię . ieiunia . orationes . et ęlemo
+            <lb/>sina ; Confessio igitur facienda est . de omnibus peccatis . 
+            <lb/>quae siue in cogitatione . siue in locutione . siue in opere 
+            <lb/>perpetrantur . Octo sunt síquidem uitia principa
+            <lb/>lia . sine quibus uix ullus inueniri potest ; Est enim 
+            <lb/>primum castrimargia . hoc est uentris ingluuies . 
+            <lb/>Secundum fornicatio . Tertium accidia siue tristitia . 
+            <lb/>Quartum auari<add resp="scribe" place="sup">ti</add>a . Quintum uana gloria . Sextum inuidia .
+            <lb/>Septimum ira ; Octauum superbia . quę est omnium malorum 
+            <lb/>regina . per quam creatura angelorum mirabilis cecidit 
+            <lb/>de cęlo . <label type="lection_no">T</label> Quando ergo unusquisque ad confessionem 
+            <lb/>uenerit . diligenter debet inquiri . quomodo aut qua 
+            <lb/>occasione peccatum perpetrauerit . quod peregisse sé 
+            <lb/>confitetur ; et iuxta modum illius facti . debet ei poe
+            <lb/>nitentia iudicari ; Debet etiam ei persuadéri . ut de 
+            <lb/>peruersis cogitationibus faciat confessionem . Debet ei
+                <pb n="43v" xml:id="P25_fol_43v"/><lb n="1"/>etiam iniungi . ut de octo principalibus uitiis . faciat suam 
+            <lb/>confessionem . Et nominatim ei debet sacerdos 
+            <lb/>unumquodque uitium dicere . et suam de eo confes
+            <lb/>sionem accipere . Deus ergo confessionem nostram 
+            <lb/>desiderat . ut iustam habeat causam ignoscendi . 
+            <lb/>Confessio enim sanat . confessio iustificat . confessio 
+            <lb/>ueniam peccatis donat . <label type="lection_no">T</label> Omnis spes uenię in con
+            <lb/>fessione consistit . Confessio opus est misericordiae . 
+            <lb/>salus egróti . unicum est uiribus nostris medicamentum 
+            <lb/>cum poenitentia . quia nos aliter salui fieri non pos
+            <lb/>sumus . nisi confiteamur <subst><del>pecceta</del><add resp="scribe" place="sup">peccata</add></subst> nostra . quę inique 
+            <lb/>egimus . <subst><del>Uade</del><add resp="scribe" place="sup">Unde</add></subst> et salomon de confessione pecca
+            <lb/>torum dixit . Qui abscondit scelera sua . non di
+            <lb/>rigetur . qui autem confessus fuerit et reliquerit 
+            <lb/>ea . misericordiam consequetur . Post hanc igitur 
+            <lb/>accipienda est poenitantia . De qua saluator 
+            <lb/>ait in aeuangelio . Poenitentiam agite . adpropinqua
+            <lb/>uit enim regnum caelorum . Et iohannes baptista . 
+            <lb/>facite inquit fructus dignos poenitentię ; <label type="lection_no">T</label> fruc
+            <lb/>tus dignus est poenitentie . transacta flere 
+            <lb/>peccata . et eadem iterum non agere ; Sicut scrip
+            <lb/>tura ait . Ne adicias peccatum . super peccatum . La
+            <lb/>uamini dicit dominus per isaiam prophetam . et mundi esto
+            <lb/>te . Lauatur itaque et mundus est . qui et pre
+            <lb/>terita plangit . et iterum flenda non admittit . 
+            <lb/>Lauatur et non est mundus . qui plangit quod 
+            <lb/>gessit . nec deserit . sed post lacrimas haec eadem 
+            <lb/>est uera poenitentia . quę districte agitur . 
+                <pb n="44r" xml:id="P25_fol_44r"/><lb n="1"/>Poenitentia enim uera non annorum numero censetur . sed 
+            <lb/>amaritudine animi . quia non longitudinem temporis
+            <lb/>tantum requirit deus . sed pensat quantus sit affectus 
+            <lb/>sinceritatis in corde poenitentiam agentis . <label type="lection_no">T</label> Quam
+            <lb/>uis igitur quisque sit peccator et impius . si ad poeniten
+            <lb/>tiam conuertatur . consequi posse ueniam . dei mi
+            <lb/>sericordia . non dubitet . In hoc enim seculo poenitentiam 
+            <lb/>facientibus . dei semper misericordia súbuenit . Huic siqui
+            <lb/>dem . coniungendę sunt uigilię . quia ipse <add hand="later">et</add> fructus
+            <lb/>eius . eleuant ad cęlum . Unde et nos uigilare oportet . 
+            <lb/>sicut isaias propheta dicit . De nocte uigilat spiritus meus 
+            <lb/>ad te domine . quia lux precepta tua sunt super terram ; 
+            <lb/>Item dauid propheta dicit . Media nocte surgebam ad 
+            <lb/>confitendum tibi . super iudicia iustificationis tuę . 
+            <lb/>Unde et saluator . ad uigilandum auditores suos excitat 
+            <lb/>dicens . Beati serui illi . quos cum uenerit dominus . in
+            <lb/>uenerit uigilantes . Amen dico uobis . super omnia bona 
+            <lb/>sua constituet eos . Et iterum . Ego diligentes 
+            <lb/>me diligo . et qui mane uigilauerint . inuenient 
+            <lb/>me . <label type="lection_no">T</label> Vigilate ergo . nescitis enim quando dominus ueniat . 
+            <lb/>sero . án media nocte . an galli cantu . án mane . 
+                <lb/><hi rend="smallcaps">N</hi>e cum uenerit . inueniat uos dormientes . Et ne
+            <lb/>solis apostolis illud preceptum esse crederetur . mox sub
+            <lb/>iunxit : Quod autem uobis dico ; Omnibus dico uigilate ; 
+            <lb/>sciendum est itaque quod non solum uerbis docuit uigi
+            <lb/>lias . sed etiam suo confirmauit exemplo . Namque 
+            <lb/>testatur aeuangelium . quia erat <choice><sic><subst><del>ihs</del><add resp="later">i<add hand="later">e</add>hs</add></subst></sic><corr resp="editor">iesus</corr></choice> pernoctans in
+            <lb/>oratione dei . Uigilandum est ergo omnibus fidelibus ;
+                <pb n="44v" xml:id="P25_fol_44v"/><lb n="1"/>quia uigiliarum deuotio . familiare bonum est omnibus sanctis . 
+            <lb/>Sciunt enim quod <add hand="later">non</add> est uanum mane surgere ante
+                lucem
+            <lb/>ad uigilandum . quia promisit dominus coronam uigilantibus .
+            <lb/>Post haec congrue sequuntur ieiunia ; de quorum lau
+            <lb/>datione . dicit isídorus . Ieiunium est res sancta ; opus cęle
+            <lb/>stę . Ianua regni cęlestis . forma futuri seculi ; Quod 
+            <lb/>qui sanctę agit . deo coniungitur . Mundo alienatur . 
+            <lb/>spiritalis efficitur ; Per hoc prosternuntur uitia . hu
+            <lb/>miliatur caro . et diaboli temptamenta uincuntur ; <label type="lection_no">T</label>
+            <lb/>Hieronimus dicit . Ieiunium castigat corpus . refre
+            <lb/>nat uitia ; incitat uirtutes ; Agustinus dicit ; Ieiu
+            <lb/>nium pandit misteria ; Excludit uitia . Inluminat 
+            <lb/>animam ; Ieiunia igitur fortia tęla sunt ; Aduersus 
+            <lb/>temptamenta dęmoniorum . cito enim per abstinentiam 
+            <lb/>uincuntur ; Sciendum est itaque . quod ieiunium multum 
+            <lb/>ualet ; Populus enim niniuen ieiunauit triduanum 
+            <lb/>ieiunium . per quod meruit accipere dei misericordiam et indul
+            <lb/>gentiam peccatorum . Populus dei ieiunauit antequam 
+            <lb/>pascha comederet . per quod meruit mare transire 
+            <lb/>rubrum siccis pedibus . et inimicos mari uidere dimer
+            <lb/>sos <label type="lection_no">T</label> Moyses in deserto ieiunauit . per quod meruit 
+            <lb/>audire misteria . Dauid post peccatum suum 
+            <lb/>ieiunauit . per quod meruit delictum delere . ut 
+            <lb/>ille ait . Humiliabam in ieiunio animam meam . 
+            <lb/>christus ieiunauit quadraginta diebus et quadragin
+            <lb/>ta noctibus . per quod superauit aduersarium . et sta
+            <lb/>tim angeli ministrauerunt ei ; Petrus ieiuna
+            <lb/>uit . per quod meruit angelum uidere soluentem 
+                <pb n="45r" xml:id="P25_fol_45r"/><lb n="1"/>se de carcere . Iohannes euangelista ieiunauit . per quod 
+            <lb/>meruit mysteria diuina audire angelo ei annun
+            <lb/>tiante . Paulus ieiunauit . per quod meruit sanari 
+            <lb/>de cęcitate . et accipere baptismum . Hieronimus ait . 
+            <lb/>quandiu non comedit adam . fuit in paradyso 
+            <lb/>ut autem comedit . statim de paradyso expulsus est .
+            <lb/>Bonum est ergo fratres karissimi ieiunium . sed mensuratum esse 
+            <lb/>debet . quia quicquid temperatum fuerit . illud sa
+            <lb/>lutare est . Quicquid autem nimis et ultra modum 
+            <lb/>fuerit . ipsum periculosum est . sicut pluuia multum 
+            <lb/>distillans . quę si nimium imbres prebeat . non solum 
+            <lb/>nullum usum bonum ádhibet . sed etiam periculum 
+                <lb/>éxhibet . Hieronimus dicit . sint ergo tibi cotidia
+            <lb/>na ieiunia . et refectio satietatem fugiens ; Id est 
+            <lb/>cotidie esurire . et cotidie prandére . <label type="lection_no">T</label> Sciendum 
+            <lb/>est igitur quod ieiunia cum bonis operibus . deo op
+            <lb/>time acceptabilia sunt . quia hoc est perfectum 
+            <lb/>ieiunium . quod cum aelimosinis et orationibus cęlum 
+            <lb/>transit . et ad thronum altissimi dei peruenit . De hinc 
+            <lb/>sequuntur orationes . de quibus isidorus dicit . 
+            <lb/>Orationibus mundamur lectionibus instruimuR .
+            <lb/>Sciendum est ergo . quod oratio assidua multum ualet 
+            <lb/>apud deum . Paulo apostolo dicente . Oratio sancti assi
+            <lb/>dua . multum ualet apud deum . Orauit enim moy
+            <lb/>ses . et auertit iram dei a populo deprecante idolum . 
+            <lb/>Orauit helias . ut non plueret super terram . et conclu
+            <lb/>sit cęlum per tres annos et sex menses . Et rursum 
+            <lb/>orauit et cęlum dedit pluuiam . et terra dedit fructum suum . 
+                <pb n="45v" xml:id="P25_fol_45v"/><lb n="1"/>Orauit ionas in uentre cęti . et liberatus est . Orauit 
+            <lb/>daniel de lacu leonum . et meruit audiri . Orauit 
+            <lb/>heliseus heliam . ut spiritum eius dupliciter acciperet . 
+                <lb/><label type="lection_no">.ii.</label><note place="end" n="iii">
+                    This marginal lectio number in red and the one further below
+                        appear to be later additions by the hand that wrote cum caritate in the margin.</note> Orauit ezechias in infirmitate sua
+                . et adiecit ei deus
+            <lb/>quindecim annos ad uitam . Quicumque ergo uult cum 
+            <lb/>deo semper esse . frequenter debet orare et frequenter 
+            <lb/>legere . Nam cum oramus . ipsi cum deo loquimuR .
+            <lb/>cum uero legimus . deus nobiscum loquitur . Ad ex
+            <note place="end" n="iv">
+                    <hi rend="italic">cum caritate</hi> added in the margin by a later
+                hand.</note>tremum sequitur de ęlimosina . que est plenitudo
+            <lb/>et perfectio bonorum operum . De cuius laudibus ait 
+            <lb/>agustinus . aelimosina est . Res sancta . auget pre
+            <lb/>sentia . demit peccata . Multiplicat annos . no
+            <lb/>bilitat mentem . dilatat terminos . <subst><del>mundet</del><add resp="scribe" place="sup">mundat</add></subst> omnia . 
+            <lb/>liberat a morte et a poena . Iungit angelis . separat
+            <lb/>a doemonibus . murus est inexpugnabilis circa
+            <lb/>animam . Dęmones expellit . inuitat angelos
+            <lb/>in auxilium . Hieronimus dicit . Aelimosina <subst><del>pe<lb n="17"/>netret</del><add resp="scribe" place="sup">penetrat</add></subst> cęlum . Precedit dantem . Pulsat ianuam
+            <lb/>regni . Excitat angelum in obuiam . Deum conuocat
+            <lb/>in adiutorium . Origenis ait . Aelimosina aebrai
+            <lb/>ce . Dei mei opus latine interpretatur . Hoc nomen 
+            <lb/>non tam humanum quam diuinum opus indicat . 
+                <lb/><label type="lection_no">.iii.</label> Tria sunt enim genera aelimosinarum . una cor
+            <lb/>poralis . aegenti dare quicquid poteris . Altera
+            <lb/>spiritalis dimittere ei a quo lęsus fueris . Tertia
+            <lb/>delinquentem corrigere . et errantes in uiam
+            <lb/>reducere ueritatis . Haec in nobis implere
+            <lb/>dignetur saluator mundi . Qui cum patre 
+                <pb n="46r" xml:id="P25_fol_46r"/><lb n="1"/>et spiritu sancto uiuit et regnat in secula seculorum . ameN .
+        </p></div></body>
+    </text>
+</TEI>

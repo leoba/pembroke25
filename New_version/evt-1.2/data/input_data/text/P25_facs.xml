@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Facsimile Section</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2015-09-26T03:10:00</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change>
+                    <name>Porter, Dot</name>
+                    <date>2017-08-23T18:51:00</date>
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="p25_facs">
+        <surface xml:id="P25_surf_3r" corresp="#P25_fol_3r">
+            <graphic url="../images/single/P25_fol_3r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_3v" corresp="#P25_fol_3v">
+            <graphic url="../images/single/P25_fol_3v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_4r" corresp="#P25_fol_4r">
+            <graphic url="../images/single/P25_fol_4r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_4v" corresp="#P25_fol_4v">
+            <graphic url="../images/single/P25_fol_4v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_5r" corresp="#P25_fol_5r">
+            <graphic url="../images/single/P25_fol_5r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_5v" corresp="#P25_fol_5v">
+            <graphic url="../images/single/P25_fol_5v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_6r" corresp="#P25_fol_6r">
+            <graphic url="../images/single/P25_fol_6r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_6v" corresp="#P25_fol_6v">
+            <graphic url="../images/single/P25_fol_6v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_7r" corresp="#P25_fol_7r">
+            <graphic url="../images/single/P25_fol_7r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_7v" corresp="#P25_fol_7v">
+            <graphic url="../images/single/P25_fol_7v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_8r" corresp="#P25_fol_8r">
+            <graphic url="../images/single/P25_fol_8r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_8v" corresp="#P25_fol_8v">
+            <graphic url="../images/single/P25_fol_8v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_9r" corresp="#P25_fol_9r">
+            <graphic url="../images/single/P25_fol_9r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_9v" corresp="#P25_fol_9v">
+            <graphic url="../images/single/P25_fol_9v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_10r" corresp="#P25_fol_10r">
+            <graphic url="../images/single/P25_fol_10r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_10v" corresp="#P25_fol_10v">
+            <graphic url="../images/single/P25_fol_10v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_11r" corresp="#P25_fol_11r">
+            <graphic url="../images/single/P25_fol_11r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_11v" corresp="#P25_fol_11v">
+            <graphic url="../images/single/P25_fol_11v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_12r" corresp="#P25_fol_12r">
+            <graphic url="../images/single/P25_fol_12r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_12v" corresp="#P25_fol_12v">
+            <graphic url="../images/single/P25_fol_12v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_13r" corresp="#P25_fol_13r">
+            <graphic url="../images/single/P25_fol_13r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_13v" corresp="#P25_fol_13v">
+            <graphic url="../images/single/P25_fol_13v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_14r" corresp="#P25_fol_14r">
+            <graphic url="../images/single/P25_fol_14r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_14v" corresp="#P25_fol_14v">
+            <graphic url="../images/single/P25_fol_14v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_15r" corresp="#P25_fol_15r">
+            <graphic url="../images/single/P25_fol_15r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_15v" corresp="#P25_fol_15v">
+            <graphic url="../images/single/P25_fol_15v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_16r" corresp="#P25_fol_16r">
+            <graphic url="../images/single/P25_fol_16r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_16v" corresp="#P25_fol_16v">
+            <graphic url="../images/single/P25_fol_16v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_17r" corresp="#P25_fol_17r">
+            <graphic url="../images/single/P25_fol_17r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_17v" corresp="#P25_fol_17v">
+            <graphic url="../images/single/P25_fol_17v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_18r" corresp="#P25_fol_18r">
+            <graphic url="../images/single/P25_fol_18r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_18v" corresp="#P25_fol_18v">
+            <graphic url="../images/single/P25_fol_18v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_19r" corresp="#P25_fol_19r">
+            <graphic url="../images/single/P25_fol_19r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_19v" corresp="#P25_fol_19v">
+            <graphic url="../images/single/P25_fol_19v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_20r" corresp="#P25_fol_20r">
+            <graphic url="../images/single/P25_fol_20r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_20v" corresp="#P25_fol_20v">
+            <graphic url="../images/single/P25_fol_20v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_21r" corresp="#P25_fol_21r">
+            <graphic url="../images/single/P25_fol_21r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_21v" corresp="#P25_fol_21v">
+            <graphic url="../images/single/P25_fol_21v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_22r" corresp="#P25_fol_22r">
+            <graphic url="../images/single/P25_fol_22r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_22v" corresp="#P25_fol_22v">
+            <graphic url="../images/single/P25_fol_22v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_23r" corresp="#P25_fol_23r">
+            <graphic url="../images/single/P25_fol_23r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_23v" corresp="#P25_fol_23v">
+            <graphic url="../images/single/P25_fol_23v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_24r" corresp="#P25_fol_24r">
+            <graphic url="../images/single/P25_fol_24r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_24v" corresp="#P25_fol_24v">
+            <graphic url="../images/single/P25_fol_24v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_25r" corresp="#P25_fol_25r">
+            <graphic url="../images/single/P25_fol_25r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_25v" corresp="#P25_fol_25v">
+            <graphic url="../images/single/P25_fol_25v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_26r" corresp="#P25_fol_26r">
+            <graphic url="../images/single/P25_fol_26r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_26v" corresp="#P25_fol_26v">
+            <graphic url="../images/single/P25_fol_26v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_27r" corresp="#P25_fol_27r">
+            <graphic url="../images/single/P25_fol_27r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_27v" corresp="#P25_fol_27v">
+            <graphic url="../images/single/P25_fol_27v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_28r" corresp="#P25_fol_28r">
+            <graphic url="../images/single/P25_fol_28r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_28v" corresp="#P25_fol_28v">
+            <graphic url="../images/single/P25_fol_28v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_29r" corresp="#P25_fol_29r">
+            <graphic url="../images/single/P25_fol_29r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_29v" corresp="#P25_fol_29v">
+            <graphic url="../images/single/P25_fol_29v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_30r" corresp="#P25_fol_30r">
+            <graphic url="../images/single/P25_fol_30r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_30v" corresp="#P25_fol_30v">
+            <graphic url="../images/single/P25_fol_30v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_31r" corresp="#P25_fol_31r">
+            <graphic url="../images/single/P25_fol_31r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_31v" corresp="#P25_fol_31v">
+            <graphic url="../images/single/P25_fol_31v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_32r" corresp="#P25_fol_32r">
+            <graphic url="../images/single/P25_fol_32r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_32v" corresp="#P25_fol_32v">
+            <graphic url="../images/single/P25_fol_32v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_33r" corresp="#P25_fol_33r">
+            <graphic url="../images/single/P25_fol_33r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_33v" corresp="#P25_fol_33v">
+            <graphic url="../images/single/P25_fol_33v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_34r" corresp="#P25_fol_34r">
+            <graphic url="../images/single/P25_fol_34r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_34v" corresp="#P25_fol_34v">
+            <graphic url="../images/single/P25_fol_34v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_35r" corresp="#P25_fol_35r">
+            <graphic url="../images/single/P25_fol_35r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_35v" corresp="#P25_fol_35v">
+            <graphic url="../images/single/P25_fol_35v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_36r" corresp="#P25_fol_36r">
+            <graphic url="../images/single/P25_fol_36r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_36v" corresp="#P25_fol_36v">
+            <graphic url="../images/single/P25_fol_36v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_37r" corresp="#P25_fol_37r">
+            <graphic url="../images/single/P25_fol_37r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_37v" corresp="#P25_fol_37v">
+            <graphic url="../images/single/P25_fol_37v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_38r" corresp="#P25_fol_38r">
+            <graphic url="../images/single/P25_fol_38r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_38v" corresp="#P25_fol_38v">
+            <graphic url="../images/single/P25_fol_38v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_39r" corresp="#P25_fol_39r">
+            <graphic url="../images/single/P25_fol_39r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_39v" corresp="#P25_fol_39v">
+            <graphic url="../images/single/P25_fol_39v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_40r" corresp="#P25_fol_40r">
+            <graphic url="../images/single/P25_fol_40r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_40v" corresp="#P25_fol_40v">
+            <graphic url="../images/single/P25_fol_40v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_41r" corresp="#P25_fol_41r">
+            <graphic url="../images/single/P25_fol_41r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_41v" corresp="#P25_fol_41v">
+            <graphic url="../images/single/P25_fol_41v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_42r" corresp="#P25_fol_42r">
+            <graphic url="../images/single/P25_fol_42r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_42v" corresp="#P25_fol_42v">
+            <graphic url="../images/single/P25_fol_42v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_43r" corresp="#P25_fol_43r">
+            <graphic url="../images/single/P25_fol_43r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_43v" corresp="#P25_fol_43v">
+            <graphic url="../images/single/P25_fol_43v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_44r" corresp="#P25_fol_44r">
+            <graphic url="../images/single/P25_fol_44r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_44v" corresp="#P25_fol_44v">
+            <graphic url="../images/single/P25_fol_44v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_45r" corresp="#P25_fol_45r">
+            <graphic url="../images/single/P25_fol_45r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_45v" corresp="#P25_fol_45v">
+            <graphic url="../images/single/P25_fol_45v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_46r" corresp="#P25_fol_46r">
+            <graphic url="../images/single/P25_fol_46r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_46v" corresp="#P25_fol_46v">
+            <graphic url="../images/single/P25_fol_46v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_47r" corresp="#P25_fol_47r">
+            <graphic url="../images/single/P25_fol_47r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_47v" corresp="#P25_fol_47v">
+            <graphic url="../images/single/P25_fol_47v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_48r" corresp="#P25_fol_48r">
+            <graphic url="../images/single/P25_fol_48r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_48v" corresp="#P25_fol_48v">
+            <graphic url="../images/single/P25_fol_48v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_49r" corresp="#P25_fol_49r">
+            <graphic url="../images/single/P25_fol_49r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_49v" corresp="#P25_fol_49v">
+            <graphic url="../images/single/P25_fol_49v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_50r" corresp="#P25_fol_50r">
+            <graphic url="../images/single/P25_fol_50r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_50v" corresp="#P25_fol_50v">
+            <graphic url="../images/single/P25_fol_50v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_51r" corresp="#P25_fol_51r">
+            <graphic url="../images/single/P25_fol_51r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_51v" corresp="#P25_fol_51v">
+            <graphic url="../images/single/P25_fol_51v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_52r" corresp="#P25_fol_52r">
+            <graphic url="../images/single/P25_fol_52r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_52v" corresp="#P25_fol_52v">
+            <graphic url="../images/single/P25_fol_52v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_53r" corresp="#P25_fol_53r">
+            <graphic url="../images/single/P25_fol_53r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_53v" corresp="#P25_fol_53v">
+            <graphic url="../images/single/P25_fol_53v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_54r" corresp="#P25_fol_54r">
+            <graphic url="../images/single/P25_fol_54r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_54v" corresp="#P25_fol_54v">
+            <graphic url="../images/single/P25_fol_54v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_55r" corresp="#P25_fol_55r">
+            <graphic url="../images/single/P25_fol_55r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_55v" corresp="#P25_fol_55v">
+            <graphic url="../images/single/P25_fol_55v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_56r" corresp="#P25_fol_56r">
+            <graphic url="../images/single/P25_fol_56r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_56v" corresp="#P25_fol_56v">
+            <graphic url="../images/single/P25_fol_56v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_57r" corresp="#P25_fol_57r">
+            <graphic url="../images/single/P25_fol_57r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_57v" corresp="#P25_fol_57v">
+            <graphic url="../images/single/P25_fol_57v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_58r" corresp="#P25_fol_58r">
+            <graphic url="../images/single/P25_fol_58r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_58v" corresp="#P25_fol_58v">
+            <graphic url="../images/single/P25_fol_58v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_59r" corresp="#P25_fol_59r">
+            <graphic url="../images/single/P25_fol_59r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_59v" corresp="#P25_fol_59v">
+            <graphic url="../images/single/P25_fol_59v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_60r" corresp="#P25_fol_60r">
+            <graphic url="../images/single/P25_fol_60r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_60v" corresp="#P25_fol_60v">
+            <graphic url="../images/single/P25_fol_60v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_61r" corresp="#P25_fol_61r">
+            <graphic url="../images/single/P25_fol_61r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_61v" corresp="#P25_fol_61v">
+            <graphic url="../images/single/P25_fol_61v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_62r" corresp="#P25_fol_62r">
+            <graphic url="../images/single/P25_fol_62r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_62v" corresp="#P25_fol_62v">
+            <graphic url="../images/single/P25_fol_62v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_63r" corresp="#P25_fol_63r">
+            <graphic url="../images/single/P25_fol_63r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_63v" corresp="#P25_fol_63v">
+            <graphic url="../images/single/P25_fol_63v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_64r" corresp="#P25_fol_64r">
+            <graphic url="../images/single/P25_fol_64r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_64v" corresp="#P25_fol_64v">
+            <graphic url="../images/single/P25_fol_64v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_65r" corresp="#P25_fol_65r">
+            <graphic url="../images/single/P25_fol_65r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_65v" corresp="#P25_fol_65v">
+            <graphic url="../images/single/P25_fol_65v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_66r" corresp="#P25_fol_66r">
+            <graphic url="../images/single/P25_fol_66r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_66v" corresp="#P25_fol_66v">
+            <graphic url="../images/single/P25_fol_66v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_67r" corresp="#P25_fol_67r">
+            <graphic url="../images/single/P25_fol_67r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_67v" corresp="#P25_fol_67v">
+            <graphic url="../images/single/P25_fol_67v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_68r" corresp="#P25_fol_68r">
+            <graphic url="../images/single/P25_fol_68r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_68v" corresp="#P25_fol_68v">
+            <graphic url="../images/single/P25_fol_68v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_69r" corresp="#P25_fol_69r">
+            <graphic url="../images/single/P25_fol_69r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_69v" corresp="#P25_fol_69v">
+            <graphic url="../images/single/P25_fol_69v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_70r" corresp="#P25_fol_70r">
+            <graphic url="../images/single/P25_fol_70r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_70v" corresp="#P25_fol_70v">
+            <graphic url="../images/single/P25_fol_70v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_71r" corresp="#P25_fol_71r">
+            <graphic url="../images/single/P25_fol_71r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_71v" corresp="#P25_fol_71v">
+            <graphic url="../images/single/P25_fol_71v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_72r" corresp="#P25_fol_72r">
+            <graphic url="../images/single/P25_fol_72r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_72v" corresp="#P25_fol_72v">
+            <graphic url="../images/single/P25_fol_72v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_73r" corresp="#P25_fol_73r">
+            <graphic url="../images/single/P25_fol_73r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_73v" corresp="#P25_fol_73v">
+            <graphic url="../images/single/P25_fol_73v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_74r" corresp="#P25_fol_74r">
+            <graphic url="../images/single/P25_fol_74r.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_74v" corresp="#P25_fol_74v">
+            <graphic url="../images/single/P25_fol_74v.jpg"/>
+        </surface>
+        <surface xml:id="P25_surf_75r" corresp="#P25_fol_75r">
+            <graphic url="../images/single/P25_fol_75r.jpg"/>
+        </surface>
+    </facsimile>
+</TEI>

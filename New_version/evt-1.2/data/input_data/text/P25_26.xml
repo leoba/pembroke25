@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 26 (52v–56r)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2008-03-01T17:31:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T03:03:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 26 (52v–56r)" xml:id="p25_26">
+        <body><div>
+            <p>
+                <lb n="28"/>.xxvi. OMELIA . IN DOMINICA DIE PALMARUM . 
+                <pb n="53r" xml:id="P25_fol_53r"/><lb n="1"/>Dominus per prophetam prędicatoribus loquitur 
+            <lb/>dicens . Aperi ós tuum . et ego adimplebo 
+            <lb/>illud . Id est spiritu sancto et diuinis eloquiis sanctarum scriptura
+            <lb/>rum implet deus ora prędicantium de se . Sicut salua
+            <lb/>tor ait . Non enim uos estis qui loquimini . sed spiritus 
+            <lb/>patris uestri qui loquitur in uobis . Et ideo pręcepit 
+            <lb/>alibi discipulis . quod dico uobis in tenebris . dicite 
+            <lb/>in lumine . Id est quod dico in parabolis . uos exponite . 
+            <lb/>quia uobis datum est nosse mysterium regni dei . 
+            <lb/>caeteris autem in parabolis . Id est in obscuritatibus . 
+            <lb/>Et iterum . Et quod in aure audistis . predicate super 
+            <lb/>tectam . Ác sí dixisset . quod dico uobis in secretis . dicite 
+            <lb/>coram cunctis . reuelate populis . Et idcirco fratres karissimi 
+            <lb/>sicut necesse est sacerdotibus uirtutes et mirabilia 
+            <lb/>quę fecit iesus narrare uobis . Ita et uos debetis humi
+            <lb/>liter audire . Et in corde firmiter . tenere . in actu 
+            <lb/>et in opere uolun<note type="parchment">There is a hole in the parchment here.</note>tarie perficere . <label type="lection_no">.ii.</label> Surgens quidem 
+            <lb/>iesus hodie a be<note type="parchment">There is a hole in the parchment here.</note>thania uolens ire in hiericho . 
+            <lb/>assumpsit duodecim discipulos suos dicens illis . 
+            <lb/>Ecce ascendimus hierosolimam . et consummabuntur 
+            <lb/>omnia quę scripta sunt per prophetas de filio homi
+            <lb/>nis . Tradetur enim gentibus . et inludetur . et flagel
+            <lb/>labitur . et conspuetur . Et postquam flagellaue
+            <lb/>rint occident eum . et tertia die resurget . Gre
+            <lb/>gorius dixit . Ideo dominus ác redemptor noster preuidens 
+            <lb/>ex passione sua discipulorum animos esse perturban
+            <lb/>dos . Longe ante et passionis suę poenam et re
+            <lb/>surrectionis gloriam eis praedixit . Ut cum factum 
+                <pb n="53v" xml:id="P25_fol_53v"/><lb n="1"/>fieret non dubitarent et haberent consolationem
+            <lb/>quod die tertia resuscitatum sua potestate uide
+            <lb/>rent . Uenit igitur iesus hodie cum discipulis suis 
+            <lb/>in hiericho . quia multi latrones ibi erant . qui ue
+            <lb/>nientes et descendentes <subst><del>di</del><add resp="later">de</add></subst> hierosolimis . occide
+            <lb/>re et uulnerare consueuerant . <label type="lection_no">.iii.</label> Significantes 
+            <lb/>quidem dęmones . qui humanum genus interfice
+            <lb/>re semper cupiunt . Idcirco dominus uenit in hiericho 
+            <lb/>cum discipulis suis . ut liberaret et sanaret uulne
+            <lb/>ratos . et multas inde turbas secum traheret . 
+            <lb/>Denique postquam egredi uoluit de hiericho . 
+            <lb/>Id est de mundo . secuta est eum turba multa ho
+            <lb/>minum in se credentium . Si mansisset in hiero
+            <lb/>solimis id est in caelestibus et numquam ad humi
+            <lb/>lia descendisset . Id est ad terras . humanum 
+            <lb/>genus usque hodie sederet in tenebris et in 
+            <lb/>umbra mortis . Ecce duo <note type="parchment">There is a hole in the parchment here.</note>caeci sedentes 
+            <lb/>secus uiam audierunt quia <note type="parchment">There is a hole in the parchment here.</note>iesus transiret .
+            <lb/>et clamauerunt uoce magna dicentes . Domine 
+            <lb/>fili dauid miserere nostri . Turbę autem incre
+            <lb/>pabant eos ut tacerent . At illi magis magis
+            <lb/>que clamabant dicentes . Domine miserere nostri 
+            <lb/>fili dauid . <label type="lection_no">.iiii.</label> Duo caeci significant iudęos et gen
+            <lb/>tiles . qui propter ignorantiam intrare non 
+            <lb/>poterant uiam . quia ad huc ignorabant christum . 
+            <lb/>Turba autem increpans eos significat malas cogi
+            <lb/>tationes . et demones imprimentes hominum 
+            <lb/>orationes . Sed qui obtinere a deo quicquid 
+                <pb n="54r" xml:id="P25_fol_54r"/><lb n="1"/>boni postulauerint desiderant . malas cogitatio
+            <lb/>nes respuentes magis magisque ad dominum semper imi
+            <lb/>tantes eos clament . Quia nisi clamare iterassent . 
+            <lb/>Lumen quod non habent inuenire non potuissent .
+            <lb/>Stetit iesus et uocauit eos ad se et ait . Quid uultis 
+            <lb/>ut faciam uobis? At illi dixerunt . Domine . ut uidea
+            <lb/>mus . Interogabat quasi ignorasset . quid uellent ;
+            <lb/>ut ex responsione caecorum . manifesta debili
+            <lb/>tas appareret . et uirtutem ex remedio omnes cogno
+            <lb/>scerent . Misertus autem eorum iesus tetigit oculos 
+            <lb/>eorum . et confestim uiderunt et secuti sunt eum . 
+                <lb/>Ó ineffabilis potentia . prestat artifex . quod natu
+            <lb/>ra non dederat . aut certe quod debilitas dele
+            <lb/>uerat . donat misericordia . statimque uiderunt et se
+            <lb/>cuti sunt eum . non tam pedibus quam sensu . uolun
+            <lb/>tate atque operibus praecepta eius implentes .
+            <lb/>Gregorius dicit . Considerate fratres karissimi . quia isti 
+            <lb/>quos audistis caeci . parui penderunt petere 
+            <lb/>aurum aut argentum . aut aliud pecunię munus ; 
+            <lb/>sed tantum lucem ut uiderent christum . Imitemur 
+            <lb/>ergo et nos eos in fide . non falsas diuitias . non 
+            <lb/>terrena dona . non fu<add hand="later">gi</add>tiuos honores a domino . sed
+            <lb/>lucem quęramus . nec lucem quę loco clauditur . 
+            <lb/>quae tempore finitur . quę noctium interrup
+            <lb/>tione uariatur . quæ a nobis communiter cum pec
+            <lb/>coribus cernitur . sed lucem quęramus . quam 
+            <lb/>uidere cum solis angelis possimus . quę nec ini
+            <lb/>tium habuit . nec finem habebit . Ad quam 
+                <pb n="54v" xml:id="P25_fol_54v"/><lb n="1"/>qui peruenire uoluerit . uiam preparare studeat . 
+            <lb/>Id est fidem . unde recte et inluminato caeco . 
+            <lb/>protinus a domino dicitur . Respice . fides tua te sal
+            <lb/>uum fecit . Ecce quomodo imitari caecos secun
+            <lb/>dum fidem possumus . si non terrena quę hodie 
+            <lb/>uidentur . cras ut fumus euanescunt munera 
+            <lb/>a domino . sed caelestia quęramus dona . quę semper
+            <lb/>manent in caelo . <label type="lection_no">.vi.</label> Et factum est cum adpropinquas 
+            <lb/>se<add resp="scribe" place="sup">n</add>t hierosolimis . et uenissent bethphage ad mon
+            <lb/>tem oliueti . Tunc iesus misit duos discipulos di
+            <lb/>cens eis . Ite in castellum quod contra uos est ; 
+            <lb/>Et statim inuenietis asinam alligatam et pullum 
+            <lb/>cum ea . Soluite . et adducite mihi . Et si quis uobis 
+            <lb/>aliquid dixerit . dicite quia dominus his opus ha
+            <lb/>bet . et confestim dimittet eos . Hier<add resp="scribe" place="sup">v</add>salem itaque
+            <lb/>uisio pacis interpretatur . bethphage autem sacer
+            <lb/>dotum uiculas erat . In quo confessionis typum . 
+            <lb/>et purificationem secundum consuetudinem iudęorum 
+            <lb/>faciebant . Mons oliueti interpretatur mons 
+            <lb/>trium luminum . Id est refectio laboris . Consola
+            <lb/>tio doloris . Notitia ueri luminis . quod sine 
+            <lb/>dubio est christus . Castellum significat mundum . 
+            <lb/>qui contra legem euangelicam repugnabat . 
+            <lb/>Asina significat sinagogam iudęorum . quę per 
+            <lb/>litteram sub legis iudicio ligata erat . Pullus 
+            <lb/>autem significat populum nouum gentilium . 
+            <lb/>qui nondum legis imperium portabat . Soluite . 
+            <lb/>et adducite michi . Hoc est predicate illis ut 
+                <pb n="55r" xml:id="P25_fol_55r"/><lb n="1"/>agant poenitentiam . et conuertantur ad me . 
+            <lb/>Hoc significat conuersionem omnium gentium 
+            <lb/>ad christum . Euntes autem discipuli fecerunt 
+            <lb/>sicut precepit eis iesus . et adduxerunt asinam 
+            <lb/>et pullum . et imposuerunt super eos uestimenta sua . 
+            <lb/>et eum desuper sedere fecerunt . Vestimenta . aposto
+            <lb/>licas significant predicationes . per quas dominus sedere 
+            <lb/>desiderat in corda hominum . <label type="lection_no">.vii.</label> Plurima autem 
+            <lb/>turba . strauerunt uestimenta sua in uia . Alii 
+            <lb/>autem cedebant ramos de arboribus . et ponebant
+            <lb/>in uia . Uestimenta turbarum posita in uia . con
+            <lb/>fessiones peccatorum . et dispectiones uolupta
+            <lb/>tum terrenarum significant . Palmę autem quas 
+            <lb/>pueri aebreorum portabant . uictoriam christi 
+            <lb/>per passionem crucis super diabolum . et eius errores 
+            <lb/>in toto mundo positos significant . Turbae 
+            <lb/>autem quę praecedebant et quę sequebantur . 
+            <lb/>clamabant dicentes . Osanna fili dauid . 
+            <lb/>benedictus qui uenit in nomine domini . rex israel . 
+            <lb/>osanna in excelsis . Turba precedens et laudans 
+            <lb/>dominum . turbam electorum dei . in ueteri lege quę 
+            <lb/>rogabant salutem humani generis . et turba 
+            <lb/>quę sequebatur . Turbam iustorum noui testamenti .
+            <lb/>que similiter rogant salutem humani gene
+            <lb/>ris in die iudicii significat . Osanna æbraice . 
+            <lb/>latine interpretatur saluifica . Id est deus qui est 
+            <lb/>excelsus . saluat nos . et alio sensu . Sicut saluas 
+            <lb/>iudęos . salua et gentes . Et iterum . Sicut saluas 
+                <pb n="55v" xml:id="P25_fol_55v"/><lb n="1"/>angelos in cęlo . Ita salua humanum genus in terra . 
+            <lb/>Et factum est cum intrasset hierosolimam . commota 
+            <lb/>est uniuersa ciuitas dicens . Quis est hic? id est 
+            <lb/>scribę et pharisaei et iudei . qui inuidebant nolen
+            <lb/>tes audire laudes domini . tremuerunt pauidi . 
+            <lb/>dicentes . Quis est hic? uilis autem plebicula res
+            <lb/>pondebat . a minoribus incipiens . usque ad maiores 
+            <lb/>dicens . Hic est iesus . propheta sanctus . a nazareth ga
+            <lb/>lilęe . quem <subst><del>ad</del><add resp="scribe" place="sup">et</add></subst> moyses similem sui post se dixerat 
+            <lb/>esse uenturum . Et iterum clamabant dicentes . 
+            <lb/>Hic est ; qui uenturus est in salutem populi . 
+            <lb/>Hic est salus nostra et redemptio israel . Et iterum 
+            <lb/>dicebant . Quantus et qualis est iste? cui thro
+            <lb/>ni et dominationes occurrunt . Et ideo 
+            <lb/>noli tu timere filia sion ; ecce rex tuus uenit 
+            <lb/>tibi mansuetus . sedens supra pullum asinae . 
+            <lb/>sicut scriptum est de illo . Salue rex fabrica
+            <lb/>tor mundi . qui uenisti redimere nos . Et cum 
+            <lb/>haec dixissent . venit lętus cum illis in templum . 
+            <lb/>Uidens autem omnes uendentes et ementes co
+            <lb/>mercia in templo . indignatus est et eiecebat 
+            <lb/>eos . et mensas nummulariorum . et cathedras 
+            <lb/>columbas uendentium euertebat dicens . 
+            <lb/>Non legistis quia scriptum est? Domus mea 
+            <lb/>domus orationis uocabitur . Vos autem fecistis 
+            <lb/>eam speluncam latronum . Illud autem scire 
+            <lb/>et intelligere debetis fratres karissimi . quia 
+            <lb/>in illo tempore nulla domus in toto 
+                <pb n="56r" xml:id="P25_fol_56r"/><lb n="1"/>mundo erat constructa adorationem dei . nisi templum 
+            <lb/>salomonis . plenus tamen erat de templis idolorum . 
+            <lb/>Post aduentum uero domini in nouo . multe domus 
+            <lb/>sunt constructa in nomine dei . Id est aecclesię 
+            <lb/>in quibus est cotidie oratio et perfectio bonorum operum 
+            <lb/>et quod displicuit domino tunc inuenire in templo suo . 
+            <lb/>non minus displicet ei nunc inuenire in aecclesiis 
+            <lb/>suis . Et ideo dicit quidam tractator principibus 
+            <lb/>et doctoribus ecclesiarum . Cauete ne dimittatis in 
+            <lb/>aecclesiis dei cresecere illa . quę dominus <add resp="scribe" place="sup">cum</add> indignatione
+            <lb/>eiecit de templo suo . quibus flagellauit et dam
+            <lb/>nauit sacerdotes templi . et nos non dubitamus 
+            <lb/>hos qui similia faciunt in domo dei . Id est uerbo
+            <lb/>sare . causas dicere . et lites incitare . negotiaque 
+            <lb/>exercere . flagellandos esse in poena imferni . 
+            <lb/>Et idcirco debemus unusquisque liberare nos
+            <lb/>metipsos . ab omni cupiditate et auaritia . et ne
+            <lb/>gotiis usurisque saecularibus . ut non eiciat nos 
+            <lb/>dominus cum illis malis in die iudicii . qui despiciunt 
+            <lb/>eum nunc in aecclesiis suis . Sed colligat nos 
+            <lb/>secum et saluet . et in regnum suum collocet in con
+            <lb/>gregatione iustorum . ut in dextera dei patris 
+            <lb/>constituti . ibi semper fulgeamus . Sicut saluator ait . 
+            <lb/>Fulgebunt iusti sicut sol in regno patris eorum . 
+            <lb/>semper quę lętemur et conregnemus cum illo 
+            <lb/>in perpetua uita . per infinita saecula saeculorum . amen
+        </p></div></body>
+    </text>
+</TEI>

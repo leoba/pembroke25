@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 24 (48r–50v)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2008-02-22T22:04:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T02:45:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 24 (48r–50v)" xml:id="p25_24">
+        <body><div>
+            <p>
+                <lb n="11"/>.xxiiii. OMELIA . IN DOMINICA .iiii. IN QUADRAGESIMA . 
+            <lb/>Qvicumque uult saluus esse . ante omnia opus est .
+            <lb/>ut teneat catholicam fidem . Quam nisi quisque 
+            <lb/>integram inuiolatamque seruauerit . absque du
+            <lb/>bio in aeternam peribit . Fides autem catholica hęc 
+            <lb/>est . ut unum deum in trinitate . et trinitatem in uni
+            <lb/>tate ueneremur . Alia est enim persona patris . alia 
+            <lb/>filii . alia spiritus sancti . Sed patris et filii et spiritus sancti . una 
+            <lb/>est diuinitas aequalis gloria . coeterna maiestas . 
+            <lb/>Quia in hac trinitate . nichil prius aut posterius . 
+            <lb/>nichil maius aut minus . Sed tote tres persone 
+            <lb/>coaeterne sibi sunt . et coaequales . <label type="lection_no">.i.</label> Quicumque 
+            <lb/>ergo cupit saluus et catholicus esse . haec teneat 
+            <lb/>et credat . et uita uiuet . Sed tamen post hęc si ad 
+            <lb/>caelestę regnum desiderat peruenire . contra dia
+            <lb/>boli insidias cotidie necesse est certare ; Paulo apostolo 
+            <lb/>dicente . Per multas tribulationes et temptationes .
+            <lb/>oportet nos intrare in regnum cęlorum . Quia non sunt 
+                <pb n="48v" xml:id="P25_fol_48v"/><lb n="1"/>condigne passiones huius temporis . ad futuram gloriam 
+            <lb/>quę reuelabitur in nobis . Quandiu ergo fuerimus 
+            <lb/>in hac uita fratres karissimi contra doemonum aduersitates . 
+            <lb/>luctandum est nobis . Tribulatio enim in hoc mundo . 
+            <lb/>parui temporis est . ad comparationem caelestium 
+            <lb/>premiorum sine fine manentium . Curramus ergo dum 
+            <lb/>tempus habemus . operimur bonum et <add resp="scribe" place="sup">ad</add> omnes . et bo
+            <lb/>num faciendo non deficiamus . tempore enim futu
+            <lb/>ro metemus sine defectu . Cogitemus ergo in mente . 
+            <lb/>quia licet mors non properaret . senectus cotidie 
+            <lb/>succedit . Labantur anni . tempora fluunt . et omnia 
+            <lb/>quę uidentur temporalia sunt et finem habent . 
+            <lb/>Ad extremum ergo karissimi . uolentes nolentesque coti
+            <lb/>die properamus . Igitur considerare debent pecca 
+            <lb/>tores assidue . quam et qualem excusationem dicturi 
+            <lb/>sunt in die iudicii ante tribunal domini . quando ce
+            <lb/>perit eis dicere . sedens in sede maiestatis suę . red
+            <lb/>dere rationem uitae suę . Ex tunc incipiet reos <subst><del>ac
+            <lb n="19"/>cussare</del><add resp="scribe" place="sup">accusare</add></subst> . dicens eis . O homo . ego te manibus meis 
+            <lb/>de limo terrę formaui et feci ; Ego terrenis artibus 
+            <lb/>spiritum infudi ; Ego tibi imaginem nostram similitudinem 
+            <lb/>que conferre dignatus sum ; Ego te in paradysi 
+            <lb/>delicias collocaui ; Tu autem uitalia mandata con
+            <lb/>temnens . magis deceptorem sequi . quam dominum malu
+            <lb/>isti . et tamen per misericordiam póstea proprio sangui
+            <lb/>ne te redemi . Irridentium palmas et sputa suscepi . 
+            <lb/>A coetum cum felle <subst><del>tibi</del><add resp="scribe" place="sup">bibi</add></subst> . Postea in cruce mortem 
+            <lb/>suscepi . ut tibi caelestem gloriam darem et in ęternum 
+                <pb n="49r" xml:id="P25_fol_49r"/><lb n="1"/>uíueres mecum . Et tu pro his quid fecisti? Tunc res
+            <lb/>pondebunt ei dicentes . Nesciuimus te domine . non 
+            <lb/>uidimus prophetas . non misisti legem seculo ; Non de
+            <lb/>disti patriarchas ; Non uidimus sanctorum prophetarum 
+            <lb/>exempla ; Petrus tacuit ; Paulus noluit predicare . 
+            <lb/>aeuangelistę non docuerunt nos . Martyres non fue
+            <lb/>runt . quorum exempla sequeremur . Futurum iudicium
+            <lb/>tuum nemo predixit . inscientia lapsi sumus . ignoran
+            <lb/>tia peccauimus . Tunc autem ex illorum sanctorum choro . iustus 
+            <lb/>noe primus reclamabit dicens . Non uerum dicunt 
+            <lb/>domine . quia ego super uenturum diluuium propter 
+            <lb/>peccata hominum predicaui ; Et post diluuium exempla 
+            <lb/>ex me prebui . ut recognoscerent quę esset salus 
+            <lb/>in gentibus . et quę poena peccatoribus . Post hunc 
+            <lb/>abraham fidelis assistet dicens . Ego domine fidem 
+            <lb/>qua humanum in te <subst><del>credent</del><add resp="scribe" place="sup">credet</add></subst> genus . media fere 
+            <lb/>istius mundi etate fundaui . Ego electus sum pater 
+            <lb/>gentium . cuius exempla sequerentur . Ego domine 
+            <lb/>unicum filium meum isáác non dubitaui offerre tibi 
+            <lb/>pro uictima . ut cognoscerent omnia tibi uoluntarię 
+            <lb/>prestare . Ego terram et cognationem meam iuben
+            <lb/>te te domine de serui . ut eis exemplum fieret nequi
+            <lb/>tias mundi et peccata deférere . Iterum post hunc .
+            <lb/>beatus moyses exsurget dicens . Ego domine legem
+            <lb/>quam dedisti michi . istis omnibus iubente te <hi rend="strikethrough">domine</hi>
+                tradidi .
+            <lb/>Ego dixi . Non occides . non <subst><del>mechaberis</del><add resp="scribe" place="sup">nechaberis</add></subst> . non furtum
+            <lb/>facies . Non loqueris falsum testimonium contra
+            <lb/>proximum . Non concupisces rem proximi tui . 
+                <pb n="49v" xml:id="P25_fol_49v"/><lb n="1"/>Nec desiderabis uxorem eius . non seruum . Non ancil
+            <lb/>lam . non bouem . non asinum . Nec omnia quę illius 
+            <lb/>sunt . Ego haec dixi . ut nemo concupisceret quod 
+            <lb/>non suum esset . Ego dixi . honora patrem tuum et ma
+            <lb/>trem . ut sis longeuus super terram . Hic significatur 
+            <lb/>quod oboedientia filiorum parentibus . extendit uitam
+            <lb/>suam super terram . Ego dixi . Diliges proximum tuum 
+            <lb/>sicut te ipsum . ut caritas habundaret inter unum 
+            <lb/>quemque hominem et deum . Ego hęc predicaui et multa 
+            <lb/>his similia . ut agnoscerent que uentura essent . 
+            <lb/>Post hunc stabit dauid dicens . ego nomini tuo 
+            <lb/>seruiendum esse clamaui . Ego dixi . Beatus uir 
+            <lb/>qui timet dominum . in mandatis eius cupit nimis .,. 
+            <lb/>Ego dixi ; Exultabunt sancti in gloria . lętabuntur in cu
+            <lb/>bilibus suis . Ego regia dum essem preditus pótesta
+            <lb/>te . Panem meum cum fletu miscebam . Vt poeniten
+            <lb/>tiae atque humilitatis . prestarem eis exemplum . 
+            <lb/>Post hunc isaias ueniet dicens ; Ego dixi ; ue uobis 
+            <lb/>qui coniungitis domum ad domum . et agrum agro 
+            <lb/>copulatis . usque ad terminum loci . Numquid soli 
+            <lb/>uos possidebitis terram? Ego iram tuam peccantibus 
+            <lb/>uenire testatus sum ; ut a malis suis si non spe pre
+            <lb/>miorum . saltim suppliciorum formidine cohibe
+            <lb/>rem ; Post hos et multo plures . unicus dei filius 
+            <lb/>haec loquetur . Ego cum essem sublímis in excelso 
+            <lb/>throno . caelum terramque pugillo conclúdens . nasci 
+            <lb/>in carne dignatus sum . formam serui secundum humili
+            <lb/>tatem accipiens . Ego sanitatem dedi omnibus 
+                <pb n="50r" xml:id="P25_fol_50r"/><lb n="1"/>infirmis . laeprosos mundaui . Mortuos suscitaui . 
+            <lb/>auditum surdis ; uisum caecis . uocem mutis . pedes 
+            <lb/>claudis restitui . Vt uos signis caelestibus in me 
+            <lb/>atque in his quae predicaueram crederetis . Ego 
+            <lb/>uobis regna caelorum promisi . atque ego pro uobis pas
+            <lb/>sus sum . Né dubitaret homo pro se pati . quod deus 
+            <lb/>pertulisset pro homine . Et post resurrectionem . ne 
+            <lb/>fides uestra confunderetur . memetipsum discipu
+            <lb/>lis ostendi . Cur ergo non inuenio in uobis ullum 
+            <lb/>opus bonum? Cúr infelíces poenitentiam malorum 
+            <lb/>uestrorum etiam sub ultimo die finis uestri non egistis? 
+            <lb/>Quid prodest quod labiis me honoratis . sí factis 
+            <lb/>et operibus denegastis? Ubi sunt uestrae diuitiae? 
+            <lb/>Vbi sunt uoluptates? Ubi ornamenta uestimentorum? 
+            <lb/>Ubi pulc<add resp="scribe" place="sup">h</add>ritudines mulierum? Ubi pompa earum?
+            <lb/>Ecce nunc habetis iudicium . quod ante predixi . Ecce 
+            <lb/>habetis uindictam . quam ante predicaui uobis . Tunc 
+            <lb/>míseri peccatores . superbi et auári . Iudices mali 
+            <lb/>et adulteri . Impii et heretici . fornicatores et men
+            <lb/>daces . Dolosi et inuidi . malum pro malo reddentes . 
+            <lb/>Et iniuriam pauperibus facientes . munera super in
+            <lb/>nocentes accipientes . Et inuicem se in hac uita 
+            <lb/>odientes . flebunt et lamentabuntur coram domino 
+            <lb/>una uoce dicentes . Miserere nobis omnipotens deus 
+            <lb/>et ignosce peccata nostra . Tunc respondebit illis 
+            <lb/>cum magna indignatione dicens . Discedite a me 
+            <lb/>maledicti in ignem aeternum . quia non fecistis 
+            <lb/>misericordiam dum fuistis in mundo ; nec ego misericors uobis . 
+                <pb n="50v" xml:id="P25_fol_50v"/><lb n="1"/>Tunc erit illis miserabilis recessio . quia numquam post
+            <lb/>ea commemorabuntur eorum nomina in sempiternum . 
+            <lb/>Tunc autem omnes sancti qui in sancta trinitate et unitate 
+            <lb/>perfecte crediderint . et precepta ac mandata dei . operi
+            <lb/>bus impleuerint . Regnabunt cum christo fulgen
+            <lb/>tes sicut sol in regno patris eorum . et deducet illos 
+            <lb/>deus in caelestem patriam et dabit illis uitam aeternam . 
+            <lb/>et coronam auream et perpetuam beatitudinem . et plenitu
+            <lb/>dinem gaudiorum . cum choris angelorum . que nec oculus 
+            <lb/>uidit . nec auris audiuit . nec in cor hominis as
+            <lb/>cendit . quanta et qualia sunt . quę pręparauit 
+            <lb/>deus his qui diligunt eum . Haec omnia nobis prestare 
+            <lb/>dignetur saluator mundi . qui cum patre et spiritu sancto 
+            <lb/>uiuit et regnat . per infinita secula seculorum amen .
+        </p></div></body>
+    </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 15 (27r–28v)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2006-08-25T02:35:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-23T23:49:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 15 (27r–28v)" xml:id="p25_15">
+        <body><div>
+            <p>
+                <lb n="2"/>.xv.
+            <lb/>OMELIA IN PURIFICATIONE SANCTAE MARIĘ .
+            <lb/>Conueniendum est in unum nobis fratres karissimi . ad huius diei 
+            <lb/>sollempnitatem quia hodie christus cum substantia nostrę 
+            <lb/>carnis in templo est dignatus presentari . sicut de eo scrip
+            <lb/>tum est . Ecce uenit rex ad templum sanctum suum . qui est 
+            <lb/>rex regum . et dominus dominantium . et conditor omnium crea
+            <lb/>turarum . Veneranda est quoque haec sanctae marię 
+            <lb/>purificationis festiuitas ; quę est exemplar . domina 
+            <lb/>et regina omnium feminarum . cui nec ante inuenta est 
+            <lb/>nec post similis ; nec de stirpe humane originis fuit ei 
+                <lb/>æqualis . Quia ipsa meruit in utero concipere christum et ge
+            <lb/>nerare mundi saluatorem . quem totus capere non poterat 
+            <lb/>orbis terrarum . <label type="lection_no">.ii.</label> Ueneranda est igitur maria . quę est uirgo 
+            <lb/>uenerabilis . mater domini nostri iesu christi secundum carnem . ex semi
+            <lb/>ne abrahe . ex tribu iuda . et ex progenię dauid . filia hie
+            <lb/>rusalem . stella maris . et inluminatrix orbis . ancilla 
+            <lb/>dei . regina gentium . domina regum . sponsa domini . condi
+            <lb/>toris templum . spiritus sancti sacrarium . velut columba speciosa . 
+            <lb/>pulchra ut luna . electa ut sol . reparatio uitę . Ianua 
+            <lb/>caeli . decus mulierum . caput uirginum . fructifera sicut 
+            <lb/>oliua in domo dei . Virgo sancta . uirgo prudens . uirgo pul
+            <lb/>cherrima . uirgo pudica . corpore decora . fide perspicua . 
+            <lb/>mente pręclara . amore uirginitatis deuota a prophetis 
+            <lb/>dei prędicta . a philosophis sanctis pręnuntiata . ab archan
+            <lb/>gelo salutata . ab spiritu sancto fęcundata . atque ab eodem obum
+            <lb/>brata . <label type="lection_no">.iii.</label> Coitus uirilis ignara . prole tamen fecunda . Uiro 
+                <pb n="27v" xml:id="P25_fol_27v"/><lb n="1"/>innupta . et tamen filio lęta ; fide concipiens . et mundi gau
+            <lb/>dium pariens . Uirgo ante partum . uirgo in partu . 
+            <lb/>uirgo post partum . et ad extremum quem totus
+            <lb/>non capit mundus . in suo sacro aluo haec uirgo inclu
+            <lb/>sit . Et qui mundum pugillo tenet . uirgo hęc pannis 
+            <lb/>inuoluit . ác in presepio reclinauit . et qui presentia 
+            <lb/>maiestatis suę in caelis angelos semper pascit ; Hęc 
+            <lb/>uirgo sacra sacrati uberis lacte in terris nutriuit . 
+            <lb/>Cuius arbitrio totus orbis terrarum regitur . et sub cuius 
+            <lb/>defensione . omnia proteguntur regna terrarum ; 
+            <lb/>cum quo filio suo mater maria uirgo semper manet . 
+                <lb/><label type="lection_no">.iiii.</label> Gaude igitur maria uirgo . felicissima ac sanctissima 
+            <lb/>mulierum omnium . quia de tuo utero protulisti mun
+            <lb/>di saluatorem . caeli ác terrae conditorem . Gaude 
+            <lb/>iterum maria . quę dum gabrielis archangeli dictis 
+            <lb/>credidisti . deum nobis et hominem genuisti . et post par
+            <lb/>tum uirgo inuiolata permansisti . His autem de sanctę 
+            <lb/>marię laudibus dictis ; de sancto symeone uenerabili 
+            <lb/>sene commemorandum est nobis . qui et ipse diuino reple
+            <lb/>tus spiramine . expectabat uidere christum domini ; Sicut 
+            <lb/>de illo scriptum est . Ecce homo erat in hierusalem .
+            <lb/>cui nomen symeon . et homo iste iustus et timoratus . 
+            <lb/>expectabat . consolationem israel . et spiritus sanctus erat in eo . 
+            <lb/>Et responsum acceperat ab spiritu sancto . non uisurum se mor
+            <lb/>tem . nisi prius uideret christum domini . Et uenit cum spiritu 
+            <lb/>prophetię in templum . <label type="lection_no">.v.</label> Sciendum est ergo fratres karissimi . 
+            <lb/>quod non solum ab angelis et prophetis . ác pastoribus . 
+            <lb/>et parentibus . sed etiam a senioribus et iustis . genera
+                <pb n="28r" xml:id="P25_fol_28r"/><lb n="1"/>tio domini accepit testimonium . Nam omnis aetas . et uterque 
+            <lb/>sexus . euentorumque miracula . fidem credendi ge
+            <lb/>nerationem eius affirmant . Uirgo generat . id est 
+            <lb/>maria . sterilis parit . id est elisabeth . Mutus loquitur . 
+            <lb/>id est zacharias . elisabeth prophetat . Magi adorant . 
+            <lb/>utero inclusus exultat . id est iohannes . Uidua con
+            <lb/>fitetur . id est anna prophetissa ; iustus expectat . 
+            <lb/>id est symeon . Bene autem dicitur iustus . quia non solum 
+            <lb/>suam . sed populi gratiam a deo requirebat . Cupiebat 
+            <lb/>quidem corpore . et uinculis suę fragilitatis absolui . 
+            <lb/>sed deuotius expectabat uidere promissum dei . <label type="lection_no">.vi.</label> Cum 
+            <lb/>ergo impleti essent dies purgationis eius secundum 
+            <lb/>legem moysi . tulerunt parentes eius iesum in hierusalem 
+            <lb/>ut sisterent eum domino sicut scriptum est in lege domini . 
+            <lb/>quia omne masculinum ad appariens uuluam . sanctum 
+            <lb/>domino uocabitur . Consuetudo itaque erat . a circum
+            <lb/>cisionis die per .xxxiii. dies filium . autem per .xlviii. sepa
+            <lb/>rari a templo . Non quia ipse indiguit purgari . in cuius 
+            <lb/>conspectu cæli non sunt mundi . sed ut suo exemplo 
+            <lb/>instrueret mundum . Et ut darent hostiam deo pro illo . 
+            <lb/>secundum quod dictum est in lege domini . par turturum . aut duos 
+            <lb/>pullos columbarum . Per turturem castitas et innocen
+            <lb/>tia designatur . Turtur enim post mortem sui con
+            <lb/>iugis . alterum non sectatur coniugem usque ad mor
+            <lb/>tem . et rubicundus colore . maie<add resp="scribe" place="sup">s</add>tate clamat . et
+            <lb/>raro inuenitur nidus eius . Hoc quidem significat . 
+            <lb/>quia per castitatem spiritus sanctus in homine clamat . et uitam 
+            <lb/>eius pre diabolo semper abscondit . quia iam conuer
+                <pb n="28v" xml:id="P25_fol_28v"/><lb n="1"/>satio eius in caelis est . <label type="lection_no">.vii.</label> Et cum inducerent iesum parentes eius . 
+            <lb/>ut facerent secundum consuetudinem legis pro eo . accepit eum sy
+            <lb/>meon in ulnas suas . et benedixit eum id est in confessione . 
+            <lb/>Ipse enim deum confitetur . qui corde et ore et opere eum uene
+            <lb/>ratur et dixit . Nunc dimittis seruum tuum domine . secundum uerbum 
+            <lb/>tuum in pace . Quia uiderunt oculi mei salutare tuum . quod 
+            <lb/>preparasti ante faciem omnium populorum . Ác si dixisset . 
+            <lb/>Dimitte me . quia tu es uere lumen . qui uenisti ad inluminandum 
+            <lb/>omnes gentes . et specialius . ad glorificandum populum israel .
+            <lb/>Erat autem pater eius et mater mirantes . super his quę di
+            <lb/>cebantur de illo . Et benedixit illis symeon . more angeli 
+            <lb/>mariam benedicentis . Benedicta tu inter mulieres . 
+            <lb/>et benedictus fructus uentris tui . <label type="lection_no">.viii.</label> Per hoc quidem signi
+            <lb/>ficatur noua lege . uetus testamentum completur . et bene
+            <lb/>dicetur . Et ut perfecerunt omnia secundum legem domini . reuer
+            <lb/>si sunt in galileam . in ciuitatem suam nazareth . Puer autem 
+            <lb/>crescebat et confortabatur plenus sapientia . et gratia dei 
+            <lb/>erat in illo . Benedicamus ergo et nos domino fratres karissimi . idem . 
+            <lb/>in ymnis et confessionibus . cupientes dissolui a corpore 
+            <lb/>et a uinculis nostrę . fragilitatis et esse cum christo . Et iterum con
+            <lb/>fiteamur pietatem dei omnipotentis . ex intimo cordis affectu . 
+            <lb/>gratias ei referentes pro suis beneficiis . ut nobis hic et in futuro 
+            <lb/>omnia bona largiter concedere dignetur ; Sequamurque 
+            <lb/>eum rectis gressibus bonorum operum . quę nobis per se exemplis 
+            <lb/>bonę uitæ ostendit iesus christus . unigenitus eiusdem dei patris . 
+            <lb/>qui cum eo semper . uiuit dominatur . et regnat deus . per omnia 
+            <lb/>saecula seculorum Amen .
+        </p></div></body>
+    </text>
+</TEI>

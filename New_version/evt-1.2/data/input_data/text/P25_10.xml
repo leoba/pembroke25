@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 10 (18r–19v) </title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2006-08-20T09:38:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-23T21:32:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 10 (18r–19v)" xml:id="p25_10">
+        <body><div><p>
+            .x. ITEM ALIA .
+            <lb n="14"/>Factum est fratres karissimi cum implesset iohannes haec 
+            <lb/>et multa his similia . et cum annorum esset nonaginta . 
+            <lb/>.vii. apparuit ei dominus iesus christus cum discipulis suis dicens illi . 
+            <lb/>Ueni ad me . quia tempus est ut epuleris in conuiuio meo 
+            <lb/>cum fratribus tuis . Surgens autem iohannes continuo cępit 
+            <lb/>ire . sed dominus dixit ei . Dominica die resurrectionis 
+            <lb/>meæ . quę post .v. dies futura est uenies ad me . Et cum 
+            <lb/>haec dixisset . statim in cęlo receptus est . Ueniente 
+            <lb/>itaque die dominica . conuenit uniuersa multitudo 
+            <lb/>populi in aecclesia . quę in eius nomine fuerat ędifi
+            <lb/>cata . et a primo pullorum cantu agens misteria dei . om
+            <lb/>nem populum usquæ in horam diei tertiam allocutus 
+            <lb/>est dicens eis . Conserui et coheredes . et comparticipes 
+            <lb/>regni dei . uidistis quæ dominus iesus per manus nostras opera face
+            <lb/>re dignatus est . Nos autem ministri fuimus uoluntatis illius ; 
+            <pb n="18v" xml:id="P25_fol_18v"/><lb n="1"/>ille auctor operum quae a nobis quidem fieri uidebantur . sed illo 
+            <lb/>iubente cęlebrantur omnia . Illa igitur signa . dona . requiem . 
+            <lb/>ministerium . gloriam fidem . communionem . gratiam . munera . 
+            <lb/>quamdiu nobis donauit accepimus . quamdiu concessit . 
+            <lb/>diuisimus . In illo enim conuersati sumus : in illo exultauimus . 
+            <lb/>in illo uiximus . sed iam nunc ad aliud opus uocat . Dissolui 
+            <lb/>enim iam delectat et esse cum christo . quia hoc quod olim desi
+            <lb/>derauimus . iam non moratur tribuere . Et cum haec dixis
+            <lb/>set . conuersus ad dominum dixit . Domine iesu christe . aecclesiam tuam 
+            <lb/>quam aedificasti tibi . misericordia tua protege . Tu domine solus mi
+            <lb/>sericors et pius . solus saluator et iustus ; qui es radix inmor
+            <lb/>talitatis . et fons incorruptionis . consortium nobis huius com
+            <lb/>munionis sanctifica . et hanc plebem quam per gloriosam filii tui 
+            <lb/>passionem adquirere dignatus es . in tuis bonis operibus semper
+            <lb/>custodire digneris . et dirige eam in lege tua quam in populum 
+            <lb/>tibi adoptiuum elegisti per unigenitum filium tuum . qui nos 
+            <lb/>elegit esse . discipulos . et ouium tuarum pastores esse consti
+            <lb/>tuit . qui tecum in aeternitate uiuit in unitate spiritus sancti amen .
+            <lb/>Et cum orationem complesset . petiit sibi dare panem . Respiciens 
+            <lb/>que ad cęlum benedixit eum ac fregit . et erogauit omnibus 
+            <lb/>dicens . pars mea sit uobiscum . et uestra mecum . Deinde post 
+            <lb/>haec . iussit sibi perfodi sepulchrum . Et dum tres ex fratribus 
+            <lb/>foueam secretius perfodirent ipse hortabatur ceteros . ut 
+            <lb/>semper sequerentur dominum . At ubi facta est fouea iuxta 
+            <lb/>uoluntatem eius . nullo sciente exuit se uestem . et strauit 
+            <lb/>eam super foueam . et stans cum lintheamine . extendit manus 
+            <lb/>ad dominum dicens . Deus omnipotens et tu iesu christe . qui me seruum 
+            <lb/>tuum speciali amore fouisti . suscipe animam famuli tui 
+            <pb n="19r" xml:id="P25_fol_19r"/><lb n="1"/>quem cito elegisti . sed sero adsumpsisti . Quotiens te rogaui 
+            <lb/>ut ad te uenirem . et dixisti mihi . Expecta paululum . ut liberes 
+            <lb/>populum meum per te michi crediturum . Expectaui et tu custo
+            <lb/>disti corpus meum ab omni pollutione . et non dereliquisti me 
+            <lb/>solum cum irem in exilium . Posuisti enim in ore meo uerbum 
+            <lb/>ueritatis tuæ . et scripsi ea opera quę oculis meis uidi . et uerba 
+            <lb/>quæ ex ore tuo auribus meis audiui . Et nunc domine commendo 
+            <lb/>tibi filios tuo<add resp="scribe" place="sup">s</add> quos tibi per aquam et spiritum sanctum
+                regeneraui . et me
+            <lb/>suscipe . ut cum fratribus meis sim cum quibus me uisitare uenisti . 
+            <lb/>Aperi mihi ianuam uitę . et principes tenebrarum non occur
+            <lb/>rant michi . Et manus extranea numquam a te me sepa
+            <lb/>ret . sed suscipe spiritum meum . et perduc me ad conuiuium ępularum 
+            <lb/>tuarum . ubi epulantur omnes amici tui . Tu es enim christus filius 
+            <lb/>dei uiui . qui precepto patris <add resp="scribe" place="sup">obediens</add> mundum saluasti . qui
+                spiritum sanctum tuum
+            <lb/>nobis dedisti . et nos communiter per eundem spiritum tibi gratias 
+            <lb/>referimus . per infinita secula seculorum . Et cum omnis populis respon
+            <lb/>disset amen . Lux tanta apparuit super apostolum per unam fere horam
+            <lb/>resplendens . Ut nullus eam sufferre poterat . et signans 
+            <lb/>se totum astit dicens . tu mecum sis domine iesu christe . Et cum proiecit 
+            <lb/>se supra tumulum in quo strauerat uestimenta sua et dixit . 
+            <lb/>Pax uobiscum fratres . et omnes benedicens ác uale faciens depo
+            <lb/>suit se uiuens adhuc in sepulchro suo . et iussit se operire 
+            <lb/>laudans et glorificans deum . Et statim in hac uoce reddidit 
+            <lb/>spiritum . Alii gaudebant . alii autem flebant . gaudebant . quia 
+            <lb/>tantum in illo cernebant gratiam . dolebant . quod tanti uiri 
+            <lb/>aspectu et presentiæ specie disi ungebantur . sed protinus 
+            <lb/>manna ex sepulchro eius deuenit . adorificans super omnes 
+            <lb/>ibi astantes . quam usque hodie locus ipse gignit in die natalis eius . 
+            <pb n="19v" xml:id="P25_fol_19v"/><lb n="1"/>et curantur omnes ab omnibus infirmitatibus suis uirtute precum 
+            <lb/>et orationum eius . Largiente domino nostro iesu christo . qui coronis 
+            <lb/>aureis clarificat sanctos suos . Cui est honor et imperium et po
+            <lb/>testas cum patre et spiritu sancto . per infinita secula seculorum amen .
+        </p></div></body>
+    </text>
+</TEI>

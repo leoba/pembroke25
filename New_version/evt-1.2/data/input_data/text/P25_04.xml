@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 4 (9r–10v)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2015-09-26T03:13:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-23T21:24:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 4 (9r–10v)" xml:id="p25_4">
+        <body><div><p>
+            <lb n="22"/>.iiii. OMELIA IN PRIMA ANTE NATALE DOMINI .
+            <lb/>Sanctam et gloriosam solemnitatem natuitatis domini nostri Iesu 
+            <lb/>Christi saluatoris cosmi fideli deuotione fratres karissimi . caelebra
+            <lb/>turi . totis uiribus nos debemus cum dei adiutorio pręparare .
+            <lb/>et omnes latebras animę nostrę diligenter aspicere et scrutari .
+            <lb/>Ne forte sit in nobis aliquod peccatum absconditum . quod secreta
+            <lb/>cordis nostri confundat . et oculos diuinę maiestatis offendat . 
+            <pb n="9v" xml:id="P25_fol_9v"/><lb n="1"/>Quia licet dominus noster Iesus Christus post passionem et resurrectionem 
+            <lb/>suam ascenderit in caelum . diligenter considerat qualiter se 
+            <lb/>unusquisque seruorum eius sine auaritia . sine ira . sine super
+            <lb/>bia . atque luxuria . sine odio atque malitia . ad cęlebrandum 
+            <lb/>eius natalicium . studeat pręparare atque ornare . <label type="lection_no">.ii.</label> Quia quo
+            <lb/>modo unumquemque ornatum esse . bonis operibus uiderit . Ita 
+            <lb/>illi gratiam suæ misericordię donare dispensabit . Si enim eum 
+            <lb/>uiderit . caritatis luce uestitum . iustitiæ et misericordię mar<lb n="9"/>gar<add resp="later" place="sup">i</add>etis . ornatum . castum . sobrium . humilem . benignum . 
+            <lb/>pium . misericordem . corpus et sanguinem suum . ad implendam 
+            <lb/>et clarificandam eius animam . per sacerdotum suorum ministerium 
+            <lb/>sanctificare dispensabit . Si autem aliquem uiderit luxuriosum . 
+            <lb/>adulterum . ebriosum . cupidum . t<subst><del>u</del><add resp="later">i</add></subst>midum . superbum . timeo 
+            <lb/>ne hoc illi dicatur quod dominus in aeuangelio dicit ; ligatis 
+            <lb/>manibus et pedibus proicite eum in tenebras exteriores . 
+            <lb/>ibi erit fletus et stridor dentium . <label type="lection_no">.iii.</label> Uidete ergo fratres quibus 
+            <lb/>et qualibus actuum ornamentis . debemus ad hánc tám sanctam 
+            <lb/>ác uenerabilem solemnitatem procedere . Et ideo mun
+            <lb/>demus quantum possumus cum dei adiutorio corda simul et cor
+            <lb/>pora nostra . <add resp="scribe" place="sup">ut</add> caelestis ille inuitator nihil in nobis
+                sordidum . nihil
+            <lb/>foetidum . nichil obscurum . nihil quod oculis suis offendat 
+            <lb/>inueniat . Igitur consideremus ad qualem sponsum uel ad 
+            <lb/>quale conuiuium inuitamur . ad mensam quidem inuitamur .
+            <lb/>ubi non cibus hominum inuenítur . sed panis angelorum 
+            <lb/>qui est Christus . ponitur. <label type="lection_no">.iiii.</label> Et ideo fratres karissimi quotiescumque 
+            <lb/>solemnitates domini aduenerint . ab omni iracundia uos 
+            <lb/>alienos efficite . ut peccata præterita per ælemosinam 
+            <lb/>et poenitentiam redimantur . Contra nullum hominem 
+            <pb n="10r" xml:id="P25_fol_10r"/><lb n="1"/>odium in corde teneatur . Et quod solebat uanitas mundi per gulam 
+            <lb/>impendere et per aebrietatem perdere ; Incipiat iustitia per misericordiam 
+            <lb/>pauperibus erogare et per pietatem in caelo recondere . Quia licet 
+            <lb/>omni tempore elimosin<subst><del>i</del><add resp="scribe" place="sup">a</add></subst>s precipitur facere ; precipue tamen in sanctis 
+            <lb/>solemnitatibus domini atque omnium sanctorum secundum uires nostras abun
+            <lb/>dantius debemus erogare . Ante omnia pauperes ad conuiuia 
+            <lb/>nostra prout unusquisque ualeat reuocemus . <label type="lection_no">.vi.</label> Non enim est iustum 
+            <lb/>in populo christiano ad unum deum pertinente . ut alii satientur 
+            <lb/>atque inebrientur . et alíí famis periculo puniantur . Recorde
+            <lb/>mur ergo fratres quia nos et omnis populus unius domini serui 
+            <lb/>sumus . uno pretio redempti sumus . et pari condicione in hoc mun
+            <lb/>do intrauimus . simili etiam exitu ab illo migraturi sumus . 
+            <lb/>et si bene agimus in hac uita . ad unam beatitudinem pariter 
+            <lb/>omnes ueniemus . Quare ergo pauper tecum non accipiet cibum . 
+            <lb/>Qui tecum similiter accepturus est regnum? quare non accipiet uel 
+            <lb/>ueterem tunicam tuam . Qui tecum meruit accipere baptismi 
+            <lb/>sacramentum . Et iterum immortalitatis accipiet stolam? 
+            <lb/><label type="lection_no">.vii.</label> Audite ergo fratres non meum . sed domini commune preceptum . Sic
+            <lb/>enim ait in aeuangelio . Cum prandium aut cęnam pręparaueris . 
+            <lb/>noli inuitare diuites qui té iterum reinuitent . sed uoca 
+            <lb/>pauperes ac debiles cæcos et claudos . et beatus eris quia non 
+            <lb/>habent unde retribuant tibi ; retribuetur enim tibi in resur
+            <lb/>rectione iustorum . Sed aliquis dicit ad hęc . Ergo amicos 
+            <lb/>et parentes meos non debeo ad conuiuium reuocare? Inuitan
+            <lb/>di quidem sunt . sed tam sobria et modesta oportet preparari 
+            <lb/>conuiuia ut remaneat unde possit aliquid pauperibus 
+            <lb/>erogari . <label type="lection_no">.viii.</label> Ut cum dies iudicii uenerit non cum eis qui nunc 
+            <lb/>pauperes despiciunt ; Asperam audiamus uocem dicentem ; 
+            <pb n="10v" xml:id="P25_fol_10v"/><lb n="1"/>Discedite a me maledicti in ignem aeternum . esuriui enim . et non dedistis
+            <lb/>mihi manducare . Sitiui . et non dedistis mihi bibere . Nudus . <add resp="scribe" place="sup">eram</add> et non co
+            <lb/>operuistis me . Hospes . eram et non suscepistis me . Infirmus fui . 
+            <lb/>et non uisitastis me . Caueant ergo diuites et auari . quia pro his
+            <lb/>sex modis . in die iudicii puniendi sunt etiam si alia propria
+            <lb/>non haberent peccata . Studeamus ergo fratres karissimi elimosi
+            <lb/>nas abundantius erogare . ut cum hilaribus et iustis et mise
+            <lb/>ricordibus . uocem cunctis amabilem audire mereamur . <label type="lection_no">.viiii.</label> Venite 
+            <lb/>benedicti patris mei . percipite regnum quod uobis paratum est 
+            <lb/>ab initio mundi . Qui dedistis mihi manducare et bibere . 
+            <lb/>et uestimentis cooperuistis me . suscipientes in domibus uestris . 
+            <lb/>et in infirmitate et in carcere uisitastis me . Rogemus ite
+            <lb/>rum ut aliam uocem audiamus euuangelicam dicentem . Euge 
+             <lb/>serue bone et fidelis . quia super pauca fuisti fidelis . supra
+            <lb/>multa te constituam intra in gaudium domini tui . Haec nobis 
+            <lb/>prestare dignetur saluator mundi . qui cum patre et spiritu sancto 
+            <lb/>uiuit et regnat in saecula sęculorum . amen .
+        </p></div></body>
+    </text>
+</TEI>

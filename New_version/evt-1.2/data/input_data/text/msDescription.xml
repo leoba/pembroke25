@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tv/tv.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>PEMBROKE 25: Description of the Manuscript and Context of its Production</title>
+                <author>Rebecca Rushforth</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2008-04-04T09:04:00</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <name>Dot Porter</name>
+                <date>2008-04-04T09:04:00</date>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Description of the Manuscript</head>
+                <div>
+                    <head>Codicological Description</head>
+                    <p>The manuscript as it now stands consists of 181 parchment folios, plus two
+                        modern paper flyleaves at each end. Each page is approximately 315 mm x 205
+                        mm. It is bound in a nineteenth-century binding, which is in need of repair,
+                        on five medieval sewing-stations.</p>
+                    <div>
+                        <head>Quires</head>
+                        <p>The manuscript is arranged in twenty-three quires as follows: a singleton
+                            (fol. 1), I<hi rend="sup">8</hi> (fols. 2–9), II<hi rend="sup">8</hi>
+                            (fols. 10–17), III<hi rend="sup">8</hi> (fols. 18–25), IV<hi rend="sup"
+                                >8</hi> (fols. 26–33), V<hi rend="sup">8</hi> (fols. 34–41), VI<hi
+                                rend="sup">8</hi> (fols. 42–49), VII<hi rend="sup">8</hi> (fols.
+                            50–57), VIII<hi rend="sup">8</hi> (fols. 58–65), IX<hi rend="sup">8</hi>
+                            (fols. 66–73), X<hi rend="sup">8</hi> (fols. 74–81), XI<hi rend="sup"
+                            >8</hi> (fols. 82–89), XII<hi rend="sup">8</hi> (fols. 90–97), XIII<hi
+                                rend="sup">8</hi> (fols. 98–105), XIV<hi rend="sup">8</hi> (fols.
+                            106–13), XV<hi rend="sup">8</hi> (fols. 114–21), XVI<hi rend="sup"
+                            >8</hi> (fols. 122–29), XVII<hi rend="sup">8</hi> (fols. 130–37),
+                                XVIII<hi rend="sup">8</hi> (fols. 138–45), XIX<hi rend="sup">8</hi>
+                            (fols. 146–53), XX<hi rend="sup">8</hi> (fols. 154–61), XXI<hi
+                                rend="sup">4</hi> (fols. 162–65), XXII<hi rend="sup">8</hi> (fols.
+                            166–73), XXIII<hi rend="sup">8</hi> (fols. 174–81). In short, the
+                            manuscript consists entirely of regular quires of eight, with two small
+                            exceptions: it starts with a singleton, and the twenty-first quire is a
+                            quire of only four leaves, two bifolia. M. R. James thought that the
+                            first quire had once contained five sheets, making ten leaves, and that
+                            the pair to fol. 1, which would have come between fols. 9 and 10, had
+                            been excised. I think it more likely, given the regularity of the rest
+                            of the manuscript and the fact that no text is missing between fols. 9
+                            and 10, that fol. <ref target="IMT/1r/1r.htm">1</ref> was added to the
+                            manuscript in the mid-twelfth century to enlarge the blank space
+                            available for the addition of historical material. (On this added
+                            historical material, <ref type="page" target="#flyleaves">see
+                            below</ref>.) James suggests that the note on <ref
+                                target="IMT/1r/1r.htm">1r</ref> is only the end of a longer text; if
+                            this were true, fol. 1 would be the last leaf of an added quire.</p>
+                        <p> The sheets within the quires are almost without exception arranged HFFH,
+                            so that within each opening either both verso and recto are the hair
+                            side of the parchment or both are the flesh side. This was good practice
+                            in medieval book production because the hair side of the parchment was
+                            usually darker than the flesh side and showed follicles, while the flesh
+                            side might be greasier and have vein patterning. (Early Insular
+                            techniques of parchment preparation, however, rendered this arrangement
+                            unnecessary by producing a hair and flesh side which were very difficult
+                            to tell apart.) The parchment in Pembroke 25 is of a practical quality,
+                            rather than being highly prepared. It is quite stiff; the hair-side is
+                            yellow-brown with clearly visible follicles; the flesh-side is paler and
+                            often shows a pattern of veining (<ref>image</ref>), typically caused by
+                            inadequate draining of blood from the animal’s body at slaughter,
+                            leaving a residue of iron to react with chemicals used later in the
+                            parchmenting process. Some folios, made from the edge of the skin, lack
+                            their lower corners. Many slits, tears, or holes in the parchment have
+                            been mended with chamfered patches or sewing, sometimes in colored
+                            thread. The impression left is of a workmanlike book, not high-status,
+                            but practical in its construction.</p>
+                        <p> The one exception to the arrangement of hair facing hair and flesh
+                            facing flesh occurs in the thirteenth quire, where the second sheet of
+                            the quire, fols. 99 and 104, is arranged with hair outwards instead of
+                            inwards. This means that in the openings of <ref
+                                target="IMT/98v/98v.htm">98v</ref>–<ref target="IMT/99r/99r.htm"
+                            >99r</ref>, <ref target="IMT/99v/99v.htm">99v</ref>–<ref
+                                target="IMT/100r/100r.htm">100r</ref>, <ref
+                                target="IMT/103v/103v.htm">103v</ref>–<ref
+                                target="IMT/104r/104r.htm">104r</ref>, and <ref
+                                target="IMT/104v/104v.htm">104v</ref>–<ref
+                                target="IMT/105r/105r.htm">105r</ref>, hair faces flesh or vice
+                            versa. However, in this quire the hair and flesh sides of the parchment
+                            are much more alike than elsewhere in the book, and the contrast in the
+                            openings is hardly noticeable. This similarity presumably led to a
+                            mistake by the scribe.</p>
+                    </div>
+                    <div>
+                        <head>Ruling</head>
+                        <p>The manuscript is written in a single column, fols. 1–165 in 28 lines,
+                            and fols. 166–73 in 27 lines. <ref target="IMT/174r/174r.htm">174r</ref>
+                            was ruled for 28 lines, but only 27 were written, and from <ref
+                                target="IMT/175r/175r.htm">175r</ref> to the end of the manuscript
+                            there are 27 ruled lines per page. These were ruled drypoint before the
+                            parchment was folded. The prickings in the outer margin seem to have
+                            been made with a triangular point. The size of the writing area is
+                            approximately 250 x 145 mm, with 9–10 mm between ruled lines, and with a
+                            double vertical bounding line ruled to provide space for litterae
+                            notabiliores. On occasion the gap between lines is not regular, for
+                            example on fol. <ref target="IMT/180r/180r.htm">180</ref>.</p>
+                    </div>
+                    <div>
+                        <head> Ink</head>
+                        <p>The ink is shiny and black; this is more typical of the Anglo-Saxon than
+                            the Continental tradition at this time. <emph>Litterae
+                            notabiliores</emph> have been picked out in red (<ref>image</ref>).</p>
+                    </div>
+                    <div>
+                        <head>Gold Flecks</head>
+                        <p>An odd feature of this manuscript is that tiny spots of gold can be seen
+                            on several pages, e.g. 000 (<ref>image</ref>). These are on top of the
+                            script. They are not regular at all and play no decorative role in the
+                            manuscript. One possible explanation for their appearance is that the
+                            manuscript was being made in the same environment as a much more complex
+                            and high-grade project involving gilding, and particles of gold leaf
+                            either became air-borne and landed on the manuscript or were transferred
+                            to it through human contact. Another possibility is that the manuscript
+                            was used to store gold leaf, and some small flecks were not successfully
+                            removed.</p>
+                    </div>
+                </div>
+                <div>
+                    <head>Marks of provenance</head>
+                    <p>The manuscript contains several marks of provenance assigning it to Bury St
+                        Edmunds abbey in Suffolk. </p>
+                    <div>
+                        <head>‘Liber S. Edmundi’</head>
+                        <p>The manuscripts of Bury St Edmunds were exposed to a number of helpful
+                            campaigns by librarians of the institution. As a result, there are
+                            several different ways to identify a manuscript from Bury. Pembroke 25
+                            contains a late twelfth- or early thirteenth-century Bury St Edmunds
+                            ownership inscription at the top of <ref target="IMT/3r/3r.htm">3r</ref>
+                            that reads “Liber sancti Edmundi regis et martyris”. This inscription is
+                            found in a number of other Bury St Edmunds books, including Pembroke
+                            College manuscripts 23 and 24 (<ref>image</ref>). It shows that Pembroke
+                            25 was part of Bury St Edmunds’ main working library collection at that
+                            date, since the manuscripts so marked are mostly working books for
+                                monks.<hi><note place="foot" n="1">Rouse and Rouse pp. xliii–xliv list
+                                    Pembroke MSS 17, 18, 24 (Latin homilies), 25, 26, 47, 49, 59,
+                                    84, 88, Bodl. e Mus. 31, to which can be added 23 (Latin
+                                    homilies), 81, Cotton Julius E. VII (Old English homilies), and
+                                    no doubt many others. CHECK SHARPE’s article</note>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Henry of Kirkestede, Bury Librarian</head>
+                        <p>The manuscript also contains annotations by Bury St Edmunds’ great
+                            medieval librarian, Henry of Kirkstede, sometimes known as Boston of
+                                Bury.<hi><note place="foot" n="2">Rouse and Rouse.</note>
+                            </hi> His work in Pembroke 25 corresponds to his usual pattern of
+                            activity and involves three different types of addition: an <emph>ex
+                                libris</emph>, a contents list, and a classmark.<hi><note place="foot" n="3">Rouse and Rouse, pp. xliii-li, esp. p.
+                                    xliv.</note>
+                            </hi>
+                        </p>
+                        <p> Kirkestede found an <emph>ex libris</emph> inscription already in place
+                            on <ref target="IMT/3r/3r.htm">3r</ref>, written in the late twelfth or
+                            early thirteenth century as discussed above. He added to it the words
+                            “in quo continentur omelie ^uel sermones^ xcv . item tractatus alani
+                            porrei de arte praedicandi.” Kirkestede felt the need to expand the
+                                <emph>ex libris</emph> to include a brief summary of contents, and
+                            this might suggest that, in this case at least, he dealt with the
+                                <emph>ex libris </emph>before he decided to add a detailed contents
+                            list on the facing page. The second item is to be identified with the
+                                <emph>Summa de arte praedicandi</emph> written by Alanus ab Insula,
+                            also known as Alain of Lille (<emph>ca</emph>. 1128–1203), which
+                            suggests that the manuscript was composite at this time.</p>
+                        <p> As was his usual practice, Kirkestede wrote a contents list on <ref
+                                target="IMT/2v/2v.htm">2v</ref> that reads as follows:</p>
+                        <p>Liber monachorum sancti edmundi in quo continentur<lb/>Omelie uel
+                            sermones . xcv . ab adventu deum usque ad festum sancti andree . et de
+                            apostolis . martyribus . confessoribus . et uirginibus . et de
+                            dedicacione ecclesie<lb/>Rabanus de officio misse et eius misterio et de
+                            significacione canonicarum horarum .</p>
+                        <p>This list repeats the <emph>ex libris</emph> information, although
+                            Kirkestede’s preferred form was to refer to the book as a possession of
+                            the monks of St Edmund, rather than of the saint himself.<hi><note place="foot" n="4">Rouse and Rouse, p. xliv.</note>
+                            </hi> In contrast to the note on <ref target="IMT/3r/3r.htm">3r</ref>,
+                            this contents list does not mention the <emph>Summa</emph> of Alanus ab
+                            Insula. The contents list also does not mention the extra sermons, on
+                            particular themes rather than about particular occasions, at the end of
+                            the volume.</p>
+                        <p> Kirkestede also gave the volume a classmark. He devised a system whereby
+                            each book in the Bury St Edmunds library had a two-part classmark
+                            consisting of a letter and an arabic numeral. (This is quite an early
+                            use of Arabic numbers in England.) These classmarks are easily
+                            recognized, and are very useful in the reconstruction of the Bury
+                            library. Books from other libraries survive with classmarks in a similar
+                            format, but in the Bury manuscripts the letter of the classmark always
+                            corresponds to its contents, e.g. “B” for “Biblia.” The arabic number
+                            makes the classmark unique, but it is not clear whether the numbers were
+                            originally serial and continuous, or whether Kirkestede left some
+                            numbers empty for further accessions. If they were continuous, then
+                            adding up the highest surviving number in each letter allows the Bury
+                            library to be estimated as containing around 2000 manuscripts in
+                            Kirkestede’s time, of which 218 survive.<hi rend="sup">
+                                <note place="foot" n="5">Sharpe, ‘Reconstructing’.</note>
+                            </hi> As well as marking these classmarks within the manuscript,
+                            Kirkestede seems, from exiguous binding evidence, to have put them on
+                            the outside of the manuscript, presumably to make them more easily
+                            findable.</p>
+                        <p> In addition to designating classmarks for the manuscripts, Henry of
+                            Kirkestede presumably must have also made a library catalogue that
+                            listed the books. Unfortunately such a catalogue does not survive.
+                            Without this evidence it is not clear what implications the classmarks
+                            have for the physical storage of the manuscripts.<hi><note place="foot" n="6">Sharpe, ‘Reconstructing’, pp. 206–7.</note>
+                            </hi> The existence of some volumes containing two different classmarks
+                            implies that the classmark did not necessarily relate directly to where
+                            they were kept.<hi><note place="foot" n="7">Sharpe, ‘Reconstructing’, p. 213.</note>
+                            </hi> Possibly it indicated a particular <emph>armarium</emph> or book
+                            closet, which could have been shared by manuscripts of more than one
+                            letter.</p>
+                        <p> Kirkestede gave Pembroke 25 the classmark “O.55,” where the “O” stands
+                            for “Omeliae.” He wrote this classmark on both <ref
+                                target="IMT/2v/2v.htm">2v</ref> and <ref target="IMT/3r/3r.htm"
+                            >3r</ref>. This puts the manuscript in a class that also contains works
+                            of Origen. Other surviving volumes of homilies in this class are
+                            Kirkestede’s O.52 and O.54, now classed as Pembroke College manuscripts
+                            23 and 24.</p>
+                    </div>
+                    <div>
+                        <head>Sixteenth-Century Round Hand</head>
+                        <p>Another contents note was added on <ref target="IMT/2v/2v.htm">2v</ref>
+                            in a round hand, probably from the sixteenth century:</p>
+                        <p>Homiliae usque festum S. Andrea, de Apostolis martyribus confessoribus et
+                            uirginibus, et dedicatione Ecclesiae<lb/>Rabanus Maurus de officio missa
+                            et mysterio et horis canonicis<lb/>Magistri Alani summa (uerbum
+                            abbreviatum dicta)</p>
+                        <p>By the side of the note on Hrabanus Maurus a hand of similar date has
+                            written “non occurrit his tractatus.” This hand has not been identified.
+                            It may be that of William Smarte or a previous secular owner, or it
+                            might be that of a fellow of Pembroke College.</p>
+                        <div><head>William Smarte and Pembroke College</head>
+                        <p> On <ref target="IMT/3r/3r.htm">3r</ref>, above the medieval <emph>ex
+                                libris</emph> inscription, has been added in a round hand “Liber
+                            sociorum Aulee Pembroke ex dono Gulielmi Smarte Aldermani Gyponicens
+                            1599.” William Smarte was from a prosperous Ipswich family and became
+                            Portman, bailiff, and member of parliament for the city.<hi><note place="foot" n="8">Blatchly, <emph>The Town Library of
+                                    Ipswich</emph>, pp. 1–8.</note>
+                            </hi> He seems to have played a prominent role in local life; in the
+                            famine of 1586 he seized food intended for troops garrisoned in the
+                            Netherlands to alleviate the conditions in Ipswich. William owned a
+                            number of manuscripts from Bury St Edmunds Abbey which are now at
+                            Pembroke College, Cambridge. According to Foxe, William’s father Richard
+                            was a staunch Catholic, involved in the persecution of Protestants under
+                            Mary, although he repented after her death. Assuming that under Henry
+                            VIII and Edward VI Richard’s loyalties had been to the old Catholic ways
+                            rather than tempered to suit the times, then perhaps William inherited
+                            volumes which his father obtained from Bury St Edmunds at its
+                            dissolution in 1539.</p>
+                        <p> William Smarte’s will of January 1598/9 left all his Latin books,
+                            printed and handwritten, to the church of St Mary Tower in Ipswich, to
+                            be kept there for the use of preachers. Before his death in September of
+                            the same year, however, he had given all his manuscripts except for a
+                            handful to Pembroke College, Cambridge, whose Master at the time was the
+                            theologian Lancelot Andrewes. (From the inscription’s date of 1599 one
+                            would assume the gift was later than March of that year.) He was
+                            persuaded to do this by a fellow of that college, Richard Buckenham, a
+                            local man whose family had close connections with the Smartes. It was
+                            presumably also through Buckenham’s influence that Smarte set up a
+                            number of scholarships to send boys from Ipswich Grammar School to
+                            Pembroke College.<hi><note place="foot" n="9">
+                                    <emph>Ibid</emph>.</note>
+                            </hi>
+                        </p>
+                        <p> Unfortunately the donations of William Smarte to Pembroke College were
+                            not immediately treated with the respect they deserved, and there were
+                            losses from the collection. Matthew Wren listed 79 items of Smarte’s
+                            donation in his catalogue of the Pembroke manuscripts published in 1617,
+                            and lamented that Richard Buckenham had not thought to catalogue them:
+                            ‘si catalogum datorum nobis reliquisset, egregium fidem praestissiset.
+                            Dedit enim praeter hos proculdubio non paucos qui nunc (proh dolor)
+                                absunt.”<hi><note place="foot" n="10">Wren 1617? check James.</note>
+                            </hi> For example, a manuscript of Alexander Nequam which had moved to
+                            the Bodleian Library by 1620, where it is now MS Bodley 356
+                            (<emph>S.C.</emph> 2716), was possibly given as early as 1601 in
+                            response to one of Sir Thomas Bodley’s early donation drives. Other
+                            manuscripts have also strayed <hi>comment check cat</hi>
+                            <hi>.</hi>.</p></div>
+                    </div>
+                </div>
+                <div>
+                    <head>The Script of Pembroke 25</head>
+                    <div>
+                        <head>English Caroline Minuscule</head>
+                        <p> The script of Pembroke 25 is a form of Standard Late English Caroline
+                            Minuscule, also known as Style IV Anglo-Caroline minuscule. Caroline
+                            minuscule was invented around the late eighth century in Francia,
+                            combining elements from Cursive Half-Uncial and local minuscules to
+                            produce a clear, elegant script with fewer ligatures and variant letter
+                                forms.<hi><note place="foot" n="11">Bischoff, <emph>Latin Palaeography</emph>,
+                                    pp. 112–27.</note>
+                            </hi> Its association with the court of Charlemagne gives it its modern
+                            name. Typical features include the <hi>a</hi> like a modern printed
+                                <hi>a</hi>, with an arched top stroke over the round body;
+                            <hi>g</hi> like a formal printed <hi>g</hi>, with a round top bowl above
+                            a tail (which may have been open or closed); <hi>r</hi> like a modern
+                                <hi>r</hi>; and <hi>s</hi> much like a modern <hi>f</hi> but without
+                            the cross bar and not descending below the line. This style of script
+                            usually has a neat, restrained aspect.</p>
+                        <p> Caroline minuscule spread quickly through much of Western Europe but was
+                            not taken up in England in the ninth century even though the importation
+                            of books in Caroline minuscule and Continental scholars to the court of
+                            King Alfred would have been an obvious occasion for this to occur.
+                            Caroline minuscule was first written in England in the middle of the
+                            tenth century.<hi><note place="foot" n="12">On English Caroline see Bishop,
+                                    <emph>ECM</emph>; Dumville, <emph>ECS</emph>; Rushforth,
+                                    ‘English Caroline Minuscule’.</note>
+                            </hi> It quickly became closely associated with the Benedictine Reform
+                            movement promoted by Sts Dunstan, Æthelwold, and Oswald, and King Edgar
+                            in the 960s and 970s. Two styles of English Caroline script have been
+                            identified from the first half century of its existence. Style I
+                            involves writing Caroline minuscule to make it as indistinguishable as
+                            possible from that written on the Continent, and it is particularly
+                            associated with St Æthelwold. Style II retains some Insular features and
+                            is associated with St Dunstan. In the first two decades of the eleventh
+                            century, elements from both of these scripts were combined, probably at
+                            Canterbury, to produce a typically English script known as Standard Late
+                            English Caroline, or Style IV Anglo-Caroline minuscule. This script
+                            spread throughout England and has been seen as “a badge of
+                                Englishness.”<hi><note place="foot" n="13">Dumville, <emph>ECS</emph>, p, 138</note>
+                            </hi> It survived for about half a century after the Norman Conquest in
+                            some houses. </p>
+                        <p> The characteristic features of Standard Late English Caroline Minuscule
+                            are usually taken from the hand of Eadwig Basan, whose work represents
+                            the apogee of this style.<hi><note place="foot" n="14">On Eadwig Basan see Bishop,
+                                    <emph>ECM</emph>; Dumville, <emph>ECS</emph>; Heslop, ‘The
+                                    Production’; Pfaff, ‘Eadui Basan’; Gameson, ‘The Colophon’;
+                                    Gameson, <emph>The Scribe Speaks?</emph>; Rankin, ‘An Early
+                                    Eleventh-Century Missal Fragment’; Rushforth, ‘English Caroline
+                                    Minuscule’; Rushforth, ‘The Prodigal Fragment’.</note>
+                            </hi> The script is usually round and elegant, restrained and inactive
+                            in aspect. It has wedges on ascenders and at minim-height and also
+                            usually has small finishers or feet at the baseline which help give a
+                            sense of thick/thin contrast. The enclosed parts of both <hi>a</hi> and
+                                <hi>e</hi> are small and narrow, and <hi>a</hi> might sometimes be
+                            written so that the arched top stroke extends upwards above
+                            minim-height. The form of <hi>g</hi> has a short descending stroke
+                            linking the round upper body to the tail, although in later examples
+                            this line is sometimes omitted completely and a clear gap is left
+                            between the two parts. The top part of <hi>r</hi> is sharply zig-zagged;
+                            in later specimens the right-hand or top part of the letter might join
+                            the stem quite low down near the baseline, leading to a “split”
+                            appearance so that the letter looks a bit like a very narrow <hi>v</hi>.
+                            The form of <hi>s</hi> has a heavy shoulder at minim-height. The
+                                <hi>c</hi>+<hi>t</hi> ligature is often very close and
+                            “loaf-shaped.” Features like two sorts of <hi>r</hi>+<hi>a</hi> ligature
+                            (with Caroline <hi>a</hi> and with “cc” <hi>a</hi>), small majuscule
+                                <hi>N</hi>, and small majuscule <hi>H</hi> (particularly in the
+                                <emph>ihc</emph> abbreviation for <emph>Iesus</emph>) are also
+                            typical of this script. In the hands of a master practitioner — such as
+                            the aforementioned Eadwig Basan, as well as the mid-eleventh-century
+                            scribe of a Canterbury Pontifical (Cambridge, Corpus Christi College
+                            44), some scribes at Exeter in the third quarter of the eleventh
+                                century,<hi><note place="foot" n="15">On the Exeter scriptorium, 1050–1072, see
+                                    Drage, ‘Bishop Leofric’.</note>
+                            </hi> and the two Bury scribes who wrote a gospel book at the end of the
+                            eleventh century (Cambridge, St John’s College, C. 23 (73)) — it is a
+                            supremely elegant and beautiful script. However, when written
+                            inexpertly, it can easily appear clumsy, almost cartoonishly
+                            exaggerated, stalled, and ragged.</p>
+                    </div>
+                    <div>
+                        <head>The Two Hands of Pembroke 25</head>
+                        <p>In the continuum of performances of Standard Late English Caroline
+                            Minuscule, the script of Pembroke 25 is to be placed at the high end of
+                            the middle. The script is quite attractive, but not highly calligraphic.
+                            It is written in an undisciplined, workmanlike fashion. As with other
+                            aspects of the manuscript’s production, the script gives a clear
+                            impression that the first concern has been to produce a straightforward,
+                            usable book.</p>
+                        <p> More than one scribe is at work in this manuscript, but exact
+                            identification of stints is complicated by the undisciplined nature of
+                            the writing. Major writing habits remain constant, while small habits
+                            and the aspect of the script change gradually over time. (Similar shifts
+                            in writing habits can be paralleled in other manuscripts written at Bury
+                            St Edmunds at this period, for example in London, British Library, Royal
+                            7. C. ii, where the scribe unsuccessfully attempts to eradicate
+                            descending <hi>s</hi> from his work on fol. 167.) I have not been able
+                            to identify the change in hand which M. R. James located between his
+                            items 34 and 35. However, there is a change in hand between <ref
+                                target="IMT/89v/89v.htm">89v</ref> and <ref target="IMT/90r/90r.htm"
+                                >90r</ref>, corresponding with a change in quire, but not in text.
+                            The difference between these two hands is not a consistent difference of
+                            habit, but a difference of aspect and pen: the first hand is large,
+                            dense, and round, written flowingly with quite a thick pen, while the
+                            second is written slightly smaller and less fluently with a thinner pen.
+                            Since these hands are otherwise very similar, I shall refer to them
+                            together in the following full description of the script of Pembroke 25.</p>
+                        <p> The aspect of both hands is quite dense on the page and round, though
+                            these features are more marked in the first hand. Both hands have
+                            suggestions of a slight forward lean. Ascenders have tapering wedges,
+                            and minims have small wedges. At the baseline there are small, slightly
+                            slanted feet or occasionally very small turned-back descenders; full
+                            descenders usually turn back a little. </p>
+                        <p><hi>a</hi> exhibits the Caroline form with quite a large compartment; it
+                            is sometimes tall in initial position, e.g. <ref
+                                target="IMT/56v/56v.htm">56v</ref>9 <hi>a</hi>
+                            <emph>utem</emph>. It often has an emphatic top arch, leaning to the
+                            left, in a form one might call “quiffed,” e.g. <ref
+                                target="IMT/8r/8r.htm">8r</ref>22 <hi>a</hi><emph>nima</emph>, <ref
+                                target="IMT/90v/90v.htm">90v</ref>24
+                                <hi>a</hi><emph>liquas</emph>.<hi><note place="foot" n="16">While Neil Ker referred to this form as
+                                    “tall <hi>a</hi>”, David Dumville has used the term “tall
+                                    <hi>a</hi>” to refer to the <hi>a</hi> which is simply higher
+                                    than minim-height; to avoid confusion I prefer to use a term
+                                    which draws attention to the characteristic aspect of this form,
+                                    given by the emphatic top-stroke which is particularly dense on
+                                    the right-hand side while leaning out to the left of the
+                                letter.</note>
+                            </hi> At line-end or sometimes word-end, <hi>a</hi> often has an
+                            upwards-flicking hair-line finisher. Very occasionally round rather than
+                            Caroline <hi>a</hi> appears, e.g. <ref target="IMT/85r/85r.htm"
+                            >85r</ref>24–25 <emph>f</emph><hi>a</hi><emph>ce/re</emph>.</p>
+                        <p>Both straight-backed <hi>d</hi> and round-backed <hi>d</hi> occur
+                            frequently. In the round-backed form the letter often does not rise much
+                            above minim-height and has a very small ascending part, e.g. <ref
+                                target="IMT/131r/131r.htm">131r</ref>24
+                            <emph>aliqui</emph><hi>d</hi>.</p>
+                        <p><hi>e</hi> has a medium-sized, slightly slanting compartment and
+                            occasionally a hooked back. There are four different types of
+                            <hi>e</hi>-caudata: one with a hooked tail, e.g. 000 (<ref>image</ref>);
+                            one with a spurred tail, e.g. <ref target="IMT/39v/39v.htm">39v</ref>11
+                                <emph>pręceptum</emph>; one with a looped tail, e.g. 000
+                            (<ref>image</ref>); and one with a short lightning-stroke descender
+                            slanting down to the left from the bottom-left of the letter, e.g. 000
+                                (<ref>image</ref>). On rare occasions two different types of
+                            <hi>e</hi>-caudata are used in a single word, e.g. <ref
+                                target="IMT/14v/14v.htm">14v</ref>2 <emph>ęuę</emph>. The <hi>æ</hi>
+                            digraph is also found with some frequency, e.g. <ref
+                                target="IMT/165r/165r.htm">165r</ref>25
+                                <emph>h</emph><hi>æ</hi><emph>c</emph>.</p>
+                        <p><hi>f</hi> has the Caroline form; it has either a little tailed-back
+                            descender at the baseline or a small foot. Occasionally Insular
+                            minuscule <hi>f</hi> is used to avoid a descender from the line above,
+                            e.g. <ref target="IMT/54r/54r.htm">54r</ref>28
+                            <hi>f</hi><emph>inem</emph>. <hi>g</hi> has the Caroline form; between
+                            bowl and tail it usually has a small stem stroke which often slants to
+                            the left. Occasionally bowl and tail are separated by a gap, e.g. <ref
+                                target="IMT/42v/42v.htm">42v</ref>26
+                                <emph>di</emph><hi>g</hi><emph>netur</emph>; the tail is sometimes
+                            open, sometimes closed with a hair-line. Small majuscule <hi>H</hi> is
+                            sometimes used, as is small majuscule <hi>N</hi>. <hi>r</hi> is sharp,
+                            sometimes split, e.g. <ref target="IMT/8r/8r.htm">8r</ref>24
+                                <hi>r</hi><emph>egis</emph>; occasionally it descends a little.</p>
+                        <p>
+                            <hi>s</hi> has either a heavy shoulder or just a spur; it often has a
+                            small tailed-back descender, but occasionally a foot. Ascender-height
+                            round <hi>s</hi> is sometimes found at line-end, e.g. <ref
+                                target="IMT/165r/165r.htm">165r</ref>28
+                            <emph>caeli</emph><hi>s</hi>. A <hi>v</hi>-shaped form of <hi>u</hi> is
+                            occasionally used, e.g. <ref target="IMT/55v/55v.htm">55v</ref>19
+                                <hi>v</hi><emph>enit</emph>. <hi>x</hi> usually does not descend
+                            below the line. <hi>y</hi> is curved or straight limbed and always
+                            dotted. <hi>z</hi> is either minim-height and uncrossed, minim-height
+                            and crossed (e.g. <ref target="IMT/56v/56v.htm">56v</ref>24
+                                <emph>La</emph><hi>z</hi><emph>are</emph>), or slightly tall and
+                            uncrossed (e.g. <ref target="IMT/99r/99r.htm">99r</ref>15–16
+                                <emph>bapti/</emph><hi>z</hi><emph>etur</emph>). A descending form
+                            of <hi>z</hi> is used once, <ref target="IMT/25v/25v.htm">25v</ref>23
+                                <emph>bapti</emph><hi>z</hi><emph>ari</emph>. The
+                            <hi>c</hi>+<hi>t</hi> ligature is quite close, and the ligaturing stroke
+                            does not rise very high, e.g. <ref target="IMT/6v/6v.htm">6v</ref>10
+                                <emph>inta</emph><hi>ct</hi><emph>a</emph> (<ref>image</ref>).
+                                <hi>r</hi>+<hi>t</hi> and <hi>s</hi>+<hi>t</hi> ligatures are also
+                            used. The <hi>r</hi>+<hi>a</hi> ligature with “cc” form of <hi>a</hi> is
+                            found, and the <hi>r</hi> in this ligature often descends below the
+                            line, e.g. <ref target="IMT/37r/37r.htm">37r</ref>9
+                                <emph>sinist</emph><hi>ra</hi>, <ref target="IMT/180r/180r.htm"
+                            >180r</ref>23 <emph>cete</emph><hi>ra</hi>.</p>
+                        <p>The abbreviation for <emph>Iesus</emph> sometimes has a small majuscule
+                                <hi>H</hi>, e.g. <ref target="IMT/117r/117r.htm">117r</ref>5
+                                <emph>Iesu</emph>. The Insular abbreviations for <emph>est</emph>
+                            (÷) and <emph>enim</emph> are used, the latter in the form much like a
+                            small majuscule <hi>H</hi> without protruding cross bar, e.g. <ref
+                                target="IMT/127v/127v.htm">127v</ref>1 <emph>enim</emph>. The
+                            abbreviation mark is usually a horizontal line but is sometimes jagged
+                            like a lightning strike, e.g. <ref target="IMT/151r/151r.htm"
+                            >151r</ref>12 <emph>spiritus sancti</emph>. The tironian <emph>et</emph>
+                            nota is occasionally used, e.g. <ref target="IMT/57v/57v.htm">57v</ref>5
+                                <emph>et</emph>, <ref target="IMT/115r/115r.htm">115r</ref> 28
+                                <emph>et</emph>. The question mark is used, e.g. <ref
+                                target="IMT/8r/8r.htm">8r</ref>13 <emph>tui?</emph>.</p>
+                        <p> Major initials are drawn entirely in red, two or three lines high.
+                                <emph>Litterae notabiliores</emph> are drawn from the various
+                            majuscule options, <emph>viz</emph>. Uncial, Rustic Capitals, and Square
+                            Capitals; variation is seen in the form chosen. They are often picked
+                            out in red ink, with one downward stroke of red highlighting an
+                            important stroke of the letter. In places rough paragraph marks are also
+                            added in red. The same red is used for rubrics. These are written in
+                            mixed majuscules, with Rustic Capital forms predominating, e.g. <ref
+                                target="IMT/125r/125r.htm">125r</ref>1. However, sometimes primarily
+                            Uncial forms are used, e.g. <ref target="IMT/3r/3r.htm">3r</ref>2 and
+                                <ref target="IMT/166r/166r.htm">166r</ref>1–2. </p>
+                    </div>
+                </div>
+                <div>
+                    <head>A Palaeographical Dating for Pembroke 25</head>
+                    <p>There has not yet been sufficient study of the development of English
+                        Caroline minuscule over the course of the eleventh century. Neither of the
+                        two major monographs on the script address this issue thoroughly. T. A. M.
+                        Bishop’s <emph>English Caroline Minuscule</emph> is necessarily
+                        circumscribed by its particular format, and Bishop chose to represent far
+                        more manuscripts from the tenth century, during the script’s introduction
+                        and early development in England, than from the eleventh. Likewise David
+                        Dumville, in his <emph>English Caroline Script and Monastic History</emph>,
+                        concentrates on the early years of English Caroline, though he does discuss
+                        the first quarter of the eleventh century in detail. Otherwise,
+                        palaeographical scholarship has focused on the Norman Caroline minuscule
+                        which was introduced after the Conquest in 1066, and English Caroline
+                        minuscule of this period has largely been defined in contrast to it. Neil
+                        Ker’s invaluable <emph>English Manuscripts in the Century After the Norman
+                            Conquest</emph> is the best survey of this period. Ker describes the
+                        “beautiful eleventh-century English script, in whose history the Norman
+                        Conquest was only a disturbing incident” as “perfectly upright, fairly
+                        large, and widely spaced.” The features which Ker thought would stand out as
+                        odd to the Norman reader include “the amply curving head of <hi>a</hi>, the
+                        larger form of <hi>a</hi> used commonly at the beginning of a word, the bold
+                        ligature for <hi>et</hi>, and the handsome <hi>g</hi> with a sharp angle in
+                        the stroke connection the upper and lower parts of the letter,” as well as
+                        the <hi>r</hi>+<hi>a</hi> and <hi>r</hi>+<hi>t </hi>ligatures and the
+                        Insular <emph>autem</emph> abbreviation. Ker also examines the script of
+                        this period in his article on the early manuscripts of Salisbury Cathedral.
+                        He talks in particular about the “bad habits” of eleventh-century script
+                        which a Norman master might wish to eradicate, including:</p>
+                    <p><list><item>writing a hyphen at the beginning of a line as well as at the end;</item> <item>making an
+                            <emph>rt</emph> ligature;</item> <item>making the <emph>et</emph> ligature in the
+                        middle or at the beginning of a word;</item> <item>using rounded <emph>d</emph> as an
+                        alternative to upright <emph>d</emph>, not solely in order to save space;</item>
+                        <item>writing <emph>ae</emph> or <emph>æ</emph> instead of <emph>ę</emph>;</item>
+                        <item>allowing <emph>f</emph>, <emph>r</emph>, and <emph>s</emph>, one, two, or
+                        three of them, to fall below the line;</item> <item>using round <emph>s</emph>;</item> <item>making a
+                        special form of <emph>a</emph> after <emph>r</emph> [the
+                        <hi>r</hi>+<hi>a</hi> ligature with “cc” <hi>a</hi>];</item> <item>using peculiar forms
+                        of abbreviation for <emph>autem</emph> and <emph>enim</emph> [the old
+                        Insular forms];</item> <item>finishing minims with horizontal feet or serifs . . . the
+                        last three are characteristic of older English not older Norman script.<hi
+                           ><note place="foot" n="17">Ker, ‘The Beginnings’, p. 28</note>
+                        </hi></item></list>
+                    </p>
+                    <p>David Dumville has also commented on post-Conquest script from this angle,
+                        talking of “late eleventh-century scribal evils” in his brief study of the
+                        St Nicholas-related additions to London, British Library, Cotton Tiberius B.
+                            v.<hi><note place="foot" n="18">Dumville, ‘A note on the post-Conquest
+                                additions’, at p. 105.</note>
+                        </hi> He summarizes the bad habits of these script specimens as “lines
+                        irregularly ruled,” “ill-formed and inconsistent letters,” frequent
+                        tall-headed <hi>a</hi>, and frequent corrections.</p>
+                    <p> In Pembroke 25 we can see many of the features described by Ker and
+                        Dumville, both standard English ones and those described pejoratively as
+                        “faults” common to this period. The tall <hi>a</hi>, with an extended
+                        arching top part, is used often in Pembroke 25, usually at the start of
+                        words as Ker specifies. The <hi>e</hi>+<hi>t</hi> ligature is found in the
+                        middle and end of words, and not just to represent the word <emph>et</emph>.
+                        The <hi>r</hi>+<hi>a</hi> ligature with “cc” <hi>a</hi> is frequently found,
+                        as is the <hi>r</hi>+<hi>t</hi> ligature, which Ker said was “hardly found
+                        after????’. The Insular <emph>enim</emph> abbreviation is found, although
+                        the Insular <emph>autem</emph>, in the form of an <hi>h</hi> with a hook on
+                        the right-hand side of the lower half, is not found.</p>
+                    <p>
+                        <hi>Ker, codicology; twelfth-century two columns</hi>
+                    </p>
+                    <p>
+                        <hi>Insular forms to avoid clash common — other Insular habits essentially
+                            tironian et</hi>
+                    </p>
+                    <p>
+                        <hi>probably within fifteen years each way of 1100</hi>
+                    </p>
+                    <p>
+                        <hi>An English scribe</hi>
+                    </p>
+                </div>
+                <div xml:id="flyleaves">
+                    <head>Added Historical content on flyleaves</head>
+                    <p>Two notes, one dated 1154 and the other datable after 1153, appear on <ref
+                            target="IMT/1r/1r.htm">1r</ref>–2v, in two different hands, an early
+                        grand Gothic <emph>textualis precissa/quadrata</emph> and a documentary
+                        cursive. These two hands may have been written by the same scribe using a
+                        different cut of pen for each, since they seem to be in the same ink. Their
+                        linked contents suggest that they were added on the same occasion. (For a
+                        discussion of these two notes see pp. 000–000.) Probably fol. 1, the only
+                        singleton in the manuscript, was added to the manuscript at this time
+                        specifically to make extra blank space to contains these two items.</p>
+                    <p> A third historical note, now barely legible, was added to <ref
+                            target="IMT/181v/181v.htm">181v</ref>, probably in the first half of the
+                        twelfth century, judging from the script. This folio is very battered and
+                        has a number of worm holes and stains. It seems to have been used as a
+                        paste-down at some point in the manuscript’s history, probably after this
+                        note was written. The ink is now extremely faint in places. See p. 000 for a
+                        discussion of the significance of this third historical note.</p>
+                </div>
+            </div>
+            <div>
+                <head>Context of Production</head>
+                <p>The monastery at Bury St Edmunds in West Suffolk was one of the richest and most
+                    important in medieval England. In addition to considerable estates, it possessed
+                    the incorrupt body of Edmund, king and martyr, one of England’s most revered
+                    native saints, a valuable source both of income and of religious prestige. In
+                    the late Middle Ages the abbey produced notable historical writers;<hi
+                        rend="sup">
+                        <note place="foot" n="19">See Gransden, <emph>Historical Writing</emph>, pp.
+                            380–403. The poet John Lydgate was also a Bury monk; see Knowles,
+                                <emph>The Religious Orders</emph>, II.273–5.</note>
+                    </hi> its abbots had an impact on the political events of the day;<hi><note place="foot" n="20">As well as the influence given by controlling
+                            large estates, the abbot of Bury sat in parliament; see Knowles,
+                                <emph>The Religious Orders</emph>, II.281–2 and 304. For Abbot
+                            Samson, friend of Hubert Walter, the influential archbishop of
+                            Canterbury during the reigns of Richard I and John, see <emph>The
+                                Chronicle of Jocelin of Brakelond</emph>, ed. and trans.
+                        Butler.</note>
+                    </hi> and it also had a large and important library.<hi><note place="foot" n="21">Knowles, <emph>The Religious Orders</emph>,
+                            II.350.</note>
+                    </hi> When the shrine of Edmund was stripped in 1538, it yielded 5000 marks of
+                    gold and silver plus many precious stones, and at the abbey’s surrender in the
+                    following year its abbot received one of the highest recorded pensions given to
+                    an ex-monastic at the Dissolution, £330 per year.<hi><note place="foot" n="22">Knowles, <emph>The Religious Orders</emph>,
+                            II.270–2 and III.415.</note>
+                    </hi>
+                </p>
+                <div>
+                    <head>Bury St Edmunds before the Norman Conquest</head>
+                    <p>The abbey of Bury St Edmunds was certainly founded before the Norman
+                        Conquest, but pre-Conquest evidence for its history is sparse. The evidence
+                        of two wills suggests that there was a church of Edmund at
+                            <emph>Bedricesworth</emph> (the original name of the place which came to
+                        be known as Bury St Edmunds) in the mid-tenth century,<hi><note place="foot" n="23">The will of Ealdorman Ælfgar, datable 946×951,
+                                leaves land <emph>into Beodricheswrthe to seynt Eadmundes
+                                stowe</emph>: see Sawyer, <emph>Anglo-Saxon Charters</emph>, no.
+                                1483; <emph>Anglo-Saxon Wills</emph>, ed. and trans. Whitelock, pp.
+                                6–9 and 103–8 (no. 2). The will of Bishop Theodred, also datable
+                                946×951, refers to <emph>sancte Eadmundes kirke</emph>, although it
+                                does not specify where this is: Sawyer, <emph>Anglo-Saxon
+                                Charters</emph>, no. 1526; <emph>Anglo-Saxon Wills</emph>, ed. and
+                                trans. Whitelock, pp. 2–5 and 99–103 (no. 1). <hi>[[NB what about
+                                    the Canterbury treachery one?]]</hi>
+                            </note>
+                        </hi> and a charter of 963 records a grant of land to “ecclesie sancti
+                        Martiris sui Edmundi quæ sita est in loco celebri appellativa ruricolarum
+                        appellatione at Beodrichesworth nuncupato.<anchor xml:id="_Ref147133821"
+                            />”<hi><note place="foot" n="24">Sawyer, <emph>Anglo-Saxon Charters</emph>, no.
+                                1213; Dumville, <emph>English Caroline Script</emph>, p. 35, n. 132;
+                                    <emph>Codex Diplomaticus</emph>, ed. Kemble, II.379–80 (no.
+                                491). The Bury St Edmunds archive of Anglo-Saxon charters is in the
+                                process of being edited by Katherine Lowe and Sarah Foot for the
+                                British Academy series of Anglo-Saxon Charters; in the interim I
+                                have taken this text, and the date of 963 rather than 962, from
+                                London, British Library, Additional 45951, fols. <ref
+                                    target="IMT/1v/1v.htm">1v</ref>‑<ref target="IMT/2r/2r.htm"
+                                >2r</ref>, which although written in the fifteenth century seems to
+                                have been taken from a now-lost single-sheet.</note>
+                        </hi> A dubious charter of King Edmund, dated 945, calls the church a
+                            <emph>monasterium</emph>; although problematic as it stands, this text
+                        is likely to have some underlying authentic basis.<hi><note place="foot" n="25">Sawyer, <emph>Anglo-Saxon Charters</emph>, no.
+                                507; <emph>Codex Diplomaticus</emph>, ed. Kemble, II.258–9 (no.
+                                404); Hart, <emph>The Early Charters of Eastern England</emph>, pp.
+                                54–8 (no. 74); Whitelock, ‘Review’, p. 113; Hart, ‘The East Anglian
+                                Chronicle’, p. 277; Hart, <emph>The Early Charters of Northern
+                                    England</emph>, p. 385; Dumville, <emph>English Caroline
+                                Script</emph>, pp. 35–6.</note>
+                        </hi> However, all these documents are preserved only in later Bury
+                        archives, and may have been altered in copying.<hi><note place="foot" n="26">Though see note [24]; Sawyer 1213 seems to survive in a copy in
+                                imitative script taken directly from a now-lost tenth-century
+                                original.</note>
+                        </hi> Abbo of Fleury’s <emph>Passio S. Eadmundi</emph>, written while Abbo
+                        was staying at Ramsey in 985–987, only mentions <emph>Bedricesworth</emph>
+                        briefly, but implies that Edmund’s church was established there before the
+                        death of Theodred, bishop of London, in 951.<hi><note place="foot" n="27">Ælfric’s <emph>Life of Edmund
+                                    </emph>(<emph>Ælfric’s Lives of Saints</emph>, ed. Skeat,
+                                I.314–35), written in the late tenth century, is on the whole a
+                                direct translation of Abbo’s <emph>Passio</emph>, and his comments
+                                on Edmund’s resting-place cannot therefore be interpreted as
+                                implying disapproval for the community there, as has been suggested
+                                (oddly enough, in a volume about the importance of source-study for
+                                understanding texts; Lendinara, ‘Abbo of Fleury’, p. 4.)</note>
+                        </hi> There is no mention of Bury St Edmunds in any text of the
+                            <emph>Anglo-Saxon Chronicle</emph> written before the Conquest,<hi
+                           ><note place="foot" n="28">Bury St Edmunds is mentioned in the E-version
+                                of the Chronicle (from Peterborough) under the year 1046 (<emph>Two
+                                    of the Saxon Chronicles</emph>, ed. Plummer, I.166), but this
+                                manuscript is written in one hand down to the annal for 1121.</note>
+                        </hi> and the Old English text on the resting-places of saints, probably
+                        compiled in the early tenth century, says that Edmund lies at
+                            <emph>Bedricesworth</emph> in East Anglia, but does not specify <emph>on
+                            þam mynstre</emph> as it does in several other entries.<hi><note place="foot" n="29">
+                                <emph>Die Heiligen Englands</emph>, ed. Liebermann, pp.
+                            13–14.</note>
+                        </hi>
+                    </p>
+                    <p> Just as the date of Bury’s foundation is difficult to discover, so it is not
+                        easy to tell what sort of estates Bury had in its early history; it may have
+                        been a very wealthy house from the beginning, or it may have achieved
+                        prominent wealth only in the reign of Edward the Confessor. In 1043 Emma,
+                        who had been the lady, <emph>hlæfdige</emph>, of England since her marriage
+                        to Æthelred in 1002, surviving two changes of dynasty, was deprived of her
+                        lands and treasures by her son Edward the Confessor.<hi><note place="foot" n="30">
+                                <emph>Two of the Saxon Chronicles</emph>, ed. Plummer, I.162. See
+                                Stafford, <emph>Queen Emma</emph>, pp. 248–53.</note>
+                        </hi> These included extensive liberties in Suffolk which were granted to
+                        Bury St Edmunds, making it a very wealthy house.<hi><note place="foot" n="31">
+                                <emph>Anglo-Saxon Writs</emph>, ed. Harmer, pp. 154–5 (no. 9).
+                                Davis, ‘The Liberties’.</note>
+                        </hi> It seems likely that the monastery was already well staffed by this
+                        time, as this grant carried with it heavy administrative responsibilities.
+                        In 1044 Leofstan became abbot of Bury, and it was probably at about this
+                        time that he made the survey of some of the abbey’s possessions which
+                        survives in a contemporary hand at the back of Oxford, Corpus Christi
+                        College, 197.<hi><note place="foot" n="32">
+                                <emph>Anglo-Saxon Charters</emph>, ed. and trans. Robertson, pp.
+                                192–201 and 440–7 (no. 104). See below, pp. 14–19.</note>
+                        </hi> This survey includes a list of books and vestments; some are said to
+                        be in the possession of particular personnel, giving us the names of seven
+                        members of the community as well as of abbot Leofstan: these are Brihtric (a
+                        priest, or perhaps the prior), Blacere, Siferth, Ætheric, Thurstan, Oscytel,
+                        and another Leofstan.<hi><note place="foot" n="33">This Leofstan is not the abbot, since a
+                                Leofstan is said earlier in this document to have given the same
+                                donation to the house as abbot Leofstan, except for ten
+                            cheeses.</note>
+                        </hi> Of course, there may have been further members of the community who
+                        did not have any books in their possession at this time, and eight is
+                        therefore a minimum number for the personnel of the abbey at this time. The
+                        grant of extensive privileges in 1043 and Leofstan’s survey, probably made
+                        soon after 1044, set the tone for Bury’s subsequent history, which has often
+                        been seen as one of wealth and careful administration.<hi><note place="foot" n="34">Davies, ‘The Monks’.</note>
+                        </hi>
+                    </p>
+                </div>
+                <div>
+                    <head>Abbot Baldwin</head>
+                    <p>In 1065, perhaps as one of his last royal acts, Edward the Confessor
+                        appointed a new abbot at Bury St Edmunds, replacing Leofstan, who had been
+                        there since 1044. King Edward did not choose to promote one of the Bury
+                        monks; instead he set over them one of his own chaplains, a Frenchman called
+                        Baldwin. (This ran entirely contrary to the right to choose their own abbot
+                        which the Bury monks under Baldwin claimed had been theirs since time
+                        immemorial.) Baldwin was one of several of Edward the Confessor’s overseas
+                        chaplains who were promoted to high ecclesiastical office, like Giso of
+                        Wells and Regenbald of Cirencester.<hi><note place="foot" n="35">Keynes, ‘Giso’, ‘Regenbald’.</note>
+                        </hi>
+                    </p>
+                    <div><head>Before Bury</head>
+                    <p>Our evidence for the career of Baldwin before he became abbot of Bury St
+                        Edmunds comes from two sources: later hagiographical writing; and documents
+                        relating to English estates granted to Saint-Denis.</p></div>
+                    <div><head>Saint Denis</head>
+                    <p>Temporis Anglorum regis Eduuardy medicus</p></div>
+                    <div><head>His works at Bury</head>
+                    <p>By the time of Domesday book Bury St Edmunds was one of the richest abbeys in
+                        England, exceeded only by Glastonbury, Ely, and Christ Church,
+                            Canterbury.<hi><note place="foot" n="36">In Cambridge, Pembroke College, 47, fols.
+                                117–19; <emph>English Benedictine Libraries</emph>, ed. Sharpe
+                                    <emph>et al</emph>., pp. 50–94. This was written by three
+                                scribes, two working in the third quarter of the twelfth century and
+                                the third at the turn of the century.</note>
+                        </hi>Baldwin had built on the abbey’s already substantial holdings to
+                        achieve this. </p>
+                    <p>Reorders past</p>
+                    <p>Forged charters</p>
+                    <p>Privileges of abbey</p>
+                    <p> Annals</p>
+                    <p>Building works</p>
+                    <p>Builds extra church, for which he was remembered in later centuries. Also
+                        reorganises the town to encourage trade.</p></div>
+                    <div><head>Hagiography</head>
+                    <p> Baldwin vigorously promoted the cult of St Edmund during his time as abbot.
+                        It was from the reknown of Edmund’s holy death, his incorrupt body, and his
+                        subsequent miracles that the abbey derived much of its prestige. The
+                            <emph>vita</emph> of St Edmund by Abbo of Fleury was an elegant
+                        promotion of his sanctity by a great monastic writer, with an
+                        unchallengeable authority in that it told the story of Edmund’s death as
+                        related to Abbo by St Dunstan, archbishop of Canterbury, “with tears
+                        streaming down his face,” as he himself had heard it as a young man at the
+                        court of King Æthelstan from Edmund’s own standard-bearer. Abbo’s
+                        <emph>vita</emph> had soon been translated into Old English by Ælfric of
+                        Eynsham, who included it as one of only XXX English saints in his
+                        collections of homiletic <emph>Lives of Saints</emph>. Edmund’s status as an
+                        incorrupt saint, whose body did not rot but instead gave off the pleasant
+                        “odor of sanctity,” put him in a select group of great English saints along
+                        with Cuthbert at Durham and Æthelthryth at Ely.<hi><note place="foot" n="37">St Edith of Wilton was said to be partially
+                                incorrupt: her lower body did not rot because of her virginity, and
+                                the thumb and first two fingers of her right hand did not rot
+                                because she used the to cross herselfol.</note>
+                        </hi>
+                    </p>
+                    <p> However, Abbo’s text was not ideal from a Bury St Edmunds point of view as
+                        it does not mention where his body is to be found, and it does not include
+                        many post-mortem miracles. Abbo talks of the pleasant part of England in
+                        which Edmund rests, but he does not identify the specific place, and he was
+                        probably referring to the wider area of East Anglia; he spent a few years of
+                        exile at Ramsey Abbey and wrote the <emph>vita</emph> of Edmund at the
+                        request of the monks there. The earliest manuscript of Ælfric’s <emph>Lives
+                            of Saints</emph>, the only one surviving from before the Norman
+                        Conquest, is London, British Library, Cotton Julius E. vii, and this
+                        manuscript is used as the basis for the modern edition of these texts. It
+                        specifies in the homily on Edmund that he rests at Bedricesworth
+                        [<hi>sp</hi>.], the old name for Bury St Edmunds, but since this manuscript
+                        was written certainly at Bury St Edmunds itself, it is impossible to tell
+                        whether this detail was in Ælfric’s original text. </p>
+                    <p> Baldwin therefore needed to make more of the link between Bury St Edmunds
+                        and the renowned saint whose body it held. To do this he commissioned a work
+                        on the Miracles of St Edmund from a monk called Hermann. This text, the
+                            <emph>Miracula S. Eadmundi</emph>, was written in a complex and witty
+                        Latin, and the absence of a modern edition or any translation has hindered
+                        its use by modern scholars.<hi><note place="foot" n="38">I am extremely grateful to Dr Tom Licence, who
+                                has generously discussed with me his forthcoming edition and
+                                translation of this text for Oxford Medieval Studies; his work looks
+                                set to open this very interesting material to a much wider scholarly
+                                audience.</note>
+                        </hi>
+                    </p>
+                    <p>Events set in train by Baldwin continued after his death.</p>
+                    <p>Promotes cult of St Edmund in England and abroad, by spreading both texts and
+                        relics.</p>
+                    <p>Feudal book</p>
+                    <p>Develops sophisticated administrative records, to manage the abbey’s holdings
+                        and defend them against the depradations of the Normans</p>
+                    <p>His successors</p>
+                    <p>At Baldwin’s death ...</p>
+                    <p>While Baldwin himself died in January probably in 1097 but possibly in 1098,
+                        the works he had set in train at Bury can be seen continuing after his
+                        death. The only manuscript of the Miracula S. Eadmundi was. Although
+                        Pembroke 25 may have been written after Baldwin’s death, it was certainly
+                        written during the period of his influence on the abbey’s activities of
+                        self-improvement.</p></div>
+                </div>
+                <div>
+                    <head>The Bury St Edmunds Library and the Significance of Pembroke 25</head>
+                    <div><head>Scribal comparanda and book production</head>
+                    <p>In 1953 T. A. M. Bishop suggested that one of the hands of Pembroke 25 could
+                        also be seen at work in Cambridge, University Library, Ff. 2. 33 (1200),
+                        fols. i, ii, vi, and vii, and in Oxford, Bodleian Library, e Museo 6
+                            (<emph>S.C.</emph> 3567); unfortunately he did not specify to which of
+                        the two hands of Pembroke 25 he was referring.<hi><note place="foot" n="39">Bishop, ‘Notes I’, p. 434.</note>
+                        </hi>
+                    </p>
+                    <p> The main part of Cambridge, University Library, Ff. 2. 33 is a
+                        thirteenth-century Bury St Edmunds cartulary. Among its flyleaves are two
+                        bifolia, one at each end of the manuscript, containing the <emph>Concilium
+                            Africanum</emph> of A.D. 424;<hi><note place="foot" n="40">Gneuss, <emph>Handlist</emph>, p. 26 (no. 5);
+                                Gameson, <emph>The Manuscripts</emph>, p. 57 (no. 21).</note>
+                        </hi> these are labelled fols. i–ii and vi–vii respectively
+                        (<ref>image</ref>). They are written in an elegant, smallish, and quite
+                        dense Anglo-Caroline minuscule, with a slight forward slant. Palaeographical
+                        dating would suggest that they came from a manuscript written in the late
+                        eleventh century or perhaps the early twelfth. Since they were used in the
+                        binding of the thirteenth-century cartulary,<hi><note place="foot" n="41">NB check binding of Fols. 2. 33 (the catalogue
+                                is inadequate).</note>
+                        </hi> the original manuscript was probably dismantled at Bury St Edmunds by
+                        this date and was probably also written there.<hi><note place="foot" n="42">This manuscript is no longer in its original
+                                binding, so it is possible that these flyleaves were bound with the
+                                main part of the manuscript at a later date.</note>
+                        </hi>
+                    </p>
+                    <p>Oxford, Bodleian Library, e Museo 6 (<ref>image</ref>) contains Augustine’s
+                            <emph>In Euangelium Iohannis</emph> and part of Possidius’s <emph>Vita
+                            S. Augustini</emph>.<hi><note place="foot" n="43">Gneuss, <emph>Handlist</emph>, p. 99 (no.
+                                618); Gameson, <emph>The Manuscripts</emph>, p. 136 (no.
+                            717).</note>
+                        </hi> This manuscript is similar in format to the flyleaves of CUL Ff. 2.
+                        33; they were both laid out in two long columns densely written on large
+                        pages. Bodleian e Museo 6 was given the classmark A.8 by Henry of Kirkestede
+                        in the mid-fourteenth century, and is probably to be identified as the
+                        volume called “Augustinus super Iohannem” in the late twelfth-century Bury
+                        library catalogue.<hi><note place="foot" n="44">Sharpe, ‘Reconstructing’, pp. 213 and 208;
+                                    <emph>English Benedictine Libraries</emph>, ed. Sharpe<emph> et
+                                    al.</emph>, p. 79 (B13.188).</note>
+                        </hi>
+                    </p></div>
+                        <div><head>Pembroke 25 and other Bury St Edmunds script-specimens</head>
+                    <p>The script of Pembroke 25 fits neatly into a continuum of practices seen at
+                        Bury St Edmunds at this time.<hi><note place="foot" n="45">For exhaustive detail on the scribal habits of
+                                specimens which can be considered as definite, probable, or possible
+                                Bury St Edmunds script specimens up to the first couple of decades
+                                of the twelfth century, see Rushforth, ‘The Late Eleventh- and Early
+                                Twelfth-Century Manuscripts’.</note>
+                        </hi> That is was at Bury St Edmunds very soon after it was written is shown
+                        the note at the end of the manuscript on the expulsion of clerics from Bury
+                        St Edmunds (see pp. 000-000 below).</p>
+                    <p>English script stayed in Bury despite those Bec monks, etc.</p>
+                    <p>later word dividing marks</p>
+                    <p>move to the Library section?</p></div>
+                    <div><head> Existing scholarship on the library at Bury St Edmunds</head>
+                    <p>The library of Bury is unusually well documented: a detailed late
+                        twelfth-century catalogue survives,<hi><note place="foot" n="46">In Oxford, Corpus Christi College, 197, fol.
+                                107 (‘Surviving Booklists’, ed. Lapidge, pp. 123–4 [no. VII]); and
+                                in Oxford, Bodleian Library, Auct. D.2.14 (<emph>S.C.</emph> 2698),
+                                    <ref target="IMT/173r/173r.htm">173r</ref> (‘Surviving
+                                Booklists’, ed. Lapidge, pp. 146–9 [no. XII]).</note>
+                        </hi> as well as two short booklists from the eleventh century.<hi
+                           ><note place="foot" n="47">Rouse, ‘Bostonus’; Sharpe,
+                            ‘Reconstructing’.</note>
+                        </hi> The aforementioned systematic activities of Henry of Kirkstede in the
+                        mid-fourteenth century, in adding <emph>ex libris</emph> inscriptions,
+                        classmarks, and contents lists to Bury books, allow the secure attribution
+                        of late medieval Bury provenance to numerous manuscripts.<hi><note place="foot" n="48">Rouse, ‘Bostonus’; Sharpe,
+                            ‘Reconstructing’.</note>
+                        </hi> Consequently it is not surprising that the library has received much
+                        attention from modern scholars. M. R. James, the great cataloguer, seems to
+                        have been the first to have noticed the distinctive classmarks in Bury St
+                        Edmunds books, and published his findings in two studies written at the
+                        beginning and towards the end of his career.<hi><note place="foot" n="49">James, <emph>On the Abbey</emph> and ‘Bury St
+                                Edmunds Manuscripts’. See also Ker, <emph>Medieval Libraries</emph>,
+                                pp. xviii–xix and 16–22.</note>
+                        </hi> Rod Thomson has written widely on the Bury library and archives,
+                        including a detailed study of the contents, sources, and cultural
+                        implications of Bury’s book collection in the eleventh and twelfth
+                            centuries.<hi><note place="foot" n="50">Thomson, ‘The Library and Archives’, ‘Bury St
+                                Edmunds Manuscripts’, ‘The Library of Bury St Edmunds Abbey’, and
+                                    <emph>The Bury Bible</emph>.</note>
+                        </hi> Richard Sharpe has edited the Bury booklists and has reconstructed the
+                        library from surviving classmarks.<hi><note place="foot" n="51">Sharpe, <emph>Shorter</emph> and
+                                ‘Reconstructing’.</note>
+                        </hi> A survey concentrating on how Bury acquired books in the eleventh and
+                        twelfth centuries has been written by Teresa Webber,<hi><note place="foot" n="52">Webber, ‘The Provision’.</note>
+                        </hi> and a catalogue of Bury manuscripts now in Cambridge (a large
+                        proportion of those surviving) has been written by Antonia Gransden.<hi
+                           ><note place="foot" n="53">Gransden, ‘Some Manuscripts’.</note>
+                        </hi>
+                    </p>
+                    <p> Palaeographical examination of Bury books has been less common and has
+                        focused in great detail upon the twelfth century. McLachlan has published a
+                        survey of the manuscripts produced at Bury in the twelfth century combining
+                        palaeographical and art-historical evidence, particularly in the third and
+                        fourth decades, showing that there was highly organized production at this
+                        time by stable personnel.<hi><note place="foot" n="54">McLachlan, ‘The Scriptorium’ and <emph>The
+                                    Scriptorium</emph>.</note>
+                        </hi> The script of Bury has also been treated in passing by several of the
+                        great palaeographers, notably Neil Ker and T. A. M. Bishop, in surveys
+                        dealing with much broader subjects. In his <emph>English Manuscripts in the
+                            Century After the Norman Conquest</emph>, Ker notes that Bury St Edmunds
+                        was one of those places where English script continued to be written with
+                        little Norman influence after the Conquest,<hi><note place="foot" n="55">Ker, <emph>English Manuscripts</emph>, pp. 22
+                                and 35, and <emph>Catalogue</emph>, p. xxvi</note>
+                        </hi> while Bishop examined the script of a late eleventh-century Bury
+                        gospel book and some Bury writs.<hi><note place="foot" n="56">Bishop, <emph>English Caroline
+                                Minuscule</emph>, pp. xi–xxiv, and ‘Notes II’, pp. 185–7; and Bishop
+                                and Chaplais, ed., <emph>Facsimiles</emph>, p. xvii, nos. 1 and
+                            2.</note>
+                        </hi>
+                    </p></div>
+                    <div><head>Importation of books from France</head>
+                    <p>In the second half of the eleventh century the Bury St Edmunds abbey library
+                        was augmented in a variety of ways. Books were certainly written there, but
+                        they were also imported from the Continent.</p>
+                    <div><head>Ninth-century French manuscripts</head>
+                    <p>The ninth century, a period which saw an almost complete collapse of
+                        Anglo-Saxon literary culture, was a golden age of manuscript production in
+                        France. A group of manuscripts written in ninth-century Francia was probably
+                        imported to Bury St Edmunds at this time. These survive as Cambridge,
+                        Pembroke College MSS 17; 46, fols. 82 and 83; 81; 83; 88; 91; and 108.<hi
+                           ><note place="foot" n="57">Although Cambridge, Pembroke College, 308, a
+                                late ninth-century Rheims copy of Hrabanus Maurus’ commentary on the
+                                Pauline epistles is not from Bury as it has certain late medieval
+                                provenance at Ely: see James and Minns, <emph>A Descriptive
+                                    Catalogue</emph>, pp. 275–6. Oxford, Bodleian Library, Rawlinson
+                                C.697 (<emph>S.C.</emph> 14853) was also written in ninth-century
+                                Francia but seems to have travelled there via Wessex; Keynes, ‘King
+                                Æthelstan’s Books’, p. 144 and pl. I.</note>
+                        </hi>
+                    </p>
+                    <p>Figure 1: Ninth-century French manuscripts imported to Bury</p>
+                    <table rend="frame" xml:id="Table1">
+                        <row>
+                            <cell>
+                                <emph>MS no.</emph>
+                            </cell>
+                            <cell>
+                                <emph>date and place of origin</emph>
+                            </cell>
+                            <cell>
+                                <emph>classmark</emph>
+                            </cell>
+                            <cell>
+                                <emph>catalogue entry</emph>
+                            </cell>
+                            <cell>
+                                <emph>further Bury connection</emph>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>Pembroke MS. 17 </cell>
+                            <cell>s. ix med., Tours area</cell>
+                            <cell>J.6</cell>
+                            <cell>Ieronimus super Ysaiam</cell>
+                            <cell>s. xiii in. Bury ownership-inscription </cell>
+                        </row>
+                        <row>
+                            <cell>Pembroke MS. 46, fols. 82 &amp; 83</cell>
+                            <cell>s. ix/x, N. France</cell>
+                            <cell>[A.222]</cell>
+                            <cell>[fragments of sacramentary, in use as flyleaves]</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Pembroke MS. 81 </cell>
+                            <cell>s. ix 2/3, prob. S. France</cell>
+                            <cell>B.282</cell>
+                            <cell>Beda de templo et XXX questiones eiusdem in libro Regum</cell>
+                            <cell>s. xiii in. Bury ownership-inscription</cell>
+                        </row>
+                        <row>
+                            <cell>Pembroke MS. 83 </cell>
+                            <cell>s. ix med., Saint-Denis, Paris </cell>
+                            <cell>B.287</cell>
+                            <cell>Beda super Lucam</cell>
+                            <cell>s. xi ex. added document about an Anglo-Scandinavian
+                            funeral-feast</cell>
+                        </row>
+                        <row>
+                            <cell>Pembroke MS. 88</cell>
+                            <cell>s. ix/x, Saint-Denis, Paris, or possibly England<hi><note place="foot" n="58">Gneuss, <emph>Handlist</emph>, p. 41
+                                        (no. 135); Bischoff, <emph>Katalog</emph>, p. 183. Cfol.
+                                        Bishop, <emph>English Caroline Minuscule</emph>, pp. xii,
+                                        xxv, 5, and 18; Dumville, <emph>English Caroline
+                                        Script</emph>, p. 78; Ker, ‘The English Manuscripts’, p. 77,
+                                        n. 4; and McKee, ‘St Augustine’s Abbey’, pp. 96–109 and
+                                        120–2.</note>
+                                </hi>
+                            </cell>
+                            <cell>G.18</cell>
+                            <cell>[not included; Laidcenn, excerpts from Gregory the Great,
+                                    <emph>Moralia in Job</emph>]</cell>
+                            <cell>s. xi ex. note on food rents probably written at Bury</cell>
+                        </row>
+                        <row>
+                            <cell>Pembroke MS. 91</cell>
+                            <cell>s. ix 1/3, N. France</cell>
+                            <cell>J.3</cell>
+                            <cell>Ieronimus superPsalterium</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Pembroke MS. 108 </cell>
+                            <cell>s. ix 2/3, East France</cell>
+                            <cell>FOL.12</cell>
+                            <cell>Edictum piissimi imperatoris Iustiniani</cell>
+                            <cell/>
+                        </row>
+                    </table>
+                    <p>Another manuscript probably imported at around this time survives only as
+                        fols. 3–4 of London, British Library, Royal 8. F. xiv. This is an early
+                        eleventh-century copy of Vergil’s <emph>Aeneid</emph> with scholia, probably
+                        written in France. These folios were in use as flyleaves by the time of
+                        Henry of Kirkestede, who gave the manuscript the classmark G.15. An entry in
+                        the late twelfth-century Bury catalogue reads <emph>Virgilius .ij.</emph>
+                        <hi rend="sup">o</hi> and these flyleaves could be the remnant of one of
+                        these copies.<hi><note place="foot" n="59">
+                                <emph>English Benedictine Libraries</emph>, ed. Sharpe<emph> et
+                                al.</emph>, p. 70 (B13.107). The other copy might now be represented
+                                by the palimpsested leaves in London, College of Arms, Arundel 30;
+                                see below, pp. 65–6.</note>
+                        </hi>
+                    </p></div>
+                    <div><head>Pembroke MSS 23 and 24</head>
+                    <p>Cambridge, Pembroke College, 23 and 24 are a two-volume set of homilies
+                        written in France, perhaps at Saint-Germain-des-Prés in Paris, in the
+                        mid-eleventh century.<hi><note place="foot" n="60">Webber, ‘The Provision’, p. 188; James and
+                                Minns, <emph>A Descriptive Catalogue</emph>, pp. 20–25; Gransden,
+                                ‘Some Manuscripts’, p. 254 and pl. XLVA; Gneuss,
+                                <emph>Handlist</emph>, p. 40 (nos. 129–30). For plates showing
+                                eleventh-century script from Saint-Germain-des-Prés see Deslandres,
+                                ‘Les manuscrits’.</note>
+                        </hi> The manuscripts were labeled O.52 and O.54 by Henry of Kirkestede.<hi
+                           ><note place="foot" n="61">Sharpe, ‘Reconstructing’, p. 213. He also
+                                added contents lists; see Rouse, ‘Bostonus’, p. 490.</note>
+                        </hi> Both contain an early thirteenth-century Bury St Edmunds ownership
+                            inscription.<hi><note place="foot" n="62">James and Minns, <emph>A Descriptive
+                                Catalogue</emph>, pp. 20 and 22.</note>
+                        </hi> In the late twelfth-century Bury library catalogue they are probably
+                        identifiable with the entries <emph>Omelarium estiuale</emph> and
+                            <emph>Lectionarium sanctorum</emph>.<hi><note place="foot" n="63">
+                                <emph>English Benedictine Libraries</emph>, ed. Sharpe<emph> et
+                                al.</emph>, p. 70 (B13.115 and 114).</note>
+                        </hi> Pembroke 24 contains an addition, probably written at Saint-Denis,
+                        relating to the anniversary in 1050 of the viewing of the eponymous
+                            saint.<hi><note place="foot" n="64">Gransden, ‘Some Manuscripts’, p. 254.</note>
+                        </hi>
+                    </p></div></div>
+                        <div><head>Links with MSS 23 and 24</head>
+                    <p>What are the links?</p>
+                    <p>It is clear that the homiliary of which Pembroke 25 is the best surviving
+                        representative was used widely by Anglo-Saxon homiliarists before the Norman
+                        Conquest. However, the circumstances of the production of Pembroke 25,
+                        during or soon after the abbacy of Baldwin and in the atmosphere of
+                        intellectual renaissance resulting from his activities, may suggest that the
+                        text it contains represents a reimportation of this particular homiliary to
+                        England, rather than being a textual descendant of the pre-Conquest English
+                        manuscripts.</p></div>
+                </div>
+                <div>
+                    <head>The Added Notes and the Pre-Conquest Past at Bury</head>
+                    <div><head><ref target="IMT/181v/181v.htm">181v</ref> and the expulsion of clerics from
+                        Bury St Edmunds</head>
+                    <p>M. R. James transcribed what he could see in the Pembroke 25 catalogue entry.
+                        By adjusting the color spectra of a digital image of this page it has been
+                        possible to expand his transcription somewhat. </p>
+                    <table rend="frame" xml:id="Table2">
+                        <row>
+                            <cell>1</cell>
+                            <cell>Anno ab incarnatione domini millesimo uicesimo a passione
+                            glor</cell>
+                        </row>
+                        <row>
+                            <cell>2</cell>
+                            <cell>iosi regis et martiris aedmundi centesimo quinquagesimo</cell>
+                        </row>
+                        <row>
+                            <cell>3</cell>
+                            <cell>regnante chnutone piissimo .. olizantur monachi aput</cell>
+                        </row>
+                        <row>
+                            <cell>4</cell>
+                            <cell>scm aedmundum …atis clericis preficitur abbas Uvius</cell>
+                        </row>
+                        <row>
+                            <cell>5</cell>
+                            <cell>uir prudens et modestus.</cell>
+                        </row>
+                    </table>
+                    <p> From its script, a Caroline minuscule of post-Conquest aspect but with a
+                        number of English features, this note cannot have been added long after the
+                        manuscript itself was written, in the early twelfth century at the latest.</p>
+                    <p>The note talks about the foundation of Bury St Edmunds. A similar short note
+                        is found in several other manuscripts.</p></div>
+                    <div><head>King Henry II</head>
+                    <p>The added note on <ref target="IMT/1r/1r.htm">1r</ref> and the following deed</p>
+                    <p>An interesting chronological note was added on <ref target="IMT/1r/1r.htm"
+                        >1r</ref> (<ref>image</ref>):</p>
+                    <p>Ab origine uero mundi secundum ebraicam ueritatem . ū . c<hi rend="sup"
+                        >o</hi>. vi<hi rend="sup">o</hi> .<lb/>Anno uerbi incarnati . m<hi
+                            rend="sup">o</hi> . c<hi rend="sup">o</hi>. l<hi rend="sup">o</hi>.
+                            iiii<hi rend="sup">o</hi>.<lb/>Passionis uero ipsius ; m<hi rend="sup"
+                        >o</hi> . c<hi rend="sup">o</hi> . xx<hi rend="sup">o</hi> .<lb/>A passione
+                        sancti eadmundi ; cc<hi rend="sup">o</hi> . lxxx<hi rend="sup">o</hi>iiii<hi
+                            rend="sup">o</hi>.<lb/>A translatione ipsius ; lx<hi rend="sup">o</hi>
+                        .<lb/>Capte Anglie ; lxxx<hi rend="sup">o</hi>v<hi rend="sup">o</hi>iiii
+                        .<lb/>Regnauit Willelmus rex annos .xxi.<lb/>Willelmus secundus annos
+                        .xiii.<lb/>Henricus rex annos .xxx. v .<lb/>Stephanus rex annos . x<hi
+                            rend="sup">o</hi> viiii<hi rend="sup">o</hi> .</p>
+                    <p>This was written in a very thick black script, a heavy gothic quadrata with
+                        initial letters of each line written in red ink. (The initial of the second
+                        William is the exception to this; the line is slightly indented and the
+                            <hi>W</hi> is black picked out in red, which suggests that this part of
+                        the note was expected to be read as a continuation of the line above about
+                        his father.) The script suggests a date in the second half of the twelfth
+                        century, though a later date is not impossible. The date to which the note
+                        refers is 1154.</p>
+                    <p> This note is followed, after a few blank lines, by a deed in a
+                        twelfth-century documentary hand, a very much smaller and lower-grade
+                        script. This deals with the agreement made between King Stephen and his
+                        nephew Henry, son of the Empress Matilda, to the effect that Henry should
+                        succeed him on the throne after his death, rather than Stephen’s son
+                        William. The agreement was made in late 1153, and held sufficiently that
+                        Henry succeeded as Henry II in December 1154. Although these two notes are
+                        written in very different hands (not necessarily by different scribes),
+                        their disposal on the page together and their linked contents suggest that
+                        they should be viewed as one campaign of addition.</p></div>
+                    <div><head>The East of England and the Anglo-Saxon House of Wessex</head>
+                    <p>The theme of these notes is clearly the celebration of the accession of Henry
+                        II to the throne of England. This is an interesting thing to see in the
+                        context of Bury St Edmunds, as it suggests a particular attitude to the
+                        Anglo-Saxon past. Henry II was the son of the Empress Matilda, and through
+                        her mother Edith-Matilda he was descended from St Margaret of Scotland, wife
+                        of Malcolm called Canmore, who was the daughter of Edward the Exile, son of
+                        King Edmund Ironside, son of Æthelred the Unready. At the Norman Conquest
+                        Edgar the Ætheling, the surviving son of Edward the Exile, was the last
+                        descendant in the male line of Alfred the Great, Edgar the Peacemaker, and
+                        the other great English kings of the house of Wessex. He was briefly
+                        declared King of England after Harold’s death at Hastings — the new abbot of
+                        Peterborough came to Edgar the Ætheling to have his appointment confirmed at
+                        this time. However, by Christmas he was no longer seen as a viable
+                        alternative to the Conqueror, and his chief supporter, Ealdred, Archbishop
+                        of York, had switched his backing to William. Edgar was only about fourteen
+                        years old at the time, and William pensioned him off rather than treating
+                        him as a continuing threat. It was when the family fled to Scotland a few
+                        years later that Margaret became the unwilling bride of King Malcolm, and it
+                        was through their six sons and two daughters that the Anglo-Saxon line was
+                        kept alive. William the Conqueror died in 1088, leaving the throne to his
+                        second son, William Rufus. On the unexpected death of the latter in 1100,
+                        Henry I acted quickly to seize the English throne, while his eldest brother,
+                        Robert Curthose, was away on crusade. Henry was the only one of William the
+                        Conqueror’s sons born in England after his father’s coronation, and at his
+                        coronation he swore to uphold the laws of Edward the Confessor against the
+                        depradations made by his brother William Rufus. Within a few months of his
+                        accession he had married Edith-Matilda of Scotland, the eldest daughter of
+                        Margaret and Malcolm called Canmore. In recording this event, the
+                            <emph>Peterborough Chronicle</emph> refers to the bride as <emph>of þan
+                            rihtan ænglelandes kyne kynne</emph> (“of the rightful royal family of
+                        England”). The marriage was certainly a pro-English move on Henry’s part.
+                        The Norman nobles of his court certainly interpreted it this way, and mocked
+                        them by calling them “Godric and Godgifu,” implying that they had gone
+                        native. Their only son was known as William Ætheling, combining a Norman
+                        name with an English title. He was seen as fulfilling the prophecy which
+                        Edward the Confessor made on his deathbed, that a green branch would be
+                        split three furlongs from its root before they were rejoined; the three
+                        furlongs were interpreted as the three Norman kings William I, William II,
+                        and Henry I. However, William Ætheling’s death in the wreck of the White
+                        Ship in 1120 destroyed these hopes. Henry I extracted from his nobles an
+                        oath of loyalty to his remaining legitimate daughter, Matilda, but after his
+                        death in 1135 his nephew Stephen was crowned instead, and the country was
+                        split by civil war. (Stephen’s wife’s mother was another of Margaret’s
+                        daughters.) The eventual agreement that Matilda’s son would inherit instead
+                        of Stephen’s represented the end of the strife recorded in the Peterborough
+                        Chronicle, <emph>quote</emph>, ‘when people openly said that Christ and his
+                        angels slept’. Ailred of Rievaulx, who had grown up at the court of David I
+                        of Scotland, Margaret’s youngest son, wrote a history for Henry II on his
+                        accession, detailing Henry’s Anglo-Saxon ancestry. The three furlongs’
+                        removal of the green branch from its root could now be interpreted as the
+                        three generations of William the Conqueror, Henry I, and Matilda, rather
+                        than as three kings.</p>
+                    <p> The East of England was strongly associated with loyalty to the Anglo-Saxon
+                        royal family in the post-Conquest period. The regional revolts in the late
+                        1060s, the activities of Hereward the Wake at Peterborough and Ely, and the
+                        bride-ale rebellion of 1075 helped to make the East one of the hardest
+                        places for William to subdue. Bury St Edmunds was relatively unaffected by
+                        the martial aspects of these activities, but there are reasons to believe
+                        that it was still culturally very much attached to the Anglo-Saxon past.
+                        Christina, daughter of Edward the Exile and sister of Margaret and Edgar the
+                        Ætheling, and Margaret’s son Edgar, king of Scotland, were both commemorated
+                        in obits added to the Bury Psalter, Rome, Biblioteca Apostolica Vaticana,
+                        Reg. lat. 12. (This parallels the obits of the family of Edmund Ironside
+                        which were written into the calendar of the Crowland Psalter when it was
+                        made, probably in the late 1050s or early 1060s.)<hi><note place="foot" n="65">Keynes, ‘The Crowland Psalter’.</note>
+                        </hi> Bury certainly valued its Anglo-Saxon past when laying claim to lands
+                        and religious prestige (see the discussion above). The note on <ref
+                            target="IMT/1r/1r.htm">1r</ref> talks of time since the <emph>captae
+                            anglie</emph>, the capture or seizure of England, and breaks this time
+                        down into the reigns of the individual kings; this language has a pejorative
+                        implication. The addition of this material celebrating the accession of
+                        Henry II involved an alteration to the physical structure of the book by
+                        adding at least one extra folio, which would probably have necessitated its
+                        disbinding. The impulse to add this material to a holy book suggests a
+                        desire to celebrate the return of a king descended from the Anglo-Saxon
+                        royal line, and so connected with their own great patron St Edmund king and
+                        martyr, suggesting that a sense of Anglo-Saxon nationalism survived well
+                        into the second half of the twelfth century at Bury St Edmunds.</p></div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

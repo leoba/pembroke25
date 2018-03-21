@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 23 (46r–48r)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2008-02-22T22:04:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T02:40:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 23 (46r–48r)" xml:id="p25_23">
+        <body><div>
+            <p> 
+            <lb n="2"/>Oportet nos fratres karissimi .xxiii. OMELIA IN DOMINICA 
+            <lb n="3"/>omni die dominico . ad ęcclesias .iii. IN QUADRAGESIMA .
+            <lb/>dei cum humilitate et silentio et sobrietate conuenire . 
+            <lb/>Si enim infelices iudei tanta deuotione caelebrant 
+            <lb/>sabbatum . ut in eo nulla opera terrena exerceant . 
+            <lb/>quanto magis christiani in die dominico soli deo ua
+            <lb/>care . et pro animarum suarum salute certatim debent 
+            <lb/>ad aecclesias eius concurrere . tanta ergo in eo debet 
+            <lb/>esse obseruantia sicut quidam sapiens ait . ut preter 
+            <lb/>orationes et misarum solemnia . et ea quę ad uescen
+            <lb/>dum in illo die pertinent . nihil aliud in eo fiat . 
+                <lb/><label type="lection_no">.ii.</label> Ueneranda est itaque dominica dies . quia in ea lucem 
+            <lb/>deus in principio condidit . in ea manna de cęlo in 
+            <lb/>heremo plúit . in ea redemptor humani generis 
+            <lb/>sponte sua pro nostra salute a mortuis resurréxit . in ea 
+            <lb/>spiritum sanctum super apostolos infudit . et multa alia quę <hi rend="bold">e</hi>nar
+            <lb/>rari perlongum est . Scire etiam debet . quod <subst><del>conueni<lb n="19"/>endum</del><add resp="scribe" place="sup">conueniens</add></subst> est cuílibet christiano díe sabbati cum lumi
+            <lb/>naribus ad aecclesiam . <label type="lection_no">.iii.</label> Concurrendum est quoque ad ui
+            <lb/>gílias uespertinales uel ad matutinum officium . Concur
+            <lb/>rendum est etiam cum oblationibus pro se suisque omnibus . 
+            <lb/>ad missarum solemnia . et hoc quoque sciendum est .
+            <lb/>quod dum ad aecclesiam conuenítur nulla causa díci 
+            <lb/>debet uel audiri . Nulla íurgia sunt habénda . 
+            <lb/>sed tantummodo deo uacandum est in caelebratione 
+            <lb/>uidelicet sacrorum officiorum . et in exhibítione 
+            <lb/>aelimosinarum . Et postea cum dei laudibus apud
+                <pb n="46v" xml:id="P25_fol_46v"/><lb n="1"/>amicos et proximos et peregrinos spiritaliter epulan
+            <lb/>dum est . <label type="lection_no">T</label> Ammonendi sunt quoque fideles . ut hos
+            <lb/>pitalitatem frequenter diligant . et nulli hospitium 
+            <lb/>prohíbeant . Quia multi per hospitalitatis officium 
+            <lb/>deo placuerunt . Dicente apostolo . per hanc enim placuerunt 
+            <lb/>quidam deo . angelis in hospitio suscéptis . Et iterum . 
+            <lb/>Hospitales inuicem sine murmuratione . et ipse dominus 
+            <lb/>ad iudicium ueniens dicturus est . Hospes eram et su
+            <lb/>scepistis me . Ác sí dixisset . Ideo ueníte et habitá
+            <lb/>te in aeterna tabernacula . Sciant ergo quicumque 
+                <lb/>ámant hospitalitatem . quod christum uere in hospitibus 
+            <lb/>recípiunt . <label type="lection_no">T</label> Predicandum est etiam ut períurium fideles 
+            <lb/>cáueant et ab hóc sumopere se abstíneant . scientes hoc 
+            <lb/>grande scelus esse et in lege et in prophetis uel etiam 
+            <lb/>in aeuangelio prohíbitum . Audiuimus autem quosdam 
+            <lb/>párui péndere hoc scélus . et leuem quodámmodo 
+            <lb/>periuriis poenitentię modum impónere . Qui uero 
+            <lb/>nosse debent talem de periurio poenitentiam impó
+            <lb/>nere debére . qualem de adultério et de fornica
+            <lb/>tione . De homicídio et de céteris criminalibus 
+            <lb/>uitiis imponere débent . Et si quis post perpetrá
+            <lb/>tum periúrium aut quódlibet criminale peccatum 
+            <lb/>timens poenitentię durítiam ad confessionem 
+            <lb/>uenire nolúerit . ab aecclesia poenitus repellendus 
+            <lb/>est et ab omni communione et consortio fidelium . 
+            <lb/>ut nullus cum eo cómedat neque bibat neque oret . 
+            <lb/>neque in sua eum domo recípiat . Dicendum est 
+            <lb/>eis iterum . ut a falso etiam testimonio sé àbstíneant . 
+                <pb n="47r" xml:id="P25_fol_47r"/><lb n="1"/>Scientes et hoc grauissimum scelus esse et ab ipso domino . 
+            <lb/>in monte sinai prohíbitum . Dicente eodem domino .
+            <lb/>Non falsum testimonium dices . Salomon dicit . Fal
+            <lb/>sus testis non erit impúnitus . <label type="lection_no">T</label> Quicumque ergo falsum 
+            <lb/>testimonium profert contra proximum suum . 
+            <lb/>Extinguetur lucerna eius in die ultimo . quia qui 
+            <lb/>metu cuiúslibet potestatis ueritatem occultat . ira
+            <lb/>cundiam dei super se próuocat . Tunc enim magis timet 
+            <lb/>hominem quam deum . Falsídicus testis tribus est personis 
+            <lb/>obnoxius . primum deo . cuius presentiam contémnit . 
+            <lb/>Deinde iudici . quem mentiéndo fallit <supplied reason="omitted" resp="editor">postremo innocenti .
+                quem falso testimonio ledit</supplied> . Si falsi testes
+            <lb/>separantur . mox mendaces inueniuntur . Vterque 
+            <lb/>autem reus est et qui ueritatem occultat . et qui men
+            <lb/>dacium dicit . quia et ille prodesse non uult . Et iste 
+            <lb/>nocére desiderat . E contrario autem beatus est cuius 
+            <lb/>testimonium in conspectu domini probabile inuenítur .
+                <lb/><label type="lection_no">T</label> Quattuor síquidem modis iustitia in iudiciis subuer
+            <lb/>titur . Timore ; cupiditate ; Odio ; Amore ; Timore ; 
+            <lb/>Dum metu potestatis alicuius ueritatem dicere uel 
+            <lb/>iudicare quíslibet pauéscit . Cupiditate . Dum pre
+            <lb/>mio muneris alicuius corrúmpitur iudex . Odio ; 
+            <lb/>dum cuiuslibet inimicitię causa . nocere álteri 
+            <lb/>desiderat . Amore ; Dum amicos uel propinquos 
+            <lb/>contra iustitiam defendit potentior . His quat
+            <lb/>tuor modis saepe aequitas iudicii subuértitur . 
+            <lb/>et innocentia lęditur . Magis autem dolendi sunt 
+            <lb/>qui ópprimunt pauperes . quam qui patiuntur 
+            <lb/>iniúriam . Illi enim qui opprimuntur . temporalem 
+                <pb n="47v" xml:id="P25_fol_47v"/><lb n="1"/>miseriam cito finiunt . Illi uero qui opprimunt 
+            <lb/>eos per iniustitiam . aeternis flammis deputantur . Sciant 
+            <lb/>ergo quicumque hoc scelus perpetrauerint . quod 
+            <lb/>aut tali poenitentia necesse est purgari ut superius
+            <lb/>dictum est de periurio . Aut tali damnatione et excom
+            <lb/>municatione damnari . sicut superius scriptum est . 
+            <lb/>Id est aut septem annis in arta erumna sint . aut 
+            <lb/>ab aecclesia repulsi et ab omnium fidelium communione . 
+            <lb/>deiecti . Dicente domino . quid prodest homini . si totum 
+            <lb/>mundum lucretur . Animę uero suę detrimentum 
+            <lb/>patiatur . Quippe cum aliis uideatur pius existere . 
+            <lb/>sibimet autem crudelis existat . Festinare ergo de
+            <lb/>bemus fratres karissimi et emendare uitam nostram . quod an
+            <lb/>tea male fecimus defleamus . et ulterius peccare 
+            <lb/>cessemus . Quia non requiret deus quales ab an
+            <lb/>tea fuimus sed quales circa finem nostrum asstiteri
+            <lb/>mus . cum aliquid in uos boni esse uideritis <choice><sic/><corr resp="editor">non ad uestrum laudem sed ad dei putetis et malum cum uideritis.</corr></choice> .
+                neglegen
+            <lb/>tiae uestrae uel culpae deputetis . Hoc igitur scien
+            <lb/>dum est . quod non initium boni operis quaeritur 
+            <lb/>in christiano sed finis . quia de fine suo unusquisque 
+            <lb/>iudicabitur . Sunt enim qui bene incipiunt et 
+            <lb/>male finiunt conuersationem suam . sicut iudas 
+            <lb/>primo apostolus et postea <subst><del>proditur</del><add resp="scribe" place="sup">proditor</add></subst> domini et facti 
+            <lb/>sui conscius . Laqueo se suspendit . Paulus ma
+            <lb/>le coepit . et bene finiuit . primo persecutor . postea 
+            <lb/>predicator . Uirtus igitur boni operis est perseueren
+            <lb/>tia . Domino dicente . qui perseuerauerit usque in fi
+            <lb/>nem . Hic saluus erit . non igitur qui coeperit bonum 
+                <pb n="48r" xml:id="P25_fol_48r"/><lb n="1"/>sed qui perseuerauerit in bono hic saluus erit . Tunc 
+            <lb/>enim placet deo nostra conuersatio . quando bonum 
+            <lb/>quod inchoamus perseueranti fine complebimus . 
+            <lb/>Bonum ergo non coepisse . sed perfecisse uirtus est . 
+            <lb/>Non inchoantibus enim premium promittitur . sed perseue
+            <lb/>rantibus datur . Ideo unusquisque instantissime bona
+            <lb/>quę coepit perficere contendat . ut perpetuam a domino 
+            <lb/>mereatur mercedem accipere in caelestibus . Prestan
+            <lb/>te domino nostro iesu christo . qui cum patre et spiritu sancto uiuit 
+            <lb/>et regnat in secula seculorum . amen .
+        </p></div></body>
+    </text>
+</TEI>

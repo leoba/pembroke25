@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 21 (40r–42v)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2006-09-03T01:49:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T01:02:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 21 (40r–42v)" xml:id="p25_21">
+        <body><div>
+            <p>
+                <lb n="28"/>.xxi. ITEM ALIA IN DIE INITII . 
+                <pb n="40v" xml:id="P25_fol_40v"/><lb n="1"/>ROgo et ammoneo . uos fratres karissimi . ut in isto legiti
+            <lb/>mo ác sacratissimo tempore . quod de suo sancto ieiu
+            <lb/>nio dominus consecrauit . exceptis dominicis diebus . nul
+            <lb/>lus ex uobis prandere presumat . nisi forte ille quem 
+            <lb/>ieiunare imfirmitas non permittit . quia in aliis diebus 
+            <lb/>ieiunare aut remedium aut premium est . In quadra
+            <lb/>gesimo autem non ieiunare . peccatum est . Alio enim 
+            <lb/>tempore qui <subst><del>ieiunar</del><add resp="scribe" place="sup">ieiunat</add></subst> . accipiet indulgentiam peccatorum . 
+            <lb/>In quadragesima uero . qui potest ieiunare et non 
+            <lb/>facit . patietur poenas . Unde etiam ipse caueat qui ieiu
+            <lb/>nare non preualet . ut secretius sibi soli . aut si est alius 
+            <lb/>infirmus cum illo in domo sua . preparet quod ei neces
+            <lb/>sarium sit . et illos qui ieiunare preualent . ad prandium 
+            <lb/>non inuitet . quia non ei oportet ut aliquem tunc sa
+            <lb/>num roget ad comedendum secum . <label type="lection_no">.ii.</label> Né sibi augeat etiam 
+            <lb/>de alterius gula peccatum . Quia si hoc fecerit . non 
+            <lb/>solum scit deus . sed etiam et homines sobrii possunt intel
+            <lb/>ligere . illum non pro imfirmitate ieiunare non posse . sed 
+            <lb/>pro gula non uelle . Cum gemitu ergo et suspirio et ani
+            <lb/>mi dolore manducet . pro eo quod aliis ieiunantibus ille 
+            <lb/>abstinere non potest . et pro eo quod ieiunare non potest . 
+            <lb/>precuret amplius aelemosinas pauperibus erogare . 
+            <lb/>Vt peccata quę non potest . ieiunando curare . pos
+            <lb/>sit aelemosinas dando redimere . Bonum est ergo 
+            <lb/>fratres ieiunare . sed melius est ęlemosinam dare . si possi
+            <lb/>bilitas non fuerit ieiunandi . Si autem quis utrumque 
+            <lb/>potest . duo sunt bona . sed ęlemosina sola sufficit 
+            <lb/>sine ieiunio . Ieiunium uero sine ęlemosina non sufficit .
+                <pb n="41r" xml:id="P25_fol_41r"/><lb n="1"/>Unde dominus per prophetam hortatur et ammonet aelemosi
+            <lb/>nam fieri dicens . Hoc est ieiunium quod elegi . frange 
+            <lb/>esurienti panem tuum . Considerate fratres . quia non dixit 
+            <lb/>ut integrum daret . sed frange inquit hoc est dicere . 
+            <lb/>ut etiamsi tanta tibi paupertas fuerit . ut non habeas 
+            <lb/>nisi unum panem . ex ipso frangas et pauperibus tribuas . 
+            <lb/>et aegenos uagosque inquit induc in domum tuam . <label type="lection_no">.iij.</label> Hoc 
+            <lb/>uero significat . ut si aliquis ita pauper est ut non habeat 
+            <lb/>unde tribuat cybum . etiam in uno angulo domus 
+            <lb/>suę . peregrinis et aegenis uagisque saltim pręparet 
+            <lb/>lectulum . Quid nos ad haec dicturi sumus fratres? uel 
+            <lb/>quam excusationem ante tribunal aeterni iudicis ha
+            <lb/>bebimus? qui amplas et spatiosas domus habemus . 
+            <lb/>et uix aliquando dignamur excipere peregrinum . 
+            <lb/>Non considerantes quod in omnibus peregrinis . christus susci
+            <lb/>pitur . sicut ipse dixit . Hospes fui . et suscepistis me . et 
+            <lb/>quandiu fecistis uni ex his fratribus meis minimis mihi 
+            <lb/>fecistis . qui sunt autem fratres . alio loco demonstrat di
+            <lb/>cens . Quicumque fecerit uoluntatem patris mei qui in 
+            <lb/>cęlis est . ipse meus frater . et soror et mater est . Ille autem qui 
+            <lb/>non habet unde faciat aelemosinam . non pertimescat . 
+            <lb/>sufficit ei uoluntas bona ; sed quis poterit se excu
+            <lb/>sare . cum etiam pro calice aquę frigidę mercedem nobis 
+            <lb/>dominus reddere promiserit? Et ideo frigide dixit . ne 
+            <lb/>forte posset aliquis dicere . se uasculum ubi aquam 
+            <lb/>cale faceret non habere . Omnia ergo compleuit . qui 
+            <lb/>quod potuit fecit . quia uoluntas perfecta faciendi . re
+            <lb/>putabitur pro opere facti . sed tamen unusquisque consideret . 
+                <pb n="41v" xml:id="P25_fol_41v"/><lb n="1"/>ut sic pauperi tribuat . Quomodo si ipse in tali neces
+            <lb/>sitate esset . sibi fieri uellet . Hec uero qui fecerit . noui
+            <lb/>et ueteris testamenti praecepta compleuit . implens 
+            <lb/>illud euangelicum . Omnia quęcumque uultis ut faciant 
+            <lb/>uobis homines bona . Ita et uos facite illis similiter . 
+            <lb/>Haec est enim lex ; et prophetę . Ammonemus uos iterum 
+            <lb/>fratres karissimi . ut in his sanctis diebus . non solum á concubinis .
+            <lb/>sed etiam a propriis uxoribus abstineatis . Et hoc 
+            <lb/>etiam sciendum est . quia licet omni tempore proficit 
+            <subst><del>aelimosinis</del><add resp="later">aelimosinas</add></subst> facere . Praecipue tamen in his diebus 
+            <lb/>secundum uires nostras amplius erogare debemus . Non 
+            <lb/>enim est iustum in populo christian<add resp="scribe" place="sup">o</add><note place="end" n="i"> christiano] <hi rend="italic">the</hi> o <hi rend="italic">is
+                        written above an erasure</hi></note> ad unum deum pertinen
+            <lb/>te . Alios inaebriari . et alios famis periculo puni
+            <lb/>ri . Dum nos et omnis populus unius domini serui sumus .
+            <lb/>et uno pretio redempti sumus . et si bene agimus . 
+            <lb/>ad <subst><del>unum</del><add resp="later">unam</add></subst> beatitudinem pariter ueniemus . Cur ergo 
+            <lb/>pauper tecum non accipit cybum . qui tecum acceptus 
+            <lb/>est pariter regnum . quare non accipit ueterem 
+            <lb/>tunicam tuam . qui tecum aceptus est in cęlo immor
+            <lb/>talitatis stolam . Quare pauper non meretur acci
+            <lb/>pere panem tuum . qui tecum similiter meruit accipe
+            <lb/>re baptismi sacramentum . Cur indignus est accipere 
+            <lb/>reliquias cyborum tuorum . qui tecum uenturus est ad con
+            <lb/>uiuia angelorum . Haec ergo cogitantes fratres karissimi . 
+            <lb/>hoc ammonemus . ut ad istos dies castitate nitidi . 
+            <lb/>caritate splendidi . aelimosinis emundati . et bo
+            <lb/>nis operibus adornati . per christi adiutorium nos prepa
+            <lb/>remus . Et iracundiam et inuidiam et odium 
+                <pb n="42r" xml:id="P25_fol_42r"/><lb n="1"/>omnemque malitiam . uelut uenenum de cordibus nostris 
+            <lb/>respuamus . Ut postea cum fide recta et bona 
+            <lb/>uoluntate . ad aecclesiam ueniamus . ad supplican
+            <lb/>dum deum pro peccatis nostris . et unusquisque homo
+            <lb/>studeat . ut sciat symbolum et orationem domini
+            <lb/>cam . et qui amplius non potest . saltim duabus 
+            <lb/>uicibus in die oret . Mane uidelicet et uespere . dicens 
+            <lb/>symbolum primum . deinde dominicam orationem . 
+            <lb/>et omnibus dominicis die<note type="parchment">There is a hole in the parchment here.</note>bus et cunctis festiui
+            <lb/>tatibus praeclaris tam uespertinis uigiliis et matu
+            <lb/>tinis . quam et ad missas caelebrandas frequenter 
+            <lb/>ueniatis . Et ibi dei uerba sollicite audiatis . orantes 
+            <lb/>humiliter . cum puro corde et mundo corpore . 
+            <lb/>Et hoc etiam cauendum est . ne cantica luxuriosa 
+            <lb/>uel diabolica dicatis . neque quando ad aecclesiam 
+            <lb/>conueniatis . neque in domibus uestris . Nec ullam dia
+            <lb/>bolicam culturam facere presumatis ; sed quando 
+            <lb/>ad aecclesiam conueniatis . cum timore et silentio 
+            <lb/>et summa reuerentia . intrate in domum dei . et ibi 
+            <lb/>stantes nichil aliud faciatis . nisi orare tantum 
+            <lb/>pro peccatis uestris . et laudare nomen domini . Uerba 
+            <lb/>otiosa aut secularia . nolite ipsi ex ore uestro proferre . 
+            <lb/>et eos qui proferre uoluerint castigate . Pacem cum omnibus 
+            <lb/>custodite . et quos discordes agnoscitis . ad concor
+            <lb/>diam reuocate . Et quando ad aecclesiam conue
+            <lb/>nitis . Incensum cereolos et oleum et omnia <subst><del>quęces
+            <lb n="27"/>saria</del><add resp="later">queneces<lb n="27"/>saria</add></subst> sunt ad inluminandum . in aecclesia ibidem date . 
+            <lb/>quia dominus ait . non apparebis in conspectu meo 
+                <pb n="42v" xml:id="P25_fol_42v"/><lb n="1"/>uacuus . Confessiones uestras sacerdotibus confidite .
+            <lb/>et eos rogate . Ut pro peccatis uestris rogent deum ut 
+            <lb/>indulgeat uobis . Oblationes per dies dominicos et pro 
+            <lb/>uobis<note place="end" n="ii"> uobis] one or two
+                        letters erased between o and b</note> et pro
+                uestra familia deo offerte . et de ipsis postea
+            <lb/>secundum consilium sacerdotis communicate . Ante plu
+            <lb/>res tamen dies <choice><sic>a propriis</sic><corr resp="editor">appropriis</corr></choice> uxoribus abstinentes .
+            <lb/>ut puro corde et casto corpore . secundum sacrificium 
+            <lb/>accipere possitis . quia <note type="parchment">There is a hole in the parchment here.</note>hoc dignum et acceptabi
+            <lb/>le est apud deum . <note type="parchment">There is a hole in the parchment here.</note>Sciendum est ergo fratres karissimi . 
+            <lb/>quia sicut christiani fideles abluunt peccata sua . 
+            <lb/>quę neglegenter agunt . per sacras oblationes et per 
+                <lb/><subst><del>aelimosinis</del><add resp="scribe" place="sup">aelimosinas</add></subst> et per puram orationem . per ieiunium et ab
+            <lb/>stinentia et per bona opera . Ita et uos aliter debetis age
+            <lb/>re . In omnibus semper meditantes . pro quid nati estis 
+            <lb/>in mundo? quid aliter . nisi ut semper benefaciatis . et si 
+            <lb/>aliquid per ignorantiam uel stultitiam contra deum egistis . 
+            <lb/>per bona opera hoc frequentius emendetis . et hoc uobis 
+            <lb/>sollicite sit ad memoriam reducendo . ut in domibus 
+            <lb/>uestris cum coniugibus propriis sic uiuatis . quomodo christiano 
+            <lb/>decet . parentibus honores impendatis . et uos inuicem 
+            <lb/>diligatis . Legem dei . filiis uestris per fidem catholicam cum 
+            <lb/>summa disciplina <subst><del>deceatis</del><add resp="later">doceatis</add></subst> . Ut ipsi sciant et in
+            <lb/>telligant deum diligere et timere . et eius precepta 
+            <lb/>seruare . et parentes honorare . quia hoc bene 
+            <lb/>placitum est deo . Haec mandata in nobis implere 
+            <lb/>saluator mundi dignetur . qui cum patre et spiritu sancto . 
+            <lb/>uiuit et regnat . in secula seculorum . amen . 
+        </p></div></body>
+    </text>
+</TEI>

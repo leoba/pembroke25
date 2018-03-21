@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 28 (58r–63r)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2014-07-27T20:32:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-25T00:45:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 28 (58r–63r)" xml:id="p25_28">
+        <body><div><p>
+            <lb n="15"/>.xxviii. ALIA OMELIA IN DIE PALMARUM . 
+            <lb/>Dominus <subst><del>et</del><add resp="later">ad</add></subst> prophetam <subst><del>iezechiel</del><add resp="later">ezechielem</add></subst> . cum mit
+            <lb/>teret eum ad predicandum filiis israel dicit . Mitto 
+            <lb/>ego te ad filios populi mei . ad gentes aposta
+            <lb/>trices quę recesserunt a me . Patres eorum 
+            <lb/>preuaricati sunt pactum meum usque ad diem 
+            <lb/>hanc . et filii dura facie et indomabili corde 
+            <lb/>sunt . ad quos ego mitto te . si forte audiant 
+            <lb/>et requiescant . Tu ergo ne timeas . neque ser
+            <lb/>mones eorum metuas . quoniam increduli et sub
+            <lb/>uersores sunt tecum . Uerumtamen ne timeas 
+            <lb/>eos . et uultus eorum ne formides quia ego tecum 
+            <lb/>sum . Non enim ad populum profundi sermones 
+            <lb/>et ignotę linguę tu mitteris . Neque ad populos 
+            <pb n="58v" xml:id="P25_fol_58v"/><lb n="1"/>multos quorum non possis <subst><del>audre</del><add resp="later">audire</add></subst> sermones et si ad illos mit
+            <lb/>tereris . ipsi audirent te . Domus autem israel nolunt audi
+            <lb/>re te qui nolunt audire me . Populus enim iste attrita 
+            <lb/>fronte est et duro corde . Pręceptorem ergo dedi te 
+            <lb/>populo huic et audies uerbum de ore meo et annuntia
+            <lb/>bis eis ex me . Timendum uero ualde est preceptori quod 
+            <lb/>sequitur . Si me dicente ad impium non annuntia
+            <lb/>ueris neque locutus ei fueris ut auertatur ab iniqui
+            <lb/>tate sua et uiuat . ipse impius in iniquitate sua 
+            <lb/>morietur . Sanguinem autem eius de manu tua requi
+            <lb/>ram nec uobis blandiora personet cum postea sub
+            <lb/>dit . Si autem tu adnuntiaueris impio . et ille non conuer
+            <lb/>sus fuerit ab impietate sua et a uia sua mala ipse 
+            <lb/>quidem in iniquitate sua morietur . Sanguis eius super 
+            <lb/>caput suum erit . tu autem animam tuam liberasti . Unde 
+            <lb/>et salomon ne sibi sanguis populus quem regebat
+            <lb/>imputaretur . fili inquit peccasti . ne adicias ultra . sed 
+            <lb/>et de pristinis deprecare . et age poenitentiam . Et iterum . 
+            <lb/>Ne tardes conuerti ad dominum . et ne differas de die in diem . 
+            <lb/>Subito enim uenit ira eius . Quod si dixeris uoce cor
+            <lb/>uina cras conuertam . ego dicam quare non hodie? 
+            <lb/>Caueat unusquisque ne sibi quod ab eodem salomone 
+            <lb/>notatur <subst><del>áccidac</del><add resp="later">áccidat</add></subst> . quasi qui excitat dormientem 
+            <lb/>de graui somno . sic est qui enarrat stulto sapientiam . 
+            <lb/>in fine enim narrationis dicet . quid primum dixeras? 
+            <lb/>Audite et alius propheta quid dicat . Absit a me inquiens . 
+            <lb/>ut non enuntiem domui iacob peccata eorum . et do
+            <lb/>mui israel scelera eorum . Dicit enim salomoN . 
+            <pb n="59r" xml:id="P25_fol_59r"/><lb n="1"/>Qui dixerit impium iustum esse maledictus erit in populis . 
+            <lb/>Nam qui arguunt meliora sperabunt . Item dicit . Erue eos 
+            <lb/>qui ducuntur ad mortem . Et redime eos qui inter
+            <lb/>ficiuntur . ne parcas . Quia ut ait propheta . Non prode
+            <lb/>runt diuitię in die irae . Iustitia <add resp="scribe" place="sup">a</add>utem a morte liberat .
+            <lb/>Si iustus quidem uix saluus sit . Impius et peccator ubi 
+            <lb/>parebunt? Sed . ne nos aliquis incredulus zelo malig
+            <lb/>nae cogitationis aggrediatur . dicens nos propria 
+            <lb/>ad inuentione tales minas uobis incutere . Oppo
+            <lb/>nemus illi scutum . sanctorum oracula uatum . Uidete quomodo 
+            <lb/>unus de illis samuel nomine deo antequam nasceretur 
+            <lb/>dedicatus . A dan usque bersabee omni populo israel ue
+            <lb/>ridicus propheta . Aloquitur primum regem apud 
+            <lb/>hebreos uidelicet saulem . per eo quod quędam de man
+            <lb/>datis domini non compleuerit dicens . Stulte egisti . 
+            <lb/>nec custodisti mandata domini dei quę precipit tibi . quod 
+            <lb/>si non fecisses iam nunc preparasset dominus regnum tuum 
+            <lb/>super israel in sempiternum . Sed nequaquam regnum tuum 
+            <lb/>ultra consurget et quia abiecisti sermonem domini abie
+            <lb/>cit et te ne sis rex . Et scidit dominus regnum israel a te hodie . 
+            <lb/>et dedit illud proximo tuo meliori te . Scito enim trium
+            <lb/>phator in israel non parcet . et poenitudine non flectetur . 
+            <lb/>uidelicet super duris malorum precordiis . Unde de pha
+            <lb/>raone <subst><del>dnitur</del><add resp="scribe" place="sup">dicitur</add></subst> . Indurauit quia non emo<add resp="scribe" place="sup">l</add>liuit .
+                Non
+            <lb/>ita fecit dauid cum in populo numerando peccasset . 
+            <lb/>Sed pro <subst><del>pupulis</del><add resp="scribe" place="sup">populis</add></subst> cum propter hoc in eos <subst><del>plagaga</del><add resp="scribe" place="sup">plaga</add></subst> dei dese
+            -uiret mori optauit . dicendo . Ego sum <add resp="scribe" place="sup">qui</add> peccaui .
+            <lb/>ego pastor inique gessi . Isti qui oues sunt quid fecerunt ; 
+            <pb n="59v" xml:id="P25_fol_59v"/><lb n="1"/>Uertatur inquit obsecro manus tua . contra me et 
+            <lb/>contra domum patris mei . Pro hoc solo<note place="end" n="i"> solo]
+                        one letter erased at the end of solo</note> plagam a <subst><del>po
+            <lb n="3"/>polo</del><add resp="scribe" place="sup">popvlo</add></subst> cessare impetrauit . Nec propter eundum quod 
+            <lb/>scriptura inconsequentibus de filio eius narrat . Fecit 
+            <lb/>inquiens salomon quod non placuerat coram domino 
+            <lb/>et non adimpleuit ut sequeretur dominum sicut dauid pater 
+            <lb/>eius . propter hoc dicit dominus ad eum quia non custodisti 
+            <lb/>pactum meum . et in preceptis meis quę mandaui tibi non 
+            <lb/>ambulasti . disrumpens scindam regnum tuum 
+            <lb/>de manu filii tui . et dabo illud seruo tuo . Id est hie
+            <lb/>roboam qui et ipse peccare fecit israhel . Longum 
+            <lb/>est transcurrere duritiam cordis filii eius roboam . 
+            <lb/>qui derelicto consilio seniorum qui fuerant cum patre 
+            <lb/>suo de leuigandis operibus in populo . adhesit consilio 
+            <lb/>puerorum qui secum nutriti fuerant . propter hoc reces
+            <lb/>sit israel a semine dauid . Regnauitque in iuda tamen audi
+            <lb/>te . Quid illi scelerato regi . Cuius auaritia et uxoris 
+            <lb/>dolo nabaoth uir iustus et innocens propter paternam 
+            <lb/>uineam oppressus est sancto ore helię prophete minatur 
+            <lb/>dicentis . Occidisti insuper et possedisti . propter ea hęc 
+            <lb/>dicit dominus . In loco hoc in quo linxerint canes san
+            <lb/>guinem nabaoth . lambent quoque tuum sanguinem .
+            <lb/>Quid de auctore prophetarum isaia dicam . qui in <subst><del>prochemio</del><add resp="later">prohemio</add></subst> 
+            <lb/>prophetię suę ita loquitur . Audite cęli et auribus 
+            <lb/>percipe terra quoniam dominus locutus est filios enutriui et 
+            <lb/>exaltaui . Ipsi autem spreuerunt me . Et ideo dicit . 
+            <lb/>Cum extenderitis ad me manus uestras . auertam oculos 
+            <lb/>meos a uobis . et cum multiplicaueritis orationem 
+            <pb n="60r" xml:id="P25_fol_60r"/><lb n="1"/>non exaudiam . et quare faciat ostendit . Manus ait 
+            <lb/>uestrę sanguinę plene sunt . Simulque ostendens 
+            <lb/>quomodo placaretur ait . Lauamini . mundi estote . 
+            <lb/>et reliqua . sed uos e contrario agitis . Sapientes estis
+            <lb/>ut faciatis mala . bene autem facere nescitis . peruer
+            <lb/>titis iudicium . Iustificatis impium pro muneribus . et iu
+            <lb/>stitiam iusti aufertis ab eo . Oppresso non subuenitis . 
+            <lb/>pupillo non iudicatis . et causa uiduae non ingre
+            <lb/>ditur ad uos . Sed econtrario bouem illius rapitis . 
+            <lb/>poenituissetis uos fecissem uobis . Ut si fierent 
+            <lb/>peccata uestra ut coccinum quasi nix dealbabuntur . 
+            <lb/>et si fierent rubra quasi uermiculus uelut lana 
+            <lb/>alba erunt . Nolentibus autem se audire denun
+            <lb/>tiat dicens . Uae impio in malum . Retributio enim 
+            <lb/><subst><del>manum</del><add resp="later">manuum</add></subst> eius fiet ei . Vae qui consurgitis mane ad ebri
+            <lb/>etatem sectandam usque ad uesperam . et opus domini 
+            <lb/>non respicitis et opera manuum <subst><del>ei</del><add resp="later">eius</add></subst> non consideratis . 
+            <lb/>Propterea captiuus ductus est populus meus quia non 
+            <lb/>habuit scientiam . et nobiles eius interierum fame 
+            <lb/>et siti . non fame panis neque siti aquę sed audi
+            <lb/>endi uerbum dei . Propterea <choice><sic>dilatatum</sic><corr resp="editor">dilataum</corr></choice> infernus 
+            <lb/>animam suam et aperuit os suum absque ullo termi
+            <lb/>no . et descendent fortes eius et sublimes eius 
+            <lb/>gloriosique eius ad eum . Ibi asor et omnis multitudo 
+            <lb/>eius et in circuitu sepulchra illius . Et post pauca .
+            <lb/>uisitabo super orbis mala . et contra impios iniqui
+            <lb/>tatem ipsorum . Et quiescere <subst><del>famiam</del><add resp="later">famam</add></subst> superbiam in fide
+            <lb/>lium . et arrogantiam fortium humiliabo . Et molas 
+            <pb n="60v" xml:id="P25_fol_60v"/><lb n="1"/>leonum confringam . Et post aliquanta rationem 
+            <lb/>reddens quamobrem talia minaretur . Ait . quia ini
+            <lb/>quitates uestrę diuiserunt inter uos et deum uestrum . et 
+            <lb/>peccata uestra absconderunt faciem eius a uobis ne ex
+            <lb/>audiret . Manus enim uestrę sceleribus pollutę sunt . 
+            <lb/>et digiti uestri iniquitate . Labia uestra locuta sunt 
+            <lb/>mendacium . et lingua uestra iniquitatem fatur . non est 
+            <lb/>qui faciat iustitiam . neque est qui uere iudicet . Dum 
+            <lb/>dicit salomon . Diligite iustitiam qui iudicatis 
+            <lb/>terram . Hoc unum testimonium . si toto corde serua
+            <lb/>retur . abunde ad corrigendos mores hominum 
+            <lb/>sufficeret . Nam si dilexissent iustitiam dilige
+            <lb/>rent utique fontem totius iustitie deum . qui et in lege 
+            <lb/>et in euangelio dicit . Diliges dominum deum tuum . et reliqua . 
+            <lb/>et item si quis diligit me . Uideamus utrum dicta 
+            <lb/>apostoli ad hęc conueniant . Dicit enim . Manifestabitur 
+            <lb/>enim ira dei de caelo super omnem impietatem et iniu
+            <lb/>stitiam hominum . eorum qui ueritatem dei iniustitia 
+            <lb/>detinent . Deus enim illis reuelauit ita ut sint inexcu
+            <lb/>sabiles . Qui cum cognouissent deum non sicut deum 
+            <lb/>glorificauerunt aut gratias egerunt . sed euanuerunt 
+            <lb/>in cogitationibus suis . Et obscuratum est insipiens 
+            <lb/>cor eorum . Dicentes enim se esse . sapientes stulti facti 
+            <lb/>sunt . Et mutauerunt ueritatem dei in mendacium . 
+            <lb/>et coluerunt et seruierunt creaturę potius quam 
+            <lb/>creatori . et quia non habuerunt deum in notitia tradi
+            <lb/>dit illos deus in reprobum sensum ut faciant ea quę non 
+            <lb/>conueniunt . Repletos omni iniquitate . malitia . ad
+            <pb n="61r" xml:id="P25_fol_61r"/><lb n="1"/>ulterio . auaritia . rapina . plenos inuidia . homicidio . 
+            <lb/>contentione . dolo . susurrores . deractatores . blas
+            <lb/>phemos . alienae rei raptores . pauperum oppresso
+            <lb/>res . deo odibiles . contumeliosos . superbos . elatos . per
+            <lb/>iuros . Maliloquos . perfidos . socios furum . Inuentores 
+            <lb/>malorum . Parentibus et magistris inoboedientes . 
+            <lb/>insipientes . pacem . odio habentes . bella potius 
+            <lb/>eligentes . Sine affectione . sine foedere . sine mi
+            <lb/>sericordia . Haec sunt opera carnis . quę in hoc 
+            <lb/>loco et alibi plenius enumerat apostolus . horrendum 
+            <lb/>ualde est quod sequitur . quoniam qui talia agunt 
+            <lb/>regnum dei non consequentur . Que autem poena fu
+            <lb/>tura est horum a secutoribus in die iudicii . Ostendit 
+            <lb/>iohannes in apocalipsi qui dicit . Et diabolus qui sedu
+            <lb/>cebat illos . cum sequacibus suis missi sunt in stagnum ig
+            <lb/>nis et sulphuris . Ibi erit fletus et stridor dentium . 
+            <lb/>Uermis eorum non morietur et ignis non extin
+            <lb/>guetur in perpetuum . Sed his de peccatorum mise
+            <lb/>riis uel etiam increpationibus dictis . nos ad explora
+            <lb/>ndam huius tantæ festiuitatis hodiernę cęle
+            <lb/>britatem festinamus . ut postea quę gloria istis 
+            <lb/>mandata domini seruantibus futura est in fine paucis 
+            <lb/>explicemus . Haec igitur dies in qua dominus noster mul
+            <lb/>tis miraculis huic se mundo manifestauit . palma
+            <lb/>rum nomine nuncupatur . Quę ideo hoc nomi
+            <lb/>ne meruit appellari quia plurimi in hierosoli
+            <lb/>mis paschalem expectantes solemnitatem . sicut 
+            <lb/>mos erat circa pascha . et maxime anno .vii. illo 
+            <pb n="61v" xml:id="P25_fol_61v"/><lb n="1"/>uero iubelei expleto . omnes israhelitae illic conue
+            <lb/>niebant . singulis quibusque reddere iussa debita 
+            <lb/>et redintegrare libera . Hi itaque cum audissent de la
+            <lb/>zari resuscitatione et de aliis quoque uirtutibus 
+            <lb/>quas idem fecerat dominus . sicut conuerti in uinum . 
+            <lb/>De modico apparatu plurimos satiare populos . 
+            <lb/>mortuos suscitare . Omnis uerbo depellere mor
+            <lb/>bos . Iesu <choice><sic><subst><del>hicrolimam</del><add resp="scribe" place="sup">hierolimam</add></subst></sic><corr resp="editor">hierosolimam</corr></choice> aduentu cognito . cum
+                floribus 
+            <lb/>et palmis et laudibus atque ymnis et omnium iocun
+            <lb/>ditatum ornatum christo regi magnifice omnium 
+            <lb/>regum potentissimo . ab illis omnibus deo priusquam 
+            <lb/>pateretur agnito obuiarunt . Ille autem mane 
+            <lb/>primo de bethania surgens . quasi rex amicorum 
+            <lb/>turba circumdatus per iter montis oliuarum deam
+            <lb/>bulans hierosolimam petit . Hoc itaque itinere 
+            <lb/>plurima signa geruntur . Nam propinquante 
+            <lb/>iesu hiericho caecus ut ait marcus repertus il
+            <lb/><choice><sic>lumnatur</sic><corr resp="editor">luminatur</corr></choice> . Quia uero hiericho luna interpretatur . 
+            <lb/>Luna autem mortalitatem nostrę carnis designat . 
+            <lb/>Recte dominus hiericho id est passioni et morti pro
+            <lb/>pinquans unum caecum illuminauit . quia tunc soli 
+            <lb/>populo iudeorum lumen euangelii predicauit . tunc 
+            <lb/>enim ad discipulos dixerat . Matheus commemorat . 
+            <lb/>duos caecos in ualle hiericho repertos . Sanauit . 
+            <lb/>Quia uidelicet a mortuis resurgens et in caelos 
+            <lb/>ascendens . iudęis et gentibus euangelium predica
+            <lb/>ri mandauit . precipiens discipulis suis ac dicens . 
+            <lb/>Euntes in mundum uniuersum . et reliqua . Nec omit
+            <pb n="62r" xml:id="P25_fol_62r"/><lb n="1"/>tendum quod asina et <subst><del>pollus</del><add resp="scribe" place="sup">pullus</add></subst> deducti apostolorum uestimentis
+            <lb/>sternuntur. Uestimenta apostolorum legis et euangelii sunt testi
+            <lb/>monium . Asina et pullus iudaicum et gentilem populum 
+            <lb/>designant . quos desuper sedere dicitur quia corda credentium 
+            <lb/>super fidem quam predicant apostoli et eorum discipuli supersedet . 
+            <lb/>Et hoc fuit ut adimpleretur prophetia quę dicit . Dicite
+            <lb/>filię sion . et reliqua . Notandum autem quod turbe quæ 
+            <lb/>precedebant et quę sequebantur . Osanna clamabant . 
+            <lb/>Osann<add resp="scribe" place="sup">a</add> salua nos dicitur . Ab ipso enim salutem et prio
+            <lb/>rem quesierunt . et presentes quęrunt . quoniam ipse una 
+            <lb/>spes una fides est precedentium atque sequentium apos
+            <lb/>tolorum . Cum intrasset autem hierosolymam . commota 
+            <lb/>est ciuitas dicens . Quis est hic . populi autem dicebant . 
+            <lb/>Hic est iesus propheta a nazareth galileę . Et intrauit 
+            <lb/>iesus in templum . et cum fecisset quasi flagellum de funi
+            <lb/>culo eiciebat omnes uendentes et ementes de templo 
+            <lb/>dicens illis . Scriptum est domus mea domus orationis 
+            <lb/>uocabitur . et accesserunt ad eum cęci et claudi in tem
+            <lb/>plo et sanauit . Mirum ualde est ; Et si illos de templo 
+            <lb/>eiecit qui sacrificia quę sibi immolarentur uende
+            <lb/>bant et emebant . quid putatis fiet illis qui ad suę 
+            <lb/>iniquitatis rapinam loca deo consecrata irrum
+            <lb/>punt atque diripiunt? Certe et ueniet illis quod alibi 
+            <lb/>propheta exterminatoribus hierusalem optat euenire 
+            <lb/>dicens . Effunde iram tuam in gentes quę te non no
+            <lb/>uerunt . et in regna quę nomen tuum non inuocaue
+            <lb/>runt . quia deuastauerunt possesiones iacob et locum 
+            <lb/>eius desolauerunt . Ueniet autem tempus quando 
+            <pb n="62v" xml:id="P25_fol_62v"/><lb n="1"/>dominus uindictam . electorum suorum faciet . Et tunc gaude
+            <lb/>bunt cum sint audituri . Cecidit <subst><del>cicidit</del><add resp="scribe" place="sup">cecidit</add></subst> babilon magna .
+            <lb/>et facta est habitatio dęmoniorum . Ruina ciuitatis 
+            <lb/>babilonis omnium impiorum cum suo auctore diabolo 
+            <lb/>in die iudicii perpetuam damnationem designat . Et au
+            <lb/>dietur de ea . Reddite illi sicut ipsa reddidit uobis . 
+            <lb/>Et duplicate duplicia secundum opera eius . quia in corde suo 
+            <lb/>dicit . Sed eo regina et uidua non sum . eductum non 
+            <lb/>uidebo . Ideo in una die uenient plage eius . Et flebunt
+            <lb/>et plangent super eam omnes reges eius qui cum illa fornicati
+            <lb/>sunt . Et dicent . Quid nobis profuit superbia . Aut quid diui
+            <lb/>tiarum iactatio contulit nobis . transierunt haec omnia 
+            <lb/>tamquam umbra et cum uiderunt fumum incendii eius dicent . 
+            <lb/>Uae uae ciuitas illa magna babilon . quoniam uenit huna 
+            <lb/>hora iudicium tuum . Sic et dominus in euangelio ruinam eiusdem 
+            <lb/>ciuitatis denuntians dicit . Cum uideritis haec fieri res
+            <lb/>picite et leuate capita uestra . Id est exhilarate <choice><sic>cordet</sic><corr resp="editor">corda</corr></choice> quoniam 
+            <lb/>iudicauit deus iudicium uestrum de illa . Hoc est illud iudicium 
+            <lb/>quod anime sanctorum magno clamore quęrebant . Vsque quo 
+            <lb/>domine sanctus et uerus non iudicas et uindicas causam nostram . 
+            <lb/>Nos itaque cauentes ne in ruina illius ciuitatis cadamus .
+            <lb/>Interrogemus iohannem prophetam . quid nobis ad diluen
+            <lb/>das peccatorum nostrorum maculas faciendum sit . Et ille
+            <lb/>nobis denuntiabit dicens . <subst><del>poonitentiam</del><add resp="scribe" place="sup">poenitentiam</add></subst> agite appropin
+            <lb/>quauit enim regnum caelorum . Et propheta . prope est inquit 
+            <lb/>dies domini . et si tunc prope erat quid nunc repputabitur . 
+            <lb/>Primo omnium faciamus quod ait propheta . Preoccupemus 
+            <lb/>faciem eius in confessione . et iterum . precinite domino in con
+            <pb n="63r" xml:id="P25_fol_63r"/><lb n="1"/>fessione . Deferamus igitur munera regi nostro . Id est uiam 
+            <lb/>in cordibus nostris . Omnigeni<add resp="scribe" place="sup">s</add> floribus Id est ex operibus
+                iustitię
+            <lb/>ornatam christo domino hierosolymam adeunti preparemus . 
+            <lb/>qui cotidie per sanctos suos ad mundi finem festinat . Ubi 
+            <lb/>caelestis hierusalem facie ad faciem quibusque electis presentabitur . 
+            <lb/>Non illa quę modo ex ligneis et lapideis fabricis condita est ;
+            <lb/>Sed illa de qua dicitur . hierusalem quæ edificatur ut ciuitas . 
+            <lb/>quę lapidibus uiuis id est ex clarissimis sanctorum spiritibus 
+            <lb/>construitur ipsa est ciuitas de qua dicitur . et templum non uidi 
+            <lb/>in ea . Dominus enim deus omnipotens templum illius est et agnus . Nec aliud 
+            <lb/>est ciuitas quam requies sempiterna sanctorum . Quorum ipse deus unica 
+            <lb/>domus . lux et requies . Victus et uestitus . honor et gloria .
+            <lb/>Pax et corona est . et postea non esurient neque sitient . 
+            <lb/>Et absterget deus omnem lacrimam ab oculis eorum . Et ipsa 
+            <lb/>ciuitas non eget sole neque luna . Sed dominus qui est sol iusti
+            <lb/>tię illuminabit eam . Et porte eius non claudentur per diem . 
+            <lb/>nox enim non erit illis . Non enim iam ibi dicitur . Vigilate . 
+            <lb/>sed potius uacate et uidete quoniam ego sum dominus . Nec intrabit 
+            <lb/>in ea aliquid coinquinatum . Quia iam malis de medio 
+            <lb/>segregatis . soli cum christo boni regnabunt . Et ipsa est terra 
+            <lb/>de qua dicitur . Credo uidere bona domini . et item . Propterea 
+            <lb/>in terra sua duplicia possidebunt . Vbi nemo intrans 
+            <lb/>ultra moritur . Mors enim non erit illic . Dolor et gemitus 
+            <lb/>excluduntur . Nullus ibi egritudine aut senectute 
+            <lb/>pregrauatur . Sed conuiuit cum angelis semper lętus numquam 
+            <lb/>tristis . Vbi lux permanet . Et uita regnat sancta trinitas . 
+            <lb/>AMEN;
+        </p></div></body>
+    </text>
+</TEI>

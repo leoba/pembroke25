@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 20 (38r–40r) </title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2006-09-01T11:07:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T00:39:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 20 (38r–40r)" xml:id="p25_20">
+        <body><div>
+            <p>
+                <lb n="17"/>.xx. OMELIA IN QUADRAGESIMA . DOMINICA .i. 
+            <lb/>AUdite filioli mei et intelligite . quomodo sacra 
+            <lb/>scriptura uos ammonet . et ad regna caelorum 
+            <lb/>inuitat . et uiam ostendit . Quomodo mala mundi 
+            <lb/>istius euadere possitis . et ad uitam aeternam christo 
+            <lb/>adiuuante peruenire . Clamat enim dominus per prophetam 
+            <lb/>ad sacerdotes qui presunt populo . ut uos debeant 
+            <lb/>ammonere . et annuntiare uobis uiam ueritatis . 
+            <lb/>Dicit enim . Clama ne cesses . quasi tuba exalta 
+            <lb/>uocem tuam . et annuntia populo meo peccata 
+            <lb/>eorum . et domui iacob scelera eorum . Quod si non 
+            <lb/>annuntiaueris iniquo iniquitatem suam . sanguinem 
+                <pb n="38v" xml:id="P25_fol_38v"/><lb n="1"/>eius de manu tua requiram . <label type="lection_no">.ii.</label> Uidetis ergo fratres karissimi . 
+            <lb/>si diligenter adtenditis . quod omnes sacerdotes domini . 
+            <lb/>non solum ępiscopi . sed etiam presbiteri et ministri ecclesi
+            <lb/>arum . in grandi sunt periculo . si dei sermones uobis 
+            <lb/>non annuntiauerint . Unde dominus . per prophetam dicit . 
+            <lb/>Audiens ex ore meo sermonem . annuntiabis eis ex 
+            <lb/>me . ex me non ex te . uerba mea loqueris . non est 
+            <lb/>quod ex eis tamquam de tuis <choice><sic>impleris</sic><corr resp="editor">infleris</corr></choice> . Considerate ergo 
+            <lb/>fratres . si pro semetipso unusquisque uix poterit in die 
+            <lb/>iudicii reddere rationem . Quid de sacerdotibus fu
+            <lb/>turum est a quibus omnium animę requirentur . <label type="lection_no">.iii.</label> In his 
+            <lb/>siquidem omnibus necesse est sacerdotibus ut uobis uiam 
+            <lb/>dei annuntient . et semitam ostendant uobis . per quam 
+            <lb/>uitam possitis habere aeternam . Sed tamen 
+            <lb/>cauendum est uobis fratres karissimi . quia si nobis periculosum 
+            <lb/>est non annuntiare . multo magis uobis perniciosius 
+            <lb/>erit . si nolueritis implere quę annuntiauerimus
+            <lb/>uobis . dicente domino per prophetam . Si autem annun
+            <lb/>tiante te ad impium ut a uiis suis conuertatur . ipse 
+            <lb/>conuersus non erit . in iniquitatibus suis morietur . et tu 
+            <lb/>animam tuam de uindicta eius liberasti . <label type="lection_no">.iiii.</label> Vnde quidam 
+            <lb/>sapiens . ammonet sacerdotes dicens . Hortamur 
+            <lb/>uos paratos esse ad docendas plebes . Qui scit scrip
+            <lb/>turas . prædicet scripturas . qui uero nescit . saltim hoc 
+            <lb/>quod notissimum est plebibus dicat ; ut declinent 
+            <lb/>a malo et faciant bonum . inquirant pacem . et <choice><sic>sequantur</sic><corr resp="editor">sequatur</corr></choice> 
+            <lb/>eam . Quia oculi domini super iustos . et aures eius ad preces 
+            <lb/>eorum ; Vultus autem domini super facientes mala . ut perdat 
+                <pb n="39r" xml:id="P25_fol_39r"/><lb n="1"/>de terra memoriam eorum . <label type="lection_no">.v.</label> Nullus ergo se excusare po
+            <lb/>terit . quod non habeat linguam . unde possit aliquem 
+            <lb/>aedificare . Mox enim ut quemlibet errare uiderit . 
+            <lb/>prout ualeat aut arguendo . aut obsecrando . aut in
+            <lb/>crepando . ab errore retrahat . et ad peragendum 
+            <lb/>opus bonum . sepius hortetur . In primis igitur ho
+            <lb/>mo christianus hoc debet scire . et in corde firmiter 
+            <lb/>tenere . quod primum et maximum mandatum est domino 
+            <lb/>dicente . Diliges dominum deum tuum ex toto corde tuo . 
+            <lb/>et ex tota anima tua . et tota uirtute tua . Hoc 
+            <lb/>quidem nobis demonstrat . ut toto intellectu . tota 
+            <lb/>uoluntate et ex omni memoria deum semper diligamus . 
+                <lb/><label type="lection_no">.vi.</label> Addidit quoque . secundum simile est huic . Diliges proximum 
+            <lb/>tuum . sicut teipsum . Hoc est siquidem . quod in aeuan
+            <lb/>gelio scriptum est . Omnia quecumque uultis ut 
+            <lb/>faciant uobis homines . ita et uos facite eis . Hęc est 
+            <lb/>ergo uera caritas . quę deum diligit plusquam se . et qui 
+            <lb/>nichil uult alio facere . nisi quod sibi uult fieri . Si hęc 
+            <lb/>uero amore fratres in animo posueritis . et ista prima
+            <lb/>precepta cum summa reuerentia . et cum gaudio uo
+            <lb/>lueritis suscipere . tunc ad alia bona deo adiuuan
+            <lb/>te . poteritis peruenire . Promisit enim his qui diligunt 
+            <lb/>eum . resurrectionem post mortem . et uitam perpetuam . et di
+            <lb/>licias paradysi . et gaudia cum angelis . Unde ibi post 
+            <lb/>haec stabilitas . et securitas iuuentutis . et pax perpetua 
+            <lb/>diligentibus deum . et amantibus illum . Haec autem per assidui
+            <lb/>tatem et perseuerantiam boni operis . et per continentiam 
+            <lb/>de malo et facientibus bona . promissa sunt . Scire ergo 
+                <pb n="39v" xml:id="P25_fol_39v"/><lb n="1"/>debetis fratres karissimi quod haec quadragesima sicut quidam 
+                <lb/><choice><sic><gap/></sic><corr resp="editor">sapiens</corr></choice> ait . Cum summa obseruatione custodiri 
+            <lb/>debet . ut ieiunium in ea . preter dies dominicos . 
+            <lb/>qui de abstinentia subtracti sunt . nullatenus 
+            <lb/>soluatur . quia ipsi dies decimę sunt anni nostri . quos 
+            <lb/>cum omni religione sanctitatis transigere debemus . 
+                <lb/><label type="lection_no">.viii.</label> Nulla in his occasio sit ad soluendum ieiunium . 
+            <lb/>quia alio tempore solet ieiunium caritatis causa 
+            <lb/>disolui . isto uero nullatenus debet . quia in alio tem
+            <lb/>pore ieiunare inuoluntate et arbitrio cuiuslibet 
+            <lb/>positum est . in hoc uero non ieiunare . pręceptum 
+            <lb/>domini transcendere est . Et in alio tempore ieiuna
+            <lb/>re premium abstinentię adquirere est ; in hoc 
+            <lb/>uero preter infirmos aut paruulos . quisquis non 
+            <lb/>ieiunat . poenam sibi adquirit . quia in eosdem 
+            <lb/>dies dominus et per moysen et per heliam . et per semetipsum .
+            <lb/>sacro ieiunio consecrauit . In diebus quoque ieiunii 
+            <lb/>huius temporis fratres karissimi . aelemosina frequentius 
+            <lb/>facienda est . et cybum de quo quisque uti debu
+            <lb/>erat si non ieiunaret . pauperibus erogare debet . 
+            <lb/>quia ieiunare et cybos prandii ad cęnam reserua
+            <lb/>re . non mercedis . sed cyborum est incrementum . <label type="lection_no">.viiij.</label> Cauen
+            <lb/>dum est quoque quod multis in usu est . solent enim 
+            <lb/>plures qui se ieiunare putant . mox ut signum 
+            <lb/>audierint ad horam nonam manducare . Qui 
+            <lb/>nullatenus ieiunare credendi sunt . si ante man
+            <lb/>ducauerint . quam uespertinum cęlebretur officium . 
+            <lb/>Concurrendum est enim ad missas . et postea auditis 
+                <pb n="40r" xml:id="P25_fol_40r"/><lb n="1"/>missarum solemnitatibus siue uespertinis officiis . lar
+            <lb/>gitis prius ęlemosinis . ad cybum accedendum est . 
+            <lb/>si uero aliquis necessitate constrictus fuerit ut ad 
+            <lb/>missam conuenire non ualeat . aestimata uespertina 
+            <lb/>hora et completa oratione sua . ieiunium soluere debet .
+            <lb/>Sciendum est quoque . quod in singulis diebus domini
+            <lb/>cis in quadragesima . preter hos qui excommunicati 
+            <lb/>sunt . sacramenta corporis et sanguinis christi ab omnibus 
+            <lb/>fidelibus sumenda sunt . et in cęna domini . et in uigilia pa
+            <lb/>sche . et in die resurrectionis domini . penitus omnibus commu
+            <lb/>nicandum est christianis . et ipsi dies paschalis ebdomadę 
+            <lb/>omnes aequali religione colendi sunt . <label type="lection_no">.x.</label> Ammonendus 
+            <lb/>est igitur populus . ut ad sacrosanctum sacramentum 
+            <lb/>corporis et sanguinis domini . nequaquam indiferenter 
+            <lb/>accedat . Nec ab hoc nimium abstineat . sed cum 
+            <lb/>omni diligentia atque prudentia eligat tempus . quando 
+            <lb/>aliquandiu ab opere coniugali abstineat . et uitiis 
+            <lb/>se purget . et uirtutibus exornet . Aelemosinis et ora
+            <lb/>tionibus insistat . et sic ad tantum sacramentum accedat . 
+            <lb/>quia sicut periculosum est inpurum quemque ad tan
+            <lb/>tum sacramentum accedere . Ita etiam periculosum 
+            <lb/>est ab hoc prolixo tempore abstinere . nisi qui excom
+            <lb/>municati sunt . Caeteris uero temporibus commu
+            <lb/>nicandum est religiosis quibusque sanctę uiuentibus . qui 
+            <lb/>pene omni die id faciunt . Haec precepta implendi . 
+            <lb/>uirtutem nobis prestare dignetur . saluator mun
+            <lb/>di . qui cum patre et spiritu sancto uiuit et regnat . in secula 
+            <lb/>seculorum . amen .
+        </p></div></body>
+    </text>
+</TEI>

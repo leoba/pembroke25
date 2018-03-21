@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 14 (24v–27r) </title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2006-08-24T04:01:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-23T23:47:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 14 (24v–27r)" xml:id="p25_14">
+        <body><div>
+            <p>
+            .xiiii. ITEM ALIA .
+            <lb n="27"/>Haec sunt mirabilia fratres karissimi . quę in die solemnita
+            <lb/>tis sui baptismatis dominus noster iesus christus ostendere dignatus est 
+                <pb n="25r" xml:id="P25_fol_25r"/><lb n="1"/>et facere . In hac enim die subiens in montem cum discipulis 
+            <lb/>suis . uidit maximam multitudinem ad se uenientem et dixit . 
+            <lb/>Unde ememus panes ut manducent hi? Probando autem 
+            <lb/>dicebat . quia ipse sciebat quod faceret . Responderunt 
+            <lb/>autem discipuli dicentes . Ducentorum denariorum pretium 
+            <lb/>non sufficeret eis . ut unusquisque modicum quod acciperet . 
+            <lb/>Modo autem sunt .v. panes et duo pisces . Sed haec qui sunt 
+            <lb/>inter tantos? Pręcepit ergo turbas discumbere . et acci
+            <lb/>piens quinque panes et duos pisces aspexit in caelum et be
+            <lb/>nedixit eos . et dedit discipulis ut traderent turbis . et ex 
+            <lb/>his manducantes saturati sunt omnes . Erat autem numerus 
+            <lb/>manducantium . quasi quinque milia uirorum . et sustu
+            <lb/>lerunt discipuli duodecim cofinos plenos de fragmentis 
+            <lb/>manducantium . <label type="lection_no">.ii.</label> Illi autem homines cum uidissent signum 
+            <lb/>quod fecerat dicebant . Quia hic est uere propheta . qui uenturus 
+            <lb/>est in mundum ;. Iterum <add resp="scribe" place="sup">in hac</add> die uocatus est iesus et
+                discipuli eius
+            <lb/>ad nuptias . que era<add resp="scribe" place="sup">n</add>t in galilea . Et deficiente uino ad
+                con
+            <lb/>uiuium . Dixit mater iesu ad eum . Hi uinum non habent . 
+            <lb/>Et dixit iesus . Quid mihi et tibi est mulier? nondum uenit 
+            <lb/>hora mea . Dixit autem ministris . Quodcumque dixe
+            <lb/>rit uobis facite . Et dixit eis iesus . Implete hydrias aqua . 
+            <lb/>Sex enim hidrię lapideae erant ibi capientes singulę 
+            <lb/>metretas binas uel ternas . Et impleuerunt eas usque ad 
+            <lb/>summum . Et illas benedixit . Et fecit uinum de aqua . Id 
+            <lb/>est .cl. modios . et mutauit speciem aquę . conuertens 
+            <lb/>in colorem et saporem uini . Vt autem gustauit archi
+            <lb/>triclinus uinum ex aqua factum ; uocauit ad se sponsum
+            <lb/>et ait illi . Omnis homo uinum bonum primum ponit . 
+                <pb n="25v" xml:id="P25_fol_25v"/><lb n="1"/>et cum inębriati fuerint . tunc id quod deterius est ; tu autem 
+            <lb/>seruasti uinum bonum usque nunc . Hoc signum fecit 
+            <lb/>iesus primum coram discipulis suis . et manifestauit gloriam 
+            <lb/>suam . et multi crediderunt in eum . In hac iterum die ue
+            <lb/>nit iesus de ciuitate nazareth ad iohannem . baptizaretur 
+            <lb/>ab eo in iordanis alueo . et omnia fluenta iordanis con
+            <lb/>gregauerunt se in unum locum . et adorauerunt dominum crea
+            <lb/>torem suum . Et baptizatus est in aquis ille qui fecerat 
+            <lb/>aquas . et baptizatus est dominus ab homine . qui fecerat ho
+            <lb/>minem de limo terrę ; inspirans in faciem eius spiritum uitę . 
+            <lb/>Mirum siquidem esset quod se dominus serui subdidit bene
+            <lb/>dictioni . nisi postea cruci subdidisset et morti . Sed ideo 
+            <lb/>haec humilitatis exempla pro nobis dominus suscepit . Ut nos 
+            <lb/>iustitia eius sanctificaremur a malis primae natiuitatis . 
+            <lb/>et de primi hominis adam originali peccato . Et id
+            <lb/>circo quia per uniuersum mundum baptismi gratia opus 
+            <lb/>erat humano generi . Benedictionem omnibus aquis 
+            <lb/>dedit . quando in iordanis alueo unica pietate descen
+            <lb/>dit . Non tam enim tunc lauit unda christum sed aqua 
+            <lb/>ab eo lota est . ut postea per eam sordes abluerentur 
+            <lb/>peccatorum . Unde et precursor eius iohannes cum ad 
+            <lb/>se baptizandus ueniret . allocutus est eum dicens . 
+            <lb/>Domine ego a te debeo baptizari . et tu uenis ad me . qui es 
+            <lb/>fons innocentiae et plenitudo iustitię . qui nullo in
+            <lb/>diges . clarescis . nescis accipere . qui tecum exhibes 
+            <lb/>et in te possides omnia munera puritatis . et baptismi 
+            <lb/>sacramenta . Et quod ego dabo te largiente per gratiam . 
+            <lb/>et tu obtines per naturam creaturae . Respondens 
+                <pb n="26r" xml:id="P25_fol_26r"/><lb n="1"/>autem iesus dixit ad iohannem . sine modo . sic enim decet nos 
+            <lb/>implere omnem iustitiam . tu enim modo baptizas in aqua
+            <lb/>et poenitentia . Ego autem paulo post baptizabo uos 
+            <lb/>in spiritu sancto et igni . et cum impleuero omnem iustitiam . Id 
+            <lb/>est cum omnem patris mei perfecero uoluntatem qui 
+            <lb/>misit me . Et postquam resurrexero a mortuis et salua 
+            <lb/>uero hunc mundum . Tunc mittam discipulos meos 
+            <lb/>baptizare in nomine patris et filii et spiritus sancti . Tunc autem 
+            <lb/>iohannes baptizatus contremuit non audiens tangere 
+            <lb/>secundum dei uerticem . sed clamat contremore dicens sancti
+            <lb/>fica me saluator . Ad extremum autem a domino confortatus 
+            <lb/>baptizat miles regem . seruus dominum . iohannes saluatorem 
+            <lb/>dicentem sibi . Baptiza me iohannes . baptizo . ác bene 
+            <lb/>dico te domine . et iterum conuersus ad iordanen dicebat . 
+            <lb/>Et tu iordanis congaude . suscipe me dominum et creatorem 
+            <lb/>tuum . ut te potius ab omnibus maculis emundem . 
+            <lb/>Igitur baptizatus est hodie christus . et sanctificatus est omnis 
+            <lb/>mundus baptismate ipsius . et condonauit nobis 
+            <lb/>ablutionem omnium criminum et remissionem peccatorum . 
+            <lb/>ex aqua et spiritu sancto omnes purificans . Gaudeamus ergo 
+            <lb/>omnes cum iohanne baptista et precursore domini et exultemus 
+            <lb/>cum iordane glorificantes simul et magnificantes dominum 
+                <lb/>ác redemptorem nostrum . Magnum enim misterium 
+            <lb/>declaratum est hodie . quia creator omnium de potestate 
+            <lb/>diabole omnes eripiens . in iordane fluuio expurgauit 
+            <lb/>nostra facinora . Cui datus est omnis principatus et honor 
+            <lb/>regni . omnisque populus . tribus et lingue . seruiunt 
+            <lb/>ei in aeternum . Cui statim hodie postquam ascen
+                <pb n="26v" xml:id="P25_fol_26v"/><lb n="1"/>disset de aqua aperti sunt caeli et uidit spiritum dei uenientem de 
+            <lb/>cælo quasi columbam et mansit super eum . Modo autem fratres 
+            <lb/>inquirendum ei cur ei caelos tunc aperire dicitur . cuius 
+            <lb/>oculi semper caelorum in terra misteria cernebant . sed ideo 
+            <lb/>caelos tunc apertos esse dicitur . ut misterium baptisma
+            <lb/>tis et magnitudo uirtutis eius in hoc demonst&lt;r&gt;aretur . 
+            <lb/>Quia quando homo de baptismo egreditur . tunc ei ianua 
+            <lb/>regni caelestis aperitur . et tunc uox de celis sonuit et 
+            <lb/>uox patris audita est . Hic est filius meus dilectus . in quo 
+            <lb/>mihi bene complacui ipsum audite . Hic significatur 
+            <lb/>quod iesum christum uerum dei filium esse credendum est . secundum 
+            <lb/>diuinæ nature excellentiam . He sunt uirtutes et mira
+            <lb/>bilia fratres karissimi . quę propter nos et propter nostram salutem 
+            <lb/>in huius diei solemnitate facta sunt . Et ideo studen
+            <lb/>dum est nobis in bonis operibus adornatos esse . Id est in 
+            <lb/>uigiliis . in ieiuniis . in caritate perfecta . In longanimi
+            <lb/>tate . in suauitate . In sobrietate et sanctitate . Ut digni 
+            <lb/>inueniamur et inmaculati . ad cęlebrandum huius 
+            <lb/>diei solemnitatem . secundum quod scriptum est in sancta scrip
+            <lb/>tura . Estote iusti et sobrii et stabiles . et uiriliter agite . 
+            <lb/>et sancti estote . quoniam labor uester non est inanis apud deum . 
+            <lb/>non querentes quę uidentur . sed quæ non uidentur . 
+            <lb/>Quia quę uidentur temporalia sunt . quę autem non ui
+            <lb/>dentur aeternalia sunt et semper manent . quibus 
+            <lb/>oportet nos preparari . emundantes nos ab omnibus 
+            <lb/>inquinamentis carnis et spiritus . et perficiamus sanctifica
+            <lb/>tionem nostram per timorem dei et amorem christi . Ut in die 
+            <lb/>iudicii angeli ex hominibus effecti . fulgeamus sicut 
+                <pb n="27r" xml:id="P25_fol_27r"/><lb n="1"/>solis claritas in regno patris nostri . semper laudem dicentes 
+            <lb/>deo patri et iesu christo in unitate spiritus sancti . per infinita 
+            <lb/>secula seculorum amen .
+        </p></div></body>
+    </text>
+</TEI>

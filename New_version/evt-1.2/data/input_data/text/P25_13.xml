@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 13 (23r–24v)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2007-11-03T12:14:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T00:00:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 13 (23r–24v)" xml:id="p25_13">
+        <body><div>
+            <p>
+                <lb n="13"/>.xiii. OMELIA IN DIE THEOPHANIAE .
+                <lb/><label type="lection_no">.i.</label> Predicanda sunt et recolenda miracula fratres karissimi et uir
+            <lb/>tutes . quę huius solemnitate dies peracta sunt ; multa
+            <lb/>enim hodie fecit iesus mirabilia . Quia in prima natiuitate
+            <lb/>secundum humanitatem se caelari ; in secunda autem per baptismi sacra
+            <lb/>mentum secundum diuinae naturæ excellentiam demonstrari
+            <lb/>uoluit uirtutibus . Uenerandus est igitur hic dies . in quo
+            <lb/>cum uirtutibus saluator mundi apparuit . quem prophetę
+            <lb/>predixerunt . angeli adorauerunt . et magi ab oriente adora
+            <lb/>re eum uenientes annuntiauerunt iudęis . <label type="lection_no">.ii.</label> Iam ergo fratres
+            <lb/>percaelebrauimus diem . in quo ex iudaeis idem natus est dominus .
+            <lb/>Hodie uero cęlebramus festiuitatem . in qua agentibus adoratus
+            <lb/>est . quoniam salus ex iudaeis est ; sed hæc quidem salus . usque
+            <lb/>ad fines terrę dilatatur . In die enim natiuitatis eius pastores
+            <lb/>adorauerunt eum Hodie uero magi . illis angelii istis autem
+            <lb/>stella nuntiauit . Vtrique ergo de caelo didicerunt . cum regem
+                <pb n="23v" xml:id="P25_fol_23v"/><lb n="1"/>caeli super terram uiderunt ; ut esset gloria in excelsis deo . et in
+            <lb/>terra pax hominibus bone uoluntatis . Ipse est enim 
+            <lb/>pax nostra qui fecit cęlum et terram mare et omnia que in eis
+            <lb/>sunt . Cui quidem cuncta famulantur imperia . cę
+            <lb/>lestium terrestrium . et infernalium . <label type="lection_no">.iii.</label> Multa itaque 
+            <lb/>prophetauit balaam qui erat uatis gentium . posteris
+            <lb/>suis de christo dicens . Orietur stella ex iacob . et exsurget
+            <lb/>homo de israel . et confringet omnes duces alienigenarum . 
+            <lb/>et erit omnis terra possessio eius . et in nomine eius
+            <lb/>gentes sperabunt . Sed cum uideritis signum eius in cęlo . 
+            <lb/>ite cum muneribus adorare eum . Magi ergo obserua
+            <lb/>bant sidera in kalendis ianuariis in capite circuli
+            <lb/>redeuntis . si stella prophetam uiderent . <label type="lection_no">.iiii.</label> Post multum
+            <lb/>uero temporis uidentes ortam esse stellam . dixerunt
+            <lb/>ad inuicem . Hoc signum magni regis est . eamus et in
+            <lb/>quiramus eum . et offeramus ei munera . aurum . thus .
+            <lb/>et mirram . Cum ergo natus esset iesus in bethleem 
+            <lb/>iuda in diebus herodis regis . ecce magi ab orienta ue
+            <lb/>nerunt hierosolimam dicentes . Ubi est qui natus est 
+            <lb/>rex iudeorum? Uidimus enim stellam eius in oriente . 
+            <lb/>et uenimus adorare eum . <label type="lection_no">.v.</label> Quos cum audisset herodes 
+            <lb/>rex contremuit . et omnis hierosolima cum eo interro
+            <lb/>gans et dicens . Quod signum uidistis super natum regem? 
+            <lb/>At illi respondentes dixerunt . Stellam magnam fulgentem . 
+            <lb/>cuius splendor inluminat mundum . et nos cognoui
+            <lb/>mus et uenimus adorare eum . Et tunc uocauit omnes princi
+            <lb/>pes sacerdotum et magistros . interrogans ab eis ubi christus 
+            <lb/>nasceretur . At illi dixerunt . In bethleem iuda . sic enim
+                <pb n="24r" xml:id="P25_fol_24r"/><lb n="1"/>per mi<add hand="later" place="sup">c</add>hiam prophetam scriptum est . Tu bethleem
+                terra
+            <lb/>iuda non eris minima in principibus iuda . ex te enim 
+            <lb/>exi<add hand="later" place="sup">et</add> et dux . qui regat populum meum israel . <label type="lection_no">.vi.</label> At
+                illi continuo
+            <lb/>audientes locum abierunt . et stella quam uiderant 
+            <lb/>in oriente apparuit illis abeuntibus . et stetit supra ubi 
+            <lb/>erat puer . Et cum inuenissent eum in domo cum maria matre 
+            <lb/>eius . procidentes . id est genua flectentes adorauerunt eum 
+            <lb/>dicentes . Adoramus te . Glorificamus te . Magnificamus 
+            <lb/>te . Et apertis thesauris suis . obtulerunt ei munera . 
+            <lb/>aurum . thus . et myrram . Quid significant haec munera? 
+            <lb/>nisi animam et corpus et spiritum . per quae si inmaculate offe
+            <lb/>ramus . <choice><sic>do</sic><corr resp="editor">deo</corr></choice> placere ualeamus . Tria sunt ergo munera 
+            <lb/>pretiosa quę obtulerunt magi domino in die ista . et habent in 
+            <lb/>se diuina misteria . per t<add hand="later" place="sup">h</add>us enim deus . per aurum . rex
+                regum
+            <lb/>et dominus dominantium . per myrram . simplex humanitas de
+            <lb/>signatur . Iterum per aurum . sapientia et splendor elo
+            <lb/>quii . per thus . oratio munda . per myrram . mortificatio uitio
+            <lb/>rum signatur . Ideo tria hec munera accepit iesus ab uno 
+            <lb/>quoque magorum . quia trinus et unus est . Trinus est 
+            <lb/>enim in personis . et unus in substantia . significans quod
+            <lb/>tria munera ab uno quoque homine exiguntur . 
+            <lb/>Id est recta cogitatio . et locutio bona . et opus perfectum . 
+            <lb/>Idcirco autem myrra inter dona reputatur christi . quia
+            <lb/>ungentum pretiosum est et optimum . quo corpora de
+            <lb/>functorum solent ungeri ut imputribilia perseuerent . 
+            <lb/>Et ideo ex ipso unctum est corpus iesu ne putresceret in 
+            <lb/>morte . quam uoluntarie pro nostra redemptione et salute 
+            <lb/>suscepit . sicut de eo et omnibus sanctis eius propheta testatur dicens ;
+                <pb n="24v" xml:id="P25_fol_24v"/><lb n="1"/>Pretiosa est in conspectu domini . mors sanctorum eius . Post haec 
+            <lb/>autem ammoniti sunt magi né redirent ad herodem per 
+            <lb/>somnium . sed per aliam uiam ad regionem propriam re<subst><del>a</del><add resp="later" place="sup">i</add></subst>rent . 
+            <lb/>Magi ergo spiritaliter omnes homines significant . qui per inuidiam 
+            <lb/>diaboli de paradyso eiecti sunt . Et ideo per aliam uiam . hoc est 
+            <lb/>per bonam conuersationem relicto herode . id est diabolo 
+            <lb/>cum suis artificiis . iterum debent redire ad patriam . Ut quem
+            <lb/>admodum magi per aliam uiam reuersi sunt ad regionem . ita et nos 
+            <lb/>per fidem et castitatem et caritatem et continentiam . redeamus 
+            <lb/>ad regionem nostram caelestem . Sed si forte aliquis querat 
+            <lb/>quomodo id fieri possit . audiat prophetam dicentem . 
+            <lb/>Diuerte a malo et fac bonum . inquire pacem et sequere 
+            <lb/>eam . Hoc enim ordine per aliam uiam . reuertitur ad caeles
+            <lb/>tem patriam . Nobis igitur sciendum est fratres karissimi . quod magorum 
+            <lb/>itinera feliciter possumus imitari . si hoc ordine uias mor
+            <lb/>tiferas mundi relinquentes . uias uitę tenere uoluerimus . 
+            <lb/>Videtur enim nobis quod iam per aliam uiam ad patriam remeat . 
+            <lb/>qui prius solens res alięnas rapere et tollere . iam nunc 
+            <lb/>suas pauperibus misericorditer erogat substantias . Et iterum 
+            <lb/>uidetur quod iam per aliam uiam procedit . qui aliquando fuerat
+            <lb/>adulter . et modo iam castitatem . moribus exercet . et qui 
+            <lb/>pro aebrietate sobrietatem . et pro inuidia benignitatem ama
+            <lb/>re uidetur . et alia multa . Hoc siquidem ordine ; feli
+            <lb/>citer possumus ad aeternam beatitudinem peruenire ; pre
+            <lb/>stante domino nostro iesu christo . qui cum patre et spiritu sancto uiuit et 
+            <lb/>regnat in secula seculorum . amen .
+        </p></div></body>
+    </text>
+</TEI>

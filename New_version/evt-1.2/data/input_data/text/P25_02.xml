@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 2 (5v–7v)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2015-09-26T03:10:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-23T18:51:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 2 (5v–7v)" xml:id="p25_2">
+        <body><div><p>
+            <lb n="13"/>.ii. OMELIA . IN .iii. DOMINICA ANTE NATALE DOMINI .
+            <lb/>Factum est autem cum impleta essent omnia quę de aduen
+            <lb/>tu domini in carne temporibus praedicta per prophetas fuerant ; 
+            <lb/>missus est iohannes praecursor domini parare uias eius in spiritu et uir
+            <lb/>tute helie . dicente domino per prophetam . Ecce ego mitto an
+            <lb/>gelum meum . qui praeparabit uiam tuam ante te . et conuertet 
+            <lb/>cor patrum ad filios . et cor filiorum ad patres eorum . Sicut et isa
+            <lb/>ias de illius persona dicit . Ego uox clamantis in deserto ; 
+            <lb/>dirigite uiam domini rectas facite semitas dei nostri . quia qui post 
+            <lb/>me uenit ante me factus est cuius non sum dignus corrigiam calcia
+            <lb/>mentorum eius soluere . Quapropter alibi dicit . Me opor
+            <lb/>tet minui ; illum autem crescere . quomodo autem potest minui 
+            <lb/>iohannem et crescere christum . nisi ut iohannem quem christum esse pu
+            <lb/>tabant unum esse ex prophetis crederent . et christus que unum 
+            <lb/>ex prophetis esse estimabant . dei filius esse crederetur . 
+            <lb/>Praemissus est ergo iohannes ante christum . uelut uox ante 
+            <pb n="6r" xml:id="P25_fol_6r"/><lb n="1"/> uerbum . lucerna ante solem . praeco ante iudicem . seruus 
+            <lb/>ante dominum . nuntius ante regem . amicus ante sponsum . Qui ideo 
+            <lb/>uox ante uerbum dicitur . quia ipse uerbi dei spiritu prędicare populo 
+            <lb/>replebatur . dicente domino . Dedi té in lucem gentium et prophe
+            <lb/>tam in populis . ut sis salus mea usque ad extremum terrę . 
+            <lb/><label type="lection_no">.ii.</label> Post haec igitur ubi plenitudo temporum aduenerat . misus 
+            <lb/>gabriel archangelus a deo in ciuitate nazareth . uerbum annun
+            <lb/>tiare ad mariam uirginem desponsatam ioseph . Et ingres
+            <lb/>sus ad eam dixit . Aue maria gratia plena . dominus tecum . bene
+            <lb/>dicta tu inter mulieres . Quę cum audisset turbata est in 
+            <lb/>sermone eius . et cogitabat qualis esset ista salutatio . Time
+            <lb/>bat enim . de nouitate uerborum . quę audierat et terrebatur ; 
+            <lb/>ad quam placide angelus . ne timeas inquit maria . inue
+            <lb/>nisti enim gratiam apud deum . Ác sí dixisset . Ne ad conspectum
+            <lb/>meum mater domini mei terrearis . sed magis gaudeas de qua 
+            <lb/>rex caelorum processurus est et angelorum . <label type="lection_no">.iii.</label> Ego enim concep
+            <lb/>tionis tuę minister adueni . Ipse me misit ad te . qui est 
+            <lb/>nasciturus . ex te . Ipse tibi per me annuntiat gladium . cui placuit 
+            <lb/>in utero tuo cum humana misticum sociare coniugium . Ecce 
+            <lb/>concipies et paries filium . et uocabis nomen eius iesum . Conci
+            <lb/>pies enim non de uirili coitu . sed de spiritu sancto . Et paries . id est 
+            <lb/>sine dolore . Et uocabitur iesus . quod latine saluator exprimitur . 
+            <lb/>Ipse enim saluum faciet populum suum a peccatis eorum . Hic erit 
+            <lb/>magnus et filius altissimi uocabitur. Et dabit illi dominus deus 
+            <lb/>sedem dauid patris eius . et regnabit in domo iacob in ęternum . 
+            <lb/>et regni eius non erit finis . Ideoque et tu ne timeas maria . 
+            <lb/>sed abice ex te omnem metum . quę seculi conceptura es gau
+            <lb/>dium ; non cuius libet meriti hominem . sed totius seculi saluatorem . 
+            <pb n="6v" xml:id="P25_fol_6v"/><lb n="1"/> Reuolue ergo maria . reuolue propheticam lectionem . neque enim 
+            <lb/>preterire te scientia diuinorum potest librorum . que ipsam plenitudi
+            <lb/>nem paritura es prophetarum . Recole in libro isaię prophetę uir
+            <lb/>ginem quam legisti . et gaude quia tu esse meruisti . tu enim ibi 
+            <lb/>præsignata es uirgo . De qua procederet gaudium mundo . <label type="lection_no">.v.</label> Dixit 
+            <lb/>autem maria ad angelum . Quomodo fiet istud quoniam uirum inconcipi
+            <lb/>endo non pertuli . Ác sí dixisset . Immunis enim sum a marito . quoniam 
+            <lb/>uirum <hi rend="strikethrough">inconcipiendo</hi> poenitus non cognosco. Desponsata
+                autem
+            <lb/>sum homini iusto . si cum illo non conuenero . Unde erit quod ge
+            <lb/>nerabo . sed si potest fieri . ut concipiam intacta sine uiro . 
+            <lb/>et uirginitate custodita . generem clausa . indica modo . et ibi 
+            <lb/>paratum . consentire inuenies cor meum . Omnibus enim modis opto 
+            <lb/>oboedire domino et deo meo <add resp="scribe" place="sup">ne</add> perdam pudorem . Gabriel autem
+                ar
+            <lb/>changelus ad haec dicta gaudens . mox refert modum concep
+            <lb/>tionis ei dicens . Ó maria . uirgo dei . sponsa dei . dilecta dei . fa
+            <lb/>mula dei . mater dei . <label type="lection_no">.vi.</label> Si hunc a me modum requiris . quomodo 
+            <lb/>fiet istud . Ego tibi reuelabo . uirgo concipies . uirgo paries .
+            <lb/>et uirgo post partum permanebis . Spiritus enim sanctus superueniet in te . 
+            <lb/>et uirtus altissimi obumbrabit tibi . Ideóque et quod nascetur 
+            <lb/>ex te sanctum . uocabitur filius dei . Et aliut tibi mirabile expli
+            <lb/>cabo signum . quod contra humanam contigit naturam . Ecce enim 
+            <lb/>elisabeth concepit filium in senectute sua . et hic mensis est 
+            <lb/>sextus illi . quę uocatur sterilis . Hoc autem factum est ut credas . 
+            <lb/>quoniam nihil impossibile est apud deum . Maria autem in corde 
+            <lb/>suo omnia haec considerans . dixit ad angelum . Ecce ancilla 
+            <lb/>domini . fiat mihi secundum uerbum tuum . Mox igitur angelus accepto uir
+            <lb/>ginis consensu . ad regionem unde uenerat gaudens remeauit 
+            <lb/>caelestem . <label type="lection_no">.viii.</label> Et ecce subito secretum uirginis . ineffabili potentia 
+            <pb n="7r" xml:id="P25_fol_7r"/><lb n="1"/> intrauit artifex mundi . et qui terra mari caelóque non capitur ; 
+            <lb/>intra unius uirginis membra concluditur . et ab infirmitate 
+            <lb/>benigne portatur . Post haec autem exsurgens maria . uenit 
+            <lb/>cum festinatione in ciuitatem iuda . et intrauit in domum zacharię . 
+            <lb/>et salutauit elisabeth . Et factum est ut audiuit salutationem 
+            <lb/>marię elisabeth . exultauit infans in utero eius . Et repleta 
+            <lb/>elisabeth spiritu sancto . exclamauit uoce magna et dixit . Benedicta 
+            <lb/>tu inter mulieres . et benedictus fructus uentris tui . Ecce enim 
+            <lb/>ut facta est uox salutationis tuae in auribus meis . exultauit 
+            <lb/>in gaudio infans in utero meo . Beata es uirgo maria . quoniam 
+            <lb/>perficientur in te quę dicta sunt tibi a domino . Et ait maria gaudens . 
+            <lb/>Magnificabo igitur dominum meum . et spiritus meus exultauit in deo salu
+            <lb/>tari meo . quia respexit humilitatem meam . et inter omnes exal
+            <lb/>tare me dignatus est nationes . Gaudere igitur nos oportet 
+            <lb/>cum maria fratres karissimi . et ornari ad aduentum domini saluatoris mundi . 
+            <lb/><label type="lection_no">.ix.</label> Laetemur ergo et excitemus corda nostra . ad pręparandas 
+            <lb/>unigeniti dei uias . pręparemus nosmetipsos fortiter . per christi ad
+            <lb/>iutorium . Ab omni luxuria carnis abstinentes . et bonis operibus 
+            <lb/>fulgentes . ut simus castitate nitidi . caritate splendidi . eli
+            <lb/>mosinis mundati . simplicitatis gemmis . et sobrietatis floribus
+            <lb/>adornati . ad solemnitatem regis aeterni . Ut haec autem omnia 
+            <lb/>implere ualeatis fratres karissimi . iracundiam odium et inuidiam . 
+            <lb/>cum omni malitia . de cordibus uestris tamquam uenenum respuere 
+            <lb/>debetis . et castitatem plurimis diebus ante solemnitatem . etiam 
+            <lb/>cum propriis uxoribus conseruare . Ad uigilias uespertinales uel 
+            <lb/>matutinales conuenire . et in templo dei cum humilitate et si
+            <lb/>lentio uenire . et in aecclesia stantes orare . Aut psallere nomi
+            <lb/>ni domini altissimi . Verba otiosa aut secularia ex ore non proferre . 
+            <pb n="7v" xml:id="P25_fol_7v"/><lb n="1"/> et eos qui proferre uoluerint . etiam cum seueritate castigare . 
+            <lb/>pacem cum omnibus habere . et quos discordes inter se agnoscatis . 
+            <lb/>ad concordiam reuocare . Et si haec fideliter christo adiuuante 
+            <lb/>uolueritis implere . tunc ad altare domini cum secura conscientia 
+            <lb/>ad percipiendum sacrosanctum corpus et sanguinem christi poteris acce
+            <lb/>dere . et in futuro seculo ad aeternam beatitudinem feliciter perue
+            <lb/>nire ; Ipso adiuuante qui uiuit et regnat in secula seculorum . amen .
+        </p></div></body>
+    </text>
+</TEI>

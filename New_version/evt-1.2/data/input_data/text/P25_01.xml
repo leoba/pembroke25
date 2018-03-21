@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 1 (3r–5v)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2015-09-25T23:18:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-25T01:57:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 1 (3r–5v)" xml:id="p25_1">
+        <body><div>
+            <pb n="3r" xml:id="P25_fol_3r"/><p>
+            <lb n="1"/>INCIPIT OMELIA . IN QUARTA DOMINICA ANTE NATALE DOMINI . 
+            <lb/>PRIMUM OMNIVM . OPORTET NOS
+            <lb/>memorari fratres karissimi et recitare de deo ueraciter et loqui 
+            <lb/>caeli ác terrae conditore . et omnium quę in eis sunt . quem tri-
+            <lb/>num in personis credere debemus . Alia est enim persona patris . 
+            <lb/>Alia filii ; Alia spiritus sancti ; Et unum in maiestate . et in potestate 
+            <lb/>et diuinitate confiteri . Deus est enim pater . deus filius . deus et spiritus
+                sanctus . 
+            <lb/>Non tres tamen deprómimus . sed unum deum dicimus . et fatemur . 
+            <lb/>Quia in hac trinitate nihil prius aut posterius ; Nihil maius 
+            <lb/>aut minus . sed totę tres personę . coeternæ sibi sunt . et coaequales . 
+            <lb/>Decet nos igitur . narrare primum de eo et loqui ; quia ipse fecit 
+            <lb/>nos cum non essemus ; Ad ímaginem et similitudinem suam . 
+            <lb/>Ad imaginem . idem in ęternitatem . quia sicut ille æternus . est . sine 
+            <lb/>fine ; Ita nos secundum interiorem hominem conditi sumus . habentes 
+            ínitium sine fine . Anima enim nostra . creatura dei perpes est . ha- 
+            <lb/>bens initium <add resp="scribe" place="sup">et</add> nullum finem . Ad similitudinem . hoc est
+                precepta
+            <lb/>eius sectando in moribus . et mandata illius ímplendo . sicut 
+            <lb/>saluator ait . Hoc est preceptum meum . ut diligatis inuicem . 
+            <lb/>sicut dilexi uos . Et iterum . Si quis diligit me . mandata mea 
+            <lb/>custodit . Ipse est ergo principium sine ínitio . et finis absque 
+            <lb/>defectione . sicut ín aeuangelio scriptum est . Ego sum alfa 
+            <lb/>et <choice><sic>ω</sic><corr resp="editor">omega</corr></choice> ; primus et nouissimus . et stella matutina . Ego clauis 
+            <lb/>Dauid . sicut alibi scriptum est . O clauis dauid . et sceptrum 
+            <lb/>domus Israel . qui áperis et nemo claudit . claudis et nemo 
+            <lb/>aperit . Ipse est igitur qui caelorum continet thronos et abys-
+            <lb/>sos intuetur . Ipse est rex regum . et dominus dominantium . Ipse 
+            <lb/>montes ponderat . terram palmo concludit . cuius pugillo 
+            <lb/>potest orbis concludi . In cuius uoluntatæ . uniuersa sunt 
+                <pb n="3v" xml:id="P25_fol_3v"/><lb n="1"/>posita . et non est . qui possit resistere uoluntati eius . Ipse enim 
+            <lb/>fecit omnia . caelum et terram . et uniuersa quae caeli ác terrę
+            <lb/>ambitu continentur . Ipse <add resp="scribe" place="sup">est</add> dominus uniuersorum . cælestium
+                .
+            <lb/>terrestrium . et infernorum . A quo omnia . per quem omnia . In quo 
+            <lb/>omnia facta sunt . uisibilia et inuisibilia . quę nullus morta 
+            <lb/>lium per omnia edicere ualet . Illud quoque scire et intellegere . 
+            <lb/>et in animo nostro frequenter ponere debemus . quod ante 
+            <lb/>aduentum domini nostri saluatoris in carne . diabolus regnabat 
+            <lb/>ín mundo . et omnes populi . peccatores et iusti . patriarchę 
+            <lb/>et prophetę . ut a corpore exibant . in infernum descendere 
+            <lb/>propter originalia adae peccata cogebantur . pro eo quod 
+            <lb/>in paradiso . transgressus est mandatum dei . De quo prae-
+            <lb/>ceperat illi dicens . Ex omni ligno autem scientiae boni 
+            <lb/>et mali ne comedas . In quocumque enim die comederis ex 
+            <lb/>eo ; morte morieris . Haec autem eo non custodiente . 
+            <lb/>statim ut comédit . stola nudatus immortalitatis . et mi-
+            <lb/>ser factus . a paradyso eiectus est . Sicut scriptum est . 
+            <lb/>Quandiu enim abstinuit . mansit in paradyso . ut autem 
+            <lb/>manducauit . statim expulsus est . Factum est ergo 
+            <lb/>omne tempus . quo uixit adam in labore . et erum<add resp="scribe" place="sup">p</add>na super
+            <lb/>terram anni dcccc . xxx . et mortuus est . et descendit 
+                <lb/>in infernum et omne human<subst><del>e</del><add resp="scribe" place="sup">um</add></subst> genus post ipsum propter 
+            <lb/>illius peccatum . Sed quando uidit deus quod totus 
+            <lb/>mundus períret per ínuidiam diaboli . per eius enim inui-
+            <lb/>diam mors subintrauit in orbem terrarum . misertus 
+            <lb/>est generi humano . et mittere uoluit unícum filium 
+            <lb/>suum in mundum . et nasci ex uirgine sine uiro intac
+            <lb/>ta . ut electos qui in inferno sub debito preuaricationis 
+                <pb n="4r" xml:id="P25_fol_4r"/><lb n="1"/>adae tenebantur ; a captiuitate diaboli liberaret . et ad reg
+            <lb/>num secum duceret æternum . et ad integram quam primi 
+            <lb/>parentis peccato perdiderant immortalitatem . et in socie-
+            <lb/>tate semper gauderent postea angelorum . Prophetę igitur 
+            <lb/>predicauerunt nasci saluatorem ex uirgine . et uenire in mun
+            <lb/>dum . Isaias quidem dicit . Dabit dominus deus . mirabile uobis sig
+            <lb/>num . Ecce uirgo concipiet . Ac si dixisset . sine uirili coitu . 
+            <lb/>Et pariet filium . id est sine dolore . Et uocabitur nomen eius 
+            <lb/>emmanuel . id est ebraice . quod latine interpretatur no-
+            <lb/>biscum deus . Et iterum dicit . Egredietur uirga . de radice 
+            <lb/>iesse . et flos de radice eius ascendet . et requiescet super eum 
+            <lb/>spiritus domini . spiritus sapientię et intellectus . spiritus consilii et
+                fortitu-
+            <lb/>dinis . spiritus scientiae et pietatis et replebit eum spiritus timoris 
+            <lb/>domini . Flos de uirga ascendens . Christus est de sanctae marię utero 
+            <lb/>ueniens . siue uirginitatis detrimento . de genere iesse patris 
+            <lb/>dauid orte . super quem septiformis spiritus domini . in omni plenitudine 
+            <lb/>diuinitatis . æternaliter requiescit . Sicut iohannes baptista 
+            <lb/>testimonium perhibuit de ipso dicens . Uidi spiritum sanctum quasi colum-
+            <lb/>bam de caelo uenientem . et mansit super eum . Et ego uidi et testi-
+            <lb/>monium perhibui . quia hic est filius dei . Iste septiformis spiritus . 
+            <lb/>qui in patriarchis díuísus . est ; Adunatus quidem . ín Christo 
+            <lb/>permansit . Igitur ín adam spiritus sapientię fuit . quia ipse . omnium 
+            <lb/>creaturarum . quę caeli ác terrae ambitu concluduntur . 
+            <lb/>naturas et rationes agnouit . et ideo singulis secundum proprias 
+            <lb/>naturas . nomina ímposuit . Spiritus intellectus . fuit ín noe ; 
+            <lb/>qui solus íntellexit cum sua familia . prę omnibus bonum esse . 
+            <lb/>deo credere . et ei oboedire ; Et ideo dum mundus periit ; arcam 
+            <lb/>meruit fabricare . ad saluandum se cataclismi tempore ; 
+                <pb n="4v" xml:id="P25_fol_4v"/><lb n="1"/>et familiam eius totam . Spiritus consilii fuit in abraham . qui consi-
+            <lb/>lio domini creatoris sui obtemperans . fide plenus . exiit de terra 
+            <lb/>sua et de cognatione sua . et de domo patris sui . perigrinare 
+            <lb/>in terram . quam filii seminis sui . erant a domino in hereditatem accep-
+            <lb/>turi . Qui ob fidei meritum . amicus dei appellari meruit . 
+            <lb/>Spiritus fortitudinis fuit ín isaac . qui forti animo íniurias alieni-
+            <lb/>genarum uincebat . Et ideo uiuam meruit inuenire aquam 
+            <lb/>et centenos sui seminis accipere fructus . Spiritus scientiæ . fuit in
+            <lb/>iacob ; qui prescíuít bonum esse . primogenita a fratre suo emere 
+            <lb/>et paternam accipere benedictionem . et fraternum declinare odium . 
+            <lb/>et íniurioso socero laban fidelem esse ; qua propter cum filiis 
+            <lb/>et familia multa . et grege ínnumeroso . diues et honoratus 
+            <lb/>reuersus est ad patriam . Spiritus pietatis . fuit ín Moẏse . qui
+            <lb/>pro populo peccante etiam et se lapidante ; orauit ad dominum 
+            <lb/>dicens . Domine dimitte huic populo peccatum suum . sín autem .
+            <lb/>dele me de libro quem scripsisti . Qua pietate . et populo 
+            <lb/>ueniam ímpetrauit . et sibi apud deum . plus aliis sanctis maio-
+            <lb/>rem familiaritatem promeruit . Ita . ut colloquia dei frequen
+            <lb/>ter habere . et uerba legis ex ore eius accipere meretur . Spiritus 
+            <lb/>timoris domini fuit ín dauid ; qui se persequenti regi saul . et in 
+            <lb/>suas uenienti manus . pepercit dicens . Absit a me . ut manus 
+            <lb/>meas mittam in Christum domini . Idcirco quia ei pepercit . allophilorum 
+            <lb/>gladio illo pereunte . regnum a deo sibi donatum . et promissio-
+            <lb/>nem accipere . ut pater Christi uenturi esset meruit . Hęc omnia 
+            <lb/>carismata spiritus sancti septiformis . In Christo Iesu aeternaliter 
+            <lb/>permanserunt . qui fons est . et origo illorum . Dei sapientia et dei 
+            <lb/>uirtus . De quo propheta dicit . Ueni domine uisitare nos ín pace . 
+            <lb/>ut lętemur coram te corde perfecto . Et alius dicit . Veniet dominus 
+                <pb n="5r" xml:id="P25_fol_5r"/><lb n="1"/>et non tardabit . et illuminabit abscondita tenebrarum et ma-
+            <lb/>nifestabit se ad omnes gentes . Et iterum . Qui uenturus est ueniet 
+            <lb/>et non tardabit . Iam non erit timor in finibus nostris quoniam ipse est 
+            <lb/>saluator noster . Et alio loco dicitur . Prope est ut ueniat tempus eius . 
+            <lb/>et dies eius non elongabuntur . Miserebitur dominus iacob . et israel salua-
+            <lb/>bitur . Et iterum . Ecce ueniet dominus et omnes sancti eius cum eo . et erit in 
+            <lb/>die illa lux magna . Sicut de illo alibi scriptum est . Ecce nomen 
+            <lb/>domini uenit de longinquo . et claritas eius replet orbem terrarum . 
+            <lb/>De quo iterum propheta dicit . Aspiciens a longe . ecce uideo dei 
+            <lb/>potentiam uenientem . et nebulam totam terram tegentem . Ite 
+            <lb/>obuiam ei et dicite . nuntia nobis si tu es ipse . qui regnaturus
+            <lb/>es in populo israel . Quod plenius alius propheta reuelat dicens . 
+            <lb/>Aspiciebam in uisu noctis . et ecce in nubibus caeli filius hominis 
+            <lb/>uenit . et datum est ei regnum et honor . et omnis populus . tribus . et lin
+            <lb/>gue . seruient ei . Sicut psalmista explanat dicens . Omnes 
+            <lb/>gentes quascumque fecisti uenient . et adorabunt coram te 
+            <lb/>domine et glorificabunt nomen tuum ín ęternum . Hoc idem per eundem 
+            <lb/>prophetam spiritus sanctus hortatur et ammonet dicens . Iuuenes et uir-
+            <lb/>gines . senes cum iunioribus laudent nomen domini . quia exaltatum 
+            <lb/>est nomen eius solius . quod est mirabile in caelo et in terra . Ecce 
+            <lb/>nunc tempus adest fratres karissimi . in quo nos omnes unanimiter oportet 
+            <lb/>laudare nomen dei et gaudere in domino . paulo apostolo dicente . 
+            <lb/>Gaudete in domino semper . Iterum dico gaudete . Modestia uestra 
+            <lb/>nota sit omnibus hominibus . dominus enim prope est . Sobrie ergo 
+            <lb/>et iuste . pie et caste . uiuere debemus ; Scientes . quia hora est 
+            <lb/>iam nos de pigritiae somno surgere . et ad uigilandi soller
+            <lb/>tiam conuenire . Dum expectamus beatam spem et aduentum nostri 
+            <lb/>dei et saluatoris mundi . Non in commesationibus et ebrietatibus 
+            <pb n="5v" xml:id="P25_fol_5v"/><lb n="1"/>non in scurilitatibus et iocis . et uanitatibus huius mundi . sollempni
+            <lb/>tatem natiuitatis filii dei . sed in sobrietate et humilitate 
+            <lb/>et sanctitate . cum recta fide et certa spe et perfecta caritate . nos 
+            <lb/>oportet expectare . Ut digni efficiamur accedere ad per
+            <lb/>cipiendum sacrosanctum corpus et sanguinem domini nostri Iesu Christi . 
+            <lb/>in die natalis sui . quia nemo quidem christianorum hoc debet 
+            <lb/>necglegere . eodem domino dicente . nisi manducaueritis car-
+            <lb/>nem filii hominis et biberitis eius sanguinem . non habebitis ui-
+            <lb/>tam in uobis . Cum pura ergo conscientia et immaculato 
+            <lb/>corpore et mundo corde . unusquisque hoc studeat accipere . 
+            <lb/>prestante eodem nostro saluatore . qui cum patre et spiritu sancto uiuit 
+            <lb/>et regnat in aeternum sine fine . per omnia secula seculorum . Amen.
+        </p></div></body>
+    </text>
+</TEI>

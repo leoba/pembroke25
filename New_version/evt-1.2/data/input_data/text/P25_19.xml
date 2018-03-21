@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 19 (36r–38r)</title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2006-08-29T02:11:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T00:33:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 19 (36r–38r)" xml:id="p25_19">
+        <body><div>
+            <p>
+                <lb n="16"/>.xviiii. OMELIA IN CAPUT IEIUNII .
+            <lb/>PRęcauendum est omnibus bona opera 
+            <lb/>exercentibus fratres karissimi . quod dominus dicit in aeuan
+            <lb/>gelio . Adtendite ne iustitiam uestram faciatis coram 
+            <lb/>hominibus ut uideamini ab eis . Alioquin merce
+            <lb/>dem non habebitis apud patrem uestrum qui est in caelis . 
+            <lb/>Cum ergo facis <subst><del>elemosina</del><add resp="scribe" place="sup">elimosina</add></subst> . noli tuba canere ante te 
+            <lb/>sicut hypocritę faciunt in sinagogis et in uicis ut 
+            <lb/>honorificentur ab hominibus . Amen dico uobis 
+            <lb/>receperunt mercedem suam . Te autem faciente ęlimo
+            <lb/>sinam . nesciat sinistra tua quid faciat dextera 
+            <lb/>tua . ut sit ęlimosina tua in abscondito . et pater 
+            <lb/>tuus qui uidet in abscondito reddet tibi . Haec lectio 
+                <pb n="36v" xml:id="P25_fol_36v"/><lb n="1"/>sancti euangelii fratres karissimi . uidetur mihi quod secundum litteras
+            <lb/>non possit intelligi . Et ideo deo auxiliante requiramus .
+            <lb/>Qualiter ad eius sensum spiritalem peruenire possimus . 
+                <lb/><label type="lection_no">.ii.</label> Requiramus ergo quod significat quod dicit . nesciat sinistra
+            <lb/>tua quid faciat dextera tua . cum alibi dicat . sic luceat 
+            <lb/>lux uestra coram hominibus ut uideant opera uestra bona . Non 
+            <lb/>enim ipse sibi dominus in aeuangeli<add resp="scribe" place="sup">c</add>a lectione contrarius
+                esse
+            <lb/>potest . Nam quia elimosinam et occulte fieri ipse 
+            <lb/>dixit . et puplice ipse amm<add resp="scribe" place="sup">o</add>nuit . ut non sint precepta eius
+            <lb/>sibi contraria . sensum intellectualem quærit . Qui enim 
+            <lb/>ideo facit elimosinam . ut ab hominibus se laudari desi
+            <lb/>deret . etiamsi occulte fecerit puplice facit . quia laudem 
+            <lb/>ab hominibus quaerit . Qui uero elimosinam pro solo amo
+            <lb/>re dei facit . Vt illum ad opus bonum reliqui imitentur . 
+            <lb/>et non ipse sed dominus conlaudetur etsiamsi publice faciat 
+            <lb/>elimosinam absconse facit . quia per elimosinam illam
+            <lb/>non hoc quod uidetur sed quod non uidetur desiderat . 
+                <lb/><label type="lection_no">.iii.</label> Nec ab hominibus laudem . sed <subst><del>caelestem</del><add resp="scribe" place="sup">celestem</add></subst> mercedem a deo 
+            <lb/>optat accipere . Hoc etiam de ieiunio ita debet intelli
+            <lb/>gi . De quo dominus in euangelio dicit . Cum ieiunatis nolite fieri 
+            <lb/>sicut hypocritę tristes . demoliuntur enim facies suas . ut pa
+            <lb/>reant hominibus ieiunantes . Amen dico uobis quia recepe
+            <lb/>runt mercedem suam . Tu autem cum ieiunas . unge capud 
+            <lb/>tuum et faciem tuam laua . ne uidearis hominibus ieiunans . 
+            <lb/>sed patri tuo qui est in abscondito . et pater tuus qui uidet 
+            <lb/>in abscondito reddet tibi . Certissime et in hoc sensu 
+            <lb/>hoc <add resp="scribe" place="sup">o</add>portet intelligi . ut nemo pro laude humana sed
+            <lb/>pro peccatorum indulgentia uel pro diuina <note type="damage">Something has been erased here.</note> misericordia 
+                <pb n="37r" xml:id="P25_fol_37r"/><lb n="1"/>ieiunet . <label type="lection_no">.iiii.</label> Et ideo unusquisque interroget conscientiam 
+            <lb/>suam . et si pro solo dei amore facit elimosinam . securus 
+            <lb/>publice faciat . ut eum quicumque uiderint imitentur . In 
+            <lb/>dextera enim amor dei intelligitur . in sinistra autem uani
+            <lb/>tis uel cupiditas mundi . Et ideo si pro laude humana 
+                <lb/>ęlimosinam dederit . totum sinistra fecit . dextera ni
+            <lb/>chil omnino fecit . si uero pro remissione peccatorum 
+            <lb/>et amore uitę ęternę elimosinam dederit . totum 
+            <lb/>dextera fecit . Quid ergo fratres karissimi . nesciat sinistra 
+            <lb/>tua quid faciat dextera tua . nisi ut quod faciat 
+            <lb/>amor dei . non corrumpat aut non perdat uanitas uel 
+            <lb/>cupiditas mundi . Nam si hoc aliquis secundum litteram 
+            <lb/>impleri posse credit . quid faciet si ei manus dextera 
+            <lb/>doluerit . Numquid de sinistra aelimosinam dare 
+            <lb/>non debet? Aut si uult captiuum redimere . Quomodo 
+            <lb/>scrinium aperire poterit . si manum sinistram dex
+            <lb/>teræ suę non iunxerit . <label type="lection_no">.v.</label> Aut si peregrinum optat 
+            <lb/>accipere in hospitalitatem secundum pręceptum domini .
+            <lb/>Aut seruorum dei pedes abluere . Non uideo quomodo 
+            <lb/>hoc nesciente sinistra manu possit implere . ad 
+            <lb/>hoc etiam pertinet illud quod dominus dixit . Cum oratis 
+            <lb/>nolite in angulis platearum orare . sed intra inquit 
+            <lb/>in cubiculum tuum et clauso ora patrem tuum in absconso . 
+            <lb/>Ecce et ipsi fratres bene cognoscitis quod nec hoc semper 
+            <lb/>secundum litteram potest adimpleri . quia et nos ipsi 
+            <lb/>et totus populus non solum in cubiculis nostris oramus . 
+            <lb/>Sed etiam publice ad aecclesiam conuenimus . et simul 
+            <lb/>cum omni populo genua flectimus . Numquid dum hoc 
+                <pb n="37v" xml:id="P25_fol_37v"/><lb n="1"/>facimus praeceptis christi contrarii sumus qui dixit . ut in cu
+            <lb/>biculis nostris clauso <subst><del>hostio</del><add resp="scribe" place="sup">ostio</add></subst> oremus . <label type="lection_no">.vi.</label> Non ita est fratres . 
+            <lb/>sed etiam et iste sensus superiori sen<add resp="scribe" place="sup">ten</add>tiae conueniens
+            <lb/>est . qualiter autem hoc intelligi debeat iterum 
+            <lb/>diligenter attendite . Si enim quando oras deum hoc 
+            <lb/>ab illo petis quod uidetur . publice et <choice><sic>aperto</sic><corr resp="editor">apesto</corr></choice> <subst><del>hostio</del><add resp="scribe" place="sup">ostio</add></subst> 
+            <lb/>oras . quia hoc a deo uis accipere quod uidetur . si uero 
+            <lb/>pro indulgentia peccatorum et pro uita aeterna uolu
+            <lb/>eris supplicare . etiamsi publice oraueris clauso 
+            <lb/>hostio oras . Quia non hoc petis quod uidetur . sed quod 
+            <lb/>non uidetur . Quae enim uidentur . temporalia sunt 
+            <lb/>et finem habent . quae autem non uidentur . aeter
+            <lb/>nalia sunt sine fine . et si temporalia quęris sicut 
+            <lb/>iam supra dixi . Publice et aperto <subst><del>hostio</del><add resp="scribe" place="sup">ostio</add></subst> oras . si autem 
+            <lb/>aeterna requiris . secreta est oratio tua . quia non quę 
+            <lb/>uidentur . sed quae uidentur optas accipere . <label type="lection_no">.vii.</label> Recon
+            <lb/>dite ergo fratres karissimi aelimosinas uestras cum ieiuniis 
+            <lb/>et orationibus in cęlis . Sicut saluator ait . Thesauriza
+            <lb/>te uobis thesauros in caelo . ubi nec erugo nec tinea 
+            <lb/>demolitur . et ubi fures non effodiunt nec furantur .
+            <lb/>Ubi enim est thesaurus tu<add resp="scribe" place="sup">u</add>s . ibi est et cor tuum . Id
+            <lb/>circo conemur ut cum thesauris nostris precedentibus . 
+            <lb/>in caelis habitare possimus . quia si illa quę non uidentur 
+            <lb/>in ueritate a deo quęrimus . etiam illa quę uidentur 
+            <lb/>domino remunerante percipere merebimur . quia non 
+            <lb/>mentitur ille qui dixit . Queritę primum regnum 
+            <lb/>dei et iustitiam eius et haec omnia adicientur uobis . 
+            <lb/>Nec hoc sic dicimus fratres . ut pro rebus temporalibus dominum 
+                <pb n="38r" xml:id="P25_fol_38r"/><lb n="1"/>non oremus . Id est aut pro sanitate corporum . Aut 
+            <lb/>pro pace temporum . Aut pro abundantia terrę fructum . <label type="lection_no">.viii.</label> Debemus 
+            <lb/>et ista ueraciter a domino petere . sed secundo uel tertio loco . 
+            <lb/>Ut primas partes in omni intentione orationis nostrę . 
+            <lb/>Amor animae et desiderium uitae aeternę obtineat . 
+            <lb/>Oremus ergo pro his omnibus . sed sine ulla comparatione 
+            <lb/>amplius pro animabus supplicemus . Et ideo fratres karissimi 
+            <lb/>quoties nobis <subst><del>hac</del><add resp="later">haec</add></subst> lectio aeuangelica legatur . eo or
+            <lb/>dine quo supra suggessimus . intellectum eius debemus 
+            <lb/>accipere . Ut siue in aelimosinis . siue in ieiuniis . siue 
+            <lb/>in orationibus . siue in dextera . siue in sinistra hoc ob
+            <lb/>seruare studeamus . Vt quicquid agamus non pro uani
+            <lb/>tate uel cupiditate huius mundi . sed pro dei amore 
+            <lb/>et desiderio aeternę beatitudinis faciamus . Quod 
+            <lb/>nobis prestare dignetur iesus christus qui cum patre et 
+            <lb/>spiritu sancto uiuit ac regnat in secula seculorum . amen .
+        </p></div></body>
+    </text>
+</TEI>

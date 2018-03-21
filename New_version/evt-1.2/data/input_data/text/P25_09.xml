@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 9 (16v–18r) </title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2015-09-26T03:20:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-23T21:32:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 9 (16v–18r)" xml:id="p25_9">
+        <body><div><p>
+            .viiii . OMELIA IN NATALE SANCTI IOHANNIS EVANGELISTAE :–
+            <lb n="18"/><label type="lection_no">.i.</label> Sanctum iohannem adoptiuum domini filium uenerari oportet fratres 
+            <lb/>karissimi . cui supra pectus eiusdem domini recubanti . reuelata sunt 
+            <lb/>secreta cęlestia . Qualiter ergo post huius uitę conuersatio
+            <lb/>nem . de hac luce migrauerit . explicemus . Domicianus 
+            <lb/>quidem secundam post neronem persecutionem christianorum faciens 
+            <lb/>nomen christi ab omni imperio suo deleri praecepit . Vnde factum est 
+            <lb/>ut sanctus iohannes apostolus de éfeso expulsus propter seuitiam eius ;
+            <lb/>in insulam pathmos deuenit in exilio . In qua insula multa 
+            <lb/>ei dominus reuelauit secreta caelestia . Et ipse iohannes manu 
+            <lb/>sua . in ipsa conscripsit apocalypsin . <label type="lection_no">.ii.</label> Domicianus autem uno 
+            <lb/>eodémque anno quo misit sanctum iohannem in exilium . a senatu 
+            <pb n="17r" xml:id="P25_fol_17r"/><lb n="1"/>romano interfectus est . et quoniam deo cura fuit de apostolo suo . ex totius 
+            <lb/>senatus consultu hoc diffinitum est . ut quicquid domicianus 
+            <lb/>fieri uoluit deleretur . Hinc factum est sanctum iohannem cum mag
+            <lb/>no honore ad efesum remeare . cui uenienti . occurrit . Omnis 
+            <lb/>populus uirorum ac mulierum una uoca dicentium . Benedictus 
+            <lb/>qui uenit in nomine domini . <label type="lection_no">.iii.</label> Cum autem ingrederetur ciuitatem . drusiá
+            <lb/>na quę eius semper ammonitionibus obtemperauerat ad sepul
+            <lb/>turam efferebatur mortua . Tunc sanctus iohannes lacrimás 
+            <lb/>se perhibetur . uidens pauperes flentes et parentes ác uiduas 
+            <lb/>simul cum orfanis clamantes et dicentes . O sanctę dei apostole ; 
+            <lb/>ecce drusianam efferimus mortuam . quæ sanctis tuis monitis 
+            <lb/>semper obtemperans nos omnes alebat . seruiens deo nocte 
+            <lb/>ac die in castitate et humilitate . et cotidie desiderabat 
+            <lb/>reditum tuum uidere dicens . si uideam apostolum dei oculis 
+            <lb/>meis . antequam moriar . Ecce tu uenisti . ecce uidere 
+            <lb/>non potuit . <label type="lection_no">.iiii.</label> Tunc beatus iohannes iussit statim deponi 
+            <lb/>feretrum . et coram omnibus disolui corpus eius . et clara uoce
+            <lb/>humiliter ait . Dominus meus iesus christus . excitet te drusiana . Surge ; 
+            <lb/>et pedibus tuis cito reuerte ad domum tuam ; et para nobis 
+            <lb/>hodie refectionem . Et in hac uoce statim surrexit . et osculans 
+            <lb/>manus eius et pedes irę cępit . sollicita de iussione apostoli . 
+            <lb/>ita tamen uidebatur ipsi quia non de morte . sed quasi de som
+            <lb/>no excitasset eam . Et tunc factus est clamor omnis populi . 
+            <lb/>per tres horas dicentis . <label type="lection_no">.v.</label> Unus <add resp="scribe" place="sup">est</add> deus pater quem
+                prędicat io
+            <lb/>hannes . unus est dominus iesus christus . qui hanc fecit uirtutem . Altera 
+            <lb/>autem die craton philosophus proposuerat huiusmodi spec
+            <lb/>taculum in foro de contemptu mundi . Vt duos fratres iuuenes 
+            <lb/>ditissimos mundum relinquentes produceret in foro . et distracto 
+            <pb n="17v" xml:id="P25_fol_17v"/><lb n="1"/>patrimonio suo gemmas emerent . et singulas quasque earum 
+            <lb/>confringerent in conspectu omnis populi ad contemptum 
+            <lb/>mundi . Quod cum facerent pueri . contigit ut illic tran
+            <lb/>siret apostolus domini . et conuocans ad se cratonem philoso
+            <lb/>phum ait . <label type="lection_no">.vi.</label> Stultus est iste mundi contemptus qui homi
+            <lb/>num ore laudatur . et diuino iudicio contempnitur . 
+            <lb/>Sicut enim uana est medicina ex qua non absconditur 
+            <lb/>morbus . Ita uana est doctrina ex qua non curantur 
+            <lb/>animarum uitia . Magister enim meus iuuene quendam 
+            <lb/>ad uitam æternam peruenire cupientem . His uerbis instrux<supplied reason="omitted" resp="editor">it</supplied><note place="foot" n="1"> The final two letters are lost in the gutter, where the
+                    binding is exceptionally tight.</note>
+            <lb/>dicens . si uis perfectus esse uade et uende omnia quę ha
+            <lb/>bes . et da pauperibus et ueni sequere me . et habebis thes
+            <lb/>auros in caelis et uitam aeternam possidebis . <label type="lection_no">.vii.</label> Cui craton 
+            <lb/>dixit . nunc humanę cupiditatis fructus in medio posit 
+            <lb/>est . sed si uere deus est tuus magister et uult hoc fieri 
+            <lb/>et pauperibus erogetur pretium harum gemmarum . fac ut 
+            <lb/>erant prius re integrari . ut quod feci ad famam hominum 
+            <lb/>tu conuertas ad gloriam eius quem tu predicas . Tunc beatus 
+            <lb/>iohannes co`l´ligens fragmenta gemmarum . et ponens in
+            <lb/>manus s<subst><del>a</del><add resp="scribe">u</add></subst>as<note place="foot" n="2"> The scribe started writing <hi rend="italic">sa</hi>, but converted the <hi rend="italic">a</hi> to a <hi rend="italic">u</hi>.</note> . eleuauit oculos . ad caelum dicens . Domine
+                iesu
+            <lb/>christe tui nichil inpossibile est . qui multis fractum mun
+            <lb/>dum erroribus per lignum tuę crucis infidelibus tuis 
+            <lb/>restaurasti . qui caeco nato oculos quos natura negaue
+            <lb/>rat reddidisti . qui mortuum lazarum et sepultum post 
+            <lb/>quartum diem ad uitam reuocasti . et omnem morbum 
+            <lb/>omnem que egritudinem uirtutis tuę uerbo curasti . 
+            <lb/><label type="lection_no">.viii.</label> Adesto nunc super istos pretiosos lapides . quos isti ignoran
+            <lb/>tes fructum aelimosinæ . ad plausum et lętitiam hominum 
+            <pb n="18r" xml:id="P25_fol_18r"/><lb n="1"/>confregerunt . et per sanctas manus angelorum tuorum recupera . 
+            <lb/>ut pretio earum pauperibus erogat<subst><del>a</del><add resp="scribe" place="sup">o</add></subst> faciat quoque restauratio
+            <lb/>istos tibi credere . et ad tuum se imperium subicere . Cumque 
+            <lb/>respondissent qui cum apostolo erant fideles et dixissent 
+            <lb/>amen . Ita statim solidata sunt fragmenta gemmarum . 
+            <lb/>ut nec signum aliquod de eo quod fractae fuerant rema
+            <lb/>neret . Tunc craton philosophus cum his iuuenibus et uni
+            <lb/>uersis discipulis suis . pedibus apostoli aduolutus est . et sta
+            <lb/>tim credentes in nomine trinitatis baptizati sunt . 
+            <lb/>et cito coepit fidem iesu christi publice in medio populi 
+            <lb/>predicare . et postea infinita turba credentium adhesit 
+            <lb/>apostolo . prestante eodem domino nostro iesu christo qui cum patre 
+            <lb/>et spiritu sancto uiuit et regnat in secula seculorum . amen .
+        </p></div></body>
+    </text>
+</TEI>

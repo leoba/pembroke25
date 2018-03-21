@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25: A Diplomatic Transcription of the Manuscript</title>
+                <respStmt>
+                    <resp>Project directed by</resp>
+                    <name>Paul E. Szarmach</name>
+                </respStmt>
+                <respStmt>
+                    <name>Thomas N. Hall</name>
+                    <resp>Sources of the manuscript and on its Contents by</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Rebecca Rushforth</name>
+                    <resp>The Description of the Manuscript by</resp>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription team</resp>
+                    <name>Rachel Anderson</name>
+                    <name>Leslie Lockett</name>
+                    <name>Stephen Barker</name>
+                    <name>Jonathan Davis-Secord</name>
+                    <name>Damian Fleming</name>
+                    <name>Rebecca Stephenson</name>
+                    <name>Amey Hutchins</name>
+                    <name>Timothy C. Graham</name>
+                    <name>Daniel Mackey</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoding and Digital work by</resp>
+                    <name>Dot Porter</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>October 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Schoenberg Institute for Manuscript Studies</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cambridge, Pembroke College, MS 25</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Originally supported by a major grant from the National Endowment for the
+                    Humanities, the project now continues as a collaborative effort by a dozen
+                    scholars to transcribe one of the most significant Latin manuscripts of the Late
+                    Anglo-Saxon period. Pembroke College 25, Cambridge, contains ninety-six Latin
+                    sermons composed on the continent in the ninth century. It is the earliest and
+                    best surviving witness to a sermon collection known as the Homiliary of
+                    Saint-Père de Chartres. As the basis for writing sermons in Old English to be
+                    preached to the laity, Pembroke 25 bridges the worlds of Carolingian and
+                    Anglo-Saxon learning and dramatizes the close interrelations between Latin and
+                    Old English literature. Though recognized as a crucial document of Carolingian
+                    intellectual history and of late Anglo-Saxon preaching some sixty of its
+                    ninety-six texts remain unpublished and unstudied. In its current physical state
+                    Pembroke 25 is fragile, requiring special care and limited access </p>
+                <p><a href="../../Pembroke_25_description">The Description of the Manuscript</a>, by Rebecca Rushforth</p>
+                <p><a href="../../Pembroke_25_sources">Sources of the manuscript and on its Contents</a>, by Thomas N. Hall</p>
+                <p>The Schoenberg Institute for Manuscript Studies (University of Pennsylvania) is
+                    the home for this project. The project has the support of Pembroke College,
+                    Cambridge.</p>
+            </projectDesc>
+        </encodingDesc>
+    </teiHeader>
+    <xi:include href="P25_facs.xml" xpointer="p25_facs"/>
+    <text>
+        <group>
+            <xi:include href="P25_01.xml" xpointer="p25_1"/>
+            <xi:include href="P25_02.xml" xpointer="p25_2"/>
+            <xi:include href="P25_03.xml" xpointer="p25_3"/>
+            <xi:include href="P25_04.xml" xpointer="p25_4"/>
+            <xi:include href="P25_05.xml" xpointer="p25_5"/>
+            <xi:include href="P25_06.xml" xpointer="p25_6"/>
+            <xi:include href="P25_07.xml" xpointer="p25_7"/>
+            <xi:include href="P25_08.xml" xpointer="p25_8"/>
+            <xi:include href="P25_09.xml" xpointer="p25_9"/>
+            <xi:include href="P25_10.xml" xpointer="p25_10"/>
+            <xi:include href="P25_11.xml" xpointer="p25_11"/>
+            <xi:include href="P25_12.xml" xpointer="p25_12"/>
+            <xi:include href="P25_13.xml" xpointer="p25_13"/>
+            <xi:include href="P25_14.xml" xpointer="p25_14"/>
+            <xi:include href="P25_15.xml" xpointer="p25_15"/>
+            <xi:include href="P25_16.xml" xpointer="p25_16"/>
+            <xi:include href="P25_17.xml" xpointer="p25_17"/>
+            <xi:include href="P25_18.xml" xpointer="p25_18"/>
+            <xi:include href="P25_19.xml" xpointer="p25_19"/>
+            <xi:include href="P25_20.xml" xpointer="p25_20"/>
+            <xi:include href="P25_21.xml" xpointer="p25_21"/>
+            <xi:include href="P25_22.xml" xpointer="p25_22"/>
+            <xi:include href="P25_23.xml" xpointer="p25_23"/>
+            <xi:include href="P25_24.xml" xpointer="p25_24"/>
+            <xi:include href="P25_25.xml" xpointer="p25_25"/>
+            <xi:include href="P25_26.xml" xpointer="p25_26"/>
+            <xi:include href="P25_27.xml" xpointer="p25_27"/>
+            <xi:include href="P25_28.xml" xpointer="p25_28"/>
+            <xi:include href="P25_29.xml" xpointer="p25_29"/>
+            <xi:include href="P25_30.xml" xpointer="p25_30"/>
+            <xi:include href="P25_31.xml" xpointer="p25_31"/>
+        </group>
+    </text>
+</TEI>

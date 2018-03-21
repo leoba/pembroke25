@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 18 (33v–36r) </title>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2006-08-27T11:50:00</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>no publication statement available</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Written by OpenOffice</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><name>Porter, Dot</name><date>2017-08-24T00:14:00</date></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text n="Sermo 18 (33v–36r)" xml:id="p25_18">
+        <body><div>
+            <p>
+                <lb n="22"/><label type="lection_no"><choice><sic>.xx.</sic><corr resp="editor">.xviii.</corr></choice></label> OMELIA IN QUINQUAGESIMA .
+            <lb/>Hoc denuntiare uobis oportet fratres karissimi . et uos dili
+            <lb/>gentius considerare debetis . ut per terrenorum medi
+            <lb/>corum exempla . peruenire studeatis ad caelestia . 
+            <lb/>quia haec est consuetudo carnalium medicorum . Quoties 
+            <lb/>cumque ad eos qui in corpore egrotare uidentur
+            <lb/>ueniunt . Omnia quę in eis dilectabilia sunt abscidere .
+                <pb n="34r" xml:id="P25_fol_34r"/><lb n="1"/>et quod dulce est . eis interdicere . Aliquoties etiam 
+            <lb/>frigidum accipere non permittunt . Interdum etiam 
+            <lb/>amarissimas potiones bibere cogunt . et asperrimis 
+            <lb/>uel acutissimis ferramentis . eorum uulnera frequenter 
+            <lb/>intercidunt . Hoc ergo quod pro sanitate corporum 
+            <lb/>carnales medici faciunt . pro animarum salute spirita
+            <lb/>les medici exercere contendunt . Haec ergo cogi
+            <lb/>tans fratres dilectissimi . et tam pro mea quam uestra sa
+            <lb/>lute rationem me redditurum esse ante tribunal ęterni 
+            <lb/>iudicis non ignorans eligo aspera quidem . sed salubria 
+            <lb/>uobis medicamenta ingerere . Et ideo etiam illa 
+            <lb/>quæ non facitis denuntiamus uobis . ut ea in quibus 
+            <lb/>forte preuenti fueritis sanare possimus . Et ut postea 
+            <lb/>nobis eum in angelorum consortio . perpetua mereamur 
+            <lb/>pariter inc<subst><del>o</del><add resp="scribe">u</add></subst>lomitate gaudere . Illud ergo scire 
+            <lb/>et intelligere debetis fratres karissimi . quia iam dies quad
+            <lb/>ragesimę . sancti ac spiritales in proximo aduenerunt . 
+            <lb/>in quibus corporis damna in anime transeunt lu
+            <lb/>cra . Et ideo tamquam ad spiritalem uindemiam . nostros 
+            <lb/>animos preparemus . et ita uacare domino studeamus . 
+            <lb/>ut in his paucis diebus quod nobis per totum annum suf
+            <lb/>ficiat congregare possimus . de istis enim diebus dominum 
+            <lb/>dixisse credimus per prophetam dicentem . In diebus
+            <lb/>solemnitatum uestrarum . affligétis animas uestras . Qua
+            <lb/>re hoc dixit? quia ieiunia et uigiliae macerant 
+            <lb/>corpora <choice><sic>ed</sic><corr resp="editor">sed</corr></choice> maculata corda purificant . me<add resp="later" place="sup">m</add>bris 
+            <lb/>subtrahunt fortitudinem . Sed animabus addunt 
+            <lb/>nitorem . Labore enim corporum . redimu<subst><del>m</del><add resp="scribe" place="sup">ntur</add></subst> <add resp="scribe" place="sup">dis</add>crimina 
+                <pb n="34v" xml:id="P25_fol_34v"/><lb n="1"/>uoluptatum . quia dum culpae auctor humiliat<subst><del>o</del><add resp="scribe" place="sup">v</add></subst>r . culpa 
+            <lb/>minuitur . Certum est enim . quod si nos ipsi peccatis nostris disci
+            <lb/>plinam imponimus . si per poenitentiam condemnamus deside
+            <lb/>ria carnis et luxuriam . cito nobis deum propitium faciemus . Sicut 
+            <lb/>scriptum est . O homo peccatum tuum si tu agnoscis . deus ig
+            <lb/>noscit . nam quomodo id fieri potest . ut homini peccatum deus 
+            <lb/>dignetur ignoscere . quod in se ipse dedignatur agnoscere . 
+                <lb/><label type="lection_no">.iiii.</label> Meditantes ergo salutis nostrę medicamentum proclamandum 
+            <lb/>est nobis cum dicente propheta . Rugiebam a gemitu cordis 
+            <lb/>mei . Et iterum . Lauabo per singulas noctes lectum meum . 
+            <lb/>lacrimis meis stratum meum rigabo . Et iterum . Ego autem 
+            <lb/>cynerem tamquam panem manducabam . et poculum meum 
+            <lb/>cum fletu miscebam . Nemo ergo fratres despiciat poeniten
+            <lb/>tiam . nemo contemnat hanc humiliationem . Rex enim 
+            <lb/>erat dauid qui ista dicebat . magnus rex erat qui ista 
+            <lb/>faciebat . Oportet itaque quasi super mortuum dare mag
+            <lb/>nos . super tinctam peccatis animam . planctus . et quomodo 
+            <lb/>solet mater orbata . supra unicum filium lamentari . 
+            <lb/>ita nobis conuenit super unicam animam nostram lugere . 
+            <lb/>Idcirco autem unica dicitur . quia tamquam unica diligen
+            <lb/>da est . et quia ipsa sola <add hand="later">reddet</add> rationem ante tribunal
+                ęterni
+            <lb/>regis . <label type="lection_no">.v.</label> Remotis omnibus solaciis redditura est . Audi
+            <lb/>enda est igitur sententia danielis prophetę ad redimenta 
+            <lb/>peccata . Accipe inquit ó rex consilium meum . 
+            <lb/>et peccata tua aelimosinis pauperum redime . Ex
+            <lb/>emplum etiam euangelici uiri quasi ad aedificandum
+            <lb/>nos conscriptum . ad memoriam nobis deducendum 
+            <lb/>est dicentis . Ecce dimidium bonorum meorum domine 
+                <pb n="35r" xml:id="P25_fol_35r"/><lb n="1"/>do pauperibus . Sed forte quando de aelimosinis loquimur . 
+            <lb/>expauescit multorum paupertas . sé non habere quod pos
+            <lb/>sit pauperibus erogare . Sed nemo de hac re excusare 
+            <lb/>se poterit . quando dominus . mercedem sé redditurum 
+            <lb/>pro calice aquae frigidę repromisit . Et uiduam qu<subst><del>a</del><add resp="scribe" place="sup">æ</add></subst> duos 
+            <lb/>nummos in gazophilatium detulit conlaudauit di
+            <lb/>cens . Alii ex eo quod habundabat eis dederunt . 
+            <lb/>Haec autem de penuria sua totum misit uictum suum . 
+                <lb/><label type="lection_no">.vi.</label> Igitur dominus noster non copia largitatis sed beniuolentia 
+            <lb/>pascitur largientis . Indicandum quoque est uobis fratres 
+            <lb/>karissimi . quod in prima ebdomada ante initium quad
+            <lb/>ragesimę . confessiones sacerdotibus dandę sunt . poe
+            <lb/>nitentia accipienda . discordantes reconsiliandi . 
+            <lb/>et omnia iurgia sedanda . et dimittere debent debita 
+            <lb/>id est peccata sibi <del>in</del>inuicem de cordibus suis . ut liberius 
+            <lb/>dicere possint . Dimitte nobis debita nostra . sicut et nos 
+            <lb/>dimittimus debitoribus nostris . Et sic ingrediendo in bea
+            <lb/>tę quadragesimę tempus . mundis cordibus et purifi
+            <lb/>catis mentibus ad sanctum pascha per accedant et per poeni
+            <lb/>tentiam se renouent . que est secundus baptismus ; sicut enim 
+            <lb/>baptismum abluit peccata . Ita et poenitentia pur
+            <lb/>gat . et quia post baptismum peccator iterum non potest 
+            <lb/>rébaptizari . Hoc medicamentum poenitentię a domino 
+            <lb/>datum est . ut per eam . uice baptismi . peccata post baptis
+            <lb/>mum diluantur . <label type="lection_no">.vii.</label> Septem enim modis peccata di
+            <lb/>mitti . scripturę sacrę demonstrant . Prim<del>u</del><add resp="scribe">o</add> in bap
+            <lb/>tismo . quod propter remissionem peccatorum datum est . 
+            <lb/>Secundo per martyrium iuxta illud quod ait psalmista . 
+                <pb n="35v" xml:id="P25_fol_35v"/><lb n="1"/>Beatus uir cui non inputabit dominus peccatum . iuxta
+            <lb/>eiusdem dauid sententiam dicentis . Quia remittun
+            <lb/>tur peccata per baptismum . Teguntur per poenitentiam . 
+            <lb/>non imputantur per martyrium . Tertio per ael<subst><del>i</del><add resp="scribe">y</add></subst>mo
+            <lb/>sinam . iuxta danielem . qui profa<add resp="scribe" place="sup">no</add> nabocodonosor regi
+            <lb/>ait . peccata tua aelimosinis redime in misericor
+            <lb/>diis pauperum . et illud . Sicut ignem ardentem extin
+            <lb/>guit aqua . Ita ęlimosina extinguit peccatum . 
+            <lb/>Et dominus in aeuangelio . Uerumtamen date aelimosi
+            <lb/>nam . ác sí dixisset pro peccatis preteritis . et ecce omnia 
+            <lb/>munda sunt uobis . Quarto . si remittat quis pec
+            <lb/>canti in se peccata sua . iuxta illud . Dimittite et 
+            <lb/>dimittetur uobis . date et dabitur uobis . et illud . 
+            <lb/>Sic et pater uester caelestis dimittet uobis peccata uestra . 
+            <lb/>si remiseritis unusquisque de cordibis uestris . Quinto . 
+            <lb/>si per predicationem suam quis et per bonorum operum exerci
+            <lb/>tium . alios ab errore suo conuertat . Iuxta illud 
+            <lb/>quod ait apostolus . quoniam si conuerti fecerit pecca
+            <lb/>torem ab errore uię suę saluabit animam eius a mor
+            <lb/>te et cooperit multitudinem peccatorem . Sexto 
+            <lb/>per caritatem . Iuxta illud . caritas cooperit multitu
+            <lb/>dinem peccatorum per iesum christum dominum nostrum . quia iuxta 
+            <lb/>apostolum deus caritas est . Et qui manet in caritate in deo 
+            <lb/>manet et deus in eo . Septimo per penitentiam . iuxta 
+            <lb/>quod ait dauid propheta . conuersus sum . in erumna 
+            <lb/>mea dum configitur mihi spina . Haec sunt enim 
+            .vii . peccatorum nostrorum remedia . per quae si in eis 
+            <lb/>iugiter perseueremus . ad premia merebimur peruenire aeterna . 
+                <pb n="36r" xml:id="P25_fol_36r"/><lb n="1"/>Dirigamus ergo fratres karissimi actus nostros . et quicquid possumus 
+            <lb/>quicquid ualemus . preponerę uitae aeternę in excer
+                <lb/>citio bonae uoluntatis . et in studi<subst><del>a</del><add resp="scribe" place="sup">o</add></subst> iustitie ac mise
+            <lb/>ricordię conferamus . Cu<add hand="later">r</add>ramus dum lucem habemus .
+            <lb/>operemur bonum ad omnes . Ne caligines mortis dum 
+            <lb/>non ęstimamus . nos preoccupent . quia in illo seculo 
+            <lb/>futuro . emendationi ac redemptioni nostrae prouidere 
+            <lb/>nobis iam non licebit . Sicut sermo diuinis ait . quoniam 
+            <lb/>non est in morte qui memor sit .<note place="end" n="ii"> Something
+                    unclear has been added here.</note> Sicut enim ibi nulla
+            <lb/>tribuetur remissio peccatorum . Haec ergo fratres dilectis
+            <lb/>simi sapienter ác fideliter cogitantes . ad poeniten
+            <lb/>tię remedia confugere festinemus . et per humilitatem 
+            <lb/>ac castitatem . per opera iustitię ác misericordię . aeterna nobis 
+            <lb/>premia apud deum preparemus . Prestante domino nostro iesu 
+            <lb/>christo . cui est honor et potestas et imperium et gloria in 
+            <lb/>secula seculorum amen .
+        </p></div></body>
+    </text>
+</TEI>
