@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <msDesc active="1"/>
+   <headerInfo active="1"/>
+   <regesto active="1"/>
+   <liste>
+      <listPerson active="1" lang="def">LIST_PERSON</listPerson>
+      <listPlace active="1" lang="def">LIST_PLACE</listPlace>
+      <listOrg active="1" lang="def">LIST_ORG</listOrg>
+   </liste>
+   <editions>
+      <edition>Interpretative</edition>
+   </editions>
+   <textpage>
+      <text n="CI_128" label="CI 128">
+         <pb n="214v">fol_214v</pb>
+         <pb n="215r">fol_215r</pb>
+         <pb n="215v">fol_215v</pb>
+         <pb n="216r">fol_216r</pb>
+      </text>
+   </textpage>
+   <pages>
+      <pair>
+         <pb n="214v">fol_214v</pb>
+         <pb n="215r">fol_215r</pb>
+      </pair>
+      <pair>
+         <pb n="215v">fol_215v</pb>
+         <pb n="216r">fol_216r</pb>
+      </pair>
+   </pages>
+</xml>

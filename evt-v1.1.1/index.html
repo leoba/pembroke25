@@ -1,0 +1,421 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+      <meta property="og:title" content="Codice Pelavicino Edizione Digitale"></meta>
+      <meta property="og:image" content="./data/input_data/images/thumb_fb.jpg"></meta>
+      <title>Codice Pelavicino Edizione Digitale</title>
+      <link rel="stylesheet" type="text/css" href="./css/main.css"></link>
+      <link rel="stylesheet" type="text/css" href="./css/page_data-include.css"></link>
+      <link rel="stylesheet" type="text/css" href="./css/jquery-ui-1.9.0.custom.css"></link>
+      <link rel="stylesheet" type="text/css" href="./css/ImageTextLink.css"></link>
+      <link rel="stylesheet" type="text/css" href="./css/jquery.jqzoom.css"></link>
+      <link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css"></link>
+      <link rel="stylesheet" type="text/css" href="./css/evt-icons.css"></link>
+      <link rel="stylesheet" type="text/css" href="./config/evt_builder-custom-styles.css"></link>
+      <!--jQuery lib--><script type="text/javascript" src="./js/jquery_lib/jquery-latest.js"></script><script type="text/javascript" src="./js/jquery_lib/jquery-ui-latest.js"></script>
+      <!--/jQuery lib-->
+      <!--main lib-->
+      <!--interface control--><script type="text/javascript" src="./js/main/interface_control/ic_generic_bindings.js"></script><script type="text/javascript" src="./js/main/interface_control/ic_global_menu.js"></script><script type="text/javascript" src="./js/main/interface_control/ic_internal_fullscreen.js"></script><script type="text/javascript" src="./js/main/interface_control/ic_lists.js"></script><script type="text/javascript" src="./js/main/interface_control/ic_navigation.js"></script><script type="text/javascript" src="./js/main/interface_control/ic_prefatory_matter.js"></script><script type="text/javascript" src="./js/main/interface_control/ic_resizings.js"></script><script type="text/javascript" src="./js/main/interface_control/ic_search.js"></script><script type="text/javascript" src="./js/main/interface_control/ic_viewModes.js"></script><script type="text/javascript" src="./js/main/interface_control/ic_main.js"></script>
+      <!--/interface control--><script type="text/javascript" src="./js/main/utils.js"></script>
+      <!--/main lib-->
+      <!--keydown--><script src="./js/plugin/jquery.rafmas-keydown.js"></script>
+      <!--/keydown-->
+      <!--iViewer--><script type="text/javascript" src="./js/plugin/jquery_iviewer/jquery.mousewheel.min.js"></script><script type="text/javascript" src="./js/plugin/jquery_iviewer/jquery.iviewer.js"></script><script type="text/javascript" src="./js/plugin_settings/iviewer_config.js"></script>
+      <!--/iViewer-->
+      <!--magnifier--><script type="text/javascript" src="./js/plugin/jquery.jqzoom-core.js"></script><script type="text/javascript" src="./js/main/switchZM.js"></script>
+      <!--/magnifier-->
+      <!--hashchange--><script src="./js/plugin/jquery.ba-bbq.js"></script>
+      <!--/hashchange-->
+      <!--image text link--><script type="text/javascript" src="./js/main/ImageTextLink.js"></script>
+      <!--/image text link-->
+      <!--page data--><script type="text/javascript" src="./js/main/page_data-include.js"></script>
+      <!--/page data-->
+      <!--highlight--><script type="text/javascript" src="./js/plugin/jquery.highlight_mod.js"></script>
+      <!--/highlight-->
+      <!--TipueSearch--><script type="text/javascript" src="./js/plugin/tipuesearch/tipuesearch.js"></script><script type="text/javascript" src="./js/plugin/tipuesearch/tipuesearch_content.js"></script><script type="text/javascript" src="./js/plugin/tipuesearch/tipuesearch_set.js"></script>
+      <!--/TipueSearch-->
+      <!--search--><script type="text/javascript" src="./js/main/search.js"></script>
+      <!--/search--><script type="text/javascript" src="./js/plugin/jquery-lang.js"></script><script type="text/javascript" src="./config/langpack/en.js"></script><script type="text/javascript" src="./config/langpack/it.js"></script><script type="text/javascript" src="./config/langpack/fr.js"></script><script type="text/javascript" src="./config/langpack/de.js"></script></head>
+   <body>
+      <div id="global_wrapper" data-image-extension="jpg">
+         <div id="keyboard_shortcuts_cont" class="dialog" data-content="keyboard_shortcuts">
+            <div id="keyboard_shortcuts" class="dialog_cont"><a href="javascript:void(0);" id="close_keyboard_shortcuts_cont" class="dialog_close" data-dialog="keyboard_shortcuts_cont" lang="def" title="CLOSE"><i class="fa fa-close"></i></a><div class="title main" lang="def">KEYBOARD_SHORTCUTS</div>
+               <div class="dialog_separator"><i class="fa fa-caret-down"></i></div>
+               <div class="dialog_cont_inner">
+                  <div class="shortcuts_row">
+                     <p class="shortcuts_col_left"><span lang="def">KS_OPEN_PROJECT_INFO</span></p>
+                     <p class="shortcuts_col_right"><span class="shortcuts_key">alt</span>+<span class="shortcuts_key">i</span></p>
+                  </div>
+                  <div class="shortcuts_row">
+                     <p class="shortcuts_col_left"><span lang="def">KS_SWITCH_MODE_VIEW</span></p>
+                     <p class="shortcuts_col_right"><span class="shortcuts_key">alt</span>+<span class="shortcuts_key">1</span> / <span class="shortcuts_key">alt</span>+<span class="shortcuts_key">2</span> / <span class="shortcuts_key">alt</span>+<span class="shortcuts_key">3</span> ...
+                     </p>
+                  </div>
+                  <div class="shortcuts_row">
+                     <p class="shortcuts_col_left"><span lang="def">KS_CHANGE_PAGE</span></p>
+                     <p class="shortcuts_col_right"><span class="shortcuts_key">←</span> and <span class="shortcuts_key">→</span></p>
+                  </div>
+                  <div class="shortcuts_row">
+                     <p class="shortcuts_col_left"><span lang="def">KS_CHANGE_DOC</span></p>
+                     <p class="shortcuts_col_right"><span class="shortcuts_key">↑</span> and <span class="shortcuts_key">↓</span></p>
+                  </div>
+                  <div class="shortcuts_row">
+                     <p class="shortcuts_col_left"><span lang="def">KS_GO_FULLSCREEN</span></p>
+                     <p class="shortcuts_col_right"><span class="shortcuts_key">ctrl/cmd</span>+<span class="shortcuts_key">alt</span>+<span class="shortcuts_key">shift</span>+<span class="shortcuts_key">f</span></p>
+                  </div>
+                  <div class="shortcuts_row">
+                     <p class="shortcuts_col_left"><span lang="def">KS_OPEN_SEARCH</span></p>
+                     <p class="shortcuts_col_right"><span class="shortcuts_key">ctrl/cmd</span>+<span class="shortcuts_key">alt</span>+<span class="shortcuts_key">f</span></p>
+                  </div>
+                  <div class="shortcuts_row">
+                     <p class="shortcuts_col_left"><span lang="def">KS_OPEN_PAGE_SELECTOR</span></p>
+                     <p class="shortcuts_col_right"><span class="shortcuts_key">alt</span>+<span class="shortcuts_key">p</span></p>
+                  </div>
+                  <div class="shortcuts_row">
+                     <p class="shortcuts_col_left"><span lang="def">KS_OPEN_TEXT_SELECTOR</span></p>
+                     <p class="shortcuts_col_right"><span class="shortcuts_key">alt</span>+<span class="shortcuts_key">t</span></p>
+                  </div>
+                  <div class="shortcuts_row">
+                     <p class="shortcuts_col_left"><span lang="def">KS_OPEN_EDITION_SELECTOR</span></p>
+                     <p class="shortcuts_col_right"><span class="shortcuts_key">alt</span>+<span class="shortcuts_key">e</span></p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div id="welcomeInfo_cont" class="dialog" data-content="welcomeInfo">
+            <div id="welcomeInfo" class="dialog_cont"><a href="javascript:void(0);" id="close_welcome_info_cont" class="dialog_close" data-dialog="welcomeInfo_cont" title="CLOSE" lang="def"><i class="fa fa-close"></i></a><div id="welcomeInfo_content_top">
+                  <div>
+                     <p class="title main">Welcome to an edition created with EVT!</p>
+                  </div>
+                  <div>This archive includes a few examples of editions created using EVT, 
+                     			by default you are showed a small excerpt of the 
+                     			<a href="http://pelavicino.labcd.unipi.it/" target="blank">
+                        				Codice Pelavicino Digitale</a> edition.
+                     		
+                  </div>
+                  <div>It is recommended to go to full screen mode so that all available screen space is
+                     used to show the manuscript images and the transcription text.
+                  </div>
+                  <div>For more information refer to the EVT Manual in the "doc" folder. 
+                     			If you have any suggestions or spot an error/bug please contact us at <a href="mailto:evt.developers@gmail.com">evt.developers@gmail.com</a></div>
+               </div>
+               <div id="welcomeInfo_content_center"><i class="fa fa-caret-down"></i></div>
+               <div id="welcomeInfo_content_bottom"><a href="javascript:void(0);" id="button_welcome_info_cont" class="closeDialog" data-dialog="welcomeInfo_cont" title="CLOSE" lang="def"><button class="button_welcome">start</button></a><div class="neverShowDiv"><input type="checkbox" checked="checked" class="neverShowAgain"></input><span lang="def">NEVER_SHOW_AGAIN</span></div>
+               </div>
+            </div>
+         </div>
+         <div id="EVTinfo_cont" class="dialog" data-content="EVTinfo">
+            <div id="EVTinfo" class="dialog_cont"><a href="javascript:void(0);" class="dialog_close" data-dialog="EVTinfo_cont" title="CLOSE" lang="def"><i class="fa fa-close"></i></a><div class="title main">Information about EVT</div>
+               <div class="dialog_separator"><i class="fa fa-caret-down"></i></div>
+               <div id="EVTinfo_content" class="dialog_cont_inner">
+                  <p>EVT (Edition Visualization Technology) is a software for creating and browsing digital
+                     editions of manuscripts
+                     			based on text encoded according to the TEI XML schemas and Guidelines. This tool
+                     was born as part of the DVB
+                     			(Digital Vercelli Book) project in order to allow the creation of a digital edition
+                     of the Vercelli Book, a
+                     			parchment codex of the late tenth century, now preserved in the Archivio e Biblioteca
+                     Capitolare of Vercelli
+                     			and regarded as one of the four most important manuscripts of the Anglo-Saxon period
+                     as regards the transmission
+                     			of poetic texts in the Old English language.
+                     		
+                  </p>
+                  <p>To ensure that it will be working on all the most recent web browsers, and for as
+                     long as possible on the World
+                     			Wide Web itself, EVT is built on open and standard web technologies such as HTML,
+                     CSS and JavaScript. Specific
+                     			features, such as the magnifying lens, are entrusted to jQuery plugins, again chosen
+                     among the open source and
+                     			best supported ones to reduce the risk of future incompatibilities. The general
+                     architecture of the software,
+                     			in any case, is modular, so that any component which may cause trouble or turn
+                     out to be not completely up to
+                     			the task can be replaced easily.
+                  </p>
+                  <p>For more information about how to use and/or customize EVT please refer to the EVT
+                     Manual included in the
+                     			archive you downloaded, in the "doc" folder.
+                  </p>
+                  <p>EVT is used in the following projects:</p>
+                  <ul>
+                     <li><a href="http://pelavicino.labcd.unipi.it/" target="blank">Codice Pelavicino Digitale</a></li>
+                     <li><a href="http://vbd.humnet.unipi.it/" target="blank">Vercelli Book Digitale</a></li>
+                  </ul>
+                  <p>EVT has a home page in the <a href="https://sourceforge.net/p/evt-project/" target="blank">SourceForge</a> repository,
+                     			but development is done on Gitlab and Github: if you are interested in learning
+                     more about EVT and/or
+                     			in adapting it to your specific needs please contact the project Director, Roberto
+                     Rosselli Del Turco
+                     			<a href="mailto:roberto.rossellidelturco@gmail.com" target="_top">roberto.rossellidelturco@gmail.com</a>.
+                  </p>
+                  <p>If you have any suggestions or spot an error/bug please contact us at <a href="mailto:evt.developers@gmail.com">evt.developers@gmail.com</a></p>
+               </div>
+            </div>
+         </div>
+         <div id="headerInfo_cont" class="dialog" data-content="headerInfo"></div>
+         <div id="generalBiblio_cont" class="dialog" data-content="generalBiblio">
+            <div id="generalBiblio" class="dialog_cont"><a href="javascript:void(0);" class="dialog_close" data-dialog="generalBiblio_cont" title="CLOSE" lang="def"><i class="fa fa-close"></i></a><div class="title main" lang="def">BIBLIO</div>
+               <div class="dialog_separator"><i class="fa fa-caret-down"></i></div>
+               <div id="generalBiblio_content" class="dialog_cont_inner">
+                  <div>
+                     <body><span class="bibl" id="APG"><span class="emph">Annales Placentini Gibellini</span>,in <span class="emph">Monumenta Germaniae
+                              Historica</span>.</span><span class="bibl" id="ASFi_DM">ASFi, <span class="emph">Diplomatico Malaspina</span>, Spoglio 100.</span><span class="bibl" id="ASLU_SF">Archivio di Stato di Lucca, <span class="emph">San Frediano</span>.</span><span class="bibl" id="BERNOLDUS">Bernoldi, <span class="emph">Chronicon, in Monumenta Germaniae Historica Scriptores</span>,
+                           V, ed. G. H. Pertz, Hannoverae, 1844, pp. 385–467.</span><span class="bibl" id="BROOK-PAVONI_1984">L.L. Brook e R. Pavoni, <span class="emph">Tavola XXVI. Obertenghi di Massa e
+                              Parodi</span>, in <span class="emph">Genealogie medievali di Sardegna</span>, Cagliari-Sassari 1984.</span><span class="bibl" id="BÖHMER_1931">J. F. Böhmer, <span class="emph">Regesta chronologico-diplomatica regum atque imperatorum
+                              Romanorum inde a Conrado I. usque ad Henricum VII. Die Urkunden der römischen Könige
+                              und Kaiser von
+                              Conrad I. bis Heinrich VII. (911 - 1313) in kurzen Auszügen mit Nachweisung der Bücher,
+                              wo solche
+                              abgedruckt sind</span>, Frankfurt a. M. 1831.</span><span class="bibl" id="CALLERI_1997"><span class="emph">Le carte del monastero di San Siro di Genova (952 - 1224)</span>, a
+                           cura di M. Calleri, Genova, 1997.</span><span class="bibl" id="CALLERI_2003"><span class="emph">Codice diplomatico del monastero di Santo Stefano di Genova
+                              (965-1200)</span>, a cura di Marta Calleri, Genova, 2003.</span><span class="bibl" id="CONTI_1960">N. Conti, <span class="emph">Gli statuti quattrocenteschi di Nicola</span>, in “Memorie
+                           dell’Accademia Lunigianese di Scienze e Lettere ‘G. Capellini’”, XXXI (1960), pp.
+                           183–284.</span><span class="bibl" id="CONTI_1979-1988"><span class="emph">Corpus statutorum lunigianensium</span>, a cura di M.N. Conti, 3
+                           voll., La Spezia: Accademia Lunigianese di Scienze e Lettere «G. Capellini» 1979-1988.</span><span class="bibl" id="CONTI_1988">M.N. Conti, <span class="emph">Le carte anteriori al 1400 nell’archivio malaspiniano di
+                              Caniparola nel repertorio del 1760</span>, Pontremoli, 1988.</span><span class="bibl" id="FALCO-PISTARINO_1955">Falco - G. Pistarino, <span class="emph">Il cartulario di Giovanni di Giona di
+                              Portovenere (sec. XIII)</span>, Depultazione Subalpina di Storia Patria, CLXXVII, Torino,
+                           1955.</span><span class="bibl" id="FALCO_1916"><span class="emph">Le carte del monastero del Tino, I (1050-1220)</span>, a cura di Giorgio
+                           Falco Pinerolo, 1916.</span><span class="bibl" id="FERRETTO_1901">A. Ferretto, <span class="emph">Codice diplomatico delle relazioni tra la Liguria, la
+                              Toscana e la Lunigiana ai tempi di Dante</span>, in “Atti della Società Ligure di Storia Patria”,
+                           XXXI, fascicoli I e II (1901, 1903).</span><span class="bibl" id="FERRETTO_1909">A. Ferretto, <span class="emph">Documenti genovesi di Novi e Valle Scrivia</span> in
+                           “Bollettino Storico Bibliografico Subalpino”, LI, LII (1909).</span><span class="bibl" id="FHP">Guido Da Vallecchia, ‘Historiae Pisanae fragmenta’, in Ludovico Antonio Muratori,
+                           ed.,
+                           <span class="emph">Rerum italicarum Scriptores</span>, XXIV (Mediolani, 1738), coll.</span><span class="bibl" id="FORMENTINI_1922">U. Formentini, <span class="emph">Una podesteria consortile nei secoli XII e XIII (Le
+                              terre dei Bianchi)</span>, in «Giornale Storico della Lunigiana», XII (1922), pp. 195-224.</span><span class="bibl" id="FORMENTINI_1936">Formentini, <span class="emph">Micaur–a (Georg.Cyprii 533)</span>, in <span class="emph">Atti del V
+                              Congresso Internazionale di Studi Bizantini</span>, Roma 1936, pp. 167-175.</span><span class="bibl" id="FORMENTINI_1970">U. Formentini, <span class="emph">La pieve di Soliera</span>, in «Giornale Storico
+                           della Lunigiana e del territorio lucense», n.s., XXI (1970), pp. 5–19 (postumo).</span><span class="bibl" id="FREGGIA_1989"><span class="emph">I documenti dell’Archivio Capitolare di Sarzana dal 1095 al
+                              1776</span>, ed. E. Freggia, La Spezia, 1989.</span><span class="bibl" id="GENTILI_2000">Elio Gentili, <span class="emph">Falcinello. Origini, sviluppo e decadenza di un piccolo
+                              comune della Lunigiana</span>, (Agorà, 2000).</span><span class="bibl" id="HPM_CHARTARUM"><span class="emph">Historiae Patriae Monumenta, Chartarum</span>, Torino 1853.</span><span class="bibl" id="HÜBNER_1893">R. Hübner, <span class="emph">Gerichtsurkunden der fränkischen Zeit. 2.</span>, in
+                           «Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Germanistische Abteilung»,
+                           14 (1893)
+                           Deskriptoren: Italien, Frühmittelalter, Hochmittelalter, Urkunden und Regesten.</span><span class="bibl" id="LIBRI_IURIUM"><span class="emph">I libri Iurium della Repubblica di Genova</span>. 1. Antonella Rovere
+                           and Dino Puncuh (eds.), <span class="emph">I libri Iurium della Repubblica di Genova. Introduzione</span>, (Roma,
+                           1992). I.1. Antonella Rovere, <span class="emph">I libri Iurium della Repubblica di Genova</span>, (Ministero per i
+                           beni culturali e ambientali - Ufficio centrale per i beni archivistici: Roma, 1992)
+                           I.2 Dino Puncuh
+                           (ed.), <span class="emph">I libri iurium della Repubblica di Genova</span>, (Genova, 1996), I-2. I.4 Sabina
+                           Dellacasa (ed.), <span class="emph">I libri Iurium della Repubblica di Genova</span>, (Ministero per i beni
+                           culturali e ambientali - Ufficio centrale per i beni archivistici: Roma, 1998) I.3
+                           Dino Puncuh (ed.),
+                           <span class="emph">I libri iurium della Repubblica di Genova</span>, (Genova, 1998), I-3. I.5 Elisabetta Madia
+                           (ed.), <span class="emph">I libri Iurium della Repubblica di Genova</span>, (Ministero per i beni culturali e
+                           ambientali - Ufficio centrale per i beni archivistici: Roma, 1999), I-5. I.6 Maria
+                           Bibolini (ed.),
+                           <span class="emph">I libri Iurium della Repubblica di Genova</span>, (Ministero per i beni culturali e
+                           ambientali - Ufficio centrale per i beni archivistici: Roma, 2000).</span><span class="bibl" id="LUPO_GENTILE_1912">M. Lupo Gentile, <span class="emph">Il regesto del codice Pelavicino</span>, in «Atti
+                           della Società Ligure di Storia Patria», XLIV (1912).</span><span class="bibl" id="LÜNIG_1725"><span class="emph">Codex Italiae Diplomaticus</span>, a cura di J.C. Lünig, Francoforte
+                           &amp; Lipsia, 1725.</span><span class="bibl" id="MAZZINI_1914">U. Mazzini, <span class="emph">Correzioni critiche di alcune date del Regesto del Codice
+                              Pelavicino</span>, Genova 1914.</span><span class="bibl" id="MGH_CONST_IV"><span class="emph">Constitutiones et acta publica imperatorum et regum inde ab a.
+                              MCCXCVIII usque ad a. MCCCXIII (1298-1313)</span>, ed. J. Schwalm, 2 vols, Hannoverae, Lipsiae,
+                           1906-1908.</span><span class="bibl" id="MGH_DD_HIII"><span class="emph">Die Urkunden Heinrichs III (Heinrici III. Diplomata)</span>, eds. Harry
+                           Bresslau e Paul Fridolin Kehr, in <span class="emph">Monumenta Germaniae Historica. Diplomata</span>, V, Berlin
+                           1931.</span><span class="bibl" id="MONTORZI_1991">M. Montorzi, <span class="emph">Diritto feudale nel basso medioevo</span>, Torino
+                           1991.</span><span class="bibl" id="MURATORI_1738">L. A. Muratori, <span class="emph">Antiquitates Italicae medi aevii</span>, Mediolani,
+                           1738-1742.</span><span class="bibl" id="MURATORI_1773">L. A. Muratori, <span class="emph">Delle antichità estensi</span>, Modena
+                           1773-1780.</span><span class="bibl" id="NERI_1882">A. Neri, <span class="emph">La cucina del vescovo di Luni</span>, in «Giornale ligustico di
+                           archeologia, storia e letteratura», IX (1882), pp. 161–169.</span><span class="bibl" id="NOBILI_1985"> M. Nobili, <span class="emph">L'abbazia di Polirone e le famiglie signorili
+                              lunigianesi</span>, in <span class="emph">L'Italia nel quadro della espansione europea del monachesimo
+                              cluniacense</span>. Atti del convegno internazionale di storia medievale (Pescia, 26-28 novembre
+                           1981), Cesena 1985, pp. 173-186; ora anche in Nobili 2006, pp. 385-407.</span><span class="bibl" id="NOBILI_1987"> M. Nobili, <span class="emph">Signorie e comunità nella Lunigiana orientale fra XII e XIII
+                              secolo</span>, in <span class="emph">Alle origini della Lunigiana moderna. Settimo centenario della redazione
+                              del Codice Pelavicino (1287-1987)</span>. Atti del convegno, La Spezia 1990, pp. 63-90 - numero
+                           monografico di «Memorie dell'Accademia di Scienze e Lettere 'G. Capellini'», LVII-LVIII
+                           (1987-88); ora
+                           anche in Nobili, 2006.</span><span class="bibl" id="NOBILI_1997">M. Nobili, <span class="emph">Le signorie territoriali degli Obertenghi in
+                              Lunigiana</span>, in <span class="emph">La signoria rurale nel medioevo italiano</span>, I, a cura di A. Spicciani
+                           e C. Violante, Pisa 1997 pp. 19-37; ora anche in Nobili, 2006.</span><span class="bibl" id="NOBILI_2001">M. Nobili, <span class="emph">Il termine capitanei in due documenti lunigianesi degli inizi
+                              dei secoli XII e XIII</span>, in <span class="emph">La vassallità maggiore nel Regno Italico: l'ordo feudale dei
+                              capitanei (secoli XI-XII)</span>. Atti del convegno, a cura di A. Castagnetti, Verona 2001 pp.
+                           285-299; ora anche in Nobili, 2006.</span><span class="bibl" id="NOBILI_2005">M. Nobili, <span class="emph">Le 'malae consuetudines' in Lunigiana: il documento del
+                              vescovo Eriberto per gli 'homines' di Trebbiano del 4 novembre 1039</span>, in «Memorie
+                           dell’Accademia Lunigianese di Scienze e Lettere 'G. Capellini'», LXXV (2005), 129-138.</span><span class="bibl" id="NOBILI_2006">M. Nobili, <span class="emph">Gli Obertenghi e altri saggi</span>, Spoleto 2006.</span><span class="bibl" id="PAVONI_1999">R. Pavoni, <span class="emph">Ameglia: i vescovi di Luni, i vicedomini, i Doria e il Comune
+                              di Genova</span>, in <span class="emph">Ameglia e il suo territorio nel Medioevo</span>. Atti della giornata di
+                           studio, numero monografico del «Giornale storico della Lunigiana e del territorio
+                           lucense», n.s.,
+                           XLIII-XLV (1992-1994), La Spezia 1999, pp. 9-170.</span><span class="bibl" id="PISTARINO_1942">G. Pistarino, <span class="emph">Un crittogramma nel Codice Pelavicino dell’Archivio
+                              Capitolare di Sarzana</span>, in «Giornale Storico e Letterario della Liguria», XVIII-3/4,
+                           luglio-settembre 1942, pp. 186-187.</span><span class="bibl" id="PISTARINO_1944">G. Pistarino, <span class="emph">Le carte del monastero di San Venerio del Tino relative
+                              alla Corsica (1080-1500)</span>, Deputazione Subalpina di Storia Patria, CLXX, Torino, 1944.</span><span class="bibl" id="PISTARINO_1950">G. Pistarino, <span class="emph">Le carte del monastero di San Venanzio di Ceparana
+                              (1185-1441)</span>, in «Giornale Storico della Lunigiana»”, n. s., I.3/4, luglio-dicembre 1950, pp.
+                           34-37; II.1/2, gennaio-giugno 1951, pp. 12-13; II.3/4, luglio-dicembre 1951, pp. 31-32;
+                           III.1/2,
+                           gennaio-giugno 1952, pp. 10-11; III.3/4, luglio-dicembre 1952, pp. 24-28; IV.1/2,
+                           gennaio-giugno 1953,
+                           pp. 9-11; IV.3/4, luglio-dicembre 1953, pp. 29-31 (ediz. separata, La Spezia, 1951).</span><span class="bibl" id="PISTARINO_1953">G. Pistarino, <span class="emph">Il crittogramma del Codice Pelavicino</span>, in
+                           «Giornale Storico della Lunigiana» n. s., IV.3/4, luglio-dicembre 1953, p. 29.</span><span class="bibl" id="PISTARINO_1955">G. Pistarino, <span class="emph">L’ultimo documento di San Caprasio di Aulla</span>, in
+                           «Giornale Storico della Lunigiana», n. s., VI.2, aprile-giugno 1955, pp. 48-50.</span><span class="bibl" id="PISTARINO_1956">G. Pistarino, <span class="emph">Il problema del “Liber instrumentorum” di Saladino “de
+                              castro Sarzane”</span>, in «Giornale Storico della Lunigiana», n. s., VII.1/1, gennaio-giugno 1956,
+                           pp. 42-43.</span><span class="bibl" id="PISTARINO_1957">G. Pistarino, <span class="emph">Gli scrittori del Codice Lunense (Pelavicino)</span>,
+                           in «Bollettino Ligustico», IX (1957), pp. 3-20.</span><span class="bibl" id="PISTARINO_1958a">G. Pistarino, <span class="emph">Una fonte medievale falsa e il suo presunto autore:
+                              Saladino “de castro Sarzane” e Alfonso Ceccarelli</span>, Università di Genova, Istituto di Storia
+                           Medievale e Moderna, Fonti e Studi, II, Genova, 1958.</span><span class="bibl" id="PISTARINO_1958b">G. Pistarino, <span class="emph">Le carte portoveneresi di Tealdo “de Sigestro”
+                              (1258-59)</span>, Notai Liguri dei secoli XII e XIII, VII, Genova, Società Ligure di Storia Patria,
+                           1958.</span><span class="bibl" id="PISTARINO_1961a">G. Pistarino, <span class="emph">Le pievi della diocesi di Luni</span>, parte I,
+                           C.S.L.O., II, Bordighera - La Spezia, 1961.</span><span class="bibl" id="PISTARINO_1961b"><span class="emph">Tre lettere sulle origini di Sarzana</span>, in “Bollettino
+                           Ligustico per la Storia e la Cultura Regionale”, XIII.3/4, 1961, pp. 169-174.</span><span class="bibl" id="PISTARINO_1963">G. Pistarino, <span class="emph">Il Codice Pelavicino, il “Registrum Vetus” e gli
+                              antichi statuti di Sarzana e di Sarzanello</span>, in «Giornale Storico della Lunigiana e del
+                           Territorio Lucense», n. s., XIV.1/4, gennaio-dicembre 1963, pp. 81-91.</span><span class="bibl" id="PISTARINO_1965">G. Pistarino, <span class="emph">Il “Registrum Vetus” del Comune di Sarzana</span>,
+                           Università di Genova, Istituto di Paleografia e Storia Medievale, Istituto di Storia
+                           Moderna e
+                           Contemporanea, Fonti e Studi, VIII, Sarzana, 1965.</span><span class="bibl" id="PISTARINO_1990">G. Pistarino, <span class="emph">Per una nuova edizione del Codice Pelavicino</span>, in
+                           <span class="emph">Alle origini della Lunigiana moderna. Settimo centenario della redazione del Codice
+                              Pelavicino (1287-1987)</span>. Atti del convegno (La Spezia 1990), pp. 9-18.</span><span class="bibl" id="PODESTÀ_1895">L. Podestà, <span class="emph">I vescovi di Luni dall'anno 895 al 1289. Studi sul Codice
+                              Pelavicino nell'Archivio Capitolare di Sarzana</span>, in «Atti e Memorie della Reale Deputazione
+                           di Storia Patria per le Province Modenesi», s. 6ª, (1895), pp. ***</span><span class="bibl" id="RI_V"><span class="emph">Regesta Imperii, V. Die Regesten des Kaiserreiches</span>, ed. Johann Friedrich
+                           Böhmer, J. Ficker e E. Winkelmann, Innsbruck, 1881-1882.</span><span class="bibl" id="SCHWARTZ_1913">G. Schwartz, <span class="emph">Die Besetzung der Bistümer Reichsitaliens unter den
+                              sächsischen und salischen Kaisern mit den Listen der Bischöfe, 951-1122</span>, Leipzig-Berlin
+                           1913.</span><span class="bibl" id="SFORZA_1867">G. Sforza, <span class="emph">Memorie storiche di Montignoso</span>, Lucca 1867, ristampa
+                           anastatica, Modena 1967.</span><span class="bibl" id="SFORZA_1894">G. Sforza, <span class="emph">Enrico, vescovo di Luni, e il Codice Pelavicino dell'Archivio
+                              Capitolare di Sarzana</span>, in «Archivio Storico Italiano», s. 5ª, XIII (1894), pp. 81-88.</span><span class="bibl" id="STUMPF_BRENTANO_1865"><span class="emph">Acta imperii inde ab Heinrico 1. ad Heinricum 6. usque adhuc
+                              inedita: Urkunden des Kaiserreichs aus dem 10., 11. und 12. Jahrhundert, erstmals
+                              herausgegeben</span>, ed. Karl Friedrich Stumpf-Brentano, Innsbruck, 1865-1881.</span><span class="bibl" id="UGHELLI_1644">F. Ughelli, <span class="emph">Italia sacra sive de episcopis Italiae et insularum
+                              adiacentium rebusque ab iis preclare gestis</span>, I, Roma 1644.</span><span class="bibl" id="UGHELLI_1717">F. Ughelli, <span class="emph">Italia sacra sive de episcopis Italiae et insularum
+                              adiacentium rebusque ab iis preclare gestis</span>, a cura di N. Coleti, Venezia 1717-1722.</span><span class="bibl" id="ZOPPI_2008">A. Zoppi, <span class="emph">Due documenti inediti per servire alla storia di Nicola di Val
+                              di Magra</span>, in “Studi Lunigianesi”, XXXVII-XXXIX (2008-2009), pp. 89–96.</span></body>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <header id="main_header">
+            <div id="home_title">Codice Pelavicino
+               <div id="badge_title">DIGITAL</div>
+            </div>
+            <div class="concave">
+               <div class="extTop">
+                  <div class="topleftconcave"></div>
+               </div>
+               <div class="botleftconcave"></div>
+            </div>
+            <div id="cont_interface_tools">
+               <div id="mode_switch"><a href="javascript:void(0);" id="txtimg_link" class="current_mode mode_view" title="MODE_IMAGE_TEXT" lang="def"><img src="images/img-txt.png" class="mainHeaderimg"></img></a><a href="javascript:void(0);" id="txttxt_link" class="mode_view" title="MODE_TEXT_TEXT" lang="def"><img src="images/txt-txt.png" class="mainHeaderimg"></img></a><a href="javascript:void(0);" id="imgd_link" class="mode_view" title="MODE_BOOKREADER" lang="def"><img src="images/double-view.png" class="mainHeaderimg"></img></a></div><a href="javascript:void(0);" id="settings_link" lang="def" title="SETTINGS"><i class="fa fa-navicon"></i></a><a href="javascript:void(0);" id="main_fullscreen" data-action="go_fullscreen" title="GO_FULLSCREEN" lang="def"><i class="fa fa-expand"></i></a></div>
+         </header>
+         <div id="settings_cont">
+            <div class="setting_row button_like" id="info_link">
+               <div class="setting_row_title"><i class="fa fa-info-circle"></i><span lang="def">PROJECT_INFO</span></div>
+            </div>
+            <div class="setting_row button_like" id="biblio_link">
+               <div class="setting_row_title"><i class="fa fa-book"></i><span lang="def">BIBLIO</span></div>
+            </div>
+            <div class="setting_row">
+               <div class="setting_row_title"><i class="fa fa-language"></i><span lang="def">LANGUAGES</span>:
+               </div>
+               <div class="setting_row_content"><img src="images/en.gif" class="flag active" data-value="en" lang="def" title="ENGLISH" alt="ENG"></img><img src="images/fr.gif" class="flag" data-value="fr" lang="def" title="FRENCH" alt="FR"></img><img src="images/ita.gif" class="flag" data-value="it" lang="def" title="ITALIAN" alt="ITA"></img><img src="images/de.png" class="flag" data-value="de" lang="def" title="GERMAN" alt="GER"></img></div>
+            </div>
+            <div class="setting_row button_like" id="keyboard_shortcuts_link">
+               <div class="setting_row_title"><i class="fa fa-keyboard-o"></i><span lang="def">KEYBOARD_SHORTCUTS</span></div>
+            </div>
+         </div>
+         <section id="central_wrapper"><i class="fa fa-caret-up" id="header_collapse" data-action="collapse" title="TOGGLE_MENU" lang="def"></i><div class="main_left_arrow" onclick="UnInitialize()" title="PREVIOUS_PAGE" lang="def"></div>
+            <div class="main_right_arrow" title="NEXT_PAGE" lang="def"></div>
+            <div id="main_left_frame" class="main_frame" style=""><i class="fa fa-caret-up go-full-left" id="goFullScreenLeft" title="EXPAND_FRAME" lang="def"></i><header id="left_header" class="top-menu"><i class="fa fa-times-circle closeFullScreen" id="closeFullScreenLeft" title="COLLAPSE_FRAME" lang="def"></i><div id="left_menu"><span id="span_dd_select" class="like_select" lang="def" title="SELECTOR_DOUBLE_PAGE">
+                        <div class="main_dd_select"><span class="label_selected"></span><div class="open_select"><i class="fa fa-sort-desc"></i></div>
+                           <div class="option_container down"></div>
+                        </div></span><span id="thumb_elem-add" class="iconButtons"><a href="javascript:void(0);" class="thumb_link" title="THUMBNAILS" lang="def"><span lang="def">THUMBS</span><i class="fa fa-th"></i></a></span><span id="span_ee_select-add" class="&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;like_select  hidden" title="SELECTOR_EDITION_LEVEL" lang="def">
+                        <div class="main_ee_select"><span class="label_selected"></span><div class="open_select"><i class="fa fa-sort-desc"></i></div>
+                           <div class="option_container down"></div>
+                        </div></span><span class="imageTopTool mainButtons toggleReg" id="switchReg-add" value="reg" title="REGESTO_TITLE" lang="def"><span lang="def">REGESTO</span><i class="fa fa-toggle-off"></i></span><div id="image_menu"><span class="imageTopTool mainButtons thumb_link" id="thumb_elem" value="th" title="THUMBNAILS" lang="def"><span lang="def">THUMBS</span><i class="fa fa-th"></i></span><span class="imageTopTool mainButtons" id="switchMag" value="mag" onclick="magOn()" title="MAGNIFIER_LENS" lang="def"><span lang="def">MAGNIFIER</span><i class="fa evt-magnifier"></i></span><span id="switch_msDesc" title="MANUSCRIPT_DESCRIPTION" lang="def" class="mainButtons "><span lang="def">MS_DESC</span><i class="fa fa-info-circle"></i></span></div>
+                  </div>
+               </header>
+               <div id="search_cont-add" class="collapsed bottomBox searchContainer">
+                  <div id="search_header-add" class="bottomBoxHeader"><span id="toggle_search_cont-add" class="mainButtons small toggleSearchButton" data-boxsuffix="-add" title="TOGGLE_SEARCH" lang="def"><i class="fa fa-angle-double-up"></i></span><span id="keyboard_link-add" class="mainButtons small searchKeyboardButton  hidden" data-boxsuffix="-add" title="TOGGLE_KEYBOARD" lang="def"><i class="fa fa-keyboard-o"></i></span><div id="tipue_search_input_div-add"><input type="text" id="tipue_search_input-add" class="searchInput" data-boxsuffix="-add"></input><i class="fa fa-close clear_input" title="CLEAR_SEARCH" lang="def"></i></div><span id="start_search-add" class="mainButtons small searchStart" data-boxsuffix="-add" title="START_SEARCH" lang="def"><i class="fa fa-search"></i></span></div>
+                  <div id="search_sub_header-add" class="bottomBoxSubHeader">
+                     <div id="search_query-add" class="searchQuery"><span lang="def">ENTER_YOUR_QUERY_INTO_THE_SEARCH_BOX_ABOVE</span></div>
+                     <div id="search_results-add" class="searchResults can-change-font-size"></div>
+                  </div>
+                  <div id="search_cont_results-add" class="bottomBoxContent">
+                     <div id="tipue_search_content-add" class="searchResultsContent"></div>
+                  </div>
+                  <div id="search_foot-add" class="bottomBoxFooter"></div>
+               </div>
+               <div id="text_tool-add" class="bottom-menu hidden"><span id="search_link-add" class="mainButtons searchButton" data-boxsuffix="-add" title="OPEN_SEARCH" lang="def"><span lang="def">SEARCH</span><i class="fa fa-search"></i></span><span id="span_list_select-add" class="like_select filter" title="SELECTOR_ENTITIES" lang="def">
+                     <div class="main_list_select"><span data-value="none" class="label_selected" lang="def">NO_SELECTION</span><div class="open_select open_up"><i class="fa fa-sort-asc"></i></div>
+                        <div class="option_container up">
+                           <div class="option" data-value="all" lang="def">SELECT_ALL</div>
+                           <div class="option" data-value="clear" lang="def">CLEAR_SELECTION</div>
+                        </div>
+                     </div></span><span class="mainButtons small font-size-controller" data-action="decrease" lang="def" title="DECREASE_FONT_SIZE"><i class="fa fa-font"></i><i class="fa fa-minus"></i></span><span class="mainButtons small font-size-controller" data-action="increase" lang="def" title="INCREASE_FONT_SIZE"><i class="fa fa-font"></i><i class="fa fa-plus"></i></span></div><span id="inside_left_arrow-add" lang="def" title="PREVIOUS_DOCUMENT"><i class="fa fa-chevron-up"></i></span><span id="inside_right_arrow-add" lang="def" title="NEXT_DOCUMENT"><i class="fa fa-chevron-down"></i></span><div id="msDesc_cont" class="inner_frame "></div>
+               <div id="image_cont" class="inner_frame">
+                  <div id="image_fade">
+                     <div id="image_elem"></div>
+                  </div>
+                  <div id="image_loading"><i class="fa fa-refresh fa-spin"></i></div>
+                  <div id="mag_image_elem"></div>
+                  <div id="image_tool" class="bottom-menu">
+                     <div id="spb"><a id="zoom_orig" class="zoom_btn" href="javascript:void(0);" title="100%" lang="def"><i class="evt-zoom1"></i></a><a id="zoom_fit" class="zoom_btn" href="javascript:void(0);" title="FIT_TO_FRAME" lang="def"><i class="fa evt-zoomfit"></i></a><a id="zoom_out" class="zoom_btn" href="javascript:void(0);" title="ZOOM_OUT" lang="def"><i class="fa evt-zoomminus"></i></a><div id="spb_cont">
+                           <div id="slider"></div>
+                        </div><a id="zoom_in" class="zoom_btn" href="javascript:void(0);" title="ZOOM_IN" lang="def"><i class="fa evt-zoomplus"></i></a></div>
+                     <div id="zval"><span id="zvalint"><span id="val">0</span>%</span><span id="zvalopz"></span></div>
+                  </div><input id="dimFit" type="hidden" value=""></input><input id="imgTit" type="hidden" value=""></input><div id="thumb_cont" class="inner_frame"></div>
+               </div>
+            </div>
+            <div id="main_right_frame" class="main_frame"><i class="fa fa-caret-up go-full-right" id="goFullScreenRight" title="EXPAND_FRAME" lang="def"></i><header id="right_header" class="top-menu">
+                  <div id="right_menu"><span id="span_tt_select" class="like_select" title="SELECTOR_TEXT" lang="def">
+                        <div class="main_tt_select"><span class="label_selected"></span><div class="open_select"><i class="fa fa-sort-desc"></i></div>
+                           <div class="option_container down"></div>
+                        </div></span><span id="span_pp_select" class="like_select right_menu groupByDoc optionDocTooltip" title="SELECTOR_PAGE" lang="def">
+                        <div class="main_pp_select"><span class="label_selected"></span><div class="open_select"><i class="fa fa-sort-desc"></i></div>
+                           <div class="option_container down"></div>
+                        </div></span><span id="span_ee_select" title="SELECTOR_EDITION_LEVEL" lang="def" class="like_select  hidden ">
+                        <div class="main_ee_select"><span class="label_selected"></span><div class="open_select"><i class="fa fa-sort-desc"></i></div>
+                           <div class="option_container down"></div>
+                        </div></span><span class="&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;imageTopTool mainButtons toggleReg active" id="switchReg" value="reg" title="REGESTO" lang="def"><span lang="def">REGESTO</span><i class="fa fa-toggle-on"></i></span></div><i class="fa fa-times-circle closeFullScreen" id="closeFullScreenRight" title="COLLAPSE_FRAME" lang="def"></i></header>
+               <div id="regesto_cont" class="text-box can-change-font-size inner_frame  open"></div>
+               <div id="text_cont" class="text-box can-change-font-size inner_frame">
+                  <div id="text_elem">
+                     <div id="front_frame"></div>
+                     <div id="text_frame"></div>
+                  </div>
+               </div>
+               <div id="search_cont" class="collapsed bottomBox searchContainer">
+                  <div id="search_header" class="bottomBoxHeader"><span id="toggle_search_cont" class="mainButtons small toggleSearchButton" data-boxsuffix="" title="TOGGLE_SEARCH" lang="def"><i class="fa fa-angle-double-up"></i></span><span id="keyboard_link" class="mainButtons small searchKeyboardButton  hidden" data-boxsuffix="" title="TOGGLE_KEYBOARD" lang="def"><i class="fa fa-keyboard-o"></i></span><div id="tipue_search_input_div"><input type="text" id="tipue_search_input" class="searchInput" data-boxsuffix=""></input><i class="fa fa-close clear_input" title="CLEAR_SEARCH" lang="def"></i></div><span id="start_search" class="mainButtons small searchStart" data-boxsuffix="" title="START_SEARCH" lang="def"><i class="fa fa-search"></i></span></div>
+                  <div id="search_sub_header" class="bottomBoxSubHeader">
+                     <div id="search_query" class="searchQuery"><span lang="def">ENTER_YOUR_QUERY_INTO_THE_SEARCH_BOX_ABOVE</span></div>
+                     <div id="search_results" class="searchResults"></div>
+                  </div>
+                  <div id="search_cont_results" class="bottomBoxContent">
+                     <div id="tipue_search_content" class="searchResultsContent can-change-font-size"></div>
+                  </div>
+                  <div id="search_foot" class="bottomBoxFooter"></div>
+               </div>
+               <div id="lists_cont" class="bottomBox">
+                  <div id="list_header" class="bottomBoxHeader"><span id="toggle_list_cont" class="mainButtons small" title="TOGGLE_LISTS" lang="def"><i class="fa fa-angle-double-down"></i></span></div>
+                  <div id="list_letters" class="bottomBoxContent"><span class="list_filter" data-filter-type="first_letter" data-value="A">A</span><span class="list_filter" data-filter-type="first_letter" data-value="B">B</span><span class="list_filter" data-filter-type="first_letter" data-value="C">C</span><span class="list_filter" data-filter-type="first_letter" data-value="D">D</span><span class="list_filter" data-filter-type="first_letter" data-value="E">E</span><span class="list_filter" data-filter-type="first_letter" data-value="F">F</span><span class="list_filter" data-filter-type="first_letter" data-value="G">G</span><span class="list_filter" data-filter-type="first_letter" data-value="H">H</span><span class="list_filter" data-filter-type="first_letter" data-value="I">I</span><span class="list_filter" data-filter-type="first_letter" data-value="J">J</span><span class="list_filter" data-filter-type="first_letter" data-value="K">K</span><span class="list_filter" data-filter-type="first_letter" data-value="L">L</span><span class="list_filter" data-filter-type="first_letter" data-value="M">M</span><span class="list_filter" data-filter-type="first_letter" data-value="N">N</span><span class="list_filter" data-filter-type="first_letter" data-value="O">O</span><span class="list_filter" data-filter-type="first_letter" data-value="P">P</span><span class="list_filter" data-filter-type="first_letter" data-value="Q">Q</span><span class="list_filter" data-filter-type="first_letter" data-value="R">R</span><span class="list_filter" data-filter-type="first_letter" data-value="S">S</span><span class="list_filter" data-filter-type="first_letter" data-value="T">T</span><span class="list_filter" data-filter-type="first_letter" data-value="U">U</span><span class="list_filter" data-filter-type="first_letter" data-value="V">V</span><span class="list_filter" data-filter-type="first_letter" data-value="W">W</span><span class="list_filter" data-filter-type="first_letter" data-value="X">X</span><span class="list_filter" data-filter-type="first_letter" data-value="Y">Y</span><span class="list_filter" data-filter-type="first_letter" data-value="Z">Z</span></div>
+               </div><span id="inside_left_arrow" title="PREVIOUS_DOCUMENT" lang="def"><i class="fa fa-chevron-up"></i></span><span id="inside_right_arrow" title="NEXT_DOCUMENT" lang="def"><i class="fa fa-chevron-down"></i></span><div id="text_tool" class="bottom-menu"><span id="search_link" class="mainButtons searchButton" data-boxsuffix="" title="OPEN_SEARCH" lang="def"><span lang="def">SEARCH</span><i class="fa fa-search"></i></span><span id="list_link" class="mainButtons" title="OPEN_LISTS" lang="def"><span lang="def">LISTS</span><i class="fa fa-list"></i></span><span id="span_list_select" class="like_select filter" title="SELECTOR_ENTITIES" lang="def">
+                     <div class="main_list_select"><span data-value="none" class="label_selected" lang="def">NO_SELECTION</span><div class="open_select open_up"><i class="fa fa-sort-asc"></i></div>
+                        <div class="option_container up">
+                           <div class="option " data-value="persName"><i class="fa fa-circle filter_color"></i><span lang="def">persName</span></div>
+                           <div class="option " data-value="placeName"><i class="fa fa-circle filter_color"></i><span lang="def">placeName</span></div>
+                           <div class="option " data-value="roleName"><i class="fa fa-circle filter_color"></i><span lang="def">roleName</span></div>
+                           <div class="option " data-value="measure"><i class="fa fa-circle filter_color"></i><span lang="def">measure</span></div>
+                           <div class="option " data-value="date"><i class="fa fa-circle filter_color"></i><span lang="def">date</span></div>
+                           <div class="option " data-value="orgName"><i class="fa fa-circle filter_color"></i><span lang="def">orgName</span></div>
+                           <div class="option" data-value="all" lang="def">SELECT_ALL</div>
+                           <div class="option" data-value="clear" lang="def">CLEAR_SELECTION</div>
+                        </div>
+                     </div></span><span class="mainButtons small font-size-controller" data-action="decrease" title="DECREASE_FONT_SIZE" lang="def"><i class="fa fa-font"></i><i class="fa fa-minus"></i></span><span class="mainButtons small font-size-controller" data-action="increase" title="INCREASE_FONT_SIZE" lang="def"><i class="fa fa-font"></i><i class="fa fa-plus"></i></span></div>
+            </div>
+         </section>
+         <section id="central_button"><input id="folio_page_number" type="hidden" value=""></input></section>
+         <div id="poweredBy">Powered by EVT</div>
+         <footer>
+            <p>2012 - 2015 @ EVT team – University of Pisa</p>
+         </footer>
+      </div><script src="js/main/fullscreen_request.js"></script><script>
+					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ 					 })(window,document,'script','./js/plugin/analytics.js','ga');
+
+					//ga('create', 'UA-52687967-1', 'auto');
+					ga('create', 'UA-52687967-1', {
+						'storage': 'none', // no cookies
+						'cookieDomain': 'none' // no domain
+					});
+					ga('set', 'checkProtocolTask', function() {}); //HACK
+					ga('send', 'pageview');
+
+				</script></body>
+</html>

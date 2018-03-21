@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pembroke 25 Sermo 6 (fols</title>
+                <author>FaCT user ACCC</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2016-10-10</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-10T17:15:17Z</date><name>FaCT user ACCC</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Pembroke 25 Sermo 6 (fols. 11v–13v)</p>
+            <p>ITEM alia . </p>
+            <p>In illo tempore . Exiit edictum a cęsare agusto ut discri</p>
+            <p>beretur uniuersus orbis . Haec discriptio prima facta </p>
+            <p><pb xml:id="012r" n="012r"/> est ; a preside syrię cirino . et ibant omnes ut profiterentur </p>
+            <p>singuli in suam ciuitatem . Ascendit autem et ioseph a gali</p>
+            <p>lea de ciuitate nazareth . in iudeam ciuitatem dauid quęuo</p>
+            <p>catur bethleem . eo quod esset de domo et familia dauid . </p>
+            <p>ut profiteretur cum maria desponsata sibi uxore praegnan</p>
+            <p>te . Factum est autem cum essent ibi . impleti sunt dies </p>
+            <p>ut pareret . et peperit filium suum primogenitum . et pannis </p>
+            <p>eum inuoluit . et reclinauit eum in presepio . quia non erat ei </p>
+            <p>locus in diuersorio . Et pastores erant in regione </p>
+            <p>eadem . uigilantes et custodientes uigilias noctis super </p>
+            <p>gregem suum . Et ecce angelus domini stetit iuxta illos . et cla</p>
+            <p>ritas dei circumfulsit illos . et timuerunt timore mag</p>
+            <p>no . Et dixit illis angelus . Nolite timere . Ecce enim euan</p>
+            <p>gelizo uobis gaudium magnum . quod erit omni populo . </p>
+            <p>quia natus est uobis hodie saluator qui est christus dominus in </p>
+            <p>ciuitate dauid . Et hoc uobis signum . Inuenietis enim </p>
+            <p>infantem pannis inuolutum . et positum in presepio . Et </p>
+            <p>subito facta est cum angelo multitudo militie cęlestis . </p>
+            <p>laudantium deum et dicentium . Gloria in altissimis deo . </p>
+            <p>et in terra pax hominibus bone uoluntatis . [.vi.] Quia lar</p>
+            <p>giente domino missarum sollemnitatem hodie cælebra</p>
+            <p>turi sumus . loqui diu de euangelica lectione non pos</p>
+            <p>sumus . sed nos aliquid uel breuiter dicere redempto</p>
+            <p>ris nostri natiuitas ipsa compellit . Quid est quod </p>
+            <p>nascituro domino mundus describitur . nisi </p>
+            <p>hoc quod aperte monstratur . quia </p>
+            <p>ille ueniebat in carne . qui electos </p>
+            <p>suos adscriberet in aeternitat`e´ </p>
+            <p><pb xml:id="012v" n="012v"/> quo contra de reprobis per prophetam dicitur ; deleantur de </p>
+            <p>libro uiuentium . et cum iustis non scribantur . Qui bene </p>
+            <p>etiam in bethleem nascitur . Bethleem quippe domus panis </p>
+            <p>interpretatur . Ipse namque est qui ait . Ego sum panis uiuus </p>
+            <p>qui de cęlo descendi . locus ergo in quo dominus nasceretur do</p>
+            <p>mus panis ante uocatus est . quia futurum profecto erat . </p>
+            <p>ut ille ibi per materiam carnis appareret . qui electorum </p>
+            <p>mentes ęterna satietate reficeret . Qui non in parentum </p>
+            <p>domu . sed in uia nascitur . ut profecto ostenderet quia </p>
+            <p>per humanitatem quam assumpserat quasi in alieno nasce</p>
+            <p>batur . Alienum uidelicit non secundum potestatem dico . sed </p>
+            <p>secundum naturam nam de potestate eius scriptum est ; In propria </p>
+            <p>uenit . In natura etenim sua ante tempora natus est ; in nostra </p>
+            <p>uenit ex tempore . [.vii.] Qui ergo ęternus permanens tempora</p>
+            <p>lis apparuit . Alienum est ubi descendit et quia per pro</p>
+            <p>phetam dicitur . Omnis caro foenum factus homo foenum nostrum </p>
+            <p>uertit in frumentum qui de semetipso ait . Nisi granum frumen</p>
+            <p>ti cadens in terra mortuum fuerit . ipsum solum manet . Unde </p>
+            <p>et natus in presepi reclinatur . ut fideles omnes uidelicet sancta </p>
+            <p>animalia carnis suę frumento reficeret . Ne ab internę in</p>
+            <p>telligentiæ pabulo ieiuna remanerent . Quid est autem </p>
+            <p>quod uigilantibus pastoribus angelus apparet . eosque dei clari</p>
+            <p>tas circumfulsit . nisi quod illi pre cęteris uidere sublimia </p>
+            <p>merentur . qui fidelibus gregibus pręesse sollicite </p>
+            <p>sciunt . dumque ipsi pie super gregem uigilant . </p>
+            <p>Diuina super eos gratia largius coruscat . Regem </p>
+            <p>uero natum angelus nuntiat . eiusque </p>
+            <p>uoci angelorum chori concinunt .</p>
+            <p><pb xml:id="013r" n="013r"/> et congaudentes clamant . Gloria in excelsis deo . et in terra pax </p>
+            <p>hominibus bone uoluntatis . [.viii.] Prius quippe quam redemp-</p>
+            <p>tor noster per carnem nasceretur . discordiam cum angelis habuimus . </p>
+            <p>A quorum claritate atque munditia prime culpe merito `per cotidiana delicta longe´
+                dista</p>
+            <p>bamus . quia enim peccando extranei eramus a deo . extraneos </p>
+            <p>nos á suo consortio deputabant angeli ciues dei . Sed quia </p>
+            <p>nos cognouimus regem nostrum . recognouerunt nos angeli </p>
+            <p>ciues suos . quia enim cęli rex terram nostrę carnis adsumpsit . </p>
+            <p>infirmitatem nostram illa iam angelica celsitudo non dispexit . </p>
+            <p>ad pacem nostram redeunt angeli . intentionem prioris discordię </p>
+            <p>postponentes . et quos infirmos prius abiectosque dispexe</p>
+            <p>rant . iam ut socios uenerantur . Hinc est enim quod loth uel </p>
+            <p>iesu naue angelos adorant . nec tamen adorare prohibentur . </p>
+            <p>Iohannes uero in apocalipsyn adorare angelum uoluit . sed </p>
+            <p>tamen hunc angelus né sé debeat adorare compescuit di-</p>
+            <p>cens . Uide ne feceris . conseruus enim tuus sum et fratrum tuorum . </p>
+            <p>[.viii.] Quid est quod ante redemptoris aduentum angeli ab hominibus </p>
+            <p>adorantur et tacent . Postmodum uero adorari refugiunt? </p>
+            <p>nisi quod naturum nostram quam prius dispexerant . Postquam </p>
+            <p>hanc super se adsumptam conspiciunt subtractam sibi uidere </p>
+            <p>pertimescunt . nec iam sub se uelut infirmam contemnere </p>
+            <p>ausi sunt . quam super se uidelicet in caeli rege uenerantur . </p>
+            <p>nec habere dedignantur socium hominem . qui super se ado-</p>
+            <p>rant hominem deum . Curemus nos ergo fratres karissimi nequaquam </p>
+            <p>nos inmunditia polluat . qui in aeterna prescientia et dei </p>
+            <p>ciues . et angelis aequales sumus . Uindicemus moribus </p>
+            <p>dignitatem nostram . nulla nos luxuria inquinet . nulla </p>
+            <p>turpis cogitatio accuset . non malitia mentem mordeat . </p>
+            <p><pb xml:id="013v" n="013v"/> non inuidie rubigo consumat . non elatio implet . non </p>
+            <p>ambitio per terrena oblectamenta dilaniet . Dii etenim uoca</p>
+            <p>ti sunt homines . Defende ergo tibi o homo contra </p>
+            <p>uitam honorem dei filius dignatus est agere . ut humanum </p>
+            <p>genus liberaret a peccato . et secum duceret ad cęlestia reg</p>
+            <p>na . qui cum patre et spiritu sancto uiuit et regnat in secula seculorum . amen</p>
+        </body>
+    </text>
+</TEI>
